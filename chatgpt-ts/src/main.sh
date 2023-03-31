@@ -6,7 +6,7 @@ log_dir=./logs/$(date +%Y%m%d_%H%M%S)
 test -d $log_dir || mkdir -p $log_dir
 
 main () {
-    cat $input_file | cut -f 1 | head -3 |
+    cat $input_file | cut -f 1 |
     while read line
     do
         #key=$(echo $line | sed "s/&#x27;/'/g" | tr -d '"')

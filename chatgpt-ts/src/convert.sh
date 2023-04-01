@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-target_dir=./logs/DERU-A
+target_dir=./logs/JUKUGO-A
 
 ls $target_dir | while read file
 do

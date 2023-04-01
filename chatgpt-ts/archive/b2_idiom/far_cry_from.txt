@@ -1,0 +1,11 @@
+# Key:far cry from
+## Response
+### English Sentences
+E-1: The luxurious suite at the five-star hotel is a <u>far cry from</u> the cramped hostel I stayed at last year.
+E-2: Her cooking skills are still a <u>far cry from</u> professional chef-level, but she's improving.
+E-3: The new movie adaptation was a <u>far cry from</u> the original book in terms of accuracy.
+
+### Japanese Translation
+J-1: 5つ星ホテルの贅沢なスイートルームは、去年泊まった狭いホステルとは<u>かけ離れている</u>。
+J-2: 彼女の料理スキルはまだプロシェフレベルには<u>遠く及ばない</u>が、上達している。
+J-3: 新しい映画の原作忠実度は、元の本から<u>大きくはずれている</u>。

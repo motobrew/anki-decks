@@ -1,0 +1,11 @@
+# Key:by any chance
+## Response
+### English Sentences
+E-1: By any chance, do you know where the nearest gas station is?
+E-2: Do you happen to have any spare change for the parking meter, by any chance?
+E-3: By any chance, did you receive my email from yesterday?
+
+### Japanese Translation
+J-1: 近くのガソリンスタンドがどこにあるか、<u>もしかして</u>知っていますか？
+J-2: 駐車メーター用の小銭を<u>もしかしたら</u>持っていますか？
+J-3: <u>もしかして</u>、昨日の私からのメールを受信しましたか？

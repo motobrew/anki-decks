@@ -1,0 +1,11 @@
+# Key:to be frank
+## Response
+### English Sentences
+E-1: <u>To be frank</u>, I don't really like sushi.
+E-2: <u>To be frank</u>, I think that movie was quite boring.
+E-3: <u>To be frank</u>, I don't know much about that topic.
+
+### Japanese Translation
+J-1: 正直言って、私はあまり寿司が好きではありません。
+J-2: 正直言って、あの映画はかなり退屈だったと思います。
+J-3: 正直言って、私はそのトピックについてあまり知りません。

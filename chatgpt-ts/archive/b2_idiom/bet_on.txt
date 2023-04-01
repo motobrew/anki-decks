@@ -1,0 +1,11 @@
+# Key:bet on
+## Response
+### English Sentences
+E-1: I'm going to <u>bet on</u> the horse with the fastest time in the race.
+E-2: He decided to <u>bet on</u> himself and start his own business.
+E-3: I wouldn't <u>bet on</u> the stock market bouncing back anytime soon.
+
+### Japanese Translation
+J-1: 私はレースで最速タイムの馬に<u>賭ける</u>つもりです。
+J-2: 彼は自分自身に<u>賭けて</u>、自分のビジネスを始めることに決めました。
+J-3: 私は株式市場がすぐに回復するとは<u>賭けない</u>だろう。

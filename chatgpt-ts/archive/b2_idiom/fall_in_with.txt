@@ -1,0 +1,11 @@
+# Key:fall in with
+## Response
+### English Sentences
+E-1: I <u>fell in with</u> a group of musicians and we started playing together regularly. 
+E-2: She didn't want to <u>fall in with</u> her classmates' plan to cheat on the test. 
+E-3: After some hesitation, I decided to <u>fall in with</u> my friend's idea for a weekend getaway.
+
+### Japanese Translation
+J-1: 私は音楽家のグループに<u>加わり</u>、一緒に演奏を始めました。
+J-2: 彼女はクラスメイトたちがテストでカンニングする計画に<u>加わる</u>ことを望みませんでした。
+J-3: ためらいの後、週末の小旅行のアイデアに<u>賛成して</u>友達と一緒に行くことにしました。

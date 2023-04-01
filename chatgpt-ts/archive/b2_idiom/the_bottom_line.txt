@@ -1,0 +1,11 @@
+# Key:the bottom line
+## Response
+### English Sentences
+E-1: The <u>bottom line</u> is that we need to increase revenue this quarter.
+E-2: The <u>bottom line</u> is that we cannot afford to hire any more employees at this time.
+E-3: The <u>bottom line</u> is that we have to cut costs in order to stay in business.
+
+### Japanese Translation
+J-1: 今四半期は収益を増やす必要がある<u>要点</u>です。
+J-2: 今の時点ではもう従業員を雇う余裕はない<u>要点</u>です。
+J-3: 生き残るためには<u>要点</u>としてコスト削減が必要です。

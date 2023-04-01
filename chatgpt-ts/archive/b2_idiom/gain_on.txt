@@ -1,0 +1,11 @@
+# Key:gain on
+## Response
+### English Sentences
+E-1: The company was able to <u>gain on</u> its competitors with their new marketing strategy.
+E-2: The runner was able to <u>gain on</u> the leader in the final lap of the race.
+E-3: The stock market was able to <u>gain on</u> its losses from the previous day.
+
+### Japanese Translation
+J-1: その企業は新しいマーケティング戦略で競合他社に<u>追いつく</u>ことができました。
+J-2: 最終ラップでランナーはリーダーに<u>追いつく</u>ことができました。
+J-3: 株式市場は前日の損失を<u>埋め合わせる</u>ことができました。

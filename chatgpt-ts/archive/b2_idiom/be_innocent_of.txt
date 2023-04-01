@@ -1,0 +1,11 @@
+# Key:be innocent of
+## Response
+### English Sentences
+E-1: He <u>is innocent of</u> the crime he was accused of.
+E-2: She <u>is innocent of</u> any wrongdoing in this matter.
+E-3: The child <u>is innocent of</u> the fact that their parents are wealthy.
+
+### Japanese Translation
+J-1: 彼は彼に告発された罪に<u>無罪</u>である。
+J-2: 彼女はこの件において<u>不当な行為</u>はしていない。
+J-3: その子供は彼らの両親が裕福であるという事実に<u>無知</u>である。

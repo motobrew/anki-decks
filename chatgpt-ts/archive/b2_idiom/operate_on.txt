@@ -1,0 +1,11 @@
+# Key:operate on
+## Response
+### English Sentences
+E-1: Surgeons often <u>operate on</u> patients who need medical procedures.
+E-2: The mechanic will need to <u>operate on</u> the car's engine to fix the problem.
+E-3: The computer technician will <u>operate on</u> the laptop to repair the broken screen.
+
+### Japanese Translation
+J-1: 外科医はしばしば医療処置が必要な患者に<u>手術をする</u>。
+J-2: メカニックは問題を修正するために、車のエンジンを<u>調整する</u>必要があります。
+J-3: コンピュータ技術者は、壊れた画面を修理するために、ラップトップに<u>手を加える</u>必要があるでしょう。

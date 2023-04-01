@@ -1,0 +1,11 @@
+# Key:give A credit for B
+## Response
+### English Sentences
+E-1: I have to <u>give her credit</u> for her hard work and dedication to her job.
+E-2: You have to <u>give him credit</u> for his quick thinking in a crisis.
+E-3: Let's <u>give them credit</u> for organizing such a successful event.
+
+### Japanese Translation
+J-1: 彼女の仕事に対する努力と献身には、<u>彼女にクレジットを与える</u>必要があります。
+J-2: 危機において速やかな思考力を持っていたことには、<u>彼にクレジットを与える</u>必要があります。
+J-3: こんな成功したイベントを企画したことには、<u>彼らにクレジットを与えよう</u>。

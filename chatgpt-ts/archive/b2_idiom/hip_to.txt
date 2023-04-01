@@ -1,0 +1,11 @@
+# Key:hip to
+## Response
+### English Sentences
+E-1: My friend is <u>hip to</u> all the latest fashion trends.
+E-2: He's <u>hip to</u> the newest restaurant in town - let's go check it out.
+E-3: I need to get <u>hip to</u> the new computer program before I can use it.
+
+### Japanese Translation
+J-1: 私の友達は、最新のファッショントレンドには<u>明るい</u>です。
+J-2: 彼は町の新しいレストランに<u>詳しい</u> - 行ってみよう。
+J-3: 私はそれを使う前に、新しいコンピュータープログラムに<u>精通して</u>いる必要があります。

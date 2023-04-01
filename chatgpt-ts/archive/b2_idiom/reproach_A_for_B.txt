@@ -1,0 +1,11 @@
+# Key:reproach A for B
+## Response
+### English Sentences
+E-1: I reproached my friend for being late to our meeting.
+E-2: We were reproached by our boss for making too many mistakes on the project.
+E-3: The teacher reproached the student for cheating on the test.
+
+### Japanese Translation
+J-1: 私は友達が待ち合わせに遅れたことを<u>責めた</u>。
+J-2: 私たちはプロジェクトで多くのミスをしたことで上司から<u>叱られた</u>。
+J-3: 先生はテストでごまかした生徒を<u>非難した</u>。

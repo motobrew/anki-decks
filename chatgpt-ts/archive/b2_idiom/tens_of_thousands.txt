@@ -1,0 +1,11 @@
+# Key:tens of thousands
+## Response
+### English Sentences
+E-1: There were <u>tens of thousands</u> of people at the music festival last weekend.
+E-2: The company laid off <u>tens of thousands</u> of employees due to the economic downturn.
+E-3: The marathon had <u>tens of thousands</u> of participants from all over the world.
+
+### Japanese Translation
+J-1: 先週の音楽フェスティバルには<u>数万人</u>の人がいました。
+J-2: その企業は経済不況のため<u>数万人</u>の従業員を解雇しました。
+J-3: マラソン大会には、世界中から<u>数万人</u>の参加者がいました。

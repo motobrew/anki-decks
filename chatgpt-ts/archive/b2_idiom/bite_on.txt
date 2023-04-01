@@ -1,0 +1,11 @@
+# Key:bite on
+## Response
+### English Sentences
+E-1: I accidentally <u>bit on</u> my tongue while eating breakfast this morning.
+E-2: When I'm nervous, I tend to <u>bite on</u> my nails.
+E-3: It's important to <u>bite on</u> a mouthguard when playing contact sports to protect your teeth.
+
+### Japanese Translation
+J-1: 今朝、朝食を食べながらうっかり舌を<u>噛んでしまった</u>。
+J-2: 緊張すると、私は爪を<u>噛んでしまう</u>傾向があります。
+J-3: コンタクトスポーツをする際は、歯を守るためにマウスガードを<u>噛む</u>ことが重要です。

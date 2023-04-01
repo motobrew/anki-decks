@@ -1,0 +1,11 @@
+# Key:poke fun at
+## Response
+### English Sentences
+E-1: It's not okay to <u>poke fun at</u> someone's appearance or disabilities.
+E-2: I felt embarrassed when they started <u>poking fun at</u> my accent during the meeting.
+E-3: Some comedians make a living by <u>poking fun at</u> celebrities and politicians.
+
+### Japanese Translation
+J-1: 誰かの容姿や障害を<u>笑いものにする</u>ことは許されません。
+J-2: ミーティング中にアクセントを<u>茶化される</u>と恥ずかしくなりました。
+J-3: 一部のコメディアンは、有名人や政治家を<u>からかうことで</u>生計を立てています。

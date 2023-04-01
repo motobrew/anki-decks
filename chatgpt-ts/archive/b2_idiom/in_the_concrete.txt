@@ -1,0 +1,11 @@
+# Key:in the concrete
+## Response
+### English Sentences
+E-1: In the abstract, the idea of equality sounds reasonable, but in the concrete, achieving it is much harder.
+E-2: The contractor provided a detailed plan for the building project in the abstract, but we need more information about the materials and costs in the concrete.
+E-3: The candidate has great proposals in the abstract, but voters want to know how they will be implemented in the concrete.
+
+### Japanese Translation
+J-1: 抽象的には、平等の考え方は合理的に聞こえますが、具体的に実現するのははるかに困難です。
+J-2: 建設プロジェクトについて、請負業者が抽象的な計画を提供しましたが、具体的な材料や費用についてはもっと情報が必要です。
+J-3: 候補者は抽象的に素晴らしい提案をしていますが、有権者はそれらが具体的にどのように実現されるのかを知りたいと思っています。

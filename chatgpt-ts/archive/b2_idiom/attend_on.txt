@@ -1,0 +1,11 @@
+# Key:attend on
+## Response
+### English Sentences
+E-1: The butler will <u>attend on</u> the guests during the dinner party.
+E-2: The nurses will <u>attend on</u> the patients in the hospital.
+E-3: The personal assistant will <u>attend on</u> the CEO during the important meeting.
+
+### Japanese Translation
+J-1: バトラーはディナーパーティーの間、客に<u>接待する</u>予定です。
+J-2: 看護師は病院で患者に<u>世話をする</u>予定です。
+J-3: 個人秘書は重要な会議中にCEOに<u>付き添う</u>予定です。

@@ -1,0 +1,11 @@
+# Key:walk off with
+## Response
+### English Sentences
+E-1: I can't find my phone. Someone must have <u>walked off with</u> it.
+E-2: The party was a mess. People were <u>walking off with</u> drinks and food left and right.
+E-3: The store owner caught a shoplifter trying to <u>walk off with</u> a candy bar.
+
+### Japanese Translation
+J-1: 私の携帯が見当たらない。誰か持って<u>行った</u>に違いない。
+J-2: パーティーは大変だった。人々が飲み物や食べ物を次々と<u>持ち去って</u>いった。
+J-3: 店主は、キャンディバーを<u>持ち逃げ</u>しようとした万引き犯を捕まえた。

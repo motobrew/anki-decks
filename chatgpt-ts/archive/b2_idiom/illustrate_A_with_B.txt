@@ -1,0 +1,11 @@
+# Key:illustrate A with B
+## Response
+### English Sentences
+E-1: The teacher asked the student to <u>illustrate the concept of gravity with an apple.</u>
+E-2: The consultant tried to <u>illustrate the financial projections with a graph.</u>
+E-3: The author decided to <u>illustrate the story with beautiful illustrations.</u>
+
+### Japanese Translation
+J-1: 先生は生徒にリンゴを使って重力の概念を<u>説明するように言いました。</u>
+J-2: コンサルタントはグラフを使って<u>財務予測を説明</u>しようとしました。
+J-3: 作家は美しいイラストを使って<u>物語を描写する</u>ことに決めました。

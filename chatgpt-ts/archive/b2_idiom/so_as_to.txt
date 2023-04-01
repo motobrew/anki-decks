@@ -1,0 +1,11 @@
+# Key:so as to
+## Response
+### English Sentences
+E-1: He left early <u>so as to</u> avoid traffic on the way to work.
+E-2: She chose to take the longer route <u>so as to</u> enjoy the scenic drive.
+E-3: They spoke quietly <u>so as not to</u> wake the sleeping baby.
+
+### Japanese Translation
+J-1: 彼は早く出発して、通勤時の渋滞を避ける<u>ために</u>出た。
+J-2: 彼女は風景の良いドライブを楽しむ<u>ために</u>長いルートを選んだ。
+J-3: 彼らは眠っている赤ちゃんを起こさない<u>ように</u>静かに話した。

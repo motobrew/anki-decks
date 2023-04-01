@@ -1,0 +1,11 @@
+# Key:pay down
+## Response
+### English Sentences
+E-1: I'm trying to <u>pay down</u> my credit card debt as quickly as possible.
+E-2: It's a good idea to <u>pay down</u> your mortgage if you can afford it.
+E-3: I need to make a big payment to <u>pay down</u> the principal on my car loan.
+
+### Japanese Translation
+J-1: クレジットカードの借金をできるだけ早く<u>返済</u>しようとしています。
+J-2: 支払いができるなら、住宅ローンを<u>返済</u>するのは良い考えです。
+J-3: 車のローンの元本を<u>返済</u>するために大きな支払いをしなければなりません。

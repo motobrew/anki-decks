@@ -1,0 +1,11 @@
+# Key:be crowded with
+## Response
+### English Sentences
+E-1: The streets <u>are crowded with</u> people during rush hour.
+E-2: The movie theater <u>was crowded with</u> excited fans waiting for the premiere.
+E-3: The beach <u>can get crowded with</u> tourists during the summer months.
+
+### Japanese Translation
+J-1: ラッシュアワーになると、道路は人で<u>混雑します</u>。
+J-2: 映画館は、初日を待つ興奮したファンで<u>混雑していました</u>。
+J-3: 夏には海岸は<u>観光客で混雑することがあります</u>。

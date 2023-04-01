@@ -1,0 +1,11 @@
+# Key:entrust A to B
+## Response
+### English Sentences
+E-1: I will <u>entrust</u> my child to you while I am out of town.
+E-2: The company decided to <u>entrust</u> the project to their most experienced team.
+E-3: Can I <u>entrust</u> you with keeping this document safe?
+
+### Japanese Translation
+J-1: 私が留守の間、子供を<u>託</u>します。
+J-2: その会社は最も経験豊富なチームにプロジェクトを<u>委託</u>することを決定しました。
+J-3: この書類を安全な場所に保管することを<u>託</u>してもよろしいでしょうか？

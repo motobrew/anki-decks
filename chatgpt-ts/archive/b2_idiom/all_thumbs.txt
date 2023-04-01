@@ -1,0 +1,11 @@
+# Key:all thumbs
+## Response
+### English Sentences
+E-1: I'm all thumbs when it comes to cooking, I always manage to burn something.
+E-2: He's all thumbs and can't seem to figure out how to fix the computer problem.
+E-3: She was all thumbs during the dance performance and messed up her moves.
+
+### Japanese Translation
+J-1: 料理には全く下手で、いつも何かを焦がしてしまいます。
+J-2: 彼は指先が不器用で、コンピューターの問題をどう解決すればいいのか分からないようです。
+J-3: 彼女はダンスパフォーマンス中に手足がごちゃ混ぜになり、動きを台無しにしてしまいました。

@@ -1,0 +1,11 @@
+# Key:root out
+## Response
+### English Sentences
+E-1: It's important to <u>root out</u> the cause of a problem, rather than just treating the symptoms.
+E-2: The government is committed to <u>rooting out</u> corruption in the public sector.
+E-3: We need to <u>root out</u> any instances of discrimination and prejudice.
+
+### Japanese Translation
+J-1: 症状を治療するだけではなく、問題の原因を<u>根絶する</u>ことが重要です。
+J-2: 政府は公共部門の腐敗を<u>根絶する</u>ことに献身しています。
+J-3: 私たちは差別や偏見の例を<u>根絶する</u>必要があります。

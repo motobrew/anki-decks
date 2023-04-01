@@ -1,0 +1,11 @@
+# Key:take A by surprise
+## Response
+### English Sentences
+E-1: The ninja was able to <u>take the enemy by surprise</u> and swiftly defeat them.
+E-2: The sudden thunderstorm <u>took us by surprise</u> and we had to run for cover.
+E-3: The new employee's resignation <u>took everyone in the office by surprise</u>.
+
+### Japanese Translation
+J-1: 忍者は敵を<u>不意打ち</u>し、素早く打ち負かすことができました。
+J-2: 突然の雷雨で私たちは<u>驚き</u>、避難するために走らなければなりませんでした。
+J-3: 新しい社員の辞職は、オフィスの誰もが<u>驚いた</u>ことです。

@@ -1,0 +1,11 @@
+# Key:talk over
+## Response
+### English Sentences
+E-1: Let's <u>talk over</u> the details tomorrow during our meeting.
+E-2: I need to <u>talk over</u> some ideas with my boss before making any decisions.
+E-3: It's important to <u>talk over</u> any issues in a relationship to avoid misunderstandings.
+
+### Japanese Translation
+J-1: 明日のミーティングで詳細を<u>話し合いましょう</u>。
+J-2: 私は決定する前に上司といくつかのアイデアを<u>話し合う</u>必要があります。
+J-3: 誤解を避けるために、関係における問題を<u>話し合う</u>ことが重要です。

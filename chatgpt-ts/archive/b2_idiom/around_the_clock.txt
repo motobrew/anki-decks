@@ -1,0 +1,11 @@
+# Key:around the clock
+## Response
+### English Sentences
+E-1: The convenience store is open <u>around the clock</u> for customers to purchase goods at any time.
+E-2: The hospital's emergency room operates <u>around the clock</u> to attend to medical emergencies.
+E-3: The customer service hotline is available to callers <u>around the clock</u> for any inquiries or assistance.
+
+### Japanese Translation
+J-1: コンビニは商品を購入するために<u>一日中</u>営業しています。
+J-2: 病院の救急部は<u>一日中</u>医療緊急時に対応しています。
+J-3: お客様サービスのホットラインは、お問い合わせやサポートのために<u>一日中</u>利用可能です。

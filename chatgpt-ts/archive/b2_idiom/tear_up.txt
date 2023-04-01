@@ -1,0 +1,11 @@
+# Key:tear up
+## Response
+### English Sentences
+E-1: The sad movie made her <u>tear up</u> and reach for a tissue.
+E-2: I accidentally <u>tore up</u> the letter while opening it.
+E-3: The comedian's jokes never fail to <u>tear up</u> the audience in laughter.
+
+### Japanese Translation
+J-1: その悲しい映画で彼女は<u>涙を流し</u>、ティッシュを取りました。
+J-2: 開封中に手紙を<u>引き裂いてしまった</u>。
+J-3: そのコメディアンの冗談はいつも観客を<u>笑い泣かせます</u>。

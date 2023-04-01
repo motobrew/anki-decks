@@ -1,0 +1,11 @@
+# Key:improve on
+## Response
+### English Sentences
+E-1: I need to <u>improve on</u> my time management skills to be more productive at work.
+E-2: The chef is always trying to <u>improve on</u> her recipes to make them even more delicious.
+E-3: My grades in math have been low, so I am determined to <u>improve on</u> my understanding of the subject.
+
+### Japanese Translation
+J-1: 仕事で生産性を上げるためには時間管理スキルを<u>向上させる</u>必要があります。
+J-2: シェフは常にレシピをより美味しくするために<u>改良する</u>よう心がけています。
+J-3: 数学の成績が低かったため、科目の理解を<u>向上させる</u>ことに努めています。

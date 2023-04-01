@@ -1,0 +1,11 @@
+# Key:in a passion
+## Response
+### English Sentences
+E-1: When she found out that her favorite store was closed, she was <u>in a passion</u>.
+E-2: He flew into a rage and was <u>in a passion</u> when he heard the news.
+E-3: The customer was <u>in a passion</u> when she learned that her order had been cancelled.
+
+### Japanese Translation
+J-1: 彼女はお気に入りの店が閉まっていたことを知って、憤慨していました。
+J-2: 彼はそのニュースを聞いて怒り、情熱的になっていました。
+J-3: 注文がキャンセルされたと知って、その顧客は激怒しました。

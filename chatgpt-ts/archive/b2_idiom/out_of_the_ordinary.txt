@@ -1,0 +1,11 @@
+# Key:out of the ordinary
+## Response
+### English Sentences
+E-1: The dress she wore to the party was really <u>out of the ordinary</u>.
+E-2: His taste in music is <u>out of the ordinary</u> - he loves listening to opera.
+E-3: The restaurant's menu is <u>out of the ordinary</u> with dishes from all over the world.
+
+### Japanese Translation
+J-1: 彼女がパーティーで着たドレスは本当に<u>普通でない</u>ものでした。
+J-2: 彼の音楽の趣味は<u>普通でない</u> - 彼はオペラが大好きです。
+J-3: そのレストランのメニューは、世界各地からの料理があって、<u>普通でない</u>ものです。

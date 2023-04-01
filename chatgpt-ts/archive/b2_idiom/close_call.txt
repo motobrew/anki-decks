@@ -1,0 +1,11 @@
+# Key:close call
+## Response
+### English Sentences
+E-1: It was a <u>close call</u> when the car almost hit the pedestrian.
+E-2: The hiker had a <u>close call</u> with a bear, but managed to scare it away.
+E-3: The plane landing had a <u>close call</u> due to strong winds.
+
+### Japanese Translation
+J-1: 車が歩行者にほとんどぶつかりそうになったとき、それは<u>危機一髪</u>だった。
+J-2: ハイカーはクマと<u>危ない目に合った</u>が、追い払うことができた。
+J-3: 強風のため、飛行機の着陸が<u>危うくなった</u>。

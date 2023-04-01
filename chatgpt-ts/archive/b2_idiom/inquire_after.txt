@@ -1,0 +1,11 @@
+# Key:inquire after
+## Response
+### English Sentences
+E-1: I called the hotel to <u>inquire after</u> my lost luggage, but they had no information.
+E-2: He always <u>inquires after</u> his grandmother, even though she lives across the country.
+E-3: She sent me a text to <u>inquire after</u> my health.
+
+### Japanese Translation
+J-1: 私は紛失した荷物を<u>問い合わせ</u>るためにホテルに電話しましたが、情報はありませんでした。
+J-2: 彼は祖母が遠くに住んでいても、いつも<u>様子を聞く</u>ようにしています。
+J-3: 彼女は私の健康を<u>問い合わせる</u>ためにテキストを送ってくれました。

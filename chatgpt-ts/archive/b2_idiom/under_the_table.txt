@@ -1,0 +1,11 @@
+# Key:under the table
+## Response
+### English Sentences
+E-1: They paid me <u>under the table</u> for working on the weekends.
+E-2: The restaurant owner was caught paying his employees <u>under the table</u>.
+E-3: He wanted to avoid taxes, so he paid for the car <u>under the table</u>.
+
+### Japanese Translation
+J-1: 週末に働いたのに、彼らは私に報酬を<u>裏口</u>で払った。
+J-2: 飲食店オーナーが従業員に<u>現金払い</u>をしていたことが発覚した。
+J-3: 税金を回避するため、彼は車を<u>バックヤードで</u>支払った。

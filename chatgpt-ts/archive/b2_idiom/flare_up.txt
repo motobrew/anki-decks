@@ -1,0 +1,11 @@
+# Key:flare up
+## Response
+### English Sentences
+E-1: My skin tends to <u>flare up</u> during the summer because of the heat and humidity.
+E-2: The argument between the two coworkers caused emotions to <u>flare up</u>, escalating the situation.
+E-3: If you have a food allergy, your symptoms may <u>flare up</u> after eating certain foods.
+
+### Japanese Translation
+J-1: 暑さと湿気のせいで、私の肌は夏に<u>かぶれ</u>やすい傾向があります。
+J-2: 二人の同僚の口論が感情を<u>沸騰</u>させ、事態を悪化させました。
+J-3: 食物アレルギーがある場合、特定の食品を食べた後に症状が<u>悪化</u>することがあります。

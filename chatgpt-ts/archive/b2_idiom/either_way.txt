@@ -1,0 +1,11 @@
+# Key:either way
+## Response
+### English Sentences
+E-1: Whether you choose to walk or drive, <u>either way</u> will take about the same amount of time.
+E-2: <u>Either way</u>, we need to make a decision soon.
+E-3: You can buy the book in-store or online, <u>either way</u> works.
+
+### Japanese Translation
+J-1: 歩くか運転するかは選ぶあなた次第ですが、<u>どちらにしても</u>同じ時間が掛かります。
+J-2: <u>どちらにせよ</u>、私たちはすぐに決定をしなければなりません。
+J-3: 本を店頭で買うかインターネットで買うか、<u>どちらでも</u>構いません。

@@ -1,0 +1,11 @@
+# Key:in substance
+## Response
+### English Sentences
+E-1: The two contracts might be different in wording, but <u>in substance</u> they have the same meaning.
+E-2: The politician promised to support education, but <u>in substance</u> his policies did not bring much improvement.
+E-3: The meeting was only a formality, as the decision had already been made <u>in substance</u>.
+
+### Japanese Translation
+J-1: 二つの契約は文言は異なるかもしれませんが、<u>実質的に</u>は同じ意味を持っています。
+J-2: 政治家は教育を支援すると約束しましたが、<u>実質的に</u>は彼の政策にはあまり改善が見られませんでした。
+J-3: 会議は形式的にしか行われなかったので、<u>実質的に</u>は決定がすでにされていました。

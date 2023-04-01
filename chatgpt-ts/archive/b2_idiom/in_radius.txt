@@ -1,0 +1,11 @@
+# Key:in radius
+## Response
+### English Sentences
+E-1: The radius of the circle is 5 centimeters.
+E-2: The satellite can detect objects within a radius of 3 kilometers.
+E-3: The amusement park has rides that span a radius of 50 meters.
+
+### Japanese Translation
+J-1: 円の<u>半径</u>は5センチメートルです。
+J-2: 衛星は<u>半径</u>3キロメートル内の物体を検出できます。
+J-3: 遊園地には50メートルの<u>半径</u>を持つアトラクションがあります。

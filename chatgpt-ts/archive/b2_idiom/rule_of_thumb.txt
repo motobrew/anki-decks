@@ -1,0 +1,11 @@
+# Key:rule of thumb
+## Response
+### English Sentences
+E-1: A common <u>rule of thumb</u> for cooking rice is one cup of rice to two cups of water.
+E-2: As a <u>rule of thumb</u>, you should save at least 10% of your income for retirement.
+E-3: When it comes to buying a house, a general <u>rule of thumb</u> is to aim for a mortgage payment that is no more than 28% of your monthly income.
+
+### Japanese Translation
+J-1: 米を炊くときの一般的な<u>鉄則</u>は、お米１カップに対して水２カップです。
+J-2: 退職後の生活に備えて収入の10％以上を貯金するのが<u>鉄則</u>です。
+J-3: 家を購入する場合、一般的な<u>鉄則</u>は月収の28%を超えない住宅ローンの支払いを目指すことです。

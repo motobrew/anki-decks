@@ -1,0 +1,11 @@
+# Key:clear away
+## Response
+### English Sentences
+E-1: Let's <u>clear away</u> these dirty dishes from the table.
+E-2: The construction workers will <u>clear away</u> the debris from the demolition site.
+E-3: Jane always makes sure to <u>clear away</u> her work materials from her desk before leaving work.
+
+### Japanese Translation
+J-1: テーブルからこの汚れた食器を<u>片付けましょう。</u>
+J-2: 建造物解体現場から建材を<u>撤去</u>します。
+J-3: ジェーンはいつも仕事から帰る前にデスクの仕事道具を<u>片付けるようにしています。</u>

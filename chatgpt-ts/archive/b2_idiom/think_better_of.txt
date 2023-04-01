@@ -1,0 +1,11 @@
+# Key:think better of
+## Response
+### English Sentences
+E-1: I was going to skip the party but now I've decided to <u>think better of</u> it.
+E-2: He was planning on quitting his job but he <u>thought better of</u> it after considering his savings.
+E-3: I was about to confront my boss, but I <u>thought better of</u> it and decided to have a calm conversation instead.
+
+### Japanese Translation
+J-1: パーティーをスキップするつもりだったけど、今は参加することに<u>考えを改めた</u>。
+J-2: 彼は仕事を辞めるつもりだったけど、貯金を考えて<u>考えを改めた</u>。
+J-3: 上司に対して怒り出すつもりだったけど、<u>考えを改めて</u>冷静に話し合うことにした。

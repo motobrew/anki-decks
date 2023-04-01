@@ -1,0 +1,11 @@
+# Key:submit A to B
+## Response
+### English Sentences
+E-1: Please remember to <u>submit your proposal</u> to your supervisor by Friday.
+E-2: The student must <u>submit their assignment</u> to the teacher before the deadline.
+E-3: The company will <u>submit their application</u> to the government for approval.
+
+### Japanese Translation
+J-1: 金曜日までに上司に提出するよう<u>提案書を提出する</u>ようにしてください。
+J-2: 生徒は締め切り前に先生に<u>課題を提出する</u>必要があります。
+J-3: 会社は承認されるために政府に<u>申請書を提出する</u>必要があります。

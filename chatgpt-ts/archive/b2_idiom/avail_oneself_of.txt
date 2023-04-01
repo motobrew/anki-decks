@@ -1,0 +1,11 @@
+# Key:avail oneself of
+## Response
+### English Sentences
+E-1: When studying for exams, it's important to <u>avail oneself of</u> all available resources.
+E-2: You should <u>avail oneself of</u> the opportunity to travel abroad while you are young.
+E-3: The company offers employees the chance to <u>avail themselves of</u> a gym membership.
+
+### Japanese Translation
+J-1: 試験勉強をする際には、利用可能なすべてのリソースを<u>有効活用する</u>ことが重要です。
+J-2: 若いうちに海外旅行の機会を<u>利用する</u>べきです。
+J-3: その会社は従業員にジムの会員資格を<u>利用する</u>機会を提供しています。

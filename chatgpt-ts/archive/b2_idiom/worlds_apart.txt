@@ -1,0 +1,11 @@
+# Key:worlds apart
+## Response
+### English Sentences
+E-1: Despite being siblings, their personalities are <u>worlds apart</u>.
+E-2: The two restaurants are <u>worlds apart</u> in terms of quality of food and service.
+E-3: The culture and customs of Japan and America are <u>worlds apart</u>.
+
+### Japanese Translation
+J-1: 兄弟であるにも関わらず、彼らの性格は<u>まるで異なる</u>。
+J-2: 2つのレストランは、料理の質とサービスにおいて大きな差がある。<u>違いが歴然としている</u>。
+J-3: 日本とアメリカの文化や習慣は、<u>まったく違っている</u>。

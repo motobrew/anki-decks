@@ -1,0 +1,11 @@
+# Key:categorize A as B
+## Response
+### English Sentences
+E-1: The library <u>categorizes</u> books by genre and author for easy searching.
+E-2: The company <u>categorizes</u> its products into different lines based on their target markets.
+E-3: The teacher <u>categorizes</u> her students by their reading levels to better plan her lessons.
+
+### Japanese Translation
+J-1: 図書館は、ジャンルや著者によって本を<u>分類</u>して検索しやすくしています。
+J-2: その会社は、製品をターゲット市場に基づいて異なるラインに<u>分類</u>しています。
+J-3: 先生は生徒の読解力に基づいて<u>分類</u>し、授業を計画しています。

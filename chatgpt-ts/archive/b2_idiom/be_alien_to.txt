@@ -1,0 +1,11 @@
+# Key:be alien to
+## Response
+### English Sentences
+E-1: The customs and traditions of this country may <u>be alien to</u> you, but it's important to respect them.
+E-2: For someone who grew up in the city, living in a rural area can <u>be alien to</u> them at first.
+E-3: The world of professional sports can sometimes <u>be alien to</u> those who have never played at a high level.
+
+### Japanese Translation
+J-1: この国の習慣や伝統はあなたには<u>馴染みがない</u>かもしれませんが、それらに敬意を払うことが重要です。
+J-2: 都会で育った人にとって、田舎で生活することは最初は<u>馴染みがない</u>かもしれません。
+J-3: プロスポーツ界は、高いレベルでプレイしたことがない人にとっては、時には<u>馴染みがない</u>かもしれません。

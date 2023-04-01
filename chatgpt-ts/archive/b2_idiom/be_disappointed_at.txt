@@ -1,0 +1,11 @@
+# Key:be disappointed at
+## Response
+### English Sentences
+E-1: I will <u>be disappointed at</u> you if you don't show up for our meeting.
+E-2: Sarah will <u>be disappointed at</u> her grade if she doesn't study harder next time.
+E-3: The fans will <u>be disappointed at</u> the team's loss in the championship game.
+
+### Japanese Translation
+J-1: 私たちのミーティングに現れなかったら、私はあなたに<u>失望する</u>でしょう。
+J-2: もし次回もっと勉強しなかったら、サラは自分の成績に<u>失望する</u>でしょう。
+J-3: チャンピオンシップゲームで敗北したチームにはファンが<u>失望する</u>ことでしょう。

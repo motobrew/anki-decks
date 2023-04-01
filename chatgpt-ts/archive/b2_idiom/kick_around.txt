@@ -1,0 +1,11 @@
+# Key:kick around
+## Response
+### English Sentences
+E-1: We often <u>kick around</u> ideas for new projects during company meetings.
+E-2: My friends and I like to <u>kick around</u> a soccer ball on the weekends.
+E-3: The old tennis balls are too worn out to use for playing, so we just <u>kick them around</u> for fun.
+
+### Japanese Translation
+J-1: 社内会議で新しいプロジェクトのアイデアを<u>出し合う</u>ことがよくあります。
+J-2: 週末に友達とサッカーボールを<u>蹴り回す</u>のが好きです。
+J-3: 古いテニスボールは遊ぶには使えないので、ただ<u>蹴り回す</u>だけです。

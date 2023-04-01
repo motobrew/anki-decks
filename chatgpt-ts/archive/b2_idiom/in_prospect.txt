@@ -1,0 +1,11 @@
+# Key:in prospect
+## Response
+### English Sentences
+E-1: The new project looks promising and there's a lot of success <u>in prospect</u>.
+E-2: We have a busy week <u>in prospect</u> with several important meetings scheduled.
+E-3: A trip to Europe is <u>in prospect</u> for next year if we can save enough money.
+
+### Japanese Translation
+J-1: 新しいプロジェクトは見通しがよく、成功の余地がたくさん<u>あります</u>。
+J-2: 今週はいくつかの重要なミーティングが予定されて忙しい週が<u>見込まれています</u>。
+J-3: 来年、十分なお金を貯めることができればヨーロッパ旅行が<u>見込まれています</u>。

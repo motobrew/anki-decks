@@ -1,0 +1,11 @@
+# Key:touch down
+## Response
+### English Sentences
+E-1: The airplane will <u>touch down</u> in Tokyo in two hours.
+E-2: The football player did a <u>touch down</u> dance after scoring a point.
+E-3: We cheered as the space shuttle successfully <u>touched down</u> on the runway.
+
+### Japanese Translation
+J-1: 飛行機は2時間後に東京に<u>着陸</u>する予定です。
+J-2: フットボール選手はポイントを取った後、<u>タッチダウン</u>のダンスをしました。
+J-3: 私たちは宇宙シャトルが無事に<u>着陸</u>したことに歓声を上げました。

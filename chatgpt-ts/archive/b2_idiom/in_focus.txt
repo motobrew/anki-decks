@@ -1,0 +1,11 @@
+# Key:in focus
+## Response
+### English Sentences
+E-1: The photographer adjusted the lens until the subject was <u>in focus</u>.
+E-2: During the meeting, everyone made an effort to stay <u>in focus</u> and avoid distractions.
+E-3: The presentation was successful because the speaker kept the main points <u>in focus</u>.
+
+### Japanese Translation
+J-1: 写真家は、被写体が<u>フォーカス</u>されるまでレンズを調整しました。
+J-2: ミーティング中、参加者はみんな集中して、気を散らさないようにしました。
+J-3: プレゼンテーションは成功した、というのは講演者が主要なポイントを<u>集中</u>させたからです。

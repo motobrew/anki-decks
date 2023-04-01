@@ -1,0 +1,11 @@
+# Key:pop in
+## Response
+### English Sentences
+E-1: I'm just going to <u>pop in</u> to say hello to my friend.
+E-2: Can I <u>pop in</u> to ask you a quick question?
+E-3: I didn't have time to have a proper meal, so I'll just <u>pop in</u> to grab a snack.
+
+### Japanese Translation
+J-1: 友達に挨拶をするために<u>ちょっと顔を出す</u>つもりだ。
+J-2: ちょっとした質問をするために<u>立ち寄って</u>もいいですか？
+J-3: 私はちゃんとした食事をする時間がなかったので、軽食を<u>つかむ</u>ためにちょっと<u>はいってみる</u>。

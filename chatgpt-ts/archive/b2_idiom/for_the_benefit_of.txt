@@ -1,0 +1,11 @@
+# Key:for the benefit of
+## Response
+### English Sentences
+E-1: The charity organization was created <u>for the benefit of</u> underprivileged children in the community.
+E-2: The new law was implemented <u>for the benefit of</u> small business owners struggling during the pandemic.
+E-3: The company decided to offer free healthcare <u>for the benefit of </u>its employees.
+
+### Japanese Translation
+J-1: その慈善団体は、地域の恵まれない子どもたちの<u>利益のために</u>設立されました。
+J-2: 新しい法律は、パンデミックで苦境に陥っている中小企業オーナーの<u>利益のために</u>実施されました。
+J-3: 会社は、従業員の<u>利益のために</u>無料の健康保険を提供することに決めました。

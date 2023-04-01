@@ -1,0 +1,11 @@
+# Key:write out
+## Response
+### English Sentences
+E-1: Please <u>write out</u> your name and address in block letters on this form.
+E-2: Can you <u>write out</u> the directions for me so I don't get lost?
+E-3: The teacher asked us to <u>write out</u> the answers to the questions in complete sentences.
+
+### Japanese Translation
+J-1: このフォームに、ブロック文字でお名前とご住所を<u>記入</u>してください。
+J-2: 道順を私に<u>書き出して</u>、道に迷わないようにしてくれますか？
+J-3: 先生は、質問の答えを<u>完全な文で書き取る</u>ように私たちに頼みました。

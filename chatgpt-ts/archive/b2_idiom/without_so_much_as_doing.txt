@@ -1,0 +1,11 @@
+# Key:without so much as doing
+## Response
+### English Sentences
+E-1: He left the party early <u>without so much as saying</u> goodbye to anyone.
+E-2: My coworker got promoted to manager <u>without so much as working</u> a full year at the company.
+E-3: She ate the entire pizza <u>without so much as offering</u> a slice to anyone else.
+
+### Japanese Translation
+J-1: 彼は誰にも<u>挨拶すらせずに</u>パーティーを早めに出た。
+J-2: 同僚が会社でたった1年も<u>働かずに</u>マネージャーに昇進した。
+J-3: 彼女は全てのピザを完食して、誰にも<u>一切分けることなく</u>食べてしまった。

@@ -1,0 +1,11 @@
+# Key:tell A apart
+## Response
+### English Sentences
+E-1: Mary is so good with faces, she can easily <u>tell identical twins apart</u>.
+E-2: The labels on the jars are faded, making it difficult to <u>tell the spices apart</u>.
+E-3: I can't <u>tell these two songs apart</u>, they sound so similar.
+
+### Japanese Translation
+J-1: メアリーは顔でとてもうまくやり、簡単に<u>一卵性双子を区別</u>することができます。
+J-2: 瓶のラベルが薄れているため、<u>スパイスを見分ける</u>のが難しい。
+J-3: これらの2つの曲を<u>区別する</u>ことができません、とても似て聞こえます。

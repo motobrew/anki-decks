@@ -1,0 +1,11 @@
+# Key:head on
+## Response
+### English Sentences
+E-1: He tackled the problem <u>head on</u> instead of avoiding it.
+E-2: She decided to <u>address</u> the issue <u>head on</u> and talk to her boss directly.
+E-3: It's important to deal with conflict <u>head on</u> in order to resolve it quickly.
+
+### Japanese Translation
+J-1: 彼は問題に<u>正面から</u>向き合って回避しなかった。
+J-2: 彼女は直接上司に話して問題に<u>向き合う</u>ことに決めた。
+J-3: 紛争に<u>正面から</u>対処して素早く解決することが重要です。

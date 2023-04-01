@@ -1,5 +1,8 @@
 
-all: main
+all: convert
+
+convert:
+	bash src/convert.sh
 
 main:
 	bash src/main.sh

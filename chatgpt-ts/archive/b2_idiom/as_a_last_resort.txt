@@ -1,0 +1,12 @@
+# Key:as a last resort
+## Response
+### English Sentences
+E-1: I always try to solve problems through discussion, but if that fails, I will use force <u>as a last resort</u>.
+E-2: In extreme cases, doctors may recommend surgery <u>as a last resort</u> to treat an illness.
+E-3: We should try to reduce waste by recycling and reusing, and only use landfills <u>as a last resort</u>.
+
+
+### Japanese Translation
+J-1: 私は常に話し合いで問題を解決しようとするが、それが失敗した場合、力を<u>最後の手段として</u>使うこともある。
+J-2: 極端な場合、医師は病気を治療するために<u>最後の手段として</u>手術を勧めることがある。
+J-3: 私たちはリサイクルや再利用によって廃棄物を減らし、埋立地を<u>最後の手段として</u>しか使わないようにするべきだ。

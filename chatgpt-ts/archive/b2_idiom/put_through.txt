@@ -1,0 +1,11 @@
+# Key:put through
+## Response
+### English Sentences
+E-1: Can you please <u>put me through</u> to the manager's office?
+E-2: The receptionist will <u>put you through</u> to the customer service department.
+E-3: I tried calling my friend, but I couldn't <u>put through</u> the call.
+
+### Japanese Translation
+J-1: 管理者のオフィスに<u>つないでいただけますか</u>？
+J-2: 受付の方がカスタマーサービス部署に<u>つないでくれます</u>。
+J-3: 友達に電話をかけたけど、つながらなかった。

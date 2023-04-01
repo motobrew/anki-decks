@@ -1,0 +1,11 @@
+# Key:mother tongue
+## Response
+### English Sentences
+E-1: English is not my <u>mother tongue</u>, but I have become fluent in it through practice.
+E-2: Learning a second language can be difficult, especially if it is very different from your <u>mother tongue</u>.
+E-3: Some people feel a stronger connection to their <u>mother tongue</u> and prefer to speak it over a second language.
+
+### Japanese Translation
+J-1: 英語は私の<u>母国語</u>ではありませんが、練習により流暢に話すことができるようになりました。
+J-2: 第二言語を学ぶことは難しい場合があります、特にあなたの<u>母語</u>と非常に異なる場合は。
+J-3: 一部の人々は、自分の<u>母語</u>により強いつながりを感じ、第二言語よりもそちらを話すことを好む場合があります。

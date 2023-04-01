@@ -1,0 +1,11 @@
+# Key:blow in
+## Response
+### English Sentences
+E-1: I can hear the wind <u>blowing in</u> through the open window.
+E-2: The contractor will need to <u>blow in</u> more insulation to keep the house warm.
+E-3: The sandstorm made it difficult to see as the sand continued to <u>blow in</u> through the cracked window.
+
+### Japanese Translation
+J-1: 開いた窓から風が<u>入り込んでくる</u>のが聞こえます。
+J-2: 請負業者は家を暖かく保つためにもう一度断熱材を<u>吹き込む</u>必要があります。
+J-3: 砂嵐は割れた窓から続けて砂が<u>入り込んでくる</u>ので、見ることが困難になりました。

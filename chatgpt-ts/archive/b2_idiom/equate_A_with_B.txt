@@ -1,0 +1,11 @@
+# Key:equate A with B
+## Response
+### English Sentences
+E-1: Some people <u>equate success</u> with wealth, but there are many other factors involved.
+E-2: You can't <u>equate love</u> with possession; true love is about mutual respect and trust.
+E-3: Many people <u>equate happiness</u> with material possessions, but true happiness comes from within.
+
+### Japanese Translation
+J-1: 成功を<u>富</u>と同じだと考える人もいますが、多くの要素が関係しています。
+J-2: 愛を<u>所有</u>と同じだと考えることはできません。真の愛は相互尊重と信頼に基づいています。
+J-3: 多くの人は幸福を<u>物質的な所有物</u>と同じだと考えますが、真の幸福は内面から来ます。

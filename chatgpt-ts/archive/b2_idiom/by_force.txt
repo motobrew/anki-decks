@@ -1,0 +1,11 @@
+# Key:by force
+## Response
+### English Sentences
+E-1: The enemy soldiers tried to take over the city <u>by force</u>.
+E-2: The government threatened to remove the protestors <u>by force</u>.
+E-3: The police had to subdue the suspect <u>by force</u>.
+
+### Japanese Translation
+J-1: 敵兵士たちは<u>力ずくで</u>都市を制圧しようとしました。
+J-2: 政府は抗議者を<u>武力行使で</u>排除すると脅迫しました。
+J-3: 警察は容疑者を<u>強制的に</u>制止しなければなりませんでした。

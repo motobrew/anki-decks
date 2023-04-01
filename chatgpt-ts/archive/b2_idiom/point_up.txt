@@ -1,0 +1,11 @@
+# Key:point up
+## Response
+### English Sentences
+E-1: <u>Point up</u> at the sky and you'll see the birds flying.
+E-2: The arrow on the sign <u>points up</u> to indicate the direction of the stairs.
+E-3: The instructor asked us to <u>point up</u> our pencils to avoid getting graphite all over the paper.
+
+### Japanese Translation
+J-1: 空を<u>指さして</u>みると、鳥が飛んでいるのが見えます。
+J-2: 標識の矢印が階段の方向を<u>指し示す</u>ために上を向いています。
+J-3: 指導者は、紙にグラファイトがつかないように、鉛筆を<u>先を上にして</u>おくように私たちに頼みました。

@@ -1,0 +1,11 @@
+# Key:in excess of
+## Response
+### English Sentences
+E-1: The company's revenue was <u>in excess of</u> $1 million last year.
+E-2: The marathon runner ran <u>in excess of</u> 26 miles during the race.
+E-3: The weight limit for the elevator was <u>in excess of</u> 800 pounds.
+
+### Japanese Translation
+J-1: その会社の売り上げは昨年100万ドルを<u>超えていました</u>。
+J-2: マラソンランナーはレース中に26マイルを<u>超えて</u>走りました。
+J-3: エレベーターの重量制限は800ポンド<u>以上でした</u>。

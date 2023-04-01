@@ -1,0 +1,11 @@
+# Key:trot out
+## Response
+### English Sentences
+E-1: The company always <u>trot out</u> the same excuses for not giving raises.
+E-2: During election season, politicians often <u>trot out</u> their families to gain support.
+E-3: The salesman tried to <u>trot out</u> his best pitch to convince the customer to buy the product.
+
+### Japanese Translation
+J-1: 会社は昇給しない理由に毎回同じ言い訳を<u>披露</u>します。
+J-2: 選挙シーズン中、政治家はしばしば家族を<u>披露</u>して支持を得ようとします。
+J-3: セールスマンは商品を買わせるために最高のプレゼンテーションを<u>披露</u>しようとしました。

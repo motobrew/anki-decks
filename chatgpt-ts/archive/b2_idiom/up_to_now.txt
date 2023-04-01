@@ -1,0 +1,11 @@
+# Key:up to now
+## Response
+### English Sentences
+E-1: <u>Up to now</u>, we have not received any complaints from our customers.
+E-2: <u>Up to now</u>, the project is progressing smoothly and we are on track to meet our deadline.
+E-3: <u>Up to now</u>, I have never traveled outside of my home country.
+
+### Japanese Translation
+J-1: 今までに、お客様から苦情を受け取っていないということです。
+J-2: 今までに、プロジェクトはスムーズに進んでおり、締切に間に合う見込みです。
+J-3: 今までに、自分の国以外に旅行したことがありません。

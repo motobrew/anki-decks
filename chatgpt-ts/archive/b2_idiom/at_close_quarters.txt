@@ -1,0 +1,11 @@
+# Key:at close quarters
+## Response
+### English Sentences
+E-1: The two boxers fought <u>at close quarters</u>, exchanging blows in a fierce battle.
+E-2: The soldiers had to fight <u>at close quarters</u> with the enemy in a small room.
+E-3: The photographer captured stunning shots of wild animals <u>at close quarters</u> in their natural habitats.
+
+### Japanese Translation
+J-1: 2人のボクサーは激しい戦いで打撃を交換し、<u>至近距離</u>で戦いました。
+J-2: 兵士たちは、小さな部屋で敵と<u>至近距離</u>で戦わなければならなかった。
+J-3: 写真家は、野生動物が自然な生息地で<u>至近距離</u>で見られる驚くべきショットを撮影しました。

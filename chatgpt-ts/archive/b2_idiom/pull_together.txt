@@ -1,0 +1,11 @@
+# Key:pull together
+## Response
+### English Sentences
+E-1: In order to succeed, we need to <u>pull together</u> and work as a team.
+E-2: The community was able to <u>pull together</u> and raise enough funds for the new playground.
+E-3: During a crisis, it's important for everyone to <u>pull together</u> and support each other.
+
+### Japanese Translation
+J-1: 成功するためには、私たちはチームとして<u>協力する</u>必要があります。
+J-2: 地域は、新しい遊び場のために十分な資金を調達するために<u>力を合わせました</u>。
+J-3: 危機時には、誰もが<u>協力して</u>お互いを支えることが重要です。

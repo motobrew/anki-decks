@@ -1,0 +1,11 @@
+# Key:ten to one
+## Response
+### English Sentences
+E-1: It's <u>ten to one</u> that it will rain today so bring an umbrella.
+E-2: I'd say it's <u>ten to one</u> that he will show up late for the meeting.
+E-3: <u>Ten to one</u> there will be a traffic jam during rush hour.
+
+### Japanese Translation
+J-1: 今日は雨が降る可能性が<u>十中八九</u>あるから、傘を持って行ってね。
+J-2: ミーティングに遅れる<u>十中八九</u>だと思う。
+J-3: ラッシュアワーには<u>十中八九</u>渋滞があるでしょう。

@@ -1,0 +1,11 @@
+# Key:sleep in
+## Response
+### English Sentences
+E-1: I'm going to <u>sleep in</u> this weekend and catch up on some rest.
+E-2: I usually have to wake up early for work, but on weekends I like to <u>sleep in</u>.
+E-3: My cat likes to <u>sleep in</u> the sunbeam that comes through the window in the morning.
+
+### Japanese Translation
+J-1: 今週末は<u>寝坊</u>して、休息を取ろうと思います。
+J-2: 通常、私は仕事のために早起きしなければなりませんが、週末は<u>寝坊</u>したいと思います。
+J-3: 私の猫は朝窓から差し込む日差しの中で<u>寝坊</u>するのが好きです。

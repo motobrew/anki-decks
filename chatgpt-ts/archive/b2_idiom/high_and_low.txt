@@ -1,0 +1,11 @@
+# Key:high and low
+## Response
+### English Sentences
+E-1: During the hike, we climbed <u>high and low</u> to reach the summit.
+E-2: The stock market fluctuates <u>high and low</u> depending on the economic climate.
+E-3: The athlete trained <u>high and low</u> to prepare for the marathon.
+
+### Japanese Translation
+J-1: ハイキング中、私たちは山を<u>上り下り</u>しなければならなかった。
+J-2: 株式市場は経済情勢によって<u>高低</u>を変動します。
+J-3: アスリートはマラソンに備えて<u>猛烈な</u>トレーニングをしました。

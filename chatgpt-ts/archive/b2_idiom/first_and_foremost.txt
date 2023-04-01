@@ -1,0 +1,11 @@
+# Key:first and foremost
+## Response
+### English Sentences
+E-1: <u>First and foremost</u>, we need to ensure the safety of our employees.
+E-2: <u>First and foremost</u>, we must address the root cause of this problem.
+E-3: <u>First and foremost</u>, we should prioritize the needs of our customers.
+
+### Japanese Translation
+J-1: <u>まず第一に</u>、社員の安全を確保する必要があります。
+J-2: <u>もっとも重要なことに</u>、この問題の根本原因に対処しなければなりません。
+J-3: <u>まず何よりも</u>、お客様のニーズを優先すべきです。

@@ -1,0 +1,11 @@
+# Key:draw into
+## Response
+### English Sentences
+E-1: The artist used charcoal to <u>draw into</u> the paper and create a detailed portrait.
+E-2: The teacher asked the students to <u>draw into</u> their prior knowledge to help them solve the math problem.
+E-3: The company decided to <u>draw into</u> its reserves to pay for the new project.
+
+### Japanese Translation
+J-1: その芸術家は木炭を使って細部を描き出して、詳細な肖像画を作りました。
+J-2: 先生は、生徒が数学問題を解くのを助けるために、以前の知識を<u>使うように求めました</u>。
+J-3: その企業は、新しいプロジェクトのために予備資金を<u>使うことに決めました</u>。

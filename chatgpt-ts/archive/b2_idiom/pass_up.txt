@@ -1,0 +1,11 @@
+# Key:pass up
+## Response
+### English Sentences
+E-1: I can't <u>pass up</u> a good deal when I see one.
+E-2: She knew she couldn't <u>pass up</u> the opportunity to travel abroad.
+E-3: He didn't want to <u>pass up</u> on the chance to go skydiving.
+
+### Japanese Translation
+J-1: 見つけた優秀なディールは<u>見逃せ</u>ないと思っています。
+J-2: 彼女は海外旅行のチャンスを<u>逃すわけにはいかない</u>とわかっていた。
+J-3: 彼はスカイダイビングのチャンスを<u>逃すつもりはなかった</u>。

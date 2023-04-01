@@ -1,0 +1,11 @@
+# Key:cast away
+## Response
+### English Sentences
+E-1: After his plane crashed, he found himself <u>cast away</u> on a deserted island.
+E-2: She decided to <u>cast away</u> all her old clothes and start fresh.
+E-3: The fishermen had to <u>cast away</u> their nets and start over.
+
+### Japanese Translation
+J-1: 飛行機が墜落した後、彼は無人島に<u>漂流</u>することになった。
+J-2: 彼女は古い服を全て<u>捨て去って</u>新しく始めることに決めた。
+J-3: 漁師たちは網を<u>放棄</u>してやり直さなければならなかった。

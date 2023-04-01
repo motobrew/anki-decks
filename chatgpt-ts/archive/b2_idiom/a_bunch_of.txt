@@ -1,0 +1,11 @@
+# Key:a bunch of
+## Response
+### English Sentences
+E-1: She picked up <u>a bunch of</u> bananas at the grocery store.
+E-2: He received <u>a bunch of</u> flowers on his birthday.
+E-3: There were <u>a bunch of</u> people at the party last night.
+
+### Japanese Translation
+J-1: 彼女はスーパーでバナナ<u>一揃い</u>を手に入れた。
+J-2: 彼は誕生日に花束<u>いくつか</u>を受け取った。
+J-3: 昨夜のパーティーには<u>たくさんの</u>人がいました。

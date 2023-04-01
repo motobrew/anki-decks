@@ -1,0 +1,11 @@
+# Key:at a standstill
+## Response
+### English Sentences
+E-1: The negotiations between the two companies are <u>at a standstill</u> due to disagreements over the pricing.
+E-2: After the earthquake, the traffic on the highway was <u>at a standstill</u> for hours.
+E-3: The construction of the new building is <u>at a standstill</u> until the permits are approved.
+
+### Japanese Translation
+J-1: 2社間の交渉は価格に関する意見の不一致から<u>停滞</u>しています。
+J-2: 地震の後、高速道路の交通は何時間も<u>止まって</u>いました。
+J-3: 新しい建物の建設は許可が承認されるまで<u>停滞して</u>います。

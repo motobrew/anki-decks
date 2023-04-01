@@ -1,0 +1,11 @@
+# Key:lean over
+## Response
+### English Sentences
+E-1: The child had to <u>lean over</u> to reach the cookies on the top shelf.
+E-2: The tourist guide instructed us to <u>lean over</u> the railing to see the waterfall.
+E-3: My boss asked me to <u>lean over</u> his desk to see the report.
+
+### Japanese Translation
+J-1: 子供は、棚の上にあるクッキーに手が届くように<u>身を乗り出した</u>。
+J-2: 観光ガイドは、滝を見るために手すりに<u>身を乗り出す</u>よう指示しました。
+J-3: 私の上司は、報告書を見るために自分のデスクに<u>身を乗り出す</u>ように頼んだ。

@@ -1,0 +1,11 @@
+# Key:make do with
+## Response
+### English Sentences
+E-1: We don't have any milk left, so we'll have to <u>make do with</u> coffee.
+E-2: The hotel doesn't have any more single rooms available, so you'll have to <u>make do with</u> a double.
+E-3: I didn't have time to prepare a proper meal, so I'll just <u>make do with</u> a sandwich.
+
+### Japanese Translation
+J-1: 牛乳がもうないので、コーヒーで<u>しのばなければならない</u>。
+J-2: ホテルにはもうシングルルームが空いていないので、ダブルで<u>間に合わせるしか</u>ありません。
+J-3: ちゃんとした食事を用意する時間がなかったので、サンドイッチで<u>しのばせる</u>。

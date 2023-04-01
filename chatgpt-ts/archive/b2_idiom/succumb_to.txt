@@ -1,0 +1,11 @@
+# Key:succumb to
+## Response
+### English Sentences
+E-1: It's easy to <u>succumb to</u> temptation when dieting, but try to stay strong.
+E-2: Many people <u>succumb to</u> stress and suffer from negative health effects.
+E-3: The company finally <u>succumbed to</u> the pressure and changed their policy.
+
+### Japanese Translation
+J-1: ダイエット中に誘惑に<u>屈する</u>のは簡単ですが、強くいてください。
+J-2: 多くの人々がストレスに<u>陥り</u>、健康に悪影響を受けます。
+J-3: 会社はついにプレッシャーに<u>屈服</u>し、彼らの方針を変更しました。

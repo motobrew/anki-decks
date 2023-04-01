@@ -1,0 +1,11 @@
+# Key:back away
+## Response
+### English Sentences
+E-1: You should <u>back away</u> from the edge of the cliff. 
+E-2: When the angry dog started barking, I slowly <u>backed away</u>. 
+E-3: If you see a snake, it's best to <u>back away</u> and give it space.
+
+### Japanese Translation
+J-1: 崖の縁から<u>後ろに離れる</u>べきです。
+J-2: 怒って吠え出した犬がいた時、私は徐々に<u>後ろに下がった</u>。
+J-3: 蛇を見かけた場合、<u>後ろに離れ</u>て場所を与えるのが最善策です。

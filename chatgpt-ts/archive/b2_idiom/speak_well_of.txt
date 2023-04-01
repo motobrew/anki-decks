@@ -1,0 +1,11 @@
+# Key:speak well of
+## Response
+### English Sentences
+E-1: Mary always <u>speak well of</u> her coworkers to their boss.
+E-2: It's important to <u>speak well of</u> your competitors in the business world.
+E-3: The team captain asked everyone to <u>speak well of</u> each other during the match.
+
+### Japanese Translation
+J-1: メアリーはいつも同僚たちを上司に<u>褒め言葉を述べる</u>。
+J-2: ビジネスの世界では競合他社も<u>褒める</u>ことが重要です。
+J-3: チームのキャプテンは試合中にお互いを<u>褒める</u>ように求めました。

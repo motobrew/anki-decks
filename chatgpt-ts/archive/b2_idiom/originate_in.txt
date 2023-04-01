@@ -1,0 +1,11 @@
+# Key:originate in
+## Response
+### English Sentences
+E-1: Many common sayings <u>originate in</u> traditional folk wisdom.
+E-2: The game of chess is believed to <u>originate in</u> India in the 6th century.
+E-3: Some types of cancer <u>originate in</u> specific cells in the body.
+
+### Japanese Translation
+J-1: 多くの共通の格言は、伝統的な民間の知恵から<u>起源を持つ</u>。
+J-2: チェスのゲームは、6世紀のインドで<u>起源を持つ</u>と信じられています。
+J-3: がんの一部の種類は、体内の特定の細胞から<u>起源を持つ</u>。

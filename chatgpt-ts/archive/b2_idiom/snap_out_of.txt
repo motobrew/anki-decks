@@ -1,0 +1,11 @@
+# Key:snap out of
+## Response
+### English Sentences
+E-1: Hey, <u>snap out of</u> it! You need to focus on the task at hand.
+E-2: She was lost in her thoughts, but her friend managed to <u>snap her out of</u> it.
+E-3: I can't seem to <u>snap out of</u> this bad mood.
+
+### Japanese Translation
+J-1: ねえ、集中して！仕事に<u>没頭</u>しないといけません。
+J-2: 彼女は考え込んでいたけど、友達が<u>気を取り直させた</u>。
+J-3: この悪い気分から抜け出せない。

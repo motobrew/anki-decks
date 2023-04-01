@@ -1,0 +1,11 @@
+# Key:be oblivious of
+## Response
+### English Sentences
+E-1: The driver seemed to <u>be oblivious of</u> the speed limit on the highway.
+E-2: She was <u>oblivious of</u> the fact that the party was a surprise for her.
+E-3: He is <u>oblivious of</u> the danger of not wearing a helmet while riding a bike.
+
+### Japanese Translation
+J-1: 運転手は高速道路の速度制限を<u>無視しているようだ</u>。
+J-2: 彼女は自分のためのサプライズパーティーだということに<u>気づいていなかった</u>。
+J-3: 彼はバイクに乗っている時にヘルメットをかぶらない危険性に<u>気付いていない</u>。

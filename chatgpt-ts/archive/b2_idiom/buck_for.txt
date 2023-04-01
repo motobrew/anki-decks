@@ -1,0 +1,11 @@
+# Key:buck for
+## Response
+### English Sentences
+E-1: I only need to <u>buck for</u> a few more dollars to buy this shirt.
+E-2: My friend and I decided to <u>buck for</u> a pizza together.
+E-3: Let's all <u>buck for</u> gas money for the road trip.
+
+### Japanese Translation
+J-1: このシャツを買うには、残り数ドル<u>足りる</u>だけで済みます。
+J-2: 友達と一緒にピザの代金を<u>折半する</u>ことにしました。
+J-3: 道中のガソリン代のために、みんなで<u>出し合おう</u>。

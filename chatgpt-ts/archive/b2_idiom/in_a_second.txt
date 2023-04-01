@@ -1,0 +1,11 @@
+# Key:in a second
+## Response
+### English Sentences
+E-1: I'll be there <u>in a second</u>, just need to grab my phone.
+E-2: Hold on, let me finish this email and I'll be ready <u>in a second</u>.
+E-3: Can you wait for me <u>in a second</u>? I need to use the restroom.
+
+### Japanese Translation
+J-1: 携帯を取ってくるので、<u>もうすぐ</u>行きます。
+J-2: このメールを終えて、<u>もうすぐ</u>準備ができます。
+J-3: トイレを使わせてください、<u>もう少しで</u>行きます。

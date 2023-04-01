@@ -1,0 +1,11 @@
+# Key:in abundance
+## Response
+### English Sentences
+E-1: During autumn, fresh fruit is available <u>in abundance</u> at the farmer's market.
+E-2: The ocean has a variety of fish and sea creatures <u>in abundance</u>.
+E-3: The tropical rainforest is home to many exotic plants and animals <u>in abundance</u>.
+
+### Japanese Translation
+J-1: 秋には、新鮮なフルーツが農民市場で<u>豊富に</u>入手できます。
+J-2: 海には、さまざまな魚や海の生き物が<u>豊富に</u>います。
+J-3: 熱帯雨林には、多くのエキゾチックな植物や動物が<u>豊富に</u>生息しています。

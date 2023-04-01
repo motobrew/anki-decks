@@ -1,0 +1,11 @@
+# Key:one and only
+## Response
+### English Sentences
+E-1: She's my <u>one and only</u> love, and I'll never leave her.
+E-2: This is your <u>one and only</u> chance to make a good impression.
+E-3: My grandma's homemade apple pie is the <u>one and only</u> dessert I'll ever need.
+
+### Japanese Translation
+J-1: 彼女は私の<u>唯一無二</u>の愛であり、彼女を決して離れません。
+J-2: これはあなたの<u>たった一度きり</u>の良い印象を与えるチャンスだ。
+J-3: 私のおばあちゃんの手作りのアップルパイは、私が必要とする<u>ただ一つの</u>デザートです。

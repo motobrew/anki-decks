@@ -1,0 +1,11 @@
+# Key:sneak up on
+## Response
+### English Sentences
+E-1: I managed to <u>sneak up on</u> my brother without him noticing and scared him.
+E-2: The cat tried to <u>sneak up on</u> the bird but failed and fell off the windowsill.
+E-3: The spy was able to <u>sneak up on</u> the enemy's camp undetected.
+
+### Japanese Translation
+J-1: 私は兄に気付かれずに<u>忍び寄る</u>ことに成功し、彼を驚かせました。
+J-2: 猫は鳥に<u>忍び寄る</u>ことを試みましたが失敗して窓辺から転落しました。
+J-3: スパイは敵のキャンプに検知されずに<u>忍び寄る</u>ことができました。

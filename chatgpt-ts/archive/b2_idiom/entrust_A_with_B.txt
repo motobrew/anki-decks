@@ -1,0 +1,11 @@
+# Key:entrust A with B
+## Response
+### English Sentences
+E-1: I will <u>entrust</u> you with the task of taking care of my plants while I'm away.
+E-2: Can I <u>entrust</u> you with this confidential information?
+E-3: The company CEO decided to <u>entrust</u> the new project to the experienced team.
+
+### Japanese Translation
+J-1: 私が留守にしている間、私の植物の世話を<u>任せます</u>。
+J-2: この機密情報を<u>預けられます</u>か？
+J-3: その企業のCEOは、新しいプロジェクトを熟練チームに<u>任せることに</u>決めました。

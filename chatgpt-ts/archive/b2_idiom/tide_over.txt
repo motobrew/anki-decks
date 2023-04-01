@@ -1,0 +1,11 @@
+# Key:tide over
+## Response
+### English Sentences
+E-1: I can lend you some money to <u>tide over</u> until your next paycheck arrives. 
+E-2: We need to come up with a plan to <u>tide over</u> the company during this period of financial instability. 
+E-3: Hopefully, the government's stimulus package will be enough to <u>tide over</u> struggling businesses. 
+
+### Japanese Translation
+J-1: 次の給料が入るまであなたを<u>ちょっと助ける</u>お金を貸せます。 
+J-2: 財政不安期に会社を<u>しのぎ</u>通すための計画を立てる必要があります。 
+J-3: 政府の景気刺激策で困窮する企業が<u>しのぎ</u>通ることを願っています。

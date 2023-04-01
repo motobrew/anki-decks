@@ -1,0 +1,11 @@
+# Key:be into
+## Response
+### English Sentences
+E-1: I'm really <u>into</u> reading books about history.
+E-2: My sister is <u>into</u> playing video games on her computer.
+E-3: He's not really <u>into</u> going out and partying all the time.
+
+### Japanese Translation
+J-1: 私は歴史の本を読むことにとても<u>熱中しています</u>。
+J-2: 私の妹はコンピュータでビデオゲームを<u>やることに夢中です</u>。
+J-3: 彼はいつも出かけてパーティーをすることに<u>興味を持っていません</u>。

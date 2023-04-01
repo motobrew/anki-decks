@@ -1,0 +1,11 @@
+# Key:first and last
+## Response
+### English Sentences
+E-1: She was the <u>first and last</u> person to leave the office every day.
+E-2: His <u>first and last</u> priority was always his family.
+E-3: The <u>first and last</u> thing she did every morning was check her phone.
+
+### Japanese Translation
+J-1: 彼女は毎日オフィスを最初に出て最後に出る<u>唯一の人</u>でした。
+J-2: 彼にとって<u>最優先事項</u>は常に家族でした。
+J-3: 彼女が毎朝最初にすることは、携帯電話を<u>確認すること</u>でした。

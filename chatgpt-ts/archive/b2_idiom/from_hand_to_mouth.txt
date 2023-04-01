@@ -1,0 +1,11 @@
+# Key:from hand to mouth
+## Response
+### English Sentences
+E-1: Despite working two jobs, he was living <u>from hand to mouth</u> and couldn't afford to save any money.
+E-2: The pandemic has left many families living <u>from hand to mouth</u>, struggling to pay bills and put food on the table.
+E-3: After losing his job, he had to resort to selling his possessions just to live <u>from hand to mouth</u>.
+
+### Japanese Translation
+J-1: 彼は2つの仕事をしていたにもかかわらず、生活費が限られており、お金を貯める余裕がありませんでした。
+J-2: パンデミックのため、多くの家庭は生活費が限られ、請求書を支払い、食事を用意するのに苦労しています。
+J-3: 仕事を失った後、彼は自分の所有物を売るしかなく、手から口への生活を余儀なくされました。

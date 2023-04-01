@@ -1,0 +1,11 @@
+# Key:stay put
+## Response
+### English Sentences
+E-1: Please <u>stay put</u> while I go get help.
+E-2: The flight attendant asked passengers to <u>stay put</u> until the plane comes to a complete stop.
+E-3: The doctor advised his patient to <u>stay put</u> until his health improves.
+
+### Japanese Translation
+J-1: 助けを呼びに行く間、<u>じっとしていて</u>ください。
+J-2: 機内が完全に停止するまで、乗客に<u>その場に留まるよう</u>に促しました。
+J-3: 医師は患者に、<u>健康が回復するまで</u>動かないように忠告しました。

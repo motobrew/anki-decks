@@ -1,0 +1,11 @@
+# Key:interfere with
+## Response
+### English Sentences
+E-1: Loud music can <u>interfere with</u> your concentration while studying.
+E-2: Please don't <u>interfere with</u> my work, I need to focus.
+E-3: The new construction will <u>interfere with</u> the traffic patterns.
+
+### Japanese Translation
+J-1: 勉強中に大音量の音楽があると<u>集中力を妨げる</u>可能性があります。
+J-2: 私の仕事に<u>干渉しないで</u>、集中する必要があります。
+J-3: 新しい建物は交通事情に<u>干渉する</u>可能性があります。

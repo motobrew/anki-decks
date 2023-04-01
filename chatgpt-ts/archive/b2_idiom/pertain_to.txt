@@ -1,0 +1,11 @@
+# Key:pertain to
+## Response
+### English Sentences
+E-1: The lecture will <u>pertain to</u> the history of ancient Rome.
+E-2: The new regulations <u>pertain to</u> safety in the workplace.
+E-3: This book will <u>pertain to</u> the subject of biology.
+
+### Japanese Translation
+J-1: 講義は古代ローマの歴史に<u>関する</u>ものです。
+J-2: 新しい規制は職場での安全性に<u>関する</u>ものです。
+J-3: この本は生物学の<u>対象とする</u>ものです。

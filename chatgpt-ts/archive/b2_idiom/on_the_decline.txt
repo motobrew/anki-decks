@@ -1,0 +1,11 @@
+# Key:on the decline
+## Response
+### English Sentences
+E-1: The number of people smoking has been <u>on the decline</u> in recent years.
+E-2: Sales of physical newspapers have been <u>on the decline</u> due to the rise of digital media.
+E-3: The popularity of traditional TV shows has been <u>on the decline</u> as streaming services become more popular.
+
+### Japanese Translation
+J-1: 最近、タバコを吸う人の数は<u>減少傾向</u>にあります。
+J-2: デジタルメディアの台頭により、紙の新聞の販売は<u>減少傾向</u>にあります。
+J-3: ストリーミングサービスがより人気を集める中で、伝統的なテレビ番組の人気は<u>減少傾向</u>にあります。

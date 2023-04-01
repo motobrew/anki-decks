@@ -1,0 +1,11 @@
+# Key:glare at
+## Response
+### English Sentences
+E-1: She <u>glared at</u> him when he interrupted her during the meeting.
+E-2: The teacher <u>glared at</u> the noisy students to make them quiet down.
+E-3: I could feel my boss <u>glaring at</u> me when I came in late to work.
+
+### Japanese Translation
+J-1: 彼女はミーティング中に彼が口を挟んだときに<u>睨みつけた</u>。
+J-2: 先生はうるさい生徒たちを黙らせるために<u>にらみつけた</u>。
+J-3: 仕事に遅れたとき、上司が<u>睨みつけている</u>のを感じました。

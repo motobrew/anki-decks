@@ -1,0 +1,11 @@
+# Key:abstain from
+## Response
+### English Sentences
+E-1: It's best to <u>abstain from</u> alcohol if you're driving.
+E-2: During Lent, some people choose to <u>abstain from</u> certain foods or activities as a form of penance.
+E-3: The doctor advised the patient to <u>abstain from</u> smoking to improve their health.
+
+### Japanese Translation
+J-1: 運転する場合は、アルコールを<u>控える</u>のがベストです。
+J-2: ４０日間のレント期間中、ある種の食べ物や活動を<u>断つ</u>ことで贖罪の一環として選ぶ人もいます。
+J-3: 医師は、患者の健康を改善するために喫煙を<u>控える</u>ように勧めました。

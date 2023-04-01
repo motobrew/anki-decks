@@ -1,0 +1,11 @@
+# Key:be identical to
+## Response
+### English Sentences
+E-1: The two paintings <u>are identical to</u> each other, it's hard to tell them apart.
+E-2: The twins <u>look identical to</u> each other, even their parents can't always tell them apart.
+E-3: The keys <u>must be identical to</u> each other in order to open the safe.
+
+### Japanese Translation
+J-1: 2つの絵画は、お互いに<u>瓜二つです</u>。区別がつけにくいです。
+J-2: 双子はお互いに<u>そっくりです</u>。両親でも彼らを必ずしも区別できません。
+J-3: 金庫を開けるためには、鍵は<b>全く同じ</b>でなければなりません。

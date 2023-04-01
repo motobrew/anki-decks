@@ -1,0 +1,11 @@
+# Key:praise A for B
+## Response
+### English Sentences
+E-1: The teacher <u>praised John</u> for his excellent presentation in class.
+E-2: The coach <u>praised the team</u> for their hard work and dedication during the season.
+E-3: The manager <u>praised Emily</u> for her exceptional customer service skills.
+
+### Japanese Translation
+J-1: 先生はクラスでの彼の優れたプレゼンテーションを褒めました。
+J-2: コーチはシーズン中のチームの努力と献身に敬意を表しました。
+J-3: マネージャーは彼女の優れた顧客サービススキルを称賛しました。

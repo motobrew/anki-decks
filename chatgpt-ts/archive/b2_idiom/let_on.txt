@@ -1,0 +1,11 @@
+# Key:let on
+## Response
+### English Sentences
+E-1: He never <u>let on</u> that he had a crush on her.
+E-2: She didn't want to <u>let on</u> that she was nervous.
+E-3: I didn't <u>let on</u> that I knew the surprise party was being planned.
+
+### Japanese Translation
+J-1: 彼は彼女に一目惚れしていたことを決して<u>表に出さなかった</u>。
+J-2: 彼女は緊張していることを<u>表に出したくなかった</u>。
+J-3: 私はサプライズパーティーが計画されていることを知っていることを<u>明かさなかった</u>。

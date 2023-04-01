@@ -1,0 +1,11 @@
+# Key:adjust A to B
+## Response
+### English Sentences
+E-1: Please <u>adjust</u> your chair to the proper height for the desk.
+E-2: The mechanic will <u>adjust</u> the carburetor to improve the engine's performance.
+E-3: I will <u>adjust</u> my schedule to accommodate for the meeting.
+
+### Japanese Translation
+J-1: デスクに適切な高さに椅子を<u>調整</u>してください。
+J-2: 整備士はキャブレターを<u>調整</u>してエンジンの性能を改善します。
+J-3: 私は会議のためにスケジュールを<u>調整</u>します。

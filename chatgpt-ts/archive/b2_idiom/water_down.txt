@@ -1,0 +1,11 @@
+# Key:water down
+## Response
+### English Sentences
+E-1: The company decided to <u>water down</u> the new policy after receiving backlash from employees.
+E-2: The bartender sometimes <u>waters down</u> drinks to save money on alcohol.
+E-3: The politician was criticized for <u>watering down</u> the bill to appease certain interest groups.
+
+### Japanese Translation
+J-1: 従業員からの反発を受け、会社は新しい方針を<u>薄める</u>ことに決めました。
+J-2: バーテンダーは時々、アルコール代を節約するためにドリンクを<u>薄めます</u>。
+J-3: 政治家は特定の利益団体をなだめるために法案を<u>薄める</u>ことで批判されました。

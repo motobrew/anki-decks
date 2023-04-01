@@ -1,0 +1,11 @@
+# Key:crash down
+## Response
+### English Sentences
+E-1: As soon as the earthquake hit, the walls started to <u>crash down</u>.
+E-2: The strong wind made the trees <u>crash down</u> onto the road.
+E-3: The tower was so tall that when it finally collapsed, it let out a loud <u>crash down</u>.
+
+### Japanese Translation
+J-1: 地震が起きた瞬間、壁が<u>崩れ落ちる</u>のが始まった。
+J-2: 強い風で木々が道路上に<u>倒れ伏す</u>。
+J-3: タワーはとても高かったので、最終的に崩壊した際に大きな<u>轟音を立てた</u>。

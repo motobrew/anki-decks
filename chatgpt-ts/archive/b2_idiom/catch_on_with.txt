@@ -1,0 +1,11 @@
+# Key:catch on with
+## Response
+### English Sentences
+E-1: The new fashion trend seems to <u>catch on with</u> young people these days.
+E-2: It took a while for the company's new product to <u>catch on with</u> consumers.
+E-3: The joke didn't <u>catch on with</u> the audience and fell flat.
+
+### Japanese Translation
+J-1: 新しいファッショントレンドは最近若者に<u>浸透し始めている</u>ようです。
+J-2: 会社の新商品が消費者に<u>受け入れられるのに時間がかかりました</u>。
+J-3: ジョークは観客に<u>受け入れられず失敗しました</u>。

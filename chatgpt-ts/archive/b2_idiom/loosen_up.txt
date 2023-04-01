@@ -1,0 +1,11 @@
+# Key:loosen up
+## Response
+### English Sentences
+E-1: You need to <u>loosen up</u> and have some fun once in a while.
+E-2: The athlete had to <u>loosen up</u> before the race to prevent injury.
+E-3: The boss asked everyone to <u>loosen up</u> and not take work too seriously.
+
+### Japanese Translation
+J-1: たまには気を緩めて楽しみましょう。
+J-2: 選手は怪我を防ぐために、競技前に筋肉を<u>ほぐす</u>必要があります。
+J-3: 上司は皆に仕事を真剣に受け止め過ぎずに、<u>気を楽にするよう</u>に頼んだ。

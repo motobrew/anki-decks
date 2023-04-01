@@ -1,0 +1,11 @@
+# Key:consent to
+## Response
+### English Sentences
+E-1: She didn't <u>consent to</u> the medical procedure until the doctor explained it more thoroughly.
+E-2: The contract explicitly states that both parties must <u>consent to</u> any changes.
+E-3: Without <u>consent from</u> the owner, the construction company cannot start building on the property.
+
+### Japanese Translation
+J-1: 医師がより詳しく説明するまで彼女はその医療処置に<u>同意しなかった</u>。
+J-2: 契約には、両者が<u>同意しなければ</u>何の変更もできないと明記されています。
+J-3: オーナーから<u>同意を得なければ</u>、建設業者はその土地に建設を始めることができません。

@@ -1,0 +1,11 @@
+# Key:draw out
+## Response
+### English Sentences
+E-1: He tried to <u>draw out</u> the truth from her, but she remained silent.
+E-2: The artist used a pencil to <u>draw out</u> the outline of the portrait.
+E-3: I need to <u>draw out</u> some money from the bank before we go shopping.
+
+### Japanese Translation
+J-1: 彼は彼女から真実を<u>引き出そう</u>としましたが、彼女は黙っていました。
+J-2: その芸術家は鉛筆を使って肖像画の輪郭を<u>描き出しました</u>。
+J-3: 買い物に行く前に銀行からお金を<u>引き出さなければなりません</u>。

@@ -1,0 +1,11 @@
+# Key:conjure up
+## Response
+### English Sentences
+E-1: The magician was able to <u>conjure up</u> a rabbit out of his hat.
+E-2: The scent of freshly baked bread can <u>conjure up</u> feelings of nostalgia.
+E-3: The book was able to <u>conjure up</u> a vivid image of the fantastical world it portrayed.
+
+### Japanese Translation
+J-1: 魔法使いは帽子からウサギを<u>出現させること</u>ができました。
+J-2: 焼きたてのパンの香りは、懐かしい気持ちを<u>呼び起こすこと</u>ができます。
+J-3: 本はファンタジーの世界を生き生きと描写してくれたので、私たちに<u>鮮明なイメージを想起させること</u>ができました。

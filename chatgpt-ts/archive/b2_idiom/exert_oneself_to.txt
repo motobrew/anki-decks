@@ -1,0 +1,11 @@
+# Key:exert oneself to
+## Response
+### English Sentences
+E-1: If you want to achieve your goals, you need to <u>exert yourself to</u> the fullest.
+E-2: The athlete has to <u>exert herself to</u> win the competition.
+E-3: The team had to <u>exert themselves to</u> come back from behind and win the game.
+
+### Japanese Translation
+J-1: あなたの目標を達成したいのであれば、最大限に自分自身を<u>駆り立てる必要があります</u>。
+J-2: スポーツ選手は競技に勝つために<u>自分自身を駆り立てなければなりません</u>。
+J-3: チームは逆転勝利を収めるために<u>全力を尽くす必要がありました</u>。

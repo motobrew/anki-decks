@@ -1,0 +1,11 @@
+# Key:at face value
+## Response
+### English Sentences
+E-1: It's important to not always take things <u>at face value</u> and to question the information presented to you.
+E-2: The news should never be taken <u>at face value</u> without doing additional research or fact-checking.
+E-3: His sarcastic remarks are not meant to be taken <u>at face value</u> as he often makes jokes.
+
+### Japanese Translation
+J-1: 与えられた情報を疑わずに鵜呑みにすることなく、常に物事を<u>表面的な印象</u>で判断しないようにすることが重要です。
+J-2: 追加の調査や事実確認を行わずに、ニュースを<u>表面的な印象</u>で鵜呑みにするべきではありません。
+J-3: 彼の皮肉な発言は冗談であることが多いため、<u>表面的な印象</u>で受け止めてはいけません。

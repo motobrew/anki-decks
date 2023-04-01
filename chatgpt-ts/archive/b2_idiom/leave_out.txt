@@ -1,0 +1,11 @@
+# Key:leave out
+## Response
+### English Sentences
+E-1: Don't <u>leave out</u> any important details when you're writing the report.
+E-2: I accidentally <u>left out</u> your name from the invitation list, I'm sorry.
+E-3: Make sure to <u>leave out</u> the mushrooms from the salad, I'm allergic to them.
+
+### Japanese Translation
+J-1: レポートを書く際、重要な詳細を<u>省いて</u>しまわないようにしてください。
+J-2: 招待リストからあなたの名前を<u>抜いてしまった</u>ので、ごめんなさい。
+J-3: サラダからキノコを<u>抜いて</u>ください、私はアレルギーです。

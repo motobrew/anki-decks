@@ -1,0 +1,11 @@
+# Key:think much of
+## Response
+### English Sentences
+E-1: I don't really <u>think much of</u> his art style, but some people seem to like it.
+E-2: She doesn't <u>think much of</u> his cooking skills, so she always prepares the meals herself.
+E-3: The boss doesn't <u>think much of</u> the new employee's work ethic, and is considering firing them.
+
+### Japanese Translation
+J-1: 彼のアートスタイルにはあまり<u>価値を見いだせない</u>けど、それでも人々は好む人がいるようだ。
+J-2: 彼女は彼の料理スキルに<u>あまり期待していない</u>ため、自分で食事の準備をする。
+J-3: 上司は新しい従業員の勤勉さに<u>あまり印象を持たない</u>ため、解雇を検討している。

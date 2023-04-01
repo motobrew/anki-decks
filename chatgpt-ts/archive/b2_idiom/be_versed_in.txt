@@ -1,0 +1,12 @@
+# Key:be versed in
+## Response
+
+### English Sentences
+E-1: As a computer programmer, you need to <u>be versed in</u> various programming languages to succeed.
+E-2: To be a successful basketball coach, you need to <u>be versed in</u> different defensive strategies.
+E-3: Being <u>versed in</u> public speaking is important for many professions, such as politicians and salespeople.
+
+### Japanese Translation
+J-1: コンピュータプログラマとして成功するには、様々なプログラミング言語に<u>精通している</u>必要があります。
+J-2: 成功したバスケットボールコーチになるためには、異なる守備戦略に<u>精通している</u>必要があります。
+J-3: 政治家やセールスマンなど、多くの職業では、<u>話術に長けている</u>ことが重要です。

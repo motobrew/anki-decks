@@ -1,0 +1,11 @@
+# Key:all in one
+## Response
+### English Sentences
+E-1: This device is an <u>all in one</u> printer, scanner, and copier.
+E-2: The backpack has an <u>all in one</u> design with multiple compartments for storage.
+E-3: The new kitchen appliance is an <u>all in one</u> cooking machine that can bake, roast, and grill.
+
+### Japanese Translation
+J-1: この機器は、プリンター、スキャナー、コピー機が<u>オールインワン</u>になっています。
+J-2: バックパックには、収納するための複数のコンパートメントがある<u>オールインワン</u>デザインになっています。
+J-3: 新しいキッチン家電は、焼く、ローストする、グリルすることができる<u>オールインワン</u>の調理機です。

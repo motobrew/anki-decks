@@ -1,0 +1,11 @@
+# Key:pull off
+## Response
+### English Sentences
+E-1: He was able to <u>pull off</u> an amazing card trick in front of the audience.
+E-2: She wanted to <u>pull off</u> the heist without getting caught by the security.
+E-3: The team was determined to <u>pull off</u> a victory in the championship game.
+
+### Japanese Translation
+J-1: 彼は観衆の前で素晴らしいトランプの手品を<u>成功させる</u>ことができました。
+J-2: 彼女はセキュリティに捕まることなく強盗を<u>やり遂げる</u>ことを望んでいました。
+J-3: チームは決勝戦での勝利を<u>成し遂げる</u>ことを決意しました。

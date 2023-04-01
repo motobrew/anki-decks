@@ -1,0 +1,11 @@
+# Key:catch up on
+## Response
+### English Sentences
+E-1: I need to <u>catch up on</u> my work after being sick for a week.
+E-2: Let's meet for coffee next week so we can <u>catch up on</u> each other's lives.
+E-3: The teacher is giving us extra homework to help us <u>catch up on</u> the material we missed.
+
+### Japanese Translation
+J-1: 1週間病気で休んだ後、私は仕事を<u>取り戻す</u>必要があります。
+J-2: 来週コーヒーを飲んで、お互いの近況を<u>話し合う</u>ことにしましょう。
+J-3: 先生は私たちが抜け落ちた内容を<u>取り戻す</u>ために、追加の宿題を出してくれました。

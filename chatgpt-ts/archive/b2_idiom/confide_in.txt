@@ -1,0 +1,11 @@
+# Key:confide in
+## Response
+### English Sentences
+E-1: I always <u>confide in</u> my best friend whenever I have a problem.
+E-2: He didn't feel comfortable <u>confiding in</u> his coworkers about his personal life.
+E-3: It's important to have someone you can <u>confide in</u> when you're going through a tough time.
+
+### Japanese Translation
+J-1: 私は問題があるときはいつも親友に<u>打ち明けます</u>。
+J-2: 彼は同僚に自分のプライベートなことを<u>打ち明ける</u>のは嫌だと感じました。
+J-3: 大変な時期を過ごしているときに打ち明けることができる人がいることは大切です。

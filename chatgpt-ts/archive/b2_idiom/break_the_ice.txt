@@ -1,0 +1,11 @@
+# Key:break the ice
+## Response
+### English Sentences
+E-1: I tried to <u>break the ice</u> with my new coworker by asking about their weekend.
+E-2: We played some music to <u>break the ice</u> at the party.
+E-3: The host asked everyone to introduce themselves to <u>break the ice</u> at the networking event.
+
+### Japanese Translation
+J-1: 先週末のことを尋ねて、新しい同僚と<b>打ち解ける</b>ことを試みました。
+J-2: パーティーで音楽をかけて<b>和ませる</b>ことにしました。
+J-3: ホストは、ネットワーキングイベントで<b>気をほぐす</b>ために、みんなに自己紹介するように頼みました。

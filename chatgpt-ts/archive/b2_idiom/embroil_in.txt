@@ -1,0 +1,11 @@
+# Key:embroil in
+## Response
+### English Sentences
+E-1: The politicians tried their best to <u>embroil themselves</u> in the scandal without being caught.
+E-2: The company didn't want to <u>embroil</u> itself in the legal battle, so they settled out of court.
+E-3: He was careful not to <u>embroil</u> himself in office politics.
+
+### Japanese Translation
+J-1: 政治家たちは、捕まらずにスキャンダルに<u>巻き込まれる</u>ために最善を尽くしました。
+J-2: 会社は法廷争いに<u>巻き込まれる</u>ことを避けたかったので、和解しました。
+J-3: 彼は、オフィス政治に<u>巻き込まれる</u>ことがないように注意しました。

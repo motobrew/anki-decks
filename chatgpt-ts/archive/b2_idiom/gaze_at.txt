@@ -1,0 +1,11 @@
+# Key:gaze at
+## Response
+### English Sentences
+E-1: She couldn't help but <u>gaze at</u> the beautiful sunset over the ocean.
+E-2: He would often <u>gaze at</u> the stars in the clear night sky.
+E-3: The children eagerly <u>gaze at</u> the display of colorful toys in the store window.
+
+### Japanese Translation
+J-1: 彼女は海の美しい夕日を見て、思わず<u>見入ってしまった</u>。
+J-2: 彼はよく晴れた夜の空に<u>星を見つめた</u>。
+J-3: 子供たちはお店の窓に飾られたカラフルなおもちゃを熱心に<u>眺めた</u>。

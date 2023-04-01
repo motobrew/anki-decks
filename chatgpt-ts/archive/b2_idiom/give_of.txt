@@ -1,0 +1,11 @@
+# Key:give of
+## Response
+### English Sentences
+E-1: She always <u>gives of</u> herself tirelessly when it comes to helping others.
+E-2: The millionaire decided to <u>give of</u> his wealth to charity and make a positive impact on the world.
+E-3: The coach urged his players to <u>give of</u> their best effort in the championship game.
+
+### Japanese Translation
+J-1: 彼女はいつも他人を助けるときに疲れ知らずで自分を<u>献身的に捧げます</u>。
+J-2: その富豪は自分の富をチャリティーに<u>捧げて</u>、世界にプラスのインパクトを与えることに決めました。
+J-3: コーチはチャンピオンシップゲームで彼の選手たちが<u>最善の努力を尽くすことを促しました</u>。

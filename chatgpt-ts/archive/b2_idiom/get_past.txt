@@ -1,0 +1,11 @@
+# Key:get past
+## Response
+### English Sentences
+E-1: I can't seem to <u>get past</u> my fear of heights no matter how hard I try.
+E-2: We need to <u>get past</u> these obstacles in order to achieve our goals.
+E-3: It took a lot of therapy, but I was finally able to <u>get past</u> my traumatic childhood experiences.
+
+### Japanese Translation
+J-1: どんなに努力しても、高所恐怖症を<u>克服</u>することができない。
+J-2: 目的を達成するためには、これらの障害を<u>乗り越える</u>必要があります。
+J-3: 多くのセラピーが必要でしたが、ついに私はトラウマを<u>克服する</u>ことができました。

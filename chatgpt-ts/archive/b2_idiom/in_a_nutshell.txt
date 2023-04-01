@@ -1,0 +1,11 @@
+# Key:in a nutshell
+## Response
+### English Sentences
+E-1: In a nutshell, the project was a success thanks to teamwork and dedication.
+E-2: To sum it up in a nutshell, the company's profits have increased by 20% this year.
+E-3: In a nutshell, the new restaurant offers a unique dining experience with its fusion cuisine.
+
+### Japanese Translation
+J-1: 要約すると、チームワークと献身のおかげでプロジェクトは成功しました。
+J-2: 一言で言えば、今年の会社の利益は20％増えました。
+J-3: 要するに、新しいレストランは融合料理でユニークなダイニング体験を提供しています。

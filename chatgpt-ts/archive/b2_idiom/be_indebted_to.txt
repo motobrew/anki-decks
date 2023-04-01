@@ -1,0 +1,11 @@
+# Key:be indebted to
+## Response
+### English Sentences
+E-1: I will forever <u>be indebted to</u> my parents for their unwavering support.
+E-2: She feels that she will <u>be indebted to</u> her mentor for life-changing advice.
+E-3: The whole community is <u>be indebted to</u> the volunteer firefighters who saved their homes from the wildfire.
+
+### Japanese Translation
+J-1: 私は、親の援助に絶えず<u>恩義を感じています</u>。
+J-2: 彼女は、人生を変えるアドバイスをしてくれた恩師に<u>一生恩義を感じる</u>と感じています。
+J-3: 野火から自宅を救ってくれたボランティアの消防士たちに、全コミュニティが<u>感謝し恩義がある</u>と感じています。

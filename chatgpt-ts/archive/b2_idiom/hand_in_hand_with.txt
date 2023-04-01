@@ -1,0 +1,11 @@
+# Key:hand in hand with
+## Response
+### English Sentences
+E-1: Education goes <u>hand in hand with</u> success.
+E-2: Environmental protection should go <u>hand in hand with</u> economic growth.
+E-3: Good communication goes <u>hand in hand with</u> healthy relationships.
+
+### Japanese Translation
+J-1: 教育は成功と<u>密接に関連しています</u>。
+J-2: 経済成長と<u>密接に関連している</u>べき環境保護。
+J-3: 良好なコミュニケーションは健康な人間関係と<u>密接に関係しています</u>。

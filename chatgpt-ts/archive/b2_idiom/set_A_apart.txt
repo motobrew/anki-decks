@@ -1,0 +1,11 @@
+# Key:set A apart
+## Response
+### English Sentences
+E-1: The unique design of the building really <u>sets it apart</u> from the rest of the city skyline.
+E-2: Her exceptional talent and hard work <u>set her apart</u> from the other applicants for the job.
+E-3: The new technology <u>sets this phone apart</u> from its competitors.
+
+### Japanese Translation
+J-1: 建物のユニークなデザインは、本当に市内の他のビルとは<u>一線を画しています</u>。
+J-2: 彼女の優れた才能と努力は、その仕事の他の応募者とは<u>一線を画しています</u>。
+J-3: 新しい技術は、この携帯電話を競合他社のものとは<u>差別化しています</u>。

@@ -1,0 +1,11 @@
+# Key:hard of hearing
+## Response
+### English Sentences
+E-1: My grandfather is <u>hard of hearing</u> and often has to ask people to repeat what they say.
+E-2: The conference room is equipped with microphones and speakers to accommodate attendees who are <u>hard of hearing</u>.
+E-3: The theater offers special devices for patrons who are <u>hard of hearing</u> to enhance their viewing experience.
+
+### Japanese Translation
+J-1: 私の祖父は<u>難聴</u>で、よく人に言葉を繰り返してもらわなければいけません。
+J-2: 会議室には、<u>難聴</u>の人に対応するためにマイクとスピーカーが備えられています。
+J-3: 劇場では、<u>難聴</u>の観客のために特別なデバイスを提供しており、鑑賞体験を向上させることができます。

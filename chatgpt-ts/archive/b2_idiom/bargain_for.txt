@@ -1,0 +1,11 @@
+# Key:bargain for
+## Response
+### English Sentences
+E-1: When you sign up for a gym membership, make sure to <u>bargain for</u> a lower monthly rate.
+E-2: The customer was able to <u>bargain for</u> a free accessory with their purchase.
+E-3: The team had to <u>bargain for</u> more time to finish the project on schedule.
+
+### Japanese Translation
+J-1: ジムの会員になる際は、月額料金を<u>値引きしてもらう</u>よう交渉してください。
+J-2: その顧客は商品購入において、<u>無料のアクセサリーを要求して交渉</u>することができました。
+J-3: チームはプロジェクトをスケジュール通りに完了するため、<u>時間延長の交渉</u>をする必要がありました。

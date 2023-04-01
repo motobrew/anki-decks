@@ -1,0 +1,11 @@
+# Key:pick up the pieces
+## Response
+### English Sentences
+E-1: After the breakup, it took me some time to <u>pick up the pieces</u> and move on with my life.
+E-2: The team suffered a devastating loss in the playoffs, but they need to <u>pick up the pieces</u> and start preparing for next season.
+E-3: The company faced a major setback, but they are working hard to <u>pick up the pieces</u> and get back on track.
+
+### Japanese Translation
+J-1: 別れの後、私はしばらく自分を立て直して、人生を前向きに進めるのに時間がかかりました。
+J-2: プレーオフで悲惨な敗北を喫したが、チームは<u>立ち直って</u>来シーズンに向けて準備を始める必要がある。
+J-3: 会社は大きな挫折に直面していますが、彼らはうまくいっていて、再び立ち直るために全力を尽くしています。

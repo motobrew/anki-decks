@@ -1,0 +1,11 @@
+# Key:catch A's eye
+## Response
+### English Sentences
+E-1: Her brightly colored outfit <u>caught A's eye</u> as she walked down the street.
+E-2: The unique design of the building <u>caught A's eye</u> and drew her closer to take a look.
+E-3: The impressive resume <u>caught A's eye</u> and made her stand out among the other job applicants.
+
+### Japanese Translation
+J-1: 彼女の明るい衣装は、彼女が通りを歩くのを<u>目に留ま</u>らせました。
+J-2: 建物のユニークなデザインが、彼女の目を<u>引きつけ</u>、近くで見てみるように誘いました。
+J-3: 彼女の印象的な履歴書は、他の求職者の中で目立つように<u>目に留ま</u>りました。

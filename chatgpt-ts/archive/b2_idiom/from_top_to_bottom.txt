@@ -1,0 +1,11 @@
+# Key:from top to bottom
+## Response
+### English Sentences
+E-1: The house was beautifully decorated <u>from top to bottom</u> for the party.
+E-2: She cleaned the kitchen thoroughly <u>from top to bottom</u> before the guests arrived.
+E-3: The hotel staff always ensures that every room is cleaned <u>from top to bottom</u> before new guests check-in.
+
+### Japanese Translation
+J-1: パーティーのために家を上から下まで美しく装飾されました。
+J-2: ゲストが到着する前に、彼女はキッチンを上から下まで徹底的に清掃しました。
+J-3: ホテルスタッフは常に、新しいゲストがチェックインする前に、すべての部屋を上から下まで清掃するようにしています。

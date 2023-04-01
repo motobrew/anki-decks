@@ -1,0 +1,11 @@
+# Key:take cover
+## Response
+### English Sentences
+E-1: When the storm started, everyone quickly ran to <u>take cover</u> in the basement.
+E-2: The soldiers were ordered to <u>take cover</u> behind the sandbags during the attack.
+E-3: If you hear gunshots, the best thing to do is to <u>take cover</u> and call the police.
+
+### Japanese Translation
+J-1: 嵐が始まったとき、誰もが急いで地下室に<u>避難</u>しました。
+J-2: 攻撃中、兵士たちは砂袋の後ろに<u>身を隠す</u>よう命じられました。
+J-3: 銃声を聞いたら、一番安全なのは<u>身を隠す</u>ことで、警察に電話することです。

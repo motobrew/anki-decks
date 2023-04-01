@@ -1,0 +1,11 @@
+# Key:at one's disposal
+## Response
+### English Sentences
+E-1: With all the resources now <u>at my disposal</u>, I think I can finally finish this project.
+E-2: The company provided the team with all the tools <u>at their disposal</u> to succeed.
+E-3: She was a great CEO who had a vast amount of knowledge and experience <u>at her disposal</u>.
+
+### Japanese Translation
+J-1: 私には今やすべてのリソースが<u>手元にある</u>ので、ついにこのプロジェクトを完成させることができると思います。
+J-2: 会社はチームに成功するためのすべてのツールを<u>提供</u>しました。
+J-3: 彼女は豊富な知識と経験を<u>手元に</u>持っていた素晴らしいCEOでした。

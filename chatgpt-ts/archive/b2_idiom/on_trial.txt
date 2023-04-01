@@ -1,0 +1,11 @@
+# Key:on trial
+## Response
+### English Sentences
+E-1: The defendant is currently <u>on trial</u> for fraud charges.
+E-2: The new product is still <u>on trial</u> and has not been released to the public.
+E-3: The athletes were put <u>on trial</u> for doping allegations.
+
+### Japanese Translation
+J-1: 被告人は現在詐欺罪で<u>裁判中</u>です。
+J-2: 新製品はまだ<u>試験中</u>で一般市場にはリリースされていません。
+J-3: 陸上選手たちはドーピング疑惑で<u>公判中</u>になりました。

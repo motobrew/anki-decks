@@ -1,0 +1,11 @@
+# Key:fall prey to
+## Response
+### English Sentences
+E-1: Be careful not to <u>fall prey to</u> online scams by verifying the authenticity of the website before making any purchases.
+E-2: Many young people <u>fall prey to</u> peer pressure and engage in risky behavior.
+E-3: It's important to be aware of your surroundings and not <u>fall prey to</u> pickpockets in crowded places.
+
+### Japanese Translation
+J-1: 購入する前にウェブサイトの正当性を確認することで、オンライン詐欺に<u>だまされる</u>ことがないように注意してください。
+J-2: 多くの若者は、周囲の友人のプレッシャーに<u>負けて</u>危険な行動を取ってしまいます。
+J-3: 混雑した場所でスリに<u>狙われる</u>ことがないよう、周囲に注意を払うことが重要です。

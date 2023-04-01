@@ -1,0 +1,11 @@
+# Key:go about
+## Response
+### English Sentences
+E-1: You can't just <u>go about</u> breaking the rules and expect to get away with it.
+E-2: She needs to figure out how to <u>go about</u> solving this problem.
+E-3: Let's all try to <u>go about</u> our day with a positive attitude.
+
+### Japanese Translation
+J-1: ただルールを破っていいわけじゃなくて、それで済むと思わないで。
+J-2: 彼女はこの問題を<u>どうやって</u>解決するか考える必要があります。
+J-3: みんなでポジティブな態度で日常を<u>過ごしましょう</u>。

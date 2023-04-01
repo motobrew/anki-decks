@@ -1,0 +1,11 @@
+# Key:fall behind
+## Response
+### English Sentences
+E-1: If we don't hurry, we will <u>fall behind</u> the other runners in the race.
+E-2: It's important to keep up with your studies or you might <u>fall behind</u> in class.
+E-3: The company needs to keep up with technology or else they will <u>fall behind</u> their competitors.
+
+### Japanese Translation
+J-1: 急がないと、走者の中で<u>遅れを取る</u>ことになるよ。
+J-2: 授業で<u>遅れを取る</u>ことがないように、勉強に追いつくことが大切だ。
+J-3: 会社は競合他社に<u>取り残されない</u>ように最新技術についていかないといけない。

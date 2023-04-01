@@ -1,0 +1,11 @@
+# Key:pull away from
+## Response
+### English Sentences
+E-1: The boat began to <u>pull away from</u> the dock and head out to sea.
+E-2: He tried to <u>pull away from</u> the group and go his own way.
+E-3: The car started to <u>pull away from</u> the other cars at the starting line.
+
+### Japanese Translation
+J-1: ボートがドックから<u>離れて</u>海に向かい始めました。
+J-2: 彼はグループから<u>切り離されて</u>自分のやり方を行おうとしました。
+J-3: 車はスターティングラインで他の車から<u>引き離されて</u>始動しました。

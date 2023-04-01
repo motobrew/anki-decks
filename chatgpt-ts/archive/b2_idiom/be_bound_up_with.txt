@@ -1,0 +1,11 @@
+# Key:be bound up with
+## Response
+### English Sentences
+E-1: The success of the project will <u>be bound up with</u> the collaboration of all team members.
+E-2: The country's history <u>is bound up with</u> its culture, traditions, and beliefs.
+E-3: Her happiness <u>is bound up with</u> the well-being of her family.
+
+### Japanese Translation
+J-1: プロジェクトの成功は、全てのチームメンバーの協力に<u>密接に関係しています</u>。
+J-2: その国の歴史は、その文化、伝統、信念と<u>密接に結びついています</u>。
+J-3: 彼女の幸福は、家族の幸福と<u>密接に関係しています</u>。

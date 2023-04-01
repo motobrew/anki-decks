@@ -1,0 +1,11 @@
+# Key:be proficient in
+## Response
+### English Sentences
+E-1: To become a successful programmer, you need to <u>be proficient in</u> coding languages like Java and Python.
+E-2: In order to pursue a career in architecture, one should <u>be proficient in</u> design software like AutoCAD and SketchUp.
+E-3: As a translator, it is essential to <u>be proficient in</u> at least two languages.
+
+### Japanese Translation
+J-1: プログラマーとして成功するためには、JavaやPythonのようなコーディング言語を<u>熟達する</u>必要があります。
+J-2: 建築家としてキャリアを追求するには、AutoCADやSketchUpのような設計ソフトウェアに<u>熟達する</u>必要があります。
+J-3: 翻訳者として、少なくとも2つの言語に<u>熟達する</u>ことは必須です。

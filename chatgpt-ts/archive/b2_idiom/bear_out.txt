@@ -1,0 +1,11 @@
+# Key:bear out
+## Response
+### English Sentences
+E-1: The evidence found at the crime scene <u>bears out</u> the suspect's alibi.
+E-2: The results of the experiment <u>bear out</u> the hypothesis.
+E-3: Her story was <u>bear out</u> by several witnesses.
+
+### Japanese Translation
+J-1: 犯罪現場で見つかった証拠は容疑者のアリバイを<u>裏付ける</u>。
+J-2: 実験の結果は仮説を<u>支持する</u>。
+J-3: 彼女の話は複数の証言で<u>証明される</u>。

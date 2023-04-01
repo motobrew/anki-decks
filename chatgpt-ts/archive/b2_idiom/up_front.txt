@@ -1,0 +1,11 @@
+# Key:up front
+## Response
+### English Sentences
+E-1: We require a 50% <u>up front</u> payment before we begin work on the project.
+E-2: If you want a good seat at the concert, you need to get there <u>up front</u> early.
+E-3: The mechanic was honest and told me the <u>up front</u> cost of all the repairs.
+
+### Japanese Translation
+J-1: プロジェクトの作業を開始する前に、50％の<u>前払い</u>が必要です。
+J-2: コンサートで良い席を手に入れたければ、早く<u>最前列</u>に行く必要があります。
+J-3: 修理の全ての費用の<u>前もっての</u>明示をしてくれた正直な整備士でした。

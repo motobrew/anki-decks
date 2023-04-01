@@ -1,0 +1,11 @@
+# Key:by dint of
+## Response
+### English Sentences
+E-1: <u>By dint of</u> hard work and dedication, she was able to achieve her goals.
+E-2: The team won the championship <u>by dint of</u> their superior teamwork and strategy.
+E-3: <u>By dint of</u> his persuasive arguments, he was able to convince the board to approve the new project.
+
+### Japanese Translation
+J-1: 熱心な努力の<u>おかげで</u>、彼女は目標を達成できました。
+J-2: チームは卓越したチームワークと戦略によって、優勝を<u>勝ち取りました。</u>
+J-3: 説得力のある議論によって、彼は理事会を説得して新しいプロジェクトを承認させることができた<u>。</u>

@@ -1,0 +1,11 @@
+# Key:rub off
+## Response
+### English Sentences
+E-1: The color of your shirt <u>rubs off</u> on my skin.
+E-2: Her enthusiasm for the project really <u>rubs off</u> on everyone around her.
+E-3: If you spend enough time with him, his bad habits might <u>rub off</u> on you.
+
+### Japanese Translation
+J-1: あなたのシャツの色が私の肌に<u>付着</u>しています。
+J-2: 彼女のプロジェクトに対する熱意は周りの誰にも<u>感染</u>します。
+J-3: 彼と十分な時間を過ごすと、彼の悪い習慣があなたに<u>移る</u>かもしれません。

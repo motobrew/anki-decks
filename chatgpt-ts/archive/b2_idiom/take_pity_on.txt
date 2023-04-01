@@ -1,0 +1,11 @@
+# Key:take pity on
+## Response
+### English Sentences
+E-1: Please <u>take pity on</u> the stray cat and give it some food and water.
+E-2: The teacher <u>took pity on</u> the struggling student and offered some extra help after class.
+E-3: They <u>took pity on</u> the homeless man and gave him a warm coat for the winter.
+
+### Japanese Translation
+J-1: 飼い猫のような野良猫に同情して、食べ物と水を与えてください。
+J-2: 先生は苦戦している学生に同情して、放課後に追加のサポートを提供しました。
+J-3: 彼らはホームレスの男性に同情して、冬に暖かいコートを与えました。

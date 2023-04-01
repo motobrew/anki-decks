@@ -1,0 +1,11 @@
+# Key:put up at
+## Response
+### English Sentences
+E-1: We were <u>put up at</u> a fancy hotel during our business trip.
+E-2: My cousin agreed to <u>put me up at</u> his apartment when I visit his city.
+E-3: The university will <u>put up</u> exchange students in a dormitory.
+
+### Japanese Translation
+J-1: 出張中に私たちは高級ホテルに<u>宿泊させてもらった</u>。
+J-2: 甥は私が彼の街を訪れた時に<u>自分のアパートに泊めてくれる</u>ことに同意した。
+J-3: 大学は留学生を寮に<u>収容する</u>。

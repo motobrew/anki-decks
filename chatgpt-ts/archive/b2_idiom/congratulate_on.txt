@@ -1,0 +1,11 @@
+# Key:congratulate on
+## Response
+### English Sentences
+E-1: I want to <u>congratulate you on</u> your recent promotion. 
+E-2: Let's <u>congratulate on</u> the newlyweds on their wedding day. 
+E-3: The coach will <u>congratulate on</u> the team for their hard work and dedication.
+
+### Japanese Translation
+J-1: 最近の昇進について、おめでとうございます<u>とお祝いを申し上げたい</u>。
+J-2: 結婚式の日に新郎新婦に<u>お祝いを申し上げましょう</u>。
+J-3: コーチはチームの努力と献身に対して<u>祝福を贈る</u>でしょう。

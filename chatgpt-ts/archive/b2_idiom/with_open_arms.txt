@@ -1,0 +1,11 @@
+# Key:with open arms
+## Response
+### English Sentences 
+E-1: When he returned from his trip abroad, his family welcomed him <u>with open arms</u>.
+E-2: After being away for so long, I was nervous to see my friends again, but they embraced me <u>with open arms</u>.
+E-3: The community rallied together to welcome the refugees <u>with open arms</u>.
+
+### Japanese Translation
+J-1: 海外旅行から帰った時、彼の家族は喜びに満ちた気持ちで彼を迎えた。
+J-2: 長い時間離れていたので友だちに再び会うのに緊張したが、彼らは私を暖かく迎えてくれた。
+J-3: コミュニティは難民を心から歓迎するために総力を集めた。

@@ -1,0 +1,11 @@
+# Key:set forth
+## Response
+### English Sentences
+E-1: The company will <u>set forth</u> a new plan for expansion next month.
+E-2: The author <u>set forth</u> a compelling argument in their latest book.
+E-3: The professor <u>set forth</u> the rules for the research project at the beginning of the semester.
+
+### Japanese Translation
+J-1: 来月、会社は拡大計画を<u>発表する</u>予定です。
+J-2: その著者は最新の本で説得力のある主張を<u>述べた</u>。
+J-3: 教授は学期初めに研究プロジェクトのルールを<u>説明した</u>。

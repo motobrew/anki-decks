@@ -1,0 +1,11 @@
+# Key:good for nothing
+## Response
+### English Sentences
+E-1: He's good for nothing and never does any work around here.
+E-2: That old computer is good for nothing and needs to be thrown away.
+E-3: Her ex-boyfriend was a good for nothing who never treated her well.
+
+### Japanese Translation
+J-1: 彼は何の役にも立たず、ここでは仕事をしない。
+J-2: あの古いコンピューターは役に立たないので、捨てる必要がある。
+J-3: 彼女の元カレは何の役にも立たず、彼女を悪く扱っていた。

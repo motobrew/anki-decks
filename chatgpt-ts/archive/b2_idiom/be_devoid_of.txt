@@ -1,0 +1,11 @@
+# Key:be devoid of
+## Response
+### English Sentences
+E-1: The abandoned house appeared to <u>be devoid of</u> any signs of life.
+E-2: His poetry was <u>be devoid of</u> any emotion or depth.
+E-3: The dessert was disappointingly <u>be devoid of</u> any flavor.
+
+### Japanese Translation
+J-1: 放棄された家は生気を感じさせず、何もなかった。
+J-2: 彼の詩は感情や深みを<u>欠いている</u>ようだった。
+J-3: デザートは期待した味が全くなく、がっかりした。

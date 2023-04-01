@@ -1,0 +1,11 @@
+# Key:out of bounds
+## Response
+### English Sentences
+E-1: The ball went <u>out of bounds</u> and the other team got possession.
+E-2: The hiker accidentally went <u>out of bounds</u> and got lost in the woods.
+E-3: The referee called a penalty for <u>out of bounds</u> play.
+
+### Japanese Translation
+J-1: ボールが<u>アウトオブバウンズ</u>になり、相手チームがボールを取りました。
+J-2: ハイカーがうっかり<u>アウトオブバウンズ</u>に入り、森で迷ってしまいました。
+J-3: 審判は<u>アウトオブバウンズ</u>のプレーに対してペナルティを宣告しました。

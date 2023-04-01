@@ -1,0 +1,11 @@
+# Key:barge in
+## Response
+### English Sentences
+E-1: Please knock before you <u>barge in</u> my room.
+E-2: I was trying to have a private conversation, but my friend decided to <u>barge in</u> and interrupt.
+E-3: Our boss always <u>barges in</u> to our meetings unannounced.
+
+### Japanese Translation
+J-1: 部屋に<u>乱入</u>する前にノックしてください。
+J-2: 私はプライベートな会話をしていたのに、友達が<u>乱入</u>して邪魔をした。
+J-3: 私たちの上司はいつも予告なしに<u>乱入</u>して会議に参加します。

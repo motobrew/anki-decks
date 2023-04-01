@@ -1,0 +1,11 @@
+# Key:back down on
+## Response
+### English Sentences
+E-1: He refused to <u>back down on</u> his opinion, even when faced with opposition.
+E-2: The company CEO vowed not to <u>back down on</u> their commitment to sustainability.
+E-3: The politician did not <u>back down on</u> their promise to increase funding for education.
+
+### Japanese Translation
+J-1: 彼は反対に遭っても、自分の意見に<u>譲らなかった</u>。
+J-2: その企業のCEOは、持続可能性に対する取り組みを<u>諦めない</u>と誓いました。
+J-3: その政治家は、教育への資金提供を増やすという約束を<u>撤回しなかった</u>。

@@ -1,0 +1,11 @@
+# Key:in a million
+## Response
+### English Sentences
+E-1: Finding a four-leaf clover is like finding a needle <u>in a million</u>.
+E-2: Winning the lottery is a chance of one <u>in a million</u>.
+E-3: He's an honest politician, which is a rare thing <u>in a million</u>.
+
+### Japanese Translation
+J-1: 四つ葉のクローバーを見つけることは「一攫千金」と同じくらい難しいものです。
+J-2: 宝くじに当たる確率は百万分の一です。
+J-3: 彼はまれな「まっとうな政治家」です。

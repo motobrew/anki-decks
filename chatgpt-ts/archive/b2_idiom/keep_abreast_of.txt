@@ -1,0 +1,11 @@
+# Key:keep abreast of
+## Response
+### English Sentences
+E-1: As a journalist, it's important to <u>keep abreast of</u> current events and news updates.
+E-2: In order for our team to remain competitive, we need to constantly <u>keep abreast of</u> industry trends and developments.
+E-3: With technology evolving so rapidly, it's crucial to <u>keep abreast of</u> any changes or advancements in your field.
+
+### Japanese Translation
+J-1: ジャーナリストとして、時事ニュースや最新情報に常に<u>目を光らせること</u>が重要です。
+J-2: チームが競争力を維持するためには、業界のトレンドや動向に常に<u>追いつくこと</u>が必要です。
+J-3: 技術が急速に進化している中、自分の分野での変化や進歩に<u>常に注意を払うこと</u>が重要です。

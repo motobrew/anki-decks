@@ -1,0 +1,11 @@
+# Key:wash up
+## Response
+### English Sentences
+E-1: After eating dinner, I'll <u>wash up</u> the dishes.
+E-2: It's important to <u>wash up</u> before cooking to prevent the spread of germs.
+E-3: The kids need to <u>wash up</u> before bedtime.
+
+### Japanese Translation
+J-1: 夕食後、私は食器を<u>洗い上げる</u>つもりです。
+J-2: 細菌の感染を防ぐために、料理をする前に<u>手を洗いましょう</u>。
+J-3: 子供たちは寝る前に<u>手を洗って</u>しなければなりません。

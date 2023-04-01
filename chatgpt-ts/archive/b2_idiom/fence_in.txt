@@ -1,0 +1,11 @@
+# Key:fence in
+## Response
+### English Sentences
+E-1: We need to <u>fence in</u> the backyard to keep the dogs from running away.
+E-2: The farmer decided to <u>fence in</u> the entire crop to keep the wildlife out.
+E-3: The playground was <u>fenced in</u> to provide a safe area for the children to play.
+
+### Japanese Translation
+J-1: 犬が逃げ出さないように、裏庭を<u>囲む</u>フェンスが必要です。
+J-2: 農家は野生動物を遮断するために、作物全体を<u>囲む</u>ことに決めました。
+J-3: 子供たちが安心して遊べるように、遊び場を<u>囲っ</u>て安全なエリアを提供しました。

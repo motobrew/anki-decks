@@ -1,0 +1,11 @@
+# Key:take A for granted
+## Response
+### English Sentences
+E-1: We often <u>take clean water</u> for granted, but in some parts of the world, it's a precious resource.
+E-2: I realized how much I <u>take my health</u> for granted after I got sick.
+E-3: Don't <u>take your friendships</u> for granted; they require effort to maintain.
+
+### Japanese Translation
+J-1: 私たちは、水が清潔なことを当たり前だと思いがちですが、世界の一部では貴重な資源です。
+J-2: 病気になった後、自分がいかに健康を当たり前だと思っていたかに気づきました。
+J-3: 友情が当たり前だと思わないでください。友情は維持するために努力が必要です。

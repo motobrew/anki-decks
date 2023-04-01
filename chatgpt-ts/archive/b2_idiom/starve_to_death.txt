@@ -1,0 +1,11 @@
+# Key:starve to death
+## Response
+### English Sentences
+E-1: If we don't find food soon, we could <u>starve to death</u>.
+E-2: The refugees were stuck in the desert for days without water, risking to <u>starve to death</u>.
+E-3: The animal was trapped and couldn't find any food, so it eventually <u>starved to death</u>.
+
+### Japanese Translation
+J-1: もしすぐに食べ物を見つけられなければ、<u>飢え死に</u>するかもしれません。
+J-2: 難民たちは水もなく数日間砂漠に閉じ込められ、<u>飢え死に</u>のリスクにさらされた。
+J-3: 動物が閉じ込められて食べ物が見つからなかったので、ついに<u>餓死</u>しました。

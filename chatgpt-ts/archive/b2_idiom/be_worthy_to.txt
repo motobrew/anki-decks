@@ -1,0 +1,11 @@
+# Key:be worthy to
+## Response
+### English Sentences
+E-1: Only those who have proven themselves to be hardworking and dedicated will be <u>worthy to</u> receive a promotion.
+E-2: The award is given only to those who have shown outstanding achievement and are considered to <u>be worthy to</u> hold the title.
+E-3: She went through rigorous training and passed all the exams to <u>be worthy to</u> obtain the certification.
+
+### Japanese Translation
+J-1: 昇進するには、勤勉で献身的なことを証明した人だけが<u>ふさわしい</u>とされます。
+J-2: 受賞は、優れた業績を発揮し、称号を<u>ふさわしい</u>とされる人にしか授与されません。
+J-3: 彼女は、厳しいトレーニングを経て、全ての試験に合格して、認定を<u>ふさわしい</u>とされるために取得しました。

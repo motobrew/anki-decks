@@ -1,0 +1,11 @@
+# Key:turn out for
+## Response
+### English Sentences
+E-1: I hope a lot of people will <u>turn out for</u> the charity event this weekend.
+E-2: Despite the rain, a large crowd still <u>turned out for</u> the parade.
+E-3: The politician was disappointed with how few people <u>turned out for</u> his rally.
+
+### Japanese Translation
+J-1: 今週末のチャリティーイベントにたくさんの人が<u>参加する</u>ことを願っています。
+J-2: 雨にもかかわらず、大勢の人がパレードに<u>参加した</u>。
+J-3: 政治家は自身の集会に少ない人が<u>参加した</u>ことにがっかりした。

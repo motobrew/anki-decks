@@ -1,0 +1,11 @@
+# Key:in anticipation of
+## Response
+### English Sentences
+E-1: The store stocked up on extra supplies <u>in anticipation of</u> the upcoming holiday rush.
+E-2: She bought a new dress <u>in anticipation of</u> her graduation ceremony next month.
+E-3: The team practiced rigorously <u>in anticipation of</u> the championship game.
+
+### Japanese Translation
+J-1: 店舗は、今後のホリデーラッシュに<u>備えて</u>、追加の補充品をストックしました。
+J-2: 彼女は来月の卒業式に<u>備えて</u>、新しいドレスを買いました。
+J-3: チームはチャンピオンシップ試合に<u>備えて</u>、厳密に練習しました。

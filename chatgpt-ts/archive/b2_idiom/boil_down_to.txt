@@ -1,0 +1,11 @@
+# Key:boil down to
+## Response
+### English Sentences
+E-1: At the end of the day, success <u>boils down to</u> hard work and dedication.
+E-2: The argument <u>boiled down to</u> a disagreement over finances.
+E-3: The final decision will <u>boil down to</u> which option is most cost-effective.
+
+### Japanese Translation
+J-1: 結局のところ、成功は努力と献身に<u>帰結する</u>。
+J-2: 論争は財政の不一致に<u>帰着した</u>。
+J-3: 最終決定は、最もコスト効果的なオプションを<u>帰結する</u>。

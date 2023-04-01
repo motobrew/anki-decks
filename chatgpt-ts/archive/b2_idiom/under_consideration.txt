@@ -1,0 +1,11 @@
+# Key:under consideration
+## Response
+### English Sentences
+E-1: The proposal is still <u>under consideration</u> by the committee.
+E-2: The job application is <u>under consideration</u> and the company will contact you soon.
+E-3: The new project idea is being <u>under consideration</u> by the management team.
+
+### Japanese Translation
+J-1: 議会はまだその提案を<u>検討中</u>です。
+J-2: 応募書類は<u>検討中</u>であり、企業は近日中に連絡します。
+J-3: 新しいプロジェクトのアイデアは管理チームによって<u>検討中</u>です。

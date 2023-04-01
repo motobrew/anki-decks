@@ -1,0 +1,11 @@
+# Key:build A into B
+## Response
+### English Sentences
+E-1: They plan to <u>build a new facility</u> into the existing warehouse space.
+E-2: The company wants to <u>build a strong brand</u> into the market with its new product line.
+E-3: The entrepreneur is trying to <u>build a community</u> into their online platform.
+
+### Japanese Translation
+J-1: 彼らは既存の倉庫スペースに新しい施設を<u>建設する</u>予定です。
+J-2: その会社は新しい製品ラインで市場に<u>強力なブランドを築く</u>ことを望んでいます。
+J-3: 起業家はオンラインプラットフォームにコミュニティを<u>構築する</u>ように努めています。

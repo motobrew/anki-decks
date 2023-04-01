@@ -1,0 +1,11 @@
+# Key:talk back to
+## Response
+### English Sentences
+E-1: It's not polite to <u>talk back to</u> your parents when they're scolding you.
+E-2: The student was reprimanded for <u>talking back to</u> the teacher in front of the class.
+E-3: If you <u>talk back to</u> your boss like that, you might get fired.
+
+### Japanese Translation
+J-1: 両親に叱られているときに<u>口答え</u>するのは礼儀正しくありません。
+J-2: 生徒はクラス全員の前で先生に<u>口答え</u>したため、叱責を受けました。
+J-3: 上司にあんなふうに<u>口答え</u>したら、クビになるかもしれません。

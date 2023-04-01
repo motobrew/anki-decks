@@ -1,0 +1,11 @@
+# Key:as A as ever
+## Response
+### English Sentences
+E-1: Despite the years that have passed, his wit remains <u>as sharp as ever</u>.
+E-2: She may be retired, but her passion for teaching is <u>as strong as ever</u>.
+E-3: Even with new technology, their commitment to quality is <u>as steadfast as ever</u>.
+
+### Japanese Translation
+J-1: 時が経ったにもかかわらず、彼の機知は依然として<u>鋭いまま</u>です。
+J-2: 彼女は引退したかもしれませんが、彼女の教える情熱は<u>いつも通り強いまま</u>です。
+J-3: 新しい技術が導入されたとしても、彼らの品質へのコミットメントは<u>いつも通り篤実なまま</u>です。

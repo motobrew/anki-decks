@@ -1,0 +1,11 @@
+# Key:in recognition of
+## Response
+### English Sentences
+E-1: The award was given <u>in recognition of</u> his contributions to the field of medicine.
+E-2: The scholarship was awarded <u>in recognition of</u> her academic achievements and leadership qualities.
+E-3: The trophy was presented <u>in recognition of</u> the team's outstanding performance throughout the season.
+
+### Japanese Translation
+J-1: その賞は、彼の医療分野への貢献を<u>認めて</u>授与された。
+J-2: その奨学金は、彼女の学業成績とリーダーシップの質を<u>認めて</u>授与された。
+J-3: トロフィーは、シーズン全体でのチームの優れたパフォーマンスを<u>認めて</u>贈られた。

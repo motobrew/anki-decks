@@ -1,0 +1,11 @@
+# Key:in the abstract
+## Response
+### English Sentences
+E-1: It's easy to discuss ideas <u>in the abstract</u>, but putting them into practice can be challenging.
+E-2: <u>In the abstract</u>, the concept of equality sounds great, but achieving it in reality requires hard work and dedication.
+E-3: Philosophers often contemplate the meaning of life <u>in the abstract</u>, without considering the practical implications.
+
+### Japanese Translation
+J-1: アイデアを話し合うことは<u>抽象的</u>には簡単ですが、実践することは課題となる場合があります。
+J-2: <u>抽象的</u>には、平等の概念は素晴らしい音がするが、現実にそれを達成するには努力や献身が必要だ。
+J-3: 哲学者はしばしば生命の意味を<u>抽象的</u>に考え、実際の影響を考えずに考えます。

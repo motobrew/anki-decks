@@ -1,0 +1,11 @@
+# Key:behind the scenes
+## Response
+### English Sentences
+E-1: The movie was great, but I loved learning about what happened <u>behind the scenes</u>.
+E-2: The company's success is due to the hard work of many employees <u>behind the scenes</u>.
+E-3: The athlete had a lot of support <u>behind the scenes</u> from their coach and family.
+
+### Japanese Translation
+J-1: 映画は素晴らしかったですが、裏側で何が起こったか学ぶことが好きです。
+J-2: 企業の成功は、裏で多くの従業員が努力しているためです。
+J-3: スポーツ選手は、コーチや家族から裏側で多くのサポートを受けました。

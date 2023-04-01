@@ -1,0 +1,11 @@
+# Key:ease up
+## Response
+### English Sentences
+E-1: <u>Ease up</u> on yourself and take a break once in a while.
+E-2: Can you <u>ease up</u> on the volume of the music? It's too loud.
+E-3: The coach told the player to <u>ease up</u> on his training, to avoid injury.
+
+### Japanese Translation
+J-1: 自分に<u>手加減</u>して、時々休んでください。
+J-2: 音楽のボリュームを<u>控えめ</u>にしてもらえませんか？あまりにもうるさいからです。
+J-3: コーチは選手に、怪我を防ぐためにトレーニングを<u>緩める</u>ように伝えました。

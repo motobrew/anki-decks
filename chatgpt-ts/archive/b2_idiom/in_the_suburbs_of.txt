@@ -1,0 +1,11 @@
+# Key:in the suburbs of
+## Response
+### English Sentences
+E-1: Jane lives in the suburbs of New York City.
+E-2: There are many parks and playgrounds in the suburbs of this town.
+E-3: John's family moved to a bigger house in the suburbs.
+
+### Japanese Translation
+J-1: ジェーンはニューヨーク市の<u>郊外</u>に住んでいます。
+J-2: この町の<u>郊外</u>には多くの公園や遊び場があります。
+J-3: ジョンの家族は<u>郊外</u>の大きな家に引っ越しました。

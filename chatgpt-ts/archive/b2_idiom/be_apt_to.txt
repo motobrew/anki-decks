@@ -1,0 +1,11 @@
+# Key:be apt to
+## Response
+### English Sentences
+E-1: Children <u>are apt to</u> learn faster when they are having fun.
+E-2: I <u>am apt to</u> forget my keys if I don't put them in the same place every day.
+E-3: She <u>is apt to</u> get angry if someone interrupts her work.
+
+### Japanese Translation
+J-1: 子供たちは楽しんでいるときに<u>より早く</u>学習する傾向があります。
+J-2: 私は毎日同じ場所に置かないと、鍵を<u>忘れがち</u>です。
+J-3: 彼女は仕事を妨げられると<u>怒りがち</u>です。

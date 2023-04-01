@@ -1,0 +1,11 @@
+# Key:stand to reason
+## Response
+### English Sentences
+E-1: It <u>stands to reason</u> that if you don't study, you won't do well on the test.
+E-2: <u>It stands to reason</u> that if you leave the cake in the oven too long, it will burn.
+E-3: <u>It stands to reason</u> that if you stay up all night, you will be tired the next day.
+
+### Japanese Translation
+J-1: もし勉強しなかったら、テストで良い成績を取れないのは<u>当たり前のこと</u>です。
+J-2: ケーキをオーブンに入れすぎると焦げるのは<u>言うまでもない</u>ことです。
+J-3: 夜通し起きていたら、次の日に疲れて当然です。<u>当然のことながら</u>。

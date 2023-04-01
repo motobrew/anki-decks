@@ -1,0 +1,11 @@
+# Key:work off
+## Response
+### English Sentences
+E-1: She ate a big piece of cake and decided to <u>work it off</u> at the gym later.
+E-2: I need to <u>work off</u> all the calories I consumed over the holidays.
+E-3: He runs every morning to <u>work off</u> stress and clear his mind.
+
+### Japanese Translation
+J-1: 彼女は大きなケーキを食べて、後でジムで<u>消費カロリーを消費しよう</u>と決めた。
+J-2: 私は休暇中に消費したすべてのカロリーを<u>消費したい</u>。
+J-3: 彼はストレスを解消し、心をクリアにするために毎朝ランニングをして<u>消費カロリーを消費している</u>。

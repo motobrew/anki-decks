@@ -1,0 +1,11 @@
+# Key:pick up the thread
+## Response
+### English Sentences
+E-1: After taking a break, it was difficult to <u>pick up the thread</u> of the conversation.
+E-2: I haven't studied French in years, but I'm hoping to <u>pick up the thread</u> when I visit France next month.
+E-3: The detective was able to <u>pick up the thread</u> of the investigation and solve the case.
+
+### Japanese Translation
+J-1: 休憩を取った後、話の<u>糸口</u>を見つけるのは難しかった。
+J-2: 数年間フランス語を勉強していませんが、来月フランスに行った時に<u>再開</u>したいと思っています。
+J-3: 刑事は捜査の<u>手掛かり</u>を見つけ、事件を解決することができました。

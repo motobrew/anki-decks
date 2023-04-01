@@ -1,0 +1,11 @@
+# Key:write off
+## Response
+### English Sentences
+E-1: The company had to <u>write off</u> its losses in the last quarter.
+E-2: I had to <u>write off</u> my old car as it was beyond repair.
+E-3: The accountant advised us to <u>write off</u> that bad debt.
+
+### Japanese Translation
+J-1: 会社は前四半期の損失を<u>帳消しにする</u>必要がありました。
+J-2: 私は古い車を<u>処分</u>しなければならなかったのでした。
+J-3: 会計士は、私たちがそれらの債務を<u>相殺</u>するようにアドバイスしました。

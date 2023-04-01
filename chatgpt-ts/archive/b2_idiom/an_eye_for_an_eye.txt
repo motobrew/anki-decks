@@ -1,0 +1,11 @@
+# Key:an eye for an eye
+## Response
+### English Sentences
+E-1: Some people believe in the principle of <u>an eye for an eye</u> as punishment for crimes.
+E-2: The feud between the two families resulted in the use of <u>an eye for an eye</u> retaliation.
+E-3: The justice system should consider alternatives to <u>an eye for an eye</u> punishment.
+
+### Japanese Translation
+J-1: ある人々は、犯罪に対する<strong>同じ罰</strong>の原則を信じています。
+J-2: 2つの家族間の争いは、<strong>同じ罰</strong>の報復につながりました。
+J-3: 法律制度は、<strong>同じ罰</strong>の代替案を検討する必要があるでしょう。

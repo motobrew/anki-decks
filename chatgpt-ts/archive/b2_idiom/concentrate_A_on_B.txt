@@ -1,0 +1,11 @@
+# Key:concentrate A on B
+## Response
+### English Sentences
+E-1: The chef advised me to <u>concentrate the flavors</u> on the sauce for this dish.
+E-2: Let's <u>concentrate our efforts</u> on finishing this project before the deadline.
+E-3: The coach told the team to <u>concentrate their attention</u> on defense during the game.
+
+### Japanese Translation
+J-1: シェフは、この料理のソースに味を<u>集中させる</u>ようにアドバイスをくれた。
+J-2: 期日前にこのプロジェクトを完成するために、<u>力を集中</u>させよう。
+J-3: コーチは、試合中にチームが防御に<u>集中する</u>ように伝えた。

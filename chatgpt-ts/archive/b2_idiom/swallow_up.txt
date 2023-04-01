@@ -1,0 +1,11 @@
+# Key:swallow up
+## Response
+### English Sentences
+E-1: The giant monster threatened to <u>swallow up</u> the entire city.
+E-2: The new company is expected to <u>swallow up</u> its smaller competitors.
+E-3: The wave was so big that it seemed ready to <u>swallow up</u> the entire beach.
+
+### Japanese Translation
+J-1: 巨大な怪獣は町全体を<u>飲み込もうと</u>脅かしました。
+J-2: 新しい会社は、小さい競合他社を<u>飲み込む</u>ことを予想されています。
+J-3: 波は非常に大きかったため、全体的に<u>飲み込み</u>そうになっていました。

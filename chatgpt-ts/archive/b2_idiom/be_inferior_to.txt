@@ -1,0 +1,11 @@
+# Key:be inferior to
+## Response
+### English Sentences
+E-1: The performance of the new model <u>is inferior to</u> its predecessor in terms of speed.
+E-2: I feel that my cooking <u>is inferior to</u> my grandmother's dishes.
+E-3: The quality of the counterfeit products <u>is inferior to</u> that of the original products.
+
+### Japanese Translation
+J-1: 新モデルの性能は速度の点で前モデルに<u>劣っています</u>。
+J-2: 私の料理は祖母の料理に<u>劣るように感じます</u>。
+J-3: 偽造品の品質は、オリジナル製品に<u>劣っています</u>。

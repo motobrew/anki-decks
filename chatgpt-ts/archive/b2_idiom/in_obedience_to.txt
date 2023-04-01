@@ -1,0 +1,11 @@
+# Key:in obedience to
+## Response
+### English Sentences
+E-1: In obedience to the school rules, students are not allowed to use their phones during class.
+E-2: The workers finished their tasks in obedience to their boss's orders.
+E-3: In obedience to his conscience, he decided to tell the truth about what happened.
+
+### Japanese Translation
+J-1: 授業中に携帯電話を使用することは、学校の規則に<u>従わなければなりません</u>。
+J-2: 作業員たちは、上司の命令に<u>従って</u>仕事を終えました。
+J-3: 彼は良心に<u>従って</u>、起こった真実を告白することに決めました。

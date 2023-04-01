@@ -1,0 +1,11 @@
+# Key:buy out
+## Response
+### English Sentences
+E-1: The company decided to <u>buy out</u> its competitor to increase its market share.
+E-2: We offered to <u>buy out</u> our partner's shares to take full control of the business.
+E-3: The wealthy investor was able to <u>buy out</u> the struggling startup and turn it into a profitable company.
+
+### Japanese Translation
+J-1: 会社は競合他社を<u>買収</u>して市場シェアを拡大することに決めました。
+J-2: ビジネスを完全に支配するために、パートナーの株式を<u>買い増す</u>ことを申し出ました。
+J-3: 裕福な投資家は、苦戦していたスタートアップ企業を<u>買収</u>して収益性の高い会社に変えることができました。

@@ -1,0 +1,11 @@
+# Key:in years
+## Response
+### English Sentences
+E-1: I haven't been to a live concert <u>in years</u>.
+E-2: She hasn't seen her high school friends <u>in years</u>.
+E-3: He hasn't eaten red meat <u>in years</u>.
+
+### Japanese Translation
+J-1: 私は生のコンサートに<u>何年も</u>行っていない。
+J-2: 彼女は高校の友達に<u>何年も</u>会っていない。
+J-3: 彼は<u>何年も</u>赤身肉を食べていない。

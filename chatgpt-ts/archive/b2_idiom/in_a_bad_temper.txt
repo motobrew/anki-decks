@@ -1,0 +1,11 @@
+# Key:in a bad temper
+## Response
+### English Sentences
+E-1: She was in a bad temper after the argument with her boss.
+E-2: He's been in a bad temper all day, I think he just needs some space.
+E-3: The customer was in a bad temper and demanded to speak to the manager.
+
+### Japanese Translation
+J-1: 彼女は上司との口論の後、<u>機嫌が悪かった</u>。
+J-2: 彼は一日中<u>不機嫌だった</u>。彼は単にスペースが必要なだけだと思います。
+J-3: その客は<u>機嫌が悪かった</u>ので、マネージャーに話すよう要求した。

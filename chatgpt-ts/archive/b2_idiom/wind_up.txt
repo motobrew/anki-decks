@@ -1,0 +1,11 @@
+# Key:wind up
+## Response
+### English Sentences
+E-1: Make sure you <u>wind up</u> the clock before you go to bed.
+E-2: The movie always seems to <u>wind up</u> with a happy ending.
+E-3: I never expected the conversation to <u>wind up</u> being so awkward.
+
+### Japanese Translation
+J-1: 寝る前に時計を<u>巻き上げる</u>ことを忘れずにしてください。
+J-2: その映画はいつも幸せな結末で<u>締めくくられる</u>ようです。
+J-3: 会話がそんなに不快な展開に<u>結びつく</u>とは思っていなかった。

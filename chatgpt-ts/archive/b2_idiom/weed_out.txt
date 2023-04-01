@@ -1,0 +1,11 @@
+# Key:weed out
+## Response
+### English Sentences
+E-1: The job interview process is designed to <u>weed out</u> unqualified candidates.
+E-2: The farmer had to <u>weed out</u> the invasive plant species to protect his crops.
+E-3: The teacher gave a difficult test in order to <u>weed out</u> the students who were not prepared.
+
+### Japanese Translation
+J-1: 就職面接のプロセスは、適正のない候補者を<u>排除する</u>ように設計されています。
+J-2: 農家は自分の作物を守るために、侵略的な植物種を<u>濾過する</u>必要がありました。
+J-3: 先生は準備ができていない生徒を<u>取り除く</u>ために難しいテストを行いました。

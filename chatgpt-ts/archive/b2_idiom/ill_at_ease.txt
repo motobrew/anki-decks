@@ -1,0 +1,11 @@
+# Key:ill at ease
+## Response
+### English Sentences
+E-1: The new student felt <u>ill at ease</u> in the unfamiliar classroom.
+E-2: The politician appeared <u>ill at ease</u> during the interview, fidgeting in his seat.
+E-3: Jane always feels <u>ill at ease</u> when she has to speak in public.
+
+### Japanese Translation
+J-1: 新しい生徒は見知らぬ教室で<u>居心地が悪かった</u>。
+J-2: 政治家はインタビュー中、席で落ち着かず<u>不安そうだった</u>。
+J-3: ジェーンはいつも<u>不安定な気持ちになる</u>公の場で話さなければならない時。

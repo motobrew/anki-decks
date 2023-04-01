@@ -1,0 +1,11 @@
+# Key:sleep on
+## Response
+### English Sentences
+E-1: I didn't make a decision yet. I think I'll <u>sleep on</u> it and decide tomorrow.
+E-2: This job offer is tempting, but I need to <u>sleep on</u> it before accepting.
+E-3: I'm not sure if I want to buy this expensive dress. I'll <u>sleep on</u> it and decide later.
+
+### Japanese Translation
+J-1: まだ決定していません。しばらく考えて、明日にでも決めようと思います。
+J-2: この仕事のオファーは誘惑的ですが、受け入れる前に考えたいと思います。
+J-3: この高価なドレスを買うかどうか決めかねています。しばらく考えて、後で決めようと思います。

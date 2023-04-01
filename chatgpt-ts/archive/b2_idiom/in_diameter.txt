@@ -1,0 +1,11 @@
+# Key:in diameter
+## Response
+### English Sentences
+E-1: The pizza is 12 inches <u>in diameter</u>.
+E-2: The large rock was 3 feet <u>in diameter</u>.
+E-3: The moon is about 3,474 kilometers <u>in diameter</u>.
+
+### Japanese Translation
+J-1: ピザの直径は12インチ<u>です</u>。
+J-2: 大きな岩の直径は3フィート<u>でした</u>。
+J-3: 月の直径は約3,474キロメートル<u>です</u>。

@@ -1,0 +1,11 @@
+# Key:in one's absence
+## Response
+### English Sentences
+E-1: In one's absence, the assistant manager will take charge of the store.
+E-2: The CEO left strict instructions to follow in his absence.
+E-3: It's important to have a backup plan in one's absence.
+
+### Japanese Translation
+J-1: 不在時には、アシスタントマネージャーが店を担当します。
+J-2: CEOは自身の不在中に従うべき厳しい指示を残しました。
+J-3: 不在時に備えてバックアッププランを立てることが重要です。

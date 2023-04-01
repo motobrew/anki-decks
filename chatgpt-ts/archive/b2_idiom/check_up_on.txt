@@ -1,0 +1,11 @@
+# Key:check up on
+## Response
+### English Sentences
+E-1: I will <u>check up on</u> my grandma to see how she is feeling.
+E-2: The manager decided to <u>check up on</u> the progress of the project.
+E-3: Can you <u>check up on</u> the kids and make sure they are doing their homework?
+
+### Japanese Translation
+J-1: 祖母の体調を確認するために、私は<u>見舞いに行く</u>つもりです。
+J-2: マネージャーはプロジェクトの進捗状況を<u>確認する</u>ことにした。
+J-3: 子供たちの宿題をちゃんとやっているか<u>点検して</u>くれますか？

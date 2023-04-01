@@ -1,0 +1,11 @@
+# Key:just as well
+## Response
+### English Sentences
+E-1: It's <u>just as well</u> that we brought extra food, since more people showed up than we expected.
+E-2: <u>Just as well</u> that I remembered to bring an umbrella - it's starting to rain.
+E-3: <u>Just as well</u> that we left early, because we hit a lot of traffic on the way there.
+
+### Japanese Translation
+J-1: 予想よりも多くの人が現れたので、余分な食べ物を持ってきたのは<u>正解</u>だった。
+J-2: 傘を持ってくるのを<u>思い出してよかった</u> - 雨が降り始めた。
+J-3: 早めに出発して<u>良かった</u> - 途中でたくさんの渋滞に遭遇した。

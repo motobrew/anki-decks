@@ -1,0 +1,11 @@
+# Key:come through
+## Response
+### English Sentences
+E-1: I hope the package I'm waiting for will <u>come through</u> soon.
+E-2: The team needs their star player to <u>come through</u> in the clutch.
+E-3: I asked for a raise and I'm hoping my boss will <u>come through</u> with good news.
+
+### Japanese Translation
+J-1: 待っている荷物が早く<u>届く</u>ことを願っています。
+J-2: チームはクラッチタイムにスタープレイヤーが<u>活躍する</u>必要があります。
+J-3: 昇給を頼み、上司がいい返事を<u>してくれる</u>ことを望んでいます。

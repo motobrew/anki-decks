@@ -1,0 +1,11 @@
+# Key:ever since
+## Response
+### English Sentences
+E-1: I've been afraid of dogs <u>ever since</u> I was bitten by one as a child.
+E-2: He's been a vegetarian <u>ever since</u> he watched a documentary about animal cruelty.
+E-3: I've been dreaming of visiting Japan <u>ever since</u> I saw a picture of Mt. Fuji.
+
+### Japanese Translation
+J-1: 子供の頃に犬に噛まれた以来、私は犬が怖いです。
+J-2: 動物虐待についてのドキュメンタリーを見て以来、彼はベジタリアンになっています。
+J-3: 富士山の写真を見て以来、私は日本を訪れることが夢です。

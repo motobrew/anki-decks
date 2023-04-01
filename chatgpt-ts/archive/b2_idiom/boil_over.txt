@@ -1,0 +1,11 @@
+# Key:boil over
+## Response
+### English Sentences
+E-1: The water in the pot started to <u>boil over</u> when I walked away from the kitchen.
+E-2: The argument between the two coworkers eventually <u>boiled over</u> and they had a physical fight.
+E-3: If you don't turn down the heat, the soup will <u>boil over</u> and make a mess on the stove.
+
+### Japanese Translation
+J-1: キッチンから離れた時に、鍋の中の水が<u>こぼれそう</u>になっていました。
+J-2: 2人の同僚の間での口論は最終的に<u>爆発して</u>、物理的な喧嘩になった。
+J-3: 火力を下げないと、スープが鍋から<u>こぼれ出て</u>、コンロを汚します。

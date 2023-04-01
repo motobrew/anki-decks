@@ -1,0 +1,11 @@
+# Key:be incapable of
+## Response
+### English Sentences
+E-1: He is <u>be incapable of</u> understanding complex mathematics equations.
+E-2: The baby birds <u>be incapable of</u> flying and rely on their mother for food.
+E-3: The old man's frail body <u>be incapable of</u> completing strenuous physical activities.
+
+### Japanese Translation
+J-1: 彼は複雑な数式を理解することが<u>できない</u>。
+J-2: 幼鳥たちは飛ぶことが<u>できない</u>ので、母親から餌をもらいます。
+J-3: 老人の弱々しい体は、激しい運動をすることが<u>できない</u>。

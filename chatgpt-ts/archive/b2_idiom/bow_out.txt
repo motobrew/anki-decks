@@ -1,0 +1,11 @@
+# Key:bow out
+## Response
+### English Sentences
+E-1: After years of political service, the senator finally decided to <u>bow out</u> of the race for re-election.
+E-2: The CEO announced his plans to retire and <u>bow out</u> of the company next year.
+E-3: The singer decided to <u>bow out</u> of the upcoming tour due to health issues.
+
+### Japanese Translation
+J-1: 政治的な仕事を何年もした後、上院議員はようやく再選を諦めて<u>引退する</u>ことにしました。
+J-2: CEOは、来年会社を<u>退職する</u>予定であることを発表しました。
+J-3: 歌手は健康上の問題のため、来るツアーから<u>引き下がる</u>ことに決めました。

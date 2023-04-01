@@ -1,0 +1,11 @@
+# Key:at intervals
+## Response
+### English Sentences
+E-1: The doctor told me to take the medication <u>at intervals</u> rather than all at once.
+E-2: The fireworks display will be set off <u>at intervals</u> throughout the night.
+E-3: The train schedule has trains departing <u>at intervals</u> of every 30 minutes.
+
+### Japanese Translation
+J-1: 医者は、薬を一度に飲まずに、<u>間隔</u>をあけて飲むように言いました。
+J-2: 花火大会は夜通し<u>間隔</u>をおいて打ち上げられます。
+J-3: 列車のダイヤには、30分<u>間隔</u>で出発する列車があります。

@@ -1,0 +1,11 @@
+# Key:vouch for
+## Response
+### English Sentences
+E-1: I can <u>vouch for</u> the quality of this product. It worked really well for me.
+E-2: Could you <u>vouch for</u> his skills as a chef? I'm thinking of hiring him for my restaurant.
+E-3: As a witness, I'm willing to <u>vouch for</u> what happened that night.
+
+### Japanese Translation
+J-1: 私はこの商品の品質を<u>保証</u>できます。私自身も良く機能しました。
+J-2: 彼の料理人としてのスキルを<u>保証</u>していただけますか？私はレストランで彼を雇うことを考えています。
+J-3: 証人として、私はその夜起こったことを<u>保証</u>する用意があります。

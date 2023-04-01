@@ -1,0 +1,11 @@
+# Key:be faithful to
+## Response
+### English Sentences
+E-1: You should always <u>be faithful to</u> your partner in a relationship.
+E-2: As a soldier, you must <u>be faithful to</u> your country and protect it from harm.
+E-3: Fans are expected to <u>be faithful to</u> their favorite team through wins and losses.
+
+### Japanese Translation
+J-1: 恋愛関係で相手に<u>誠実であることは</u>常に重要です。
+J-2: 兵士として、国に<u>誠実であることは</u>非常に重要であり、守るべきです。
+J-3: ファンは勝ち負けを通じて、愛するチームに<u>忠実であることが</u>期待されています。

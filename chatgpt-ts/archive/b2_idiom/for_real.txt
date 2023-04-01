@@ -1,0 +1,11 @@
+# Key:for real
+## Response
+### English Sentences
+E-1: Are you <u>serious</u>? 
+E-2: He's not just joking, he's <u>for real</u>.
+E-3: I can't believe she's <u>for real</u> about quitting her job.
+
+### Japanese Translation
+J-1: 本気で<u>言ってる</u>の？
+J-2: 彼はただ冗談を言っているのではなく、本気です。
+J-3: 彼女が仕事を辞めるつもりで<u>本気である</u>ことが信じられない。

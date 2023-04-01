@@ -1,0 +1,11 @@
+# Key:for the rest
+## Response
+### English Sentences
+E-1: I have finished my tasks for the day, so <u>for the rest</u> of the evening, I can relax and watch TV.
+E-2: She organized her schedule, leaving Wednesday <u>for the rest</u> of her errands.
+E-3: The first half of the book was slow, but <u>for the rest</u> of it, the pace picked up.
+
+### Japanese Translation
+J-1: 今日のタスクは終えたので、夜は残り<u>の時間</u>をリラックスしてテレビを見ることができます。
+J-2: 彼女はスケジュールを組み立て、水曜日は残りの<u>やること</u>を終えました。
+J-3: 本の前半部分はスローペースでしたが、<u>後半部分</u>はペースが上がりました。

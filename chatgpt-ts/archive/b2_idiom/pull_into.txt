@@ -1,0 +1,11 @@
+# Key:pull into
+## Response
+### English Sentences
+E-1: As we were driving, we saw the highway patrol car <u>pull into</u> the gas station.
+E-2: The bus will <u>pull into</u> the station in a few minutes, so hurry up.
+E-3: He nervously waited for his train to <u>pull into</u> the station.
+
+### Japanese Translation
+J-1: 運転中、私たちはハイウェイパトロールの車がガソリンスタンドに<u>入る</u>のを見ました。
+J-2: バスは数分で駅に<u>到着する</u>ので、急いでください。
+J-3: 彼は緊張しながら、電車が駅に<u>到着するのを</u>待っていました。

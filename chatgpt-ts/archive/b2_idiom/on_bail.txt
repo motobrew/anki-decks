@@ -1,0 +1,11 @@
+# Key:on bail
+## Response
+### English Sentences
+E-1: The suspect was released <u>on bail</u> after his arrest.
+E-2: She is currently <u>on bail</u> while awaiting trial.
+E-3: The judge set the <u>bail</u> amount at $50,000.
+
+### Japanese Translation
+J-1: 疑惑がかけられたその容疑者は、逮捕後に保釈されました。
+J-2: 彼女は現在、裁判を待つ間に<u>保釈</u>されています。
+J-3: 判事は<u>保釈</u>金を5万ドルに設定しました。

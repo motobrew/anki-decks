@@ -1,0 +1,11 @@
+# Key:let out
+## Response
+### English Sentences
+E-1: When she heard the joke, she couldn't help but <u>let out</u> a loud laugh.
+E-2: My dress is too tight, I need to <u>let out</u> the seams a bit.
+E-3: The teacher was angry and <u>let out</u> a loud yell.
+
+### Japanese Translation
+J-1: 彼女はそのジョークを聞いて、大きな笑い声を<u>漏らしてしまった</u>。
+J-2: 私のドレスがきつすぎるので、縫い目を少し<u>広げないといけない</u>。
+J-3: 先生は怒って、大きな叫び声を<u>あげた</u>。

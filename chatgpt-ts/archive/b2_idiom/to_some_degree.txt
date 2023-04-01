@@ -1,0 +1,11 @@
+# Key:to some degree
+## Response
+### English Sentences
+E-1: To some degree, I agree with your opinion on the matter.
+E-2: The project was successful to some degree, but there were still some issues.
+E-3: Learning a new language is difficult, but to some degree, it can be rewarding.
+
+### Japanese Translation
+J-1: その件について、ある程度あなたの意見に賛成です。
+J-2: プロジェクトはある程度成功したが、まだ問題があった。
+J-3: 新しい言語を学ぶ事は難しいが、ある程度報われるかもしれない。

@@ -1,0 +1,11 @@
+# Key:spell out
+## Response
+### English Sentences
+E-1: Can you please <u>spell out</u> your name for me?
+E-2: The teacher asked the student to <u>spell out</u> the word "courage".
+E-3: I had to <u>spell out</u> my email address to the customer service representative.
+
+### Japanese Translation
+J-1: あなたの名前を<u>つづり</u>で教えてもらえますか？
+J-2: 先生は生徒に「勇気」という単語を<u>つづり</u>で言うように頼みました。
+J-3: 私はカスタマーサービスの代表にメールアドレスを<u>つづり</u>ました。

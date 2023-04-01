@@ -1,0 +1,11 @@
+# Key:word for word
+## Response
+### English Sentences
+E-1: I will copy the instructions <u>word for word</u> to make sure I don't make any mistakes.
+E-2: The student recited the poem <u>word for word</u> in front of the class.
+E-3: The lawyer repeated the witness's testimony <u>word for word</u> during the trial.
+
+### Japanese Translation
+J-1: 誤りを犯さないように、私は指示を<u>そのまま</u>コピーします。
+J-2: 生徒は詩をクラスの前で<u>そのまま</u>暗唱しました。
+J-3: 弁護士は裁判で証人の証言を<u>そのまま</u>繰り返しました。

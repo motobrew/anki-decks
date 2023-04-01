@@ -1,0 +1,11 @@
+# Key:right out
+## Response
+### English Sentences
+E-1: I could see <u>right out</u> the window of my hotel room to the ocean.
+E-2: The cat jumped <u>right out</u> of the box as soon as I opened it.
+E-3: The answer was <u>right out</u> in front of us the whole time.
+
+### Japanese Translation
+J-1: ホテルの部屋から窓の外を見ると、海が見えました。
+J-2: 私が箱を開けると、猫がすぐに飛び出しました。
+J-3: 答えは常に私たちの目の前に思い切り見えていました。

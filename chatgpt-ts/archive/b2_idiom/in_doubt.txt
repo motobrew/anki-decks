@@ -1,0 +1,11 @@
+# Key:in doubt
+## Response
+### English Sentences
+E-1: I am <u>in doubt</u> about whether I can finish this project on time.
+E-2: She was <u>in doubt</u> about the accuracy of her calculations.
+E-3: The company's future is <u>in doubt</u> due to financial problems.
+
+### Japanese Translation
+J-1: 私はこのプロジェクトを時間内に終えられるかどうか<u>不確か</u>です。
+J-2: 彼女は自分の計算の正確性に<u>疑い</u>を抱いていました。
+J-3: その企業の将来は財政的な問題によって<u>不確か</u>です。

@@ -1,0 +1,11 @@
+# Key:at a premium
+## Response
+### English Sentences
+E-1: Nowadays, good customer service is <u>at a premium</u> due to the high demand.
+E-2: In the pandemic, medical supplies were <u>at a premium</u> and difficult to acquire.
+E-3: In big cities, parking spaces are <u>at a premium</u> and very expensive.
+
+### Japanese Translation
+J-1: 最近は、需要が高いため、良いカスタマーサービスは<u>高値</u>です。
+J-2: パンデミックでは、医療用品が<u>品薄</u>で手に入りにくかったです。
+J-3: 大都市では、駐車場が少なくて<u>高額</u>です。

@@ -1,0 +1,11 @@
+# Key:go to extremes
+## Response
+### English Sentences
+E-1: She always <u>goes to extremes</u> in her diet, either fasting for days or binge eating.
+E-2: Tom <u>goes to extremes</u> in order to impress his boss, working long hours and sacrificing his personal life.
+E-3: The politician's supporters accuse him of <u>going to extremes</u> with his proposed policy changes.
+
+### Japanese Translation
+J-1: 彼女は常に過激なダイエットをしていて、何日も断食したり暴飲暴食をすることがあります。
+J-2: トムは上司に印象を与えるために、長時間働いたり個人的な時間を犠牲にするという過激な手段に出ています。
+J-3: その政治家の支持者は、彼の提案する政策の変更に過剰反応していると非難しています。

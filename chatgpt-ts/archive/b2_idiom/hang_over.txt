@@ -1,0 +1,11 @@
+# Key:hang over
+## Response
+### English Sentences
+E-1: I had a terrible <u>hangover</u> after drinking too much last night.
+E-2: He couldn't make it to work today because he was <u>hung over</u> from the party last night.
+E-3: I need to drink a lot of water and take some aspirin to cure my <u>hangover</u>.
+
+### Japanese Translation
+J-1: 昨晩飲みすぎて、ひどい<u>二日酔い</u>になりました。
+J-2: 昨晩のパーティーで飲みすぎて、彼は今日仕事を休まなければならなかった<u>二日酔い</u>です。
+J-3: 水をたくさん飲んで、アスピリンを飲んで<u>二日酔い</u>を治さなければならない。

@@ -1,0 +1,11 @@
+# Key:for life
+## Response
+### English Sentences
+E-1: Marriage is a commitment <u>for life</u>.
+E-2: The judge sentenced the convict to prison <u>for life</u>.
+E-3: I made a promise to my best friend to be there for them <u>for life</u>.
+
+### Japanese Translation
+J-1: 結婚は一生の約束です。
+J-2: 裁判官は囚人を終身刑に<u>処せ</u>ました。
+J-3: 私は親友に一生そばにいることを約束しました。

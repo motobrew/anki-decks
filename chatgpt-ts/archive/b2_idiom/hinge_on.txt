@@ -1,0 +1,11 @@
+# Key:hinge on
+## Response
+### English Sentences
+E-1: The success of the project will <u>hinge on</u> the completion of the feasibility study.
+E-2: The outcome of the trial will <u>hinge on</u> the testimony of the key witness.
+E-3: The election results will <u>hinge on</u> the votes of the swing states.
+
+### Japanese Translation
+J-1: プロジェクトの成功は、実現可能性調査の完了に<u>かかっている</u>。
+J-2: 裁判の結果は、主要証人の証言に<u>左右される</u>でしょう。
+J-3: 選挙の結果は、スウィング州の投票に<u>かかっている</u>。

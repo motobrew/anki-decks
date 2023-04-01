@@ -1,0 +1,11 @@
+# Key:hail from
+## Response
+### English Sentences
+E-1: My ancestors <u>hail from</u> Ireland.
+E-2: The famous writer Ernest Hemingway <u>hails from</u> the United States.
+E-3: This delicious dish <u>hails from</u> Italy.
+
+### Japanese Translation
+J-1: 私の祖先はアイルランド<u>出身</u>です。
+J-2: 有名な作家アーネスト・ヘミングウェイはアメリカ<u>出身</u>です。
+J-3: この美味しい料理はイタリア<u>発祥</u>です。

@@ -1,0 +1,11 @@
+# Key:make haste
+## Response
+### English Sentences
+E-1: <u>Make haste</u> if you want to catch the train on time.
+E-2: We must <u>make haste</u> to finish our work before the deadline.
+E-3: <u>Make haste</u> slowly, or you might make a mistake.
+
+### Japanese Translation
+J-1: 列車に間に合いたいなら、<u>急いで</u>しなければなりません。
+J-2: 締め切り前に仕事を終わらせるためには<u>急がなければなりません</u>。
+J-3: あわてずに<u>急いで</u>行けば、ミスをすることはありません。

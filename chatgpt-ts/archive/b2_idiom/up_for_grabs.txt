@@ -1,0 +1,11 @@
+# Key:up for grabs
+## Response
+### English Sentences
+E-1: The championship title is still <u>up for grabs</u> with two games left in the season.
+E-2: The piece of land that was once public property is now <u>up for grabs</u> to developers.
+E-3: The last slice of cake is <u>up for grabs</u>, whoever gets to the kitchen first can have it.
+
+### Japanese Translation
+J-1: シーズン終了まであと2試合で、優勝タイトルがまだ<u>争われている</u>。
+J-2: 元々公共地だった土地が、今では開発業者に<u>売りに出されている</u>。
+J-3: 最後の一切れのケーキが誰かの手に入る、誰が最初にキッチンに行けるかで<u>競われている</u>。

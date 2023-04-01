@@ -1,0 +1,11 @@
+# Key:carry off
+## Response
+### English Sentences
+E-1: The magician was able to <u>carry off</u> the illusion flawlessly.
+E-2: The team worked together to <u>carry off</u> the difficult project on time.
+E-3: She was able to <u>carry off</u> the daring outfit with confidence.
+
+### Japanese Translation
+J-1: 魔術師は完璧にその幻想を<u>成功させる</u>ことができました。
+J-2: チームは協力して、難しいプロジェクトを時間通りに<u>達成する</u>ことができました。
+J-3: 彼女は自信を持ってその勇敢な衣装を<u>着こなす</u>ことができました。

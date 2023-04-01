@@ -1,0 +1,11 @@
+# Key:be distinguished for
+## Response
+### English Sentences
+E-1: Albert Einstein is <u>distinguished for</u> his contributions to theoretical physics.
+E-2: This restaurant is <u>distinguished for</u> its exquisite cuisine and exceptional service.
+E-3: Emily Bronte is <u>distinguished for</u> her literary masterpiece, Wuthering Heights.
+
+### Japanese Translation
+J-1: アルバート・アインシュタインは理論物理学への貢献で<u>顕著</u>です。
+J-2: このレストランは、美食と素晴らしいサービスで<u>著名</u>です。
+J-3: エミリー・ブロンテは、彼女の文学的名作『嵐が丘』で<u>著名</u>です。

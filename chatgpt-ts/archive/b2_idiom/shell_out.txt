@@ -1,0 +1,11 @@
+# Key:shell out
+## Response
+### English Sentences
+E-1: I had to <u>shell out</u> more money than I expected to repair my car.
+E-2: She refused to <u>shell out</u> for the expensive concert tickets.
+E-3: If you want the newest iPhone, you'll have to <u>shell out</u> a lot of money.
+
+### Japanese Translation
+J-1: 車を修理するために予想よりもっとお金を<u>出費する</u>必要がありました。
+J-2: 彼女は高価なコンサートのチケットのためにお金を<u>はたく</u>ことを拒否しました。
+J-3: 最新のiPhoneが欲しければ、多くのお金を<u>費やす必要</u>があります。

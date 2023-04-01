@@ -1,0 +1,11 @@
+# Key:for the good of
+## Response
+### English Sentences
+E-1: The company has decided to lay off some employees <u>for the good of</u> the business.
+E-2: The government is implementing stricter regulations <u>for the good of</u> public health.
+E-3: Sometimes it's necessary to make sacrifices <u>for the good of</u> the greater community.
+
+### Japanese Translation
+J-1: 会社は、ビジネスのためにいく人かの従業員を解雇することに<u>企業全体の利益のために</u>決定しました。
+J-2: 政府は、公衆衛生の<u>良いために</u>より厳しい規制を実施しています。
+J-3: 時には、より広いコミュニティの<u>ために</u>犠牲を払う必要があります。

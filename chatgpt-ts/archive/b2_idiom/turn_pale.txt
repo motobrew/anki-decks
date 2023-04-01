@@ -1,0 +1,11 @@
+# Key:turn pale
+## Response
+### English Sentences
+E-1: When I saw the ghost, I <u>turned pale</u> and couldn't move.
+E-2: After hearing the bad news, she <u>turned pale</u> and fell silent for a moment.
+E-3: His face <u>turned pale</u> as he realized he had made a serious mistake.
+
+### Japanese Translation
+J-1: 幽霊を見た時、私は<u>青ざめ</u>て身動きが取れなくなりました。
+J-2: 悪いニュースを聞いた後、彼女は<u>青ざめ</u>てしばらく黙っていました。
+J-3: 彼は大きなミスをしたことに気付いて、顔が<u>青ざめ</u>ました。

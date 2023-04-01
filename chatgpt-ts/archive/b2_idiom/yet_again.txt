@@ -1,0 +1,11 @@
+# Key:yet again
+## Response
+### English Sentences
+E-1: <u>Yet again</u>, I forgot my keys and had to ask my neighbor to let me in.
+E-2: <u>Yet again</u>, the train is delayed and I'll be late for work.
+E-3: <u>Yet again</u>, I burnt dinner and had to order takeout.
+
+### Japanese Translation
+J-1: 私は<u>またしても</u>鍵を忘れて、隣人に入ってもらわなければなりませんでした。
+J-2: <u>またしても</u>、電車が遅れて出勤が遅れます。
+J-3: <u>またしても</u>、料理を焦がして外食することになりました。

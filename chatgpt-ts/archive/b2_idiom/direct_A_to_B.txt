@@ -1,0 +1,11 @@
+# Key:direct A to B
+## Response
+### English Sentences
+E-1: The teacher directed the students <u>to sit</u> in their assigned seats.
+E-2: The map clearly directs drivers <u>to turn left</u> at the next intersection.
+E-3: The boss directed his employee <u>to finish</u> the report by the end of the day.
+
+### Japanese Translation
+J-1: 先生は生徒たちに、指定された席に<u>座るよう指示</u>しました。
+J-2: 地図はドライバーに明確に、次の交差点で<u>左折</u>するよう指示しています。
+J-3: 上司は従業員に、その日の終わりまでに報告書を<u>完成するよう指示</u>しました。

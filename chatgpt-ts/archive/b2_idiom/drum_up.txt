@@ -1,0 +1,11 @@
+# Key:drum up
+## Response
+### English Sentences
+E-1: The marketing team worked hard to <u>drum up</u> interest in the new product.
+E-2: We need to <u>drum up</u> more volunteers for the charity event.
+E-3: The politician tried to <u>drum up</u> support for his campaign.
+
+### Japanese Translation
+J-1: マーケティングチームは、新製品に関心を<u>喚起する</u>ために頑張りました。
+J-2: そのチャリティーイベントに参加するボランティアを<u>増やさなければなりません</u>。
+J-3: 政治家はキャンペーンの支持を<u>集めようとしました</u>。

@@ -1,0 +1,11 @@
+# Key:for the purpose of
+## Response
+### English Sentences
+E-1: <u>For the purpose of</u> keeping the classroom clean, students must sweep the floors after class.
+E-2: The company will conduct a background check <u>for the purpose of</u> verifying the applicant's employment history.
+E-3: The new law was enacted <u>for the purpose of</u> reducing carbon emissions.
+
+### Japanese Translation
+J-1: 授業が終わったら生徒は床を掃除する<u>目的で</u>行わなければなりません。
+J-2: 会社は求職者の雇用歴を確認する<u>目的で</u>バックグラウンドチェックを実施します。
+J-3: 新しい法律は二酸化炭素排出を減らす<u>目的で</u>制定されました。

@@ -1,0 +1,11 @@
+# Key:convict of
+## Response
+### English Sentences
+E-1: He was <u>convicted of</u> robbery and sentenced to five years in prison.
+E-2: The defendant was <u>convicted of</u> murder and received the death penalty.
+E-3: She was wrongly <u>convicted of</u> a crime she did not commit.
+
+### Japanese Translation
+J-1: 彼は強盗罪で<u>有罪判決</u>を受け、5年の刑に処せられた。
+J-2: 被告人は殺人罪で<u>有罪判決</u>を受け、死刑を宣告された。
+J-3: 彼女は無実の罪で<u>有罪判決</u>を受けてしまった。

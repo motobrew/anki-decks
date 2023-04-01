@@ -1,0 +1,11 @@
+# Key:abound in
+## Response
+### English Sentences
+E-1: The forest <u>abounds in</u> diverse wildlife and plant species.
+E-2: The market <u>abounds in</u> fresh produce and artisanal goods.
+E-3: This book <u>abounds in</u> useful tips and tricks for home improvement.
+
+### Japanese Translation
+J-1: この森には多様な野生生物や植物種が<u>豊富に存在しています</u>。
+J-2: この市場には新鮮な農産物や職人による商品が<u>溢れています</u>。
+J-3: この本には住宅改修に関する有用なヒントやテクニックが<u>たくさん含まれています</u>。

@@ -1,0 +1,11 @@
+# Key:break the news
+## Response
+### English Sentences
+E-1: I have to <u>break the news</u> to my parents that I'm dropping out of college.
+E-2: The doctor will <u>break the news</u> to the patient that they have a serious illness.
+E-3: How should I <u>break the news</u> to my boss that I'm quitting my job?
+
+### Japanese Translation
+J-1: 私は大学を中退することを両親に<u>告げる</u>必要があります。
+J-2: 医師が患者に重い病気だという<u>知らせ</u>を伝えます。
+J-3: 私はどのように上司に私が仕事を辞めるつもりだと<u>告げる</u>べきか。

@@ -1,0 +1,11 @@
+# Key:crash into
+## Response
+### English Sentences
+E-1: The car <u>crashed into</u> the tree on the side of the road.
+E-2: The waves <u>crashed into</u> the shore with great force during the storm.
+E-3: The plane had to make an emergency landing after <u>crashing into</u> a flock of birds.
+
+### Japanese Translation
+J-1: 車が道路脇の木に<u>衝突した</u>。
+J-2: 嵐の中、波が強い力で岸に<u>押し寄せた</u>。
+J-3: 鳥の群れに<u>衝突した</u>ため、飛行機は緊急着陸を余儀なくされました。

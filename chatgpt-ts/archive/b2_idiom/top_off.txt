@@ -1,0 +1,11 @@
+# Key:top off
+## Response
+### English Sentences
+E-1: The waiter will <u>top off</u> your coffee cup during breakfast.
+E-2: I like to <u>top off</u> my ice cream sundae with some hot fudge.
+E-3: Don't forget to <u>top off</u> the gas tank before we hit the highway.
+
+### Japanese Translation
+J-1: 朝食中にウェイターがコーヒーを<u>おかわり</u>してくれます。
+J-2: 私はアイスクリームサンデーにホットファッジを<u>トッピング</u>するのが好きです。
+J-3: 高速道路に出る前にガソリンタンクを<u>満タン</u>にするのを忘れないでください。

@@ -1,0 +1,11 @@
+# Key:strip A of B
+## Response
+### English Sentences
+E-1: The storm <u>stripped the trees of</u> their leaves.
+E-2: The company <u>stripped the employee of</u> their benefits after they were caught stealing.
+E-3: The government <u>stripped the organization of</u> its non-profit status due to fraudulent activity.
+
+### Japanese Translation
+J-1: 嵐は木々の葉を<u>奪い取った</u>。
+J-2: その従業員が窃盗を行った後、会社は彼らの福利厚生を<u>剥奪した</u>。
+J-3: 政府は詐欺行為を理由に、その組織の非営利団体の地位を<u>剥奪した</u>。

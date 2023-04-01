@@ -1,0 +1,11 @@
+# Key:bowl over
+## Response
+### English Sentences
+E-1: The magician was able to <u>bowl over</u> the audience with his incredible tricks.
+E-2: She was completely <u>bowled over</u> by the surprise party her friends threw for her.
+E-3: The new employee's impressive presentation <u>bowl over</u> the entire board of directors.
+
+### Japanese Translation
+J-1: 魔法使いは信じられないほどのトリックで観客を<u>魅了</u>しました。
+J-2: 友達が開いたサプライズパーティーに彼女は完全に<u>驚愕</u>しました。
+J-3: 新しい従業員の印象的なプレゼンテーションは取締役会全員を<u>驚かせました</u>。

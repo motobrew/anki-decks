@@ -1,0 +1,11 @@
+# Key:out of the picture
+## Response
+### English Sentences
+E-1: Since he moved to a different city, he has been <u>out of the picture</u> for a while now.
+E-2: After the company restructured, several employees were <u>out of the picture</u>.
+E-3: With the new management team in place, the old CEO was finally <u>out of the picture</u>.
+
+### Japanese Translation
+J-1: 彼が転居してからは、しばらくの間彼は<u>消息不明</u>になっています。
+J-2: 会社が再編成された後、数名の従業員が<u>退職</u>しました。
+J-3: 新しい経営陣が就任したため、古いCEOはついに<u>役職から外れることになった</u>。

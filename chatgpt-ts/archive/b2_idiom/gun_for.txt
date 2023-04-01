@@ -1,0 +1,11 @@
+# Key:gun for
+## Response
+### English Sentences
+E-1: He always seems to <u>gun for</u> a promotion, but he never puts in any actual effort.
+E-2: The opposing team will definitely <u>gun for</u> a victory in this upcoming match.
+E-3: When it comes to job interviews, it's important to show that you <u>gun for</u> success and are willing to work hard.
+
+### Japanese Translation
+J-1: 彼は常に昇進を<u>狙っている</u>ように見えますが、実際には何の努力もしていません。
+J-2: 対戦相手チームは、この次の試合で勝利を<u>目指す</u>ことは間違いないでしょう。
+J-3: 就職面接では、成功を<u>目指し</u>、努力する意志を示すことが重要です。

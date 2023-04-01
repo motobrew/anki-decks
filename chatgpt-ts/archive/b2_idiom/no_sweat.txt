@@ -1,0 +1,11 @@
+# Key:no sweat
+## Response
+### English Sentences
+E-1: Don't worry, finishing this project will be <u>no sweat</u> for me.
+E-2: I can run 10 miles easily, it's <u>no sweat</u> for me.
+E-3: Cleaning the house is <u>no sweat</u>, I can finish it in less than an hour.
+
+### Japanese Translation
+J-1: 大丈夫、このプロジェクトを終えることは<u>易々と</u>できます。
+J-2: 私は10マイル簡単に走れる、<u>苦労することはない</u>。
+J-3: 家の掃除は<u>楽勝</u>です、1時間以内に終わらせることができます。

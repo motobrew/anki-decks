@@ -1,0 +1,11 @@
+# Key:in disguise
+## Response
+### English Sentences
+E-1: The superhero disguised himself as a regular citizen to blend in with the crowd.
+E-2: The famous celebrity went out in public wearing sunglasses and a cap, hoping to go unnoticed while in disguise.
+E-3: The spy infiltrated the enemy base, disguised as one of the guards.
+
+### Japanese Translation
+J-1: スーパーヒーローは市民に変装して、人ごみの中に紛れ込みました。
+J-2: 有名なセレブは太陽眼鏡と帽子をかぶり、変装しながら気付かれずに外出しました。
+J-3: スパイは警備員のひとりとして変装し、敵の拠点に潜入しました。

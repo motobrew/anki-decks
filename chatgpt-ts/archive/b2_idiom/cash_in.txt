@@ -1,0 +1,11 @@
+# Key:cash in
+## Response
+### English Sentences
+E-1: I need to <u>cash in</u> my chips before leaving the casino.
+E-2: She decided to <u>cash in</u> her savings and travel the world.
+E-3: After retiring, he plans to <u>cash in</u> his investments for a comfortable life.
+
+### Japanese Translation
+J-1: カジノを出る前に、チップを<u>現金化</u>しなければならない。
+J-2: 彼女は貯蓄を<u>現金化</u>して、世界を旅することに決めた。
+J-3: 引退後、彼は余裕のある生活のために投資を<u>現金化</u>する予定だ。

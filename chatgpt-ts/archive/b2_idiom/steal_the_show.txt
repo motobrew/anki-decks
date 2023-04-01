@@ -1,0 +1,11 @@
+# Key:steal the show
+## Response
+### English Sentences
+E-1: The singer's performance was so stunning, she <u>stole the show</u> from the other performers.
+E-2: Despite being a supporting character, his comedic timing always manages to <u>steal the show</u>.
+E-3: The elaborate decorations and costumes really <u>stole the show</u> at the theater.
+
+### Japanese Translation
+J-1: 歌手のパフォーマンスはとても素晴らしく、他の出演者たちから<u>視線を奪いました</u>。
+J-2: 脇役であるにもかかわらず、彼のコミカルなタイミングはいつも<u>視線を奪います</u>。
+J-3: 劇場では華やかな装飾や衣装が本当に<u>視線を奪いました</u>。

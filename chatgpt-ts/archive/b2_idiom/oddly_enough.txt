@@ -1,0 +1,11 @@
+# Key:oddly enough
+## Response
+### English Sentences
+E-1: Oddly enough, the cat seems to enjoy swimming in the pool.
+E-2: Oddly enough, the song I heard yesterday was stuck in my head all day today.
+E-3: Oddly enough, I found my lost keys in the refrigerator.
+
+### Japanese Translation
+J-1: 意外にも、猫はプールで泳ぐのを楽しんでいるようです。
+J-2: 意外にも、昨日聞いた曲が一日中頭の中に引っかかっていました。
+J-3: 意外にも、紛失した鍵を冷蔵庫で見つけました。

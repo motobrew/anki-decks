@@ -1,0 +1,11 @@
+# Key:day in， day out
+## Response
+### English Sentences
+E-1: He works hard <u>day in, day out</u> to provide for his family.
+E-2: The athletes train <u>day in, day out</u> to improve their performance.
+E-3: The factory workers have been working <u>day in, day out</u> to meet their production quota.
+
+### Japanese Translation
+J-1: 彼は家族を養うために毎日一生懸命働いています。
+J-2: 選手たちはパフォーマンスを向上させるために毎日トレーニングを行います。
+J-3: 工場労働者たちは生産ノルマを達成するために毎日働いています。

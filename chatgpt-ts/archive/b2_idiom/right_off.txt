@@ -1,0 +1,11 @@
+# Key:right off
+## Response
+### English Sentences
+E-1: The car dealership offered to take $2,000 <u>right off</u> the price of the car.
+E-2: I knew <u>right off</u> the bat that the job was not right for me.
+E-3: She was able to answer the question <u>right off</u> the top of her head.
+
+### Japanese Translation
+J-1: 自動車ディーラーが車の価格から$2,000<u>値引き</u>すると提供した。
+J-2: 私はすぐに仕事が自分に合わないことを知っていた<u>即座に</u>。
+J-3: 彼女は自分の頭の上から<u>すぐに</u>質問に答えることができました。

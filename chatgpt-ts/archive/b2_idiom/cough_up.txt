@@ -1,0 +1,11 @@
+# Key:cough up
+## Response
+### English Sentences
+E-1: You owe me money, so you better <u>cough up</u> soon.
+E-2: The company said they would <u>cough up</u> for the damages caused by their product.
+E-3: Don't make me ask again, <u>cough up</u> the truth.
+
+### Japanese Translation
+J-1: 君は私にお金を貸しているから、早く<u>返して</u>くれ。
+J-2: 会社は、製品の原因で引き起こされた損害について<u>負担する</u>と言っていた。
+J-3: もう一度聞くのも嫌だから、<u>本当のことを言って</u>。

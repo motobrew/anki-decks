@@ -1,0 +1,11 @@
+# Key:at the end of the day
+## Response
+### English Sentences
+E-1: <u>At the end of the day</u>, we all just want to be happy.
+E-2: <u>At the end of the day</u>, what matters most is how you feel about yourself.
+E-3: <u>At the end of the day</u>, it's up to you to make the most of your life.
+
+### Japanese Translation
+J-1: <u>結局のところ</u>、私たちはみんな幸せになりたいと思っているだけです。
+J-2: <u>結局のところ</u>、何が一番重要かは、自分自身についてどう感じるかです。
+J-3: <u>結局のところ</u>、あなた自身が人生を最大限に生きるかどうかはあなた次第です。

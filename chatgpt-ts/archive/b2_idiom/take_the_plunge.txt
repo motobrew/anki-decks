@@ -1,0 +1,11 @@
+# Key:take the plunge
+## Response
+### English Sentences
+E-1: I decided to <u>take the plunge</u> and start my own business.
+E-2: Sarah was nervous about skydiving, but she finally decided to <u>take the plunge</u> and go for it.
+E-3: After years of saving up, Tom and his girlfriend are ready to <u>take the plunge</u> and buy their first house.
+
+### Japanese Translation
+J-1: 自分自身のビジネスを始めるために、私はついに<u>思い切ってやることに</u>決めました。
+J-2: サラはスカイダイビングについて不安でしたが、ついに<u>決心してやってみることに</u>しました。
+J-3: 数年間貯蓄をし続けた後、トムと彼女はついに<u>思い切って</u>最初の家を買う準備ができました。

@@ -1,0 +1,11 @@
+# Key:out and about
+## Response
+### English Sentences
+E-1: I love the days when I can be <u>out and about</u> exploring new places.
+E-2: After being stuck at home for weeks, it was nice to finally be <u>out and about</u> shopping with friends.
+E-3: The park is always bustling with people who are <u>out and about</u> enjoying the sunshine.
+
+### Japanese Translation
+J-1: 新しい場所を探検できる<u>外出</u>の日が大好きです。
+J-2: 数週間家に閉じ込められていた後、友達と一緒に<u>外出</u>して買い物をするのは気持ちが良かったです。
+J-3: 公園にはいつも、日差しを楽しんで<u>外出</u>している人々がたくさんいます。

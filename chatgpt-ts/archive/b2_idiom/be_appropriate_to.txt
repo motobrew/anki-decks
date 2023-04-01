@@ -1,0 +1,11 @@
+# Key:be appropriate to
+## Response
+### English Sentences
+E-1: It's important to <u>dress appropriately</u> for a job interview.
+E-2: The company's dress code requires employees to <u>dress appropriately</u> for the office.
+E-3: The teacher reminded the students to <u>speak appropriately</u> during the presentation.
+
+### Japanese Translation
+J-1: 就職面接には適切な服装を<u>することが大切です</u>。
+J-2: その会社の服装規定では、社員はオフィスで<u>適切な服装をしなければなりません</u>。
+J-3: 先生はプレゼンテーション中に<u>適切な話し方をするように</u>生徒に念を押しました。

@@ -1,0 +1,11 @@
+# Key:pull the plug
+## Response
+### English Sentences
+E-1: The doctors decided to <u>pull the plug</u> on the patient who had been in a coma for months.
+E-2: I'm sorry to say this, but we need to <u>pull the plug</u> on the project as it's not feasible anymore.
+E-3: It's hard to <u>pull the plug</u> on a friendship, but sometimes it's necessary for our own well-being.
+
+### Japanese Translation
+J-1: 数か月間昏睡状態だった患者に医師たちは<u>治療を中止する</u>ことを決定しました。
+J-2: 申し訳ありませんが、そのプロジェクトはもう実現不可能なので<u>中止</u>しなければいけません。
+J-3: 友情を<u>断ち切る</u>のは難しいですが、時には自分自身のために必要なことです。

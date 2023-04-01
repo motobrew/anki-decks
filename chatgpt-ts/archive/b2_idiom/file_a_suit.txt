@@ -1,0 +1,11 @@
+# Key:file a suit
+## Response
+### English Sentences
+E-1: The plaintiff plans to <u>file a suit</u> against the company for breach of contract.
+E-2: The defendant's lawyer advised him to <u>file a suit</u> to protect his rights.
+E-3: It can be expensive to <u>file a suit</u>, but sometimes it's necessary to seek legal action.
+
+### Japanese Translation
+J-1: 原告は契約違反のため、会社に<u>訴訟を起こす</u>予定です。
+J-2: 被告の弁護士は、彼の権利を守るために<u>訴訟を提起する</u>よう助言しました。
+J-3: <u>訴訟を起こす</u>ことは費用がかかることがありますが、時には法的な手段を取る必要があります。

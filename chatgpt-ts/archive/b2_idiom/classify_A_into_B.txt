@@ -1,0 +1,11 @@
+# Key:classify A into B
+## Response
+### English Sentences
+E-1: We need to <u>classify</u> these documents <u>into categories</u> for easier organization.
+E-2: The biologist is trying to <u>classify</u> this new species <u>into its taxonomic group</u>.
+E-3: The librarian will <u>classify</u> this book <u>into the science section</u>.
+
+### Japanese Translation
+J-1: 簡単な整理のために、これらの書類を<u>カテゴリーに分類</u>する必要があります。
+J-2: 生物学者は、この新種を<u>分類学的なグループに分類</u>しようとしています。
+J-3: この本を<u>科学のコーナーに分類</u>するために、司書が作業します。

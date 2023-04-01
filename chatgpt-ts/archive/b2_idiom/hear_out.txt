@@ -1,0 +1,11 @@
+# Key:hear out
+## Response
+### English Sentences
+E-1: I know you're frustrated, but please just <u>hear me out</u> before making a decision.
+E-2: If you would just <u>hear her out</u>, I think you might understand her perspective.
+E-3: It's important to <u>hear out</u> all sides of an argument before forming an opinion.
+
+### Japanese Translation
+J-1: もう限界だろうけど、決定する前に私の話を<u>最後まで聞いて</u>くれない？
+J-2: 彼女の言葉を<u>よく聞いて</u>みたら、彼女の視点がわかるかもしれないよ。
+J-3: 意見を形成する前に、議論のすべての側面を<u>よく聞かなければならない</u>。

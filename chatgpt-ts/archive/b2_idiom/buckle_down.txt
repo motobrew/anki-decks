@@ -1,0 +1,11 @@
+# Key:buckle down
+## Response
+### English Sentences
+E-1: I need to <u>buckle down</u> and focus on studying for my exams.
+E-2: The team needs to <u>buckle down</u> and work harder to win the championship.
+E-3: If we want to finish this project on time, we need to <u>buckle down</u> and be more efficient.
+
+### Japanese Translation
+J-1: 私は試験勉強に集中するために<u>がんばら</u>なければなりません。
+J-2: チームはもっと努力して優勝するために<u>がんばら</u>なければなりません。
+J-3: このプロジェクトを期日までに終わらせたいなら、私たちは<u>がんばら</u>なくてはなりません。

@@ -1,0 +1,11 @@
+# Key:dos and don'ts
+## Response
+### English Sentences
+E-1: Before you start the project, make sure to read the <u>dos and don'ts</u> carefully.
+E-2: The teacher gave us a list of <u>dos and don'ts</u> for the school field trip tomorrow.
+E-3: Following the <u>dos and don'ts</u> of healthy eating can help prevent many diseases.
+
+### Japanese Translation
+J-1: プロジェクトを始める前に、<u>すべきこととすべきでないこと</u>を注意深く読んでください。
+J-2: 先生は明日の校外学習のために<u>すべきこととすべきでないこと</u>のリストを与えてくれました。
+J-3: 健康的な食事の<u>すべきこととすべきでないこと</u>に従うことは、多くの病気を予防するのに役立ちます。

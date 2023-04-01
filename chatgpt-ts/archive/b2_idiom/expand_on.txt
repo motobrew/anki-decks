@@ -1,0 +1,11 @@
+# Key:expand on
+## Response
+### English Sentences
+E-1: Can you <u>expand on</u> your proposal and provide more details?
+E-2: The teacher asked the student to <u>expand on</u> their answer and give examples.
+E-3: This book is a great resource to <u>expand on</u> your knowledge of the subject.
+
+### Japanese Translation
+J-1: もっと詳細を<u>説明して</u>、あなたの提案を拡大できますか？
+J-2: 先生は、生徒にとことん<u>話し込んで</u>、回答を具体的に説明するように頼んだ。
+J-3: この本は、この主題についての知識を<u>深める</u>のに良い手段です。

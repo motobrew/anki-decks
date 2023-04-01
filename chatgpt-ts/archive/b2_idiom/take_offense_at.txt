@@ -1,0 +1,11 @@
+# Key:take offense at
+## Response
+### English Sentences
+E-1: I didn't mean to offend you, so please don't <u>take offense at</u> what I said.
+E-2: Some people may <u>take offense at</u> jokes that are considered offensive.
+E-3: It's important to be mindful of others' feelings and not <u>take offense at</u> things that were not meant to be hurtful.
+
+### Japanese Translation
+J-1: あなたを怒らせるつもりではなかったので、私が言ったことに<u>反発しない</u>でください。
+J-2: 攻撃的と考えられる冗談に<u>嫌悪感を抱く</u>人もいます。
+J-3: 傷つける意図のないことに<u>憤慨しない</u>ように、他人の気持ちに気を配ることが重要です。

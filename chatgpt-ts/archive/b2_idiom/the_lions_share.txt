@@ -1,0 +1,11 @@
+# Key:the lion's share
+## Response
+### English Sentences
+E-1: The CEO received <u>the lion's share</u> of the profits while the employees barely got a raise.
+E-2: The eldest sibling always got <u>the lion's share</u> of attention from their parents.
+E-3: The new restaurant in town has already taken <u>the lion's share</u> of customers from its competitors.
+
+### Japanese Translation
+J-1: CEOは利益の<u>大半</u>を受け取り、従業員たちはわずかな昇給しかなかった。
+J-2: 長子は両親から<u>大半</u>の注目を受けていた。
+J-3: 街の新しいレストランは、もう競合店から<u>大半</u>の顧客を奪った。

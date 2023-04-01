@@ -1,0 +1,11 @@
+# Key:on edge
+## Response
+### English Sentences
+E-1: After hearing the loud bang, I was <u>on edge</u> and couldn't sleep all night.
+E-2: When I'm <u>on edge</u>, I tend to snap at people for no reason.
+E-3: The rollercoaster ride made me feel <u>on edge</u> and my heart was racing.
+
+### Japanese Translation
+J-1: 大きな音が聞こえた後、私は<u>不安になっていた</u>ため、一晩中眠れませんでした。
+J-2: 私が<u>不安になっている</u>と、理由なく人に当たってしまう傾向があります。
+J-3: ローラーコースターに乗った時、私は<u>緊張していた</u>ので、心臓が高鳴りました。

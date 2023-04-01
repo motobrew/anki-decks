@@ -1,0 +1,11 @@
+# Key:be distinct from
+## Response
+### English Sentences
+E-1: The new product needs to <u>be distinct from</u> our competitors to stand out in the market.
+E-2: Her personality <u>is distinct from</u> her twin sister's, despite their physical resemblance.
+E-3: The two species of birds <u>are distinct from</u> each other in terms of their habitat and behavior.
+
+### Japanese Translation
+J-1: 新製品は競合他社と<u>差別化</u>しなければ市場で目立つことができません。
+J-2: 彼女の人格は双子の姉妹と身体的にはそっくりですが、<u>独自性</u>があります。
+J-3: 2つの鳥の種類は生息地と行動面で<u>明確に異なっています</u>。

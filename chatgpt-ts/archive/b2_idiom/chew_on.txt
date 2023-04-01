@@ -1,0 +1,11 @@
+# Key:chew on
+## Response
+### English Sentences
+E-1: I need some time to <u>chew on</u> this new information before I make a decision.
+E-2: Let's <u>chew on</u> some ideas and brainstorm for our next project.
+E-3: The problem is complex, so we should <u>chew on</u> it for a while to come up with a solution.
+
+### Japanese Translation
+J-1: 私は決定する前にこの新しい情報を<u>じっくり考えたい</u>と思います。
+J-2: アイデアを<u>じっくり考えて</u>、次のプロジェクトのためにブレストを行いましょう。
+J-3: 問題が複雑なので、解決策を考えるためにしばらく<u>じっくり考える必要があります</u>。

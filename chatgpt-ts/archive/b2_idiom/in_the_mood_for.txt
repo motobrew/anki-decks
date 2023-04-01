@@ -1,0 +1,11 @@
+# Key:in the mood for
+## Response
+### English Sentences
+E-1: I'm <u>in the mood for</u> some ice cream, let's go get some.
+E-2: She's not <u>in the mood for</u> socializing tonight, so she's staying in.
+E-3: He's always <u>in the mood for</u> a good cup of coffee in the morning.
+
+### Japanese Translation
+J-1: アイスクリームが食べたい気分なんだ、一緒に買いに行こう。
+J-2: 今夜は社交する気分じゃないので、家にいます。
+J-3: 彼は毎朝、美味しいコーヒーの気分です。

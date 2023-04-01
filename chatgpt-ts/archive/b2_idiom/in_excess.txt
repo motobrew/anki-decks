@@ -1,0 +1,11 @@
+# Key:in excess
+## Response
+### English Sentences
+E-1: Eating in excess can lead to health problems like obesity and diabetes.
+E-2: The party guests consumed alcohol in excess and caused a disturbance.
+E-3: The company's expenses were in excess of its income, leading to financial troubles.
+
+### Japanese Translation
+J-1: 過剰に食べることは、肥満や糖尿病などの健康問題を引き起こす可能性があります。
+J-2: パーティーの招待客がアルコールを過剰に摂取し、騒ぎを引き起こしました。
+J-3: その企業の支出は収入を超えており、財政難を引き起こしました。

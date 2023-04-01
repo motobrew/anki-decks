@@ -1,0 +1,11 @@
+# Key:down the drain
+## Response
+### English Sentences
+E-1: All of our hard work went <u>down the drain</u> when the project was canceled.
+E-2: I spent all morning cleaning the house, but now it looks like it was all <u>down the drain</u>.
+E-3: After years of saving, I lost all of my money in a bad investment and now it's all <u>down the drain</u>.
+
+### Japanese Translation
+J-1: プロジェクトがキャンセルされた時、私たちのすべての努力が無駄になった。
+J-2: 私は午前中家を掃除したが、今は全てが無駄になったように見える。
+J-3: 数年間貯金したが、悪い投資で全てのお金を失い、今は全てが無駄になった。

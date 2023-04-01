@@ -1,0 +1,11 @@
+# Key:bear down
+## Response
+### English Sentences
+E-1: He had to <u>bear down</u> and focus in order to finish the difficult task.
+E-2: The team needed to <u>bear down</u> and work harder to win the championship.
+E-3: During the storm, we had to <u>bear down</u> and hold onto something sturdy.
+
+### Japanese Translation
+J-1: 彼は難しい仕事を終えるために集中し、<u>力を入れる</u>必要がありました。
+J-2: チームは優勝するために<u>頑張らなければならなかった</u>。
+J-3: 嵐の中で、私たちは<u>力を入れて</u>しっかりした物につかまらなければなりませんでした。

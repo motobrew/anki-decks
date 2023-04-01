@@ -1,0 +1,11 @@
+# Key:in the middle of nowhere
+## Response
+### English Sentences
+E-1: We were lost in the middle of nowhere with no cell service.
+E-2: The cabin was located in the middle of nowhere, surrounded by dense forest.
+E-3: The car broke down in the middle of nowhere, and they had to walk miles to find help.
+
+### Japanese Translation
+J-1: 携帯サービスがなく、どこにいるのかわからなくなってしまいました。
+J-2: その小屋は、密集した森に囲まれた孤立した場所にありました。
+J-3: 車がどこにいるのかわからない場所で故障し、助けを求めるために数マイル歩かなければなりませんでした。

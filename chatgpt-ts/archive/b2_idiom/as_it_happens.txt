@@ -1,0 +1,11 @@
+# Key:as it happens
+## Response
+### English Sentences
+E-1: I wasn't planning on going hiking but <u>as it happens</u>, I have time this weekend.
+E-2: <u>As it happens</u>, I know someone who works at that company.
+E-3: <u>As it happens</u>, I already have plans for Friday night.
+
+### Japanese Translation
+J-1: ハイキングに行く予定はありませんでしたが、<u>実は</u>、今週末時間があります。
+J-2: <u>実は</u>、その会社で働いている知り合いがいます。
+J-3: 金曜日の夜の予定がもうあるので、<u>実は</u>参加できません。

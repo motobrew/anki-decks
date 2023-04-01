@@ -1,0 +1,11 @@
+# Key:trifle with
+## Response
+### English Sentences
+E-1: It's not wise to <u>trifle with</u> dangerous animals like lions and tigers.
+E-2: He warned them not to <u>trifle with</u> his feelings, or there would be consequences.
+E-3: The boss made it clear that he would not tolerate anyone <u>trifling with</u> company resources.
+
+### Japanese Translation
+J-1: ライオンやトラなどの危険な動物を<u>軽視する</u>のは賢明ではありません。
+J-2: 彼は彼らに彼の感情を<u>軽んじる</u>なと警告し、そうでなければ結果があると述べました。
+J-3: 上司は、誰もが会社の資源を<u>軽視する</u>ことを容認しないことを明確にしました。

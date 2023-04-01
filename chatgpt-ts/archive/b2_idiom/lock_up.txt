@@ -1,0 +1,11 @@
+# Key:lock up
+## Response
+### English Sentences
+E-1: Don't forget to <u>lock up</u> the bikes before leaving the park.
+E-2: The store owner will <u>lock up</u> the shop after closing time.
+E-3: It's important to <u>lock up</u> your wallet in crowded areas.
+
+### Japanese Translation
+J-1: 公園を出る前に自転車を<u>施錠</u>するのを忘れないでください。
+J-2: 店主は閉店後に店を<u>施錠</u>します。
+J-3: 混雑した場所で財布を<u>施錠</u>することは重要です。

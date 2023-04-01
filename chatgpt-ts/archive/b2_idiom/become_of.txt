@@ -1,0 +1,11 @@
+# Key:become of
+## Response
+### English Sentences
+E-1: I wonder what will <u>become of</u> him now that he's lost his job.
+E-2: The old house has been abandoned for years, and nobody knows what will <u>become of</u> it.
+E-3: If you don't take care of your health, you never know what might <u>become of</u> you.
+
+### Japanese Translation
+J-1: 彼は仕事を失ったので、これから彼はどう<u>なる</u>のかと思います。
+J-2: その古い家は何年も放置されており、誰もそれがどう<u>なる</u>かわかりません。
+J-3: 健康に注意しないと、どう<u>なる</u>かわかりません。

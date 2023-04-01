@@ -1,0 +1,11 @@
+# Key:crop up
+## Response
+### English Sentences
+E-1: Problems always <u>crop up</u> when we least expect them.
+E-2: A few issues <u>cropped up</u> during the process, but we managed to resolve them.
+E-3: The topic of climate change tends to <u>crop up</u> in many political discussions.
+
+### Japanese Translation
+J-1: 問題はいつも予期せず現れます。
+J-2: プロセス中にいくつかの問題が<u>浮かび上がりました</u>が、解決することができました。
+J-3: 気候変動のトピックは多くの政治的議論に<u>現れる</u>傾向があります。

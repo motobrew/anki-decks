@@ -1,0 +1,11 @@
+# Key:all told
+## Response
+### English Sentences
+E-1: <u>All told</u>, I spent about $500 on my trip to New York City.
+E-2: There were 10 people at the party, <u>all told</u>, including the host.
+E-3: <u>All told</u>, the project took about six months to complete.
+
+### Japanese Translation
+J-1: ニューヨーク旅行に<u>合計して</u>、私は約500ドルを使いました。
+J-2: ホストを含め、パーティーには<u>全員合わせて</u>10人いました。
+J-3: <u>全部で</u>、そのプロジェクトには約6か月かかりました。

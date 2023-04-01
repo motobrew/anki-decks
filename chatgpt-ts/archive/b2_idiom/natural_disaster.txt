@@ -1,0 +1,11 @@
+# Key:natural disaster
+## Response
+### English Sentences
+E-1: The town was devastated by a <u>natural disaster</u> when a hurricane hit last month.
+E-2: The government has allocated funds for <u>natural disaster</u> relief efforts.
+E-3: It's important to have an emergency plan in place in case of a <u>natural disaster</u>.
+
+### Japanese Translation
+J-1: 先月のハリケーンにより町は<u>自然災害</u>で壊滅的な被害を受けた。
+J-2: 政府は<u>自然災害</u>救援活動のための資金を割り当てた。
+J-3: <u>自然災害</u>が起こった場合に備えて、緊急時のプランを用意することが重要です。

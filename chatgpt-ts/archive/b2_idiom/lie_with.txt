@@ -1,0 +1,11 @@
+# Key:lie with
+## Response
+### English Sentences
+E-1: The Bible says that a man shall leave his father and mother and <u>lie with</u> his wife.
+E-2: He was accused of <u>lying with</u> his best friend's wife.
+E-3: The atrocity of soldiers <u>lying with</u> women during war is unfortunately not uncommon.
+
+### Japanese Translation
+J-1: 聖書によると、男は父母を離れて妻と<u>夫婦になる</u>べきだと言われています。
+J-2: 彼は親友の妻と<u>交わった</u>として告発されました。
+J-3: 戦争中に兵士が女性と<u>性行為する</u>悲惨な出来事は残念ながら珍しくありません。

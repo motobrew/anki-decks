@@ -1,0 +1,11 @@
+# Key:beyond question
+## Response
+### English Sentences
+E-1: It is <u>beyond question</u> that the Earth orbits around the Sun.
+E-2: His expertise in the field is <u>beyond question</u>.
+E-3: The fact that smoking causes cancer is <u>beyond question</u>.
+
+### Japanese Translation
+J-1: 地球が太陽の周りを公転していることは<u>疑う余地がない</u>。
+J-2: 彼のその分野における専門知識は<u>疑いようがない</u>。
+J-3: 喫煙ががんを引き起こすという事実は<u>疑う余地がない</u>。

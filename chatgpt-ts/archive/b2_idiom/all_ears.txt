@@ -1,0 +1,11 @@
+# Key:all ears
+## Response
+### English Sentences
+E-1: Tell me your secret, I'm <u>all ears</u>.
+E-2: The audience was <u>all ears</u> when the expert speaker started his presentation.
+E-3: I'm <u>all ears</u> if you need someone to talk to.
+
+### Japanese Translation
+J-1: 秘密を教えて、私は耳を<u>傾ける</u>よ。
+J-2: エキスパートがプレゼンを始めると、聴衆は<u>注目して聞いて</u>いました。
+J-3: 話し相手が必要なら、私はいつでも<u>聴いている</u>わ。

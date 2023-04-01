@@ -1,0 +1,11 @@
+# Key:cheat on
+## Response
+### English Sentences
+E-1: I can't believe he would <u>cheat on</u> his girlfriend like that.
+E-2: It's not fair for her to <u>cheat on</u> the exam and still get a good grade.
+E-3: He promised he would never <u>cheat on</u> his diet, but he ate a whole pizza last night.
+
+### Japanese Translation
+J-1: 彼があんなに彼女に<u>浮気する</u>なんて信じられない。
+J-2: 試験で<u>カンニングする</u>のにまだ良い成績を取るのは不公平だ。
+J-3: 彼はダイエットを<u>破る</u>ことを約束したが、昨晩ピザを一枚食べてしまった。

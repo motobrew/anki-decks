@@ -1,0 +1,11 @@
+# Key:in a vacuum
+## Response
+### English Sentences
+E-1: It's hard to evaluate his performance <u>in a vacuum</u>; we need to consider the context and external factors.
+E-2: The experiment produced unexpected results, but we have to remember that it was conducted <u>in a vacuum</u>.
+E-3: It's easy to come up with theoretical ideas <u>in a vacuum</u>, but they might not work in reality.
+
+### Japanese Translation
+J-1: 彼のパフォーマンスを<u>単独で</u>評価するのは難しいです。文脈や外部要因を考慮する必要があります。
+J-2: 実験では予期しない結果が得られましたが、それが<u>単独で</u>行われたことを思い出さなければなりません。
+J-3: 理論的なアイデアは<u>単独で</u>考えることは簡単ですが、現実ではうまくいかないかもしれません。

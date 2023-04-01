@@ -1,0 +1,11 @@
+# Key:spring from
+## Response
+### English Sentences
+E-1: The idea for the new product <u>sprang from</u> a casual conversation between colleagues.
+E-2: His creativity and imagination <u>sprang from</u> his love for reading and writing.
+E-3: The inspiration for the artist's masterpiece <u>sprang from</u> his personal experience and emotions.
+
+### Japanese Translation
+J-1: 新しい製品のアイデアは、同僚たちのカジュアルな会話から<u>生まれた</u>。
+J-2: 彼の創造力と想像力は、読書や書き物への愛から<u>湧き出た</u>ものだ。
+J-3: その芸術家の傑作のインスピレーションは、彼の個人的な経験や感情から<u>生じた</u>。

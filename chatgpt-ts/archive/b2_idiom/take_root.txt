@@ -1,0 +1,11 @@
+# Key:take root
+## Response
+### English Sentences
+E-1: The idea of starting his own business <u>took root</u> in his mind.
+E-2: It may take awhile for these plants to <u>take root</u> in the new soil.
+E-3: The tradition of celebrating Thanksgiving has <u>taken root</u> in many cultures around the world.
+
+### Japanese Translation
+J-1: 彼自身でビジネスを始めるというアイデアが彼の頭に<u>定着しました</u>。
+J-2: これらの植物が新しい土壌に<u>根付く</u>にはしばらく時間がかかるかもしれません。
+J-3: 感謝祭を祝う伝統は、世界中の多くの文化において<u>根付いています</u>。

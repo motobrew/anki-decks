@@ -1,0 +1,11 @@
+# Key:pick up the tab
+## Response
+### English Sentences
+E-1: Let me <u>pick up the tab</u> for dinner tonight, it's my treat.
+E-2: He always insists on <u>picking up the tab</u> when we go out together.
+E-3: I don't mind <u>picking up the tab</u> for drinks, as long as everyone chips in later.
+
+### Japanese Translation
+J-1: 今晩のディナーは私が<u>おごります</u>。私のおごりですから。
+J-2: 二人で外食に行く時、いつも彼が<u>おごってくれる</u>。
+J-3: 飲み会の<u>支払いを立て替える</u>のは構わない、後でみんなでお金を出し合ってね。

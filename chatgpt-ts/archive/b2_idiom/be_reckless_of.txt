@@ -1,0 +1,11 @@
+# Key:be reckless of
+## Response
+### English Sentences
+E-1: Don't <u>be reckless of</u> your safety and wear a helmet while riding a bike.
+E-2: You should not <u>be reckless of</u> other people's feelings when you speak.
+E-3: In cooking, never <u>be reckless of</u> the amount of salt you add to a dish.
+
+### Japanese Translation
+J-1: 自転車に乗る時はヘルメットを着用して、自分の安全を<u>無謀にすることは</u>しないでください。
+J-2: 人と話をする時、相手の気持ちを思いやらず<u>無謀にすることは</u>してはいけません。
+J-3: 料理で調味料の量を<u>無謀にすることは</u>絶対に避けてください。

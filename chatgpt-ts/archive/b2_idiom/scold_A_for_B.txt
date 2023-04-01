@@ -1,0 +1,11 @@
+# Key:scold A for B
+## Response
+### English Sentences
+E-1: It's not fair to always <u>scold me for</u> being late when the traffic is out of my control.
+E-2: I was <u>scolded for</u> not double-checking my math before submitting the report.
+E-3: The teacher will <u>scold the student for</u> talking during class.
+
+### Japanese Translation
+J-1: 交通渋滞が私のコントロール外の場合、常に遅れたことで<u>しかられる</u>のは公平ではありません。
+J-2: レポートを提出する前に数学を再度確認しなかったことで<u>叱責された</u>。
+J-3: 先生は授業中に話をしたことで生徒を<u>しかる</u>でしょう。

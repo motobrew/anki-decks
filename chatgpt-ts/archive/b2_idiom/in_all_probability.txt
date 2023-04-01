@@ -1,0 +1,11 @@
+# Key:in all probability
+## Response
+### English Sentences
+E-1: In all probability, it will rain tomorrow so don't forget to bring an umbrella.
+E-2: In all probability, the new restaurant will be very popular because of its unique menu.
+E-3: In all probability, the company will announce a new product launch in the coming weeks.
+
+### Japanese Translation
+J-1: ほぼ間違いなく、明日は雨が降るので傘を持って行くのを忘れないでください。
+J-2: 大変珍しいメニューのおかげで、その新しいレストランはほぼ間違いなく人気になるでしょう。
+J-3: おそらくその会社は近々新製品の発売を発表するでしょう。

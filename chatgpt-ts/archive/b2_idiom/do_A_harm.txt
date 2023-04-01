@@ -1,0 +1,11 @@
+# Key:do A harm
+## Response
+### English Sentences
+E-1: Smoking in the restaurant will <u>do harm</u> to other customers' health.
+E-2: Gossiping about others can <u>do harm</u> to their reputation and relationships.
+E-3: Drinking and driving can <u>do harm</u> not only to yourself but also to innocent people on the road.
+
+### Japanese Translation
+J-1: レストランでの喫煙は他のお客様の健康に<u>害を与えます</u>。
+J-2: 他人の噂話をすると、彼らの評判や人間関係に<u>悪影響を与えることがあります</u>。
+J-3: 酒気帯び運転は、自分自身だけでなく道路上の無関係な人々に<u>害を与えることがあります</u>。

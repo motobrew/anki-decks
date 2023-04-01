@@ -1,0 +1,11 @@
+# Key:fall victim to
+## Response
+### English Sentences
+E-1: It's easy to <u>fall victim to</u> scams if you aren't careful with your personal information.
+E-2: Many people <u>fall victim to</u> addiction without even realizing it.
+E-3: Don't <u>fall victim to</u> procrastination - start working on your project now.
+
+### Japanese Translation
+J-1: 個人情報に注意を払わないと、簡単に詐欺に<u>遭う</u>ことがあります。
+J-2: 多くの人が、自覚することなく中毒に<u>陥る</u>ことがあります。
+J-3: だらだらする<u>癖</u>には注意して、今すぐプロジェクトに取り組み始めましょう。

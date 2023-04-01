@@ -1,0 +1,11 @@
+# Key:inflict A on B
+## Response
+### English Sentences
+E-1: The bully tried to <u>inflict pain</u> on the victim by hitting him repeatedly.
+E-2: I don't want to <u>inflict my problems</u> on my friends by constantly complaining to them.
+E-3: The boss threatened to <u>inflict punishment</u> on the employee who arrived late again.
+
+### Japanese Translation
+J-1: いじめっ子は、被害者に何度も殴って痛みを<u>与えよう</u>としました。
+J-2: 私は友達に愚痴を言い続けることで、自分の問題を<u>押し付け</u>ることはしたくありません。
+J-3: 上司は、再び遅刻した従業員に<u>罰を与える</u>と脅しました。

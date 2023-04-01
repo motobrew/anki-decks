@@ -1,0 +1,11 @@
+# Key:refrain from
+## Response
+### English Sentences
+E-1: Please <u>refrain from</u> using your phone during the movie.
+E-2: We should <u>refrain from</u> making assumptions before we have all the facts.
+E-3: The doctor advised me to <u>refrain from</u> eating spicy food while I recover.
+
+### Japanese Translation
+J-1: 映画を見る間は携帯電話の使用を<u>控えて</u>ください。
+J-2: 事実を全て把握する前には、<u>推測しないように</u>しましょう。
+J-3: 医師は私が回復する間、辛い食べ物を<u>控えるように</u>勧めました。

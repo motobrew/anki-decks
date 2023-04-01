@@ -1,0 +1,11 @@
+# Key:want for
+## Response
+### English Sentences
+E-1: I have a strong <u>want for</u> chocolate right now.
+E-2: She has a <u>want for</u> adventure and travel in her heart.
+E-3: His <u>want for</u> success has driven him to work hard every day.
+
+### Japanese Translation
+J-1: 今、チョコレートが欲しいという<strong><u>願望</u></strong>が強いです。
+J-2: 彼女は冒険と旅行に対する<strong><u>願望</u></strong>が心にある。
+J-3: 彼の<strong><u>欲望</u></strong>は成功に向かうために彼を毎日一生懸命働かせています。

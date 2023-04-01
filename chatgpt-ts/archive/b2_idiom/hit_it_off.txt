@@ -1,0 +1,11 @@
+# Key:hit it off
+## Response
+### English Sentences
+E-1: We met at a party and immediately <u>hit it off</u>, talking for hours about our shared love of music.
+E-2: I introduced my friend to my coworker and they really <u>hit it off</u>, bonding over their similar hobbies.
+E-3: I was nervous to meet my partner's family, but luckily we <u>hit it off</u> and had a great time together.
+
+### Japanese Translation
+J-1: パーティーで出会ってすぐに音楽の共通の好きな点について話して、すぐに打ち解けた。
+J-2: 私の友達と職場の同僚を紹介したら、趣味が似ていてすぐに打ち解けた。
+J-3: パートナーの家族に会うのが緊張したけど、打ち解けて楽しい時間を過ごせた。

@@ -1,0 +1,11 @@
+# Key:land A with B
+## Response
+### English Sentences
+E-1: The airline landed the plane with a gentle touch on the runway.
+E-2: The athlete landed the high jump with perfect form.
+E-3: The fisherman landed a huge catch with his fishing rod.
+
+### Japanese Translation
+J-1: 航空会社は飛行機を滑走路に優しく<u>着陸</u>させました。
+J-2: そのアスリートは完璧なフォームで高跳びに<u>着地</u>しました。
+J-3: その漁師は釣竿で巨大な獲物を<u>獲得</u>しました。

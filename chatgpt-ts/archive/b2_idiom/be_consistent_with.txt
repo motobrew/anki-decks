@@ -1,0 +1,11 @@
+# Key:be consistent with
+## Response
+### English Sentences
+E-1: To maintain credibility, your actions must <u>be consistent with</u> your words. 
+E-2: It's important to <u>be consistent with</u> your workout routine in order to see results. 
+E-3: The company policies should <u>be consistent with</u> the overall mission and values. 
+
+### Japanese Translation
+J-1: 信頼性を維持するためには、あなたの行動は言葉に<u>一致している</u>必要があります。
+J-2: 結果を見るためには、あなたのトレーニングルーティンに<u>一貫性</u>が必要です。
+J-3: 企業の方針は、全体的なミッションと価値観と<u>一致している</u>必要があります。

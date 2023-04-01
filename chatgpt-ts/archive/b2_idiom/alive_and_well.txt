@@ -1,0 +1,11 @@
+# Key:alive and well
+## Response
+### English Sentences
+E-1: Despite the rumors, I can assure you that our company is <u>alive and well</u>. 
+E-2: Even after the earthquake, the city's infrastructure is <u>alive and well</u>. 
+E-3: I saw my old friend at the reunion and he was <u>alive and well</u>.
+
+### Japanese Translation
+J-1: 噂にもかかわらず、私たちの会社は<b>元気</b>そのものです。
+J-2: 地震後でも、市のインフラは<b>無事</b>です。
+J-3: 再会したクラスメートは<b>健在</b>でした。

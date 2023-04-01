@@ -1,0 +1,11 @@
+# Key:drink up
+## Response
+### English Sentences
+E-1: It's getting late, we should <u>drink up</u> and head home.
+E-2: The bartender yelled, "Last call! <u>Drink up</u> or go home!"
+E-3: I have to <u>drink up</u> this water bottle before getting on the plane.
+
+### Japanese Translation
+J-1: 遅くなってきたから、 <u>飲み干して</u> 帰りましょう。
+J-2: バーテンダーは大声で言いました、「ラストオーダー！ <u>飲み干して</u> 帰るか、そうでなければ出て行け！」
+J-3: 飛行機に乗る前に、この水筒を<u>飲み干さなければなりません</u>。

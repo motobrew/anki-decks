@@ -1,0 +1,11 @@
+# Key:leave off
+## Response
+### English Sentences
+E-1: Please <u>leave off</u> interrupting me while I'm speaking.
+E-2: I'll have to <u>leave off</u> working on this project until I get more information.
+E-3: He had to <u>leave off</u> his hobbies when he started his new job.
+
+### Japanese Translation
+J-1: 話しているときに中断しないで<u>やめてください</u>。
+J-2: もっと情報が揃うまで、このプロジェクトを<u>中止しなければなりません</u>。
+J-3: 彼は新しい仕事を始めた時、彼の趣味を<u>やめなければならなかった</u>。

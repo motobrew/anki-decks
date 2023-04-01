@@ -1,0 +1,11 @@
+# Key:be in for
+## Response
+### English Sentences
+E-1: You're going to <u>be in for</u> a treat - this restaurant has amazing food!
+E-2: We're headed towards a storm, so it looks like we're <u>in for</u> a rough ride.
+E-3: If you don't study, you're <u>in for</u> a failing grade on the exam.
+
+### Japanese Translation
+J-1: おいしい料理があるので、楽しみにしてください。 
+J-2: 嵐に向かっているので、激しい乗り物になりそうです。 
+J-3: 勉強しなければ、試験で失敗することになります。

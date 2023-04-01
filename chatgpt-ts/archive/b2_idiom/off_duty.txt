@@ -1,0 +1,11 @@
+# Key:off duty
+## Response
+### English Sentences
+E-1: The doctor was <u>off duty</u> when the patient arrived at the hospital.
+E-2: I like to wear comfortable clothes when I'm <u>off duty</u> on weekends.
+E-3: The firefighter was called in to work even though he was <u>off duty</u>.
+
+### Japanese Translation
+J-1: 患者が病院に到着したとき、医者は<u>休暇中</u>でした。
+J-2: 週末に<u>休暇中</u>のときは、快適な服装を好みます。
+J-3: 消防士は<u>休日中</u>であっても出勤を呼び出されました。

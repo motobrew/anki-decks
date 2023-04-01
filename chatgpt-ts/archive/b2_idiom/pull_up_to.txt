@@ -1,0 +1,11 @@
+# Key:pull up to
+## Response
+### English Sentences
+E-1: We need to <u>pull up to</u> the gas station to fill up the tank.
+E-2: The limousine will <u>pull up to</u> the red carpet for the celebrity to exit.
+E-3: Let's <u>pull up to</u> the restaurant and grab some food.
+
+### Japanese Translation
+J-1: タンクを満タンにするために、ガソリンスタンドに<u>寄る</u>必要があります。
+J-2: 芸能人が降りるために、リムジンは赤いじゅうたんに<u>停車</u>します。
+J-3: レストランに<u>寄って</u>、食べ物を買いましょう。

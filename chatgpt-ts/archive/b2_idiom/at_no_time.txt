@@ -1,0 +1,11 @@
+# Key:at no time
+## Response
+### English Sentences
+E-1: At no time should you leave your luggage unattended in a public place.
+E-2: At no time did I doubt her ability to succeed in her career.
+E-3: At no time should you drive a car under the influence of alcohol.
+
+### Japanese Translation
+J-1: 公共の場所で荷物を放置することは<u>決して</u>ありません。
+J-2: 彼女のキャリア成功については、<u>いかなる時も</u>疑問を抱いたことはありませんでした。
+J-3: アルコールの影響下で車を運転することは<u>いかなる時も</u>ありません。

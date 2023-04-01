@@ -1,0 +1,11 @@
+# Key:complain of
+## Response
+### English Sentences
+E-1: Many patients <u>complain of</u> headaches after surgery.
+E-2: Employees <u>complain of</u> unfair treatment from their boss.
+E-3: Some customers <u>complain of</u> poor quality products from this company.
+
+### Japanese Translation
+J-1: 多くの患者さんは手術後に頭痛を<u>訴えています</u>。
+J-2: 従業員たちは上司からの不公平な扱いに<u>不満を抱いています</u>。
+J-3: この会社からの商品の品質が悪いと<u>文句を言う</u>顧客もいます。

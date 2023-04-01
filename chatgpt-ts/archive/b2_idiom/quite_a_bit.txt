@@ -1,0 +1,11 @@
+# Key:quite a bit
+## Response
+### English Sentences
+E-1: I've been going to the gym <u>quite a bit</u> lately, trying to improve my overall fitness.
+E-2: My boss has been traveling <u>quite a bit</u> for work, leaving me in charge of the office.
+E-3: We saved <u>quite a bit</u> of money by cooking at home instead of eating out every night.
+
+### Japanese Translation
+J-1: 最近、私はジムに<u>けっこう頻繁に</u>通って、全体的なフィットネスを向上させようとしています。
+J-2: 私の上司は仕事のために<u>かなり頻繁に</u>旅行しており、私が事務所の責任者になっています。
+J-3: 毎晩外食ではなく家で料理することによって、私たちは<u>けっこうたくさん</u>のお金を節約しました。

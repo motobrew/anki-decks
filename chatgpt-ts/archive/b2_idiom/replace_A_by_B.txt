@@ -1,0 +1,11 @@
+# Key:replace A by B
+## Response
+### English Sentences
+E-1: Please <u>replace</u> the light bulb in the hallway with a new one.
+E-2: The company decided to <u>replace</u> their old computer system with a new one.
+E-3: My sister wants to <u>replace</u> her old phone with the latest model.
+
+### Japanese Translation
+J-1: 廊下の電球を新しいものに<u>取り替えて</u>ください。
+J-2: 会社は古いコンピューターシステムを新しいものに<u>入れ替える</u>ことに決めました。
+J-3: 妹は最新の携帯電話に古いものを<u>交換</u>したがっています。

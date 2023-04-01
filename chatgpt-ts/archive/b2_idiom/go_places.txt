@@ -1,0 +1,11 @@
+# Key:go places
+## Response
+### English Sentences
+E-1: With your talent and drive, you're sure to <u>go places</u> in your career.
+E-2: Traveling around the world has always been my dream, I want to <u>go places</u> and experience different cultures.
+E-3: If you want to <u>go places</u>, you have to step out of your comfort zone and take risks.
+
+### Japanese Translation
+J-1: あなたの才能と努力で、あなたのキャリアで必ず<u>成功</u>します。
+J-2: 世界中を旅することが私の夢です、<u>経験</u>を積んで様々な文化を知りたいです。
+J-3: もし成功したいと思うなら、自分の居心地のいい場所から出てリスクを<u>取る</u>必要があります。

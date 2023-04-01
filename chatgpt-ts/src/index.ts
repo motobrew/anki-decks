@@ -11,17 +11,22 @@ const openai = new OpenAIApi(configuration);
 export async function ask(question: string, model = "gpt-3.5-turbo-0301") {
 
   const content = `
-  give me 3 sentences using "${question}"
-  and use the following format
+  I'm learning English slang.
+  give me 3 sentences using "${question}" as slang,
+  and put into 2 sections: English sentences and Japanese translation
+  then enclose query keywords in <u> tags
+  like the following format
+
   ## Response
   ### English Sentences
-  E-1: I am so happy to be spending time with my friends today.
-  E-2: Seeing my dog wag his tail always makes me feel so happy.
-  E-3: The happiest moments of my life have been spent with my family.
-  ### Japanese Translation:
-  J-1: 私は今日友達と過ごせてとても幸せです。
-  J-2: 私の犬が尻尾を振るのを見ると、いつも幸せな気持ちになります。
-  J-3: 私の人生で最も幸せだった瞬間は家族と過ごしたものです。
+  E-1: Don't forget to <u>lock up</u> the doors before you leave the house.
+  E-2: The security guard will <u>lock up</u> the building at 10 PM every night.
+  E-3: The police will <u>lock up</u> the criminals in jail.
+  
+  ### Japanese Translation
+  J-1: 家を出る前にドアを<u>施錠</u>するのを忘れないでください。
+  J-2: セキュリティーガードは毎晩10時に建物を<u>施錠</u>します。
+  J-3: 警察は犯罪者を刑務所に<u>監禁</u>します。
   `;
 
   const response = await openai.createChatCompletion({

@@ -1,0 +1,11 @@
+# Key:way to go
+## Response
+### English Sentences
+E-1: <u>Way to go!</u> You just aced your test!
+E-2: I heard you got that promotion. <u>Way to go!</u>
+E-3: <u>Way to go, team!</u> We won the championship game!
+
+### Japanese Translation
+J-1: よくやった！あなたはテストをうまくやり遂げました。
+J-2: 昇進を手に入れたんだって。よくやった！
+J-3: チームの皆、よくやった！チャンピオンシップゲームに勝ちました！

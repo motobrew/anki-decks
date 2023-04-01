@@ -1,0 +1,11 @@
+# Key:rank and file
+## Response
+### English Sentences
+E-1: The <u>rank and file</u> employees are the backbone of this company.
+E-2: The <u>rank and file</u> members of the political party are calling for change.
+E-3: The CEO met privately with the <u>rank and file</u> union members to discuss their concerns.
+
+### Japanese Translation
+J-1: 一般社員はこの会社の中核です。
+J-2: 政党の一般党員は変革を求めています。
+J-3: CEOは一般組合員と個別に会って、彼らの懸念について話し合いました。

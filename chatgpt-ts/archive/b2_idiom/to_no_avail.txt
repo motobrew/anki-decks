@@ -1,0 +1,11 @@
+# Key:to no avail
+## Response
+### English Sentences
+E-1: She tried to fix the broken vase, but to <u>no avail</u>. 
+E-2: The workers attempted to start the machine, but to <u>no avail</u>. 
+E-3: He searched all night for his lost keys, but to <u>no avail</u>.
+
+### Japanese Translation
+J-1: 壊れた花瓶を修理しようとしたが、<u>手間ひまかけても</u>直らなかった。
+J-2: 作業員たちは機械を起動しようと試みたが、<u>何度やっても</u>うまくいかなかった。
+J-3: 彼は一晩中失くした鍵を探し回ったが、<u>どこにも見つからなかった。</u>

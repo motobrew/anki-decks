@@ -1,0 +1,11 @@
+# Key:lay in
+## Response
+### English Sentences
+E-1: I felt sick this morning so I decided to <u>lay in</u> bed for a few more hours.
+E-2: The cat likes to <u>lay in</u> the sunbeam coming through the window.
+E-3: On my day off, I like to <u>lay in</u> and read a book.
+
+### Japanese Translation
+J-1: この朝気分が悪かったので、もう数時間ベッドで<u>横になる</u>ことにしました。
+J-2: 猫は窓から差し込む日差しの中で<u>寝そべる</u>のが好きです。
+J-3: 休日には、<u>横になって</u>本を読むのが好きです。

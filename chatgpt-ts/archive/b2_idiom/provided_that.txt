@@ -1,0 +1,11 @@
+# Key:provided that
+## Response
+### English Sentences
+E-1: You may borrow my car <u>provided that</u> you return it by 5 PM.
+E-2: <u>Provided that</u> the weather is nice, we can have a picnic in the park tomorrow.
+E-3: You can bring a guest <u>provided that</u> you inform me in advance.
+
+### Japanese Translation
+J-1: 5時までに返却する<u>条件で</u>、私の車を借りても構いません。
+J-2: 天気が良ければ、明日は公園でピクニックをすることができます<u>条件付きで</u>。
+J-3: 前もって私に知らせる<u>条件で</u>、ゲストを連れてきても構いません。

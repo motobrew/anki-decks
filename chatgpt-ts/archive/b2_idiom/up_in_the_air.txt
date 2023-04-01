@@ -1,0 +1,11 @@
+# Key:up in the air
+## Response
+### English Sentences
+E-1: The future of the company is still <u>up in the air</u> due to the economic downturn.
+E-2: We haven't decided on a date for the party yet, so it's <u>up in the air</u> at the moment.
+E-3: The airline hasn't confirmed the flight schedule, so our vacation plans are still <u>up in the air</u>.
+
+### Japanese Translation
+J-1: 経済的な不況のため、会社の未来はまだ<u>不確定</u>です。
+J-2: パーティーの日程をまだ決めていないので、現在は<u>未定</u>です。
+J-3: 航空会社はフライトスケジュールを確認していないため、私たちのバケーションプランはまだ<u>決まっていません</u>。

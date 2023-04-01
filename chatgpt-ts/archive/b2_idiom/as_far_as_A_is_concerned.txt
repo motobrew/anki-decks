@@ -1,0 +1,11 @@
+# Key:as far as A is concerned
+## Response
+### English Sentences
+E-1: As far as John is concerned, he doesn't want to go to the party tonight.
+E-2: As far as grades are concerned, she always earns A's in her classes.
+E-3: As far as I am concerned, this is the best pizza in town.
+
+### Japanese Translation
+J-1: ジョンに関して言えば、彼は今夜のパーティーに行きたくないと思っています。
+J-2: 成績に関して言えば、彼女は常に授業でAの成績を取ります。
+J-3: 私に関して言えば、これはこの町で最高のピザだと思っています。

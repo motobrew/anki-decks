@@ -1,0 +1,11 @@
+# Key:take up with
+## Response
+### English Sentences
+E-1: He has <u>taken up with</u> a new group of friends and doesn't have time for us anymore.
+E-2: She decided to <u>take up with</u> her ex-boyfriend again, even though her friends warned her not to.
+E-3: After his divorce, he started to <u>take up with</u> a younger woman.
+
+### Japanese Translation
+J-1: 彼は新しい友達グループと<u>つるむようになり</u>、もう私たちのことに時間を割けなくなった。
+J-2: 彼女は元彼と<u>また付き合うことに決め</u>たが、友達が止めるのを無視した。
+J-3: 離婚後、彼は年下の女性と<u>つきあい始めた。</u>

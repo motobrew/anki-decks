@@ -1,0 +1,11 @@
+# Key:bestow A on B
+## Response
+### English Sentences
+E-1: The king decided to <u>bestow</u> a title upon his loyal servant.
+E-2: The university will <u>bestow</u> an honorary degree upon the renowned scholar.
+E-3: The wealthy businessman promised to <u>bestow</u> a large donation upon the charity organization.
+
+### Japanese Translation
+J-1: 王は彼の忠実な使用人に称号を<u>授与</u>することを決めました。
+J-2: 大学は著名な学者に名誉学位を<u>授与</u>する予定です。
+J-3: 裕福な実業家は慈善団体に大口寄付を<u>贈る</u>と約束しました。

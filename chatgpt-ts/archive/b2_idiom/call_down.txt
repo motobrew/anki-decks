@@ -1,0 +1,11 @@
+# Key:call down
+## Response
+### English Sentences
+E-1: The teacher had to <u>call down</u> the rowdy students in the classroom.
+E-2: The manager had to <u>call down</u> the employee for being late to work.
+E-3: The coach had to <u>call down</u> the players for not following the game plan.
+
+### Japanese Translation
+J-1: 先生は騒がしい生徒たちを<u>静める</u>必要があった。
+J-2: マネージャーは仕事に遅れた従業員を<u>叱りつける</u>必要があった。
+J-3: コーチは選手たちがゲームプランに従っていないため、<u>叱りつける</u>必要があった。

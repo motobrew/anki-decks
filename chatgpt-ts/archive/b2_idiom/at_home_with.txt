@@ -1,0 +1,11 @@
+# Key:at home with
+## Response
+### English Sentences
+E-1: I feel <u>at home with</u> my coworkers, we always have a good time together.
+E-2: My grandmother is <u>at home with</u> technology and uses social media all the time.
+E-3: As an artist, I am <u>at home with</u> expressing myself through my work.
+
+### Japanese Translation
+J-1: 同僚たちと一緒にいるととても居心地が良く、いつも楽しい時間を過ごせます。
+J-2: 私の祖母はテクノロジーに慣れており、いつもSNSを利用しています。
+J-3: 私は芸術家として、自分の作品を通じて自己表現をするのが得意です。

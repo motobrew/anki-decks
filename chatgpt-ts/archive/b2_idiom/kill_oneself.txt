@@ -1,0 +1,11 @@
+# Key:kill oneself
+## Response
+### English Sentences
+E-1: Suicide is never the answer, please seek help if you are feeling the urge to <u>kill oneself</u>.
+E-2: The high-pressure work environment was so unbearable that he felt he wanted to <u>kill himself</u>.
+E-3: The tragic news of the young man who decided to <u>kill himself</u> shocked the entire community.
+
+### Japanese Translation
+J-1: 自殺は決して正解ではありません。自殺したいと感じる場合は、すぐに助けを求めてください。
+J-2: 高圧的な職場環境は耐え難く、彼は自分で<u>命を絶とうと思った</u>。
+J-3: 自殺を決意した若い男性の悲劇的なニュースは、コミュニティ全体をショックで包みました。

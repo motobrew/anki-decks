@@ -1,0 +1,11 @@
+# Key:ring a bell
+## Response
+### English Sentences
+E-1: The name sounds familiar, but it doesn't <u>ring a bell</u>.
+E-2: When I mentioned the party, it seemed to <u>ring a bell</u> for her.
+E-3: The concept of mindfulness may <u>ring a bell</u> for people who practice yoga or meditation.
+
+### Japanese Translation
+J-1: その名前は聞いたことがあるような気がするけど、ピンとこない。
+J-2: パーティーのことを言ったら、彼女の中で何か思い出されたみたいだった。
+J-3: マインドフルネスの概念は、ヨガや瞑想を実践している人に<u>馴染みがある</u>かもしれない。

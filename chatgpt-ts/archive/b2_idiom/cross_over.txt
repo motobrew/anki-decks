@@ -1,0 +1,11 @@
+# Key:cross over
+## Response
+### English Sentences
+E-1: The basketball player has amazing skills to <u>cross over</u> the defenders and score points. 
+E-2: The bridge was built to <u>cross over</u> the river and connect the two towns. 
+E-3: Many car manufacturers are starting to <u>cross over</u> and produce electric vehicles. 
+
+### Japanese Translation
+J-1: バスケットボール選手は素晴らしいスキルを持ち、ディフェンダーを<u>クロスオーバー</u>して得点します。
+J-2: 橋が建設され、川を<u>渡って</u>2つの町をつなげました。
+J-3: 多くの自動車メーカーが<u>クロスオーバー</u>し、電気自動車を生産し始めています。

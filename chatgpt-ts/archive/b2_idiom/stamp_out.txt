@@ -1,0 +1,11 @@
+# Key:stamp out
+## Response
+### English Sentences
+E-1: The government is committed to <u>stamp out</u> corruption in all sectors.
+E-2: She has dedicated her life to <u>stamp out</u> child labor in her country.
+E-3: The environmentalists are working tirelessly to <u>stamp out</u> the illegal wildlife trade.
+
+### Japanese Translation
+J-1: 政府は全ての分野で汚職を<u>取り除く</u>ことを約束しています。
+J-2: 彼女は自国の児童労働を<u>撲滅する</u>ために生涯を捧げています。
+J-3: 環境保護団体は違法な野生生物取引を<u>根絶する</u>ために熱心に取り組んでいます。

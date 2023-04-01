@@ -1,0 +1,11 @@
+# Key:pop up
+## Response
+### English Sentences
+E-1: A notification <u>pop up</u> appeared on my computer screen.
+E-2: The store owners decided to create a <u>pop up</u> shop for the holiday season.
+E-3: I was reading an article online when an ad <u>pop up</u> interrupted me.
+
+### Japanese Translation
+J-1: コンピューター画面に通知の<u>ポップアップ</u>が表示されました。
+J-2: 店舗オーナーは、ホリデーシーズンに向けて<u>ポップアップ</u>ショップを作ることに決めました。
+J-3: オンライン記事を読んでいたら、広告の<u>ポップアップ</u>が割り込んできました。

@@ -1,0 +1,11 @@
+# Key:be badly off
+## Response
+### English Sentences
+E-1: After losing his job, John found himself <u>badly off</u> and struggling to pay his bills.
+E-2: The neighborhood that was once prosperous is now <u>badly off</u> due to the economic downturn.
+E-3: Without proper funding, the school will be <u>badly off</u> and unable to support extracurricular activities.
+
+### Japanese Translation
+J-1: 仕事を失った後、ジョンは<u>困窮</u>し、請求書を支払うのに苦労しました。
+J-2: かつて繁栄していた地域は、経済の低迷により<u>窮乏</u>しています。
+J-3: 適切な資金を持たなければ、学校は<u>困窮</u>して、課外活動を支援できません。

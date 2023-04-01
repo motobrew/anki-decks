@@ -1,0 +1,11 @@
+# Key:hole up
+## Response
+### English Sentences
+E-1: I need to <u>hole up</u> in my room and study for my final exams.
+E-2: The family decided to <u>hole up</u> in a cabin in the woods for their vacation.
+E-3: The suspect managed to <u>hole up</u> in a nearby building before being apprehended by the police.
+
+### Japanese Translation
+J-1: 最終試験の勉強をするために自分の部屋に<u>籠もる</u>必要がある。
+J-2: 家族はバケーションで森の中の小屋に<u>こもる</u>ことに決めました。
+J-3: 犯人は警察に逮捕される前に近くの建物に<u>潜伏</u>しました。

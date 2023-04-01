@@ -1,0 +1,11 @@
+# Key:take pains
+## Response
+### English Sentences
+E-1: He <u>took pains</u> to make sure the report was accurate and complete.
+E-2: She <u>takes pains</u> to keep her yard immaculate and beautiful.
+E-3: The chef <u>took pains</u> to prepare the meal exactly to the customer's specifications.
+
+### Japanese Translation
+J-1: 彼はレポートが正確かつ完全であることを確認するために<u>手を尽くしました</u>。
+J-2: 彼女は庭を美しく整然と保つよう<u>心がけています</u>。
+J-3: シェフは料理を顧客の要望に正確に<u>合わせるよう心をこめました</u>。

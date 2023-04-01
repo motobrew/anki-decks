@@ -1,0 +1,11 @@
+# Key:make matters worse
+## Response
+### English Sentences
+E-1: I was already running late for work and to <u>make matters worse</u>, I spilled coffee on my shirt.
+E-2: We were lost in the woods and <u>to make matters worse</u>, it started raining heavily.
+E-3: She was sick and couldn't attend the important meeting, and <u>to make matters worse</u>, her laptop crashed.
+
+### Japanese Translation
+J-1: 仕事に遅れていたのに、シャツにコーヒーをこぼした<u>上に</u>、ということで、ますます遅れました。
+J-2: 私たちは森で迷い、<u>さらに悪いことに</u>、大雨が降り始めました。
+J-3: 彼女は病気で重要な会議に参加できず、<u>さらに悪いことに</u>、彼女のラップトップがクラッシュしました。

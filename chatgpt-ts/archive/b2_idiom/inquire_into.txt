@@ -1,0 +1,11 @@
+# Key:inquire into
+## Response
+### English Sentences
+E-1: The government will <u>inquire into</u> the allegations of corruption against the company.
+E-2: The committee was formed to <u>inquire into</u> the cause of the accident.
+E-3: The teacher will <u>inquire into</u> the student's absence from class.
+
+### Japanese Translation
+J-1: 政府はその企業に対する汚職の疑いについて<u>調査</u>する予定です。
+J-2: 事故の原因を<u>調査</u>するために委員会が結成された。
+J-3: 先生は学生の授業欠席について<u>調査</u>する予定です。

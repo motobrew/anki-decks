@@ -1,0 +1,11 @@
+# Key:in so far as
+## Response
+### English Sentences
+E-1: In so far as I know, the meeting has been postponed.
+E-2: The company respects diversity in so far as it doesn't affect the quality of work.
+E-3: I trust him in so far as he's always been honest with me.
+
+### Japanese Translation
+J-1: 私が知っている限り、ミーティングは延期されたそうです。
+J-2: その会社は、仕事の質に影響を与えない限り、多様性を尊重しています。
+J-3: 彼については、いつも私に対して正直であった限り、信頼しています。

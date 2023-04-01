@@ -1,0 +1,11 @@
+# Key:irrespective of
+## Response
+### English Sentences
+E-1: <u>Irrespective of</u> the weather, I always go for a run every morning.
+E-2: The company will hire the most qualified candidate, <u>irrespective of</u> their nationality.
+E-3: We should treat everyone with respect <u>irrespective of</u> their social status.
+
+### Japanese Translation
+J-1: 毎朝走りに行くことは、天気<u>に関係なく</u>常に行います。
+J-2: 会社は最も適任者を採用するでしょう、その人の国籍<u>に関係なく</u>。
+J-3: 私たちは、人々を尊重するべきです。社会的地位<u>に関係なく</u>。

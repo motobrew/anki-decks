@@ -1,0 +1,11 @@
+# Key:be suitable for
+## Response
+### English Sentences
+E-1: This dress may not <u>be suitable for</u> a formal occasion, but it's perfect for a casual outing.
+E-2: The job requires someone who can work flexible hours, so it may <u>not be suitable for</u> those with strict schedules.
+E-3: This medication may <u>not be suitable for</u> people with certain allergies or medical conditions.
+
+### Japanese Translation
+J-1: このドレスは正式な場には<u>適していないかもしれません</u>が、カジュアルな外出にはぴったりです。
+J-2: この仕事は柔軟な時間帯で働ける人を必要とするため、厳格なスケジュールの人には<u>適さない可能性があります</u>。
+J-3: この薬は特定のアレルギーや医療状態を持つ人に<u>適さない可能性があります</u>。

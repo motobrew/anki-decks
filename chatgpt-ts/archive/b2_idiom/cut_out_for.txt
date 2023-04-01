@@ -1,0 +1,11 @@
+# Key:cut out for
+## Response
+### English Sentences
+E-1: This job is not easy. You have to be <u>cut out for</u> it.
+E-2: She knew she wasn't <u>cut out for</u> a career in finance, so she decided to pursue art.
+E-3: He is a great athlete and was <u>cut out for</u> a career in sports.
+
+### Japanese Translation
+J-1: この仕事は簡単ではありません。それには向いている人が必要です。
+J-2: 彼女は自分が金融のキャリアには向いていないことを知っていたので、芸術を追求することにしました。
+J-3: 彼は素晴らしい運動選手で、スポーツのキャリアに向いていました。

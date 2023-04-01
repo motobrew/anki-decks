@@ -1,0 +1,11 @@
+# Key:lean on
+## Response
+### English Sentences
+E-1: Whenever I feel down, I always <u>lean on</u> my best friend for support.
+E-2: You can <u>lean on</u> me for help anytime you need it.
+E-3: During tough times, it's important to <u>lean on</u> your family for emotional support.
+
+### Japanese Translation
+J-1: 自分が気持ちが落ち込んだ時、いつも親友に<u>頼りに</u>しています。
+J-2: 僕に必要なら、いつでも<u>頼りに</u>してください。
+J-3: 困難な時期には、感情的な支援のため家族に<u>頼る</u>ことが重要です。

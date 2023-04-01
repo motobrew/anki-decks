@@ -1,0 +1,11 @@
+# Key:be devoted to
+## Response
+### English Sentences
+E-1: She is <u>devoted to</u> her job and often works late hours.
+E-2: He is <u>devoted to</u> his family and always makes time for them.
+E-3: They are <u>devoted to</u> each other and have been together for over 50 years.
+
+### Japanese Translation
+J-1: 彼女は仕事に<u>献身的</u>で、よく遅くまで働きます。
+J-2: 彼は家族に<u>献身的</u>で、いつでも彼らのための時間を作ります。
+J-3: 彼らはお互いに<u>献身的</u>で、50年以上一緒にいる。

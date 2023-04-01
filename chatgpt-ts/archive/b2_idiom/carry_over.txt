@@ -1,0 +1,11 @@
+# Key:carry over
+## Response
+### English Sentences
+E-1: I have some vacation days left that I can <u>carry over</u> to the next year.
+E-2: The excess budget from this year will <u>carry over</u> to next year's project.
+E-3: The athlete was unable to <u>carry over</u> his success from the previous competition to the current one.
+
+### Japanese Translation
+J-1: 来年に<u>持ち越す</u>ことができる残りの有給休暇があります。
+J-2: 今年の余剰予算は、来年のプロジェクトに<u>繰り越される</u>予定です。
+J-3: 選手は前回の大会での成功を現在の大会に<u>持ち越す</u>ことができませんでした。

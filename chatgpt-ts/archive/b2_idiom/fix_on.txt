@@ -1,0 +1,11 @@
+# Key:fix on
+## Response
+### English Sentences
+E-1: After trying it once, I've gotten a real <u>fix on</u> playing soccer.
+E-2: The detective had a <u>fix on</u> the suspect's whereabouts and was able to apprehend him.
+E-3: She couldn't get a <u>fix on</u> what her boss wanted from her.
+
+### Japanese Translation
+J-1: 一度試した後、サッカーをするのに本当に<u>はまってしまった</u>。
+J-2: 刑事は容疑者の居場所を<u>掴んで</u>、逮捕することができました。
+J-3: 彼女は上司が何を求めているのか<u>つかめなかった</u>。

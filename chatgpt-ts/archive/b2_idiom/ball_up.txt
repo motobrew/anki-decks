@@ -1,0 +1,11 @@
+# Key:ball up
+## Response
+### English Sentences
+E-1: He always <u>ball up</u> his socks and throws them on the floor.
+E-2: If you <u>ball up</u> the paper, it won't fit in the recycling bin.
+E-3: Don't <u>ball up</u> your fists in anger.
+
+### Japanese Translation
+J-1: 彼はいつも靴下を<u>くしゃくしゃ</u>にして床に投げ捨てます。
+J-2: 紙を<u>丸めてしまうと</u>、リサイクルボックスに入らなくなります。
+J-3: 怒りで拳を<u>握りしめないで</u>ください。

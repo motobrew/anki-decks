@@ -1,0 +1,11 @@
+# Key:not absolutely
+## Response
+### English Sentences
+E-1: It's not absolutely necessary to attend the meeting if you have other commitments.
+E-2: I'm not absolutely sure if I left my phone at home or at work.
+E-3: The new policy is not absolutely perfect, but it's a step in the right direction.
+
+### Japanese Translation
+J-1: 他の予定がある場合は会議に<u>必ずしも</u>出席する必要はありません。
+J-2: 自分の携帯電話を家に置いたか、職場に置いたか<u>確実に</u>分かりません。 
+J-3: 新しい政策は<u>完全に</u>完璧ではありませんが、正しい方向に進んでいます。

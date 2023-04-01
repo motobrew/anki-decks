@@ -1,0 +1,11 @@
+# Key:break into tears
+## Response
+### English Sentences
+E-1: When she heard the news, she couldn't help but <u>break into tears</u>.
+E-2: The child was so frightened by the loud noise that he <u>broke into tears</u>.
+E-3: Seeing his longtime friend at the airport after years apart, he <u>broke into tears</u>.
+
+### Japanese Translation
+J-1: 彼女はそのニュースを聞いたとき、思わず<u>涙を流し始めた</u>。
+J-2: 子供は大きな音に驚いて<u>泣きだしてしまった</u>。
+J-3: 友達に長い間会えなかった彼は、空港で再会し<u>涙を流し始めた</u>。

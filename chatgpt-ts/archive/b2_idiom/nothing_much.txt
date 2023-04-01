@@ -1,0 +1,11 @@
+# Key:nothing much
+## Response
+### English Sentences
+E-1: Hey, what's up? "Nothing much, just chilling at home."
+E-2: How was your weekend? "Nothing much, I just stayed in and watched some movies."
+E-3: What's new with you? "Nothing much, same old same old."
+
+### Japanese Translation
+J-1: おい、どうしたの？「何も特にない、ただ家にいてまったりしてるだけだよ。」
+J-2: 週末はどうだった？「特に何もなかったよ、家にいて映画を観てたんだ。」
+J-3: 最近何か新しいことあった？「特に何もないよ、毎日同じような感じだよ。」

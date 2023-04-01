@@ -1,0 +1,11 @@
+# Key:out of the woods
+## Response
+### English Sentences
+E-1: After weeks of studying, I finally passed my final exams and was <u>out of the woods</u>.
+E-2: We were lost in the forest for hours until we found a road and realized we were <u>out of the woods</u>.
+E-3: The doctor said my condition has improved and I am <u>out of the woods</u> now.
+
+### Japanese Translation
+J-1: 何週間も勉強した後、ついに最終試験に合格し、<u>安堵</u>した。
+J-2: 私たちは数時間森で迷っていたが、道を見つけて<u>安心</u>した。
+J-3: 医者が私の状態が改善したと言ったので、もう<u>危機脱し</u>たと思う。

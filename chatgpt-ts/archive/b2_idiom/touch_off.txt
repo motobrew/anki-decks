@@ -1,0 +1,11 @@
+# Key:touch off
+## Response
+### English Sentences
+E-1: The careless smoker accidentally <u>touch off</u> the fire alarm in the building.
+E-2: The athlete's record-breaking performance <u>touched off</u> a wave of celebration among the fans.
+E-3: The controversial remark by the politician <u>touched off</u> a heated debate among the public.
+
+### Japanese Translation
+J-1: 不注意な喫煙者が建物の火災報知器を<u>誤動作</u>させてしまいました。
+J-2: アスリートの記録破りのパフォーマンスがファンたちの祝福の<span style="color: red;">波</span>を<u>引き起こし</u>ました。
+J-3: 政治家の批判的な発言が一般市民の間で激しい論争を<span style="color: red;">引き起こし</span>ました。

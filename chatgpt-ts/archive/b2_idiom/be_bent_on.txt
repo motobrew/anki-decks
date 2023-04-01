@@ -1,0 +1,11 @@
+# Key:be bent on
+## Response
+### English Sentences
+E-1: She is <u>bent on</u> becoming a doctor and is currently studying pre-med.
+E-2: He is <u>bent on</u> winning the competition and has been practicing for months.
+E-3: The company is <u>bent on</u> expanding into international markets.
+
+### Japanese Translation
+J-1: 彼女は医者になることに<u>こだわっていて</u>、現在プレメドを勉強しています。
+J-2: 彼は競技に勝つことに<u>熱心で</u>、数ヶ月間練習しています。
+J-3: 会社は国際市場に<u>進出することに決心して</u>います。

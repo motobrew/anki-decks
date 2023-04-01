@@ -1,0 +1,11 @@
+# Key:lay down
+## Response
+### English Sentences
+E-1: I'm feeling really tired, I think I'm going to <u>lay down</u> for a little while.
+E-2: My cat likes to <u>lay down</u> in the sunbeam coming through the window.
+E-3: Before we start our yoga practice, let's all <u>lay down</u> on our mats and take a few deep breaths. 
+
+### Japanese Translation
+J-1: 今、本当に疲れているから、少し<u>横になろう</u>と思う。
+J-2: 私の猫は窓から差し込む日差しの中で<u>横になる</u>ことが好きです。
+J-3: ヨガの練習を始める前に、まずは皆さん<u>マットの上で横になり</u>深呼吸を数回しましょう。

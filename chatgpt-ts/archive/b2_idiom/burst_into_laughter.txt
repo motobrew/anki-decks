@@ -1,0 +1,11 @@
+# Key:burst into laughter
+## Response
+### English Sentences
+E-1: When the comedian told the joke, the entire audience <u>burst into laughter</u>.
+E-2: I couldn't help but <u>burst into laughter</u> when my nephew told me a funny story.
+E-3: As soon as I walked into the room wearing my silly costume, my friends <u>burst into laughter</u>.
+
+### Japanese Translation
+J-1: コメディアンがジョークを言ったとき、観客全員が<u>笑い出した</u>。
+J-2: 甥っ子が面白い話をしてくれたとき、私はつい<u>笑い出してしまった</u>。
+J-3: 馬鹿げた衣装を着て部屋に入った途端、友達たちは<u>笑い出した</u>。

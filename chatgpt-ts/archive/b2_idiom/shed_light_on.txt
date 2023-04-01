@@ -1,0 +1,11 @@
+# Key:shed light on
+## Response
+### English Sentences
+E-1: The investigation will <u>shed light on</u> the cause of the fire.
+E-2: The report aims to <u>shed light on</u> the impact of climate change on wildlife.
+E-3: The new evidence could <u>shed light on</u> the mystery surrounding the disappearance.
+
+### Japanese Translation
+J-1: 調査は火災の原因に<u>光を当てる</u>ことを目的としています。
+J-2: その報告書は、気候変動が野生生物に与える影響に<u>光を当て</u>ることを目的としています。
+J-3: 新しい証拠が出ると、失踪にまつわる謎に<u>明かりを投げかける</u>ことができます。

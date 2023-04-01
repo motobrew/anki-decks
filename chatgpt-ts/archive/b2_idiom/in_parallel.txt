@@ -1,0 +1,11 @@
+# Key:in parallel
+## Response
+### English Sentences
+E-1: The two projects will be running <u>in parallel</u> to ensure timely completion.
+E-2: The company is seeking to increase profits <u>in parallel</u> with expanding its customer base.
+E-3: The development team is working <u>in parallel</u> to launch the new software and fix any bugs.
+
+### Japanese Translation
+J-1: 時間通りの完了を確認するために、2つのプロジェクトが<u>並行して</u>実行されます。
+J-2: 企業は、顧客基盤の拡大と<u>並行して</u>利益を増やすことを目指しています。
+J-3: 開発チームは、新しいソフトウェアを立ち上げてバグを修正するために<u>並行して</u>作業しています。

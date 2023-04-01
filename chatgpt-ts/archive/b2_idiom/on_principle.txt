@@ -1,0 +1,11 @@
+# Key:on principle
+## Response
+### English Sentences
+E-1: I refuse to eat at that restaurant <u>on principle</u> because they use plastic straws.
+E-2: She declined the job offer <u>on principle</u> because she disagreed with the company's values.
+E-3: He always pays his bills on time <u>on principle</u> because he believes in being responsible with money.
+
+### Japanese Translation
+J-1: 彼らがプラスチックストローを使うため、私はそのレストランで食事を<u>断固として拒否</u>します。
+J-2: 彼女は、会社の価値観に反対していたため、その仕事の申し出を<u>原則に反して</u>断りました。
+J-3: 彼はいつも<u>原則的に</u>請求書を定刻に支払うため、お金に責任を持つことを信じています。

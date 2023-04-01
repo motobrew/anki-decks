@@ -1,0 +1,11 @@
+# Key:hardly， before
+## Response
+### English Sentences
+E-1: <u>Hardly</u> anyone showed up to the party <u>before</u> midnight.
+E-2: I <u>hardly</u> ever used to exercise <u>before</u> I started training for the marathon.
+E-3: The company <u>hardly</u> made a profit <u>before</u> the new CEO took over.
+
+### Japanese Translation
+J-1: パーティーには真夜中<u>前に</u>ほとんど誰も現れなかった。
+J-2: 私はマラソンのトレーニングを始める<u>前は</u>ほとんど運動しなかった。
+J-3: その企業は新しいCEOが就任する<u>前は</u>ほとんど利益を上げていなかった。

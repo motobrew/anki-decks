@@ -1,0 +1,11 @@
+# Key:beyond number
+## Response
+### English Sentences
+E-1: The magnitude of the problem is <u>beyond number</u>, and will require a collective effort to solve.
+E-2: The beauty of the stars in the dark sky is <u>beyond number</u>, and fills me with wonder.
+E-3: The amount of data we collected from the experiment is <u>beyond number</u>, and will take weeks to process.
+
+### Japanese Translation
+J-1: 問題の規模は<u>計り知れない</u>ため、協同の努力が必要です。
+J-2: 暗い空に輝く星の美しさは<u>数知れず</u>、私を驚嘆させます。
+J-3: 実験から収集したデータの量は<u>膨大</u>であり、処理に数週間かかるでしょう。

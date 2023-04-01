@@ -1,0 +1,11 @@
+# Key:capitalize on
+## Response
+### English Sentences
+E-1: The company was able to <u>capitalize on</u> the sudden surge in demand for hand sanitizers during the pandemic.
+E-2: The entrepreneur saw an opportunity to <u>capitalize on</u> the growing interest in veganism and started a plant-based restaurant.
+E-3: The politician wanted to <u>capitalize on</u> the recent scandal by gaining public support for his campaign.
+
+### Japanese Translation
+J-1: パンデミック中の手指消毒剤需要の急激な増加に対して、その企業は<u>機会に乗じました</u>。
+J-2: ビーガンに対する関心の高まりに<u>乗じる</u>チャンスを見出した起業家は、植物性食品のレストランを開業しました。
+J-3: 最近のスキャンダルに<u>乗じて</u>、その政治家はキャンペーンのための公共の支持を獲得することを望んでいました。

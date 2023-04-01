@@ -1,0 +1,11 @@
+# Key:by the same token
+## Response
+### English Sentences
+E-1: I don't like ants, and <u>by the same token</u>, I don't like termites either.
+E-2: She is always busy with work, and <u>by the same token</u>, she rarely has time for herself.
+E-3: I love reading books, and <u>by the same token</u>, I enjoy watching movies too.
+
+### Japanese Translation
+J-1: 私はアリが好きではありませんし、<u>同じくらいに</u>シロアリも好きではありません。
+J-2: 彼女はいつも仕事に忙しく、<u>同じくらいに</u>自分の時間が少ないです。
+J-3: 私は本を読むのが大好きで、<u>同じくらいに</u>映画を見ることも楽しんでいます。

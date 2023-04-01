@@ -1,0 +1,11 @@
+# Key:be incongruous with
+## Response
+### English Sentences
+E-1: The bright, modern furniture <u>is incongruous with</u> the rustic cabin decor.
+E-2: His wild antics <u>are incongruous with</u> his normally reserved personality.
+E-3: The fancy restaurant <u>is incongruous with</u> the small, run-down strip mall it's located in.
+
+### Japanese Translation
+J-1: 鮮やかで現代的な家具は、田舎風のキャビンのインテリアと<u>不一致</u>です。
+J-2: 彼の乱暴な行動は、普段控えめな彼の性格と<u>合わない</u>ものです。
+J-3: 高級レストランは、小さくて老朽化したストリップモールにあることと<u>異質</u>です。

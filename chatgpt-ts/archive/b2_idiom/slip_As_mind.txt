@@ -1,0 +1,11 @@
+# Key:slip A's mind
+## Response
+### English Sentences
+E-1: It totally <u>slipped my mind</u> to call my mom on her birthday.
+E-2: I had an important meeting, but it <u>slipped my mind</u> to bring the necessary documents.
+E-3: I'm sorry, I completely <u>forgot</u> that I promised to help you move this weekend.
+
+### Japanese Translation
+J-1: 母親の誕生日に電話するのを完全に<u>忘れました</u>。
+J-2: 大切な会議がありましたが、必要な書類を持参するのを<u>忘れてしまいました</u>。
+J-3: ごめんなさい、今週末あなたの引っ越しを手伝うと約束したことを完全に<u>忘れていました</u>。

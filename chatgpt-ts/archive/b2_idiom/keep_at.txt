@@ -1,0 +1,12 @@
+# Key:keep at
+## Response
+### English Sentences
+E-1: You might struggle at first, but if you <u>keep at</u> it, you will eventually improve.
+E-2: He's been trying to learn Spanish for a while now, but he needs to <u>keep at</u> it if he wants to become fluent.
+E-3: If you want to achieve your goal, you need to <u>keep at</u> it, even if it gets tough.
+
+
+### Japanese Translation
+J-1: 最初は大変かもしれませんが、頑張り続ければやがて改善するでしょう。
+J-2: 彼はスペイン語を学ぼうとしていますが、流ちょうに話すためには継続的に<u>取り組む</u>必要があります。
+J-3: 目標を達成したいのであれば、大変な時でも諦めずに<u>取り組む</u>必要があります。

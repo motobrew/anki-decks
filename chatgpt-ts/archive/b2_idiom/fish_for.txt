@@ -1,0 +1,11 @@
+# Key:fish for
+## Response
+### English Sentences
+E-1: He likes to <u>fish for</u> catfish in the river on weekends.
+E-2: She decided to <u>fish for</u> compliments by wearing a new dress to the party.
+E-3: The company decided to <u>fish for</u> new clients by offering a special discount.
+
+### Japanese Translation
+J-1: 彼は週末に川でナマズを<u>釣る</u>ことが好きです。
+J-2: 彼女は新しいドレスをパーティーに着て、お世辞を<u>もらおうとする</u>ことに決めました。
+J-3: 会社は特別な割引を提供して新しい顧客を<u>獲得しようとする</u>ことにしました。

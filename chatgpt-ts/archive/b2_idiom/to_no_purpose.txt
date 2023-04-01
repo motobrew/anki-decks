@@ -1,0 +1,11 @@
+# Key:to no purpose
+## Response
+### English Sentences
+E-1: After hours of studying, she realized it was all <u>to no purpose</u> because the test was postponed.
+E-2: He wandered aimlessly <u>to no purpose</u> in the park, trying to clear his mind.
+E-3: The company's efforts to promote the product were <u>to no purpose</u>, as it failed to attract customers.
+
+### Japanese Translation
+J-1: 勉強を何時間もした後、テストが延期になったため、すべて<u>無駄</u>だったことがわかりました。
+J-2: 頭をスッキリさせようと、彼は公園を目的もなく歩き回りました。
+J-3: 会社の商品を宣伝する努力は<u>無駄</u>で、顧客を引きつけることに失敗しました。

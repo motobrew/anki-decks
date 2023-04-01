@@ -1,0 +1,11 @@
+# Key:town twinning
+## Response
+### English Sentences
+E-1: Our town is considering <u>town twinning</u> with a city in France.
+E-2: <u>Town twinning</u> can promote cultural exchange and understanding between communities.
+E-3: Last year, our town hosted a delegation from our twin town in Germany.
+
+### Japanese Translation
+J-1: 私たちの町は、フランスの都市と<u>姉妹都市提携</u>を検討しています。
+J-2: <u>姉妹都市提携</u>は、地域間の文化交流と理解を促進することができます。
+J-3: 去年、私たちの町はドイツの姉妹都市からの代表団をホストしました。

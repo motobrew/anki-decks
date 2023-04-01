@@ -1,0 +1,11 @@
+# Key:get over with
+## Response
+### English Sentences
+E-1: Let's just <u>get this meeting over with</u> so we can go home early.
+E-2: I wish I could <u>get this flu over with</u> and start feeling better.
+E-3: My dentist appointment is tomorrow, I can't wait to just <u>get it over with</u>.
+
+### Japanese Translation
+J-1: 早く帰れるように、この会議は早く<u>終わらせましょう</u>。
+J-2: 体調が戻るように、このインフルエンザが早く<u>治らないかな</u>。
+J-3: 明日は歯医者に行かないといけないけど、さっさと<u>終わらせたい</u>。

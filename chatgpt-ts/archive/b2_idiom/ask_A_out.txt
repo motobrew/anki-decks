@@ -1,0 +1,11 @@
+# Key:ask A out
+## Response
+### English Sentences
+E-1: John finally mustered up the courage to <u>ask Sarah out</u> on a date.
+E-2: I'm not sure if I should <u>ask my boss out</u> to lunch or not.
+E-3: Tom has been trying to <u>ask Rachel out</u>, but he's too shy.
+
+### Japanese Translation
+J-1: ジョンはついに勇気を出して、サラにデートに<u>誘いをかけた</u>。
+J-2: 上司をランチに<u>誘うべきかどうかわからない</u>。
+J-3: トムはレイチェルに<u>デートに誘おうとしている</u>が、彼はシャイすぎる。

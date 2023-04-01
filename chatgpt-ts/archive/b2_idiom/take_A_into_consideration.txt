@@ -1,0 +1,11 @@
+# Key:take A into consideration
+## Response
+### English Sentences
+E-1: When constructing the new building, we need to <u>take the surrounding environment</u> into consideration in order to ensure safety.
+E-2: If we want to make a successful business plan, we have to <u>take the market demand</u> into consideration.
+E-3: The teacher will <u>take the student's performance</u> into consideration when grading the exams.
+
+### Japanese Translation
+J-1: 新しい建物を建設する際には、安全を確保するために<u>周囲の環境</u>を考慮する必要があります。
+J-2: 成功したビジネスプランを立てたい場合は、<u>市場の需要</u>を考慮する必要があります。
+J-3: 先生は試験の採点をする際、生徒の<u>成績</u>を考慮します。

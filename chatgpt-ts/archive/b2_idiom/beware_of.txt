@@ -1,0 +1,11 @@
+# Key:beware of
+## Response
+### English Sentences
+E-1: <u>Beware of</u> pickpockets in crowded areas like the train station.
+E-2: <u>Beware of</u> the icy roads in winter, drive carefully.
+E-3: <u>Beware of</u> dogs when entering someone's property, they may be aggressive.
+
+### Japanese Translation
+J-1: 駅など混雑した場所ではスリに注意してください。
+J-2: 冬の路面の凍結には気をつけて、安全運転を心掛けてください。
+J-3: 誰かの敷地に入る時は、犬が攻撃的な場合があるので注意してください。

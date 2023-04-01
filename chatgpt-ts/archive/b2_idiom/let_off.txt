@@ -1,0 +1,11 @@
+# Key:let off
+## Response 
+### English Sentences
+E-1: The teacher decided to <u>let off</u> the students early from class today.
+E-2: The company will <u>let off</u> ten employees due to budget cuts.
+E-3: The fireworks display will <u>let off</u> at 9 PM tonight.
+
+### Japanese Translation
+J-1: 先生は今日は生徒を授業から<u>早退</u>させると決めました。
+J-2: 企業は予算の削減のために従業員を10名<u>解雇</u>します。
+J-3: 花火の打ち上げは今夜9時に<u>開始</u>されます。

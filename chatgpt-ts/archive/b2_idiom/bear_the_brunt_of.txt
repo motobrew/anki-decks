@@ -1,0 +1,11 @@
+# Key:bear the brunt of
+## Response
+### English Sentences
+E-1: As the manager, Jane had to <u>bear the brunt of</u> the angry customer complaints.
+E-2: The small town <u>bears the brunt of</u> the harsh winter weather each year.
+E-3: The lower income families <u>bear the brunt of</u> the rising cost of living.
+
+### Japanese Translation
+J-1: マネージャーとして、ジェーンは怒鳴る客の苦情を<u>こうむる</u>必要がありました。
+J-2: 小さな町は毎年厳しい冬の天候の<u>当たりを受ける</u>。
+J-3: 低所得家庭は、生活費の上昇の<u>重荷を</u>負わされます。

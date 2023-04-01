@@ -1,0 +1,11 @@
+# Key:sew up
+## Response
+### English Sentences
+E-1: She was determined to <u>sew up</u> the competition with her flawless performance.
+E-2: The company wants to <u>sew up</u> the market by offering the best product at the lowest price.
+E-3: The candidate tried to <u>sew up</u> the election by appealing to voters from all backgrounds.
+
+### Japanese Translation
+J-1: 彼女は完璧な演技で競争を<u>決める</u>と強く意志を固めた。
+J-2: その会社は最高品質の商品を最安値で提供することで、市場を<u>独占する</u>つもりだ。
+J-3: その候補者はあらゆるバックグラウンドを持つ有権者にアピールすることで選挙を<u>有利に進めよう</u>とした。

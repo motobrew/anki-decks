@@ -1,0 +1,11 @@
+# Key:keep in
+## Response
+### English Sentences
+E-1: Please make sure to <u>keep in</u> mind the deadline for the project.
+E-2: You should <u>keep in</u> touch with your family while you're away.
+E-3: It's important to <u>keep in</u> good health by exercising regularly.
+
+### Japanese Translation
+J-1: プロジェクトの締め切りを<u>心に留めておく</u>ようにしてください。
+J-2: 旅行中も家族と<u>連絡を取り合う</u>ようにしましょう。
+J-3: 定期的に運動することで、<u>健康を維持する</u>ことが重要です。

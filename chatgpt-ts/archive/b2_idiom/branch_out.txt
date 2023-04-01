@@ -1,0 +1,11 @@
+# Key:branch out
+## Response
+### English Sentences
+E-1: It's time for us to <u>branch out</u> and explore new business opportunities.
+E-2: Instead of just playing one instrument, I want to <u>branch out</u> and learn how to play multiple instruments.
+E-3: After working in the same field for years, she decided to <u>branch out</u> and pursue a different career path.
+
+### Japanese Translation
+J-1: 新しいビジネスの機会を探索するために、私たちは<u>分岐</u>する時です。
+J-2: 一つの楽器だけでなく、複数の楽器を演奏するように<u>分岐</u>したいと思います。
+J-3: 数年間同じ分野で働いた後、彼女は<u>分岐</u>して異なるキャリアパスを追求することにしました。

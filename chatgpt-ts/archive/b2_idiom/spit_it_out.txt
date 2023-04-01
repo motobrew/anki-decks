@@ -1,0 +1,11 @@
+# Key:spit it out
+## Response
+### English Sentences
+E-1: If you have something to say, just <u>spit it out</u>. 
+E-2: I can't understand you when you mumble like that, please <u>spit it out</u>.
+E-3: He was hesitant to admit it, but finally decided to <u>spit it out</u>.
+
+### Japanese Translation
+J-1: 言いたいことがあるなら、そのまま<u>言って</u>ください。
+J-2: そんなにつぶやくと、聞きとれないから、<u>はっきり言って</u>ください。
+J-3: 彼は言うのをためらったが、最終的には<u>言い出した</u>。

@@ -1,0 +1,11 @@
+# Key:serve up
+## Response
+### English Sentences
+E-1: The restaurant will <u>serve up</u> their famous dish tonight.
+E-2: The bartender will <u>serve up</u> your favorite drink in no time.
+E-3: The chef will <u>serve up</u> a delicious meal for the holiday feast.
+
+### Japanese Translation
+J-1: 今晩、そのレストランは有名な料理を<u>提供</u>します。
+J-2: バーテンダーはあなたのお気に入りのドリンクをすぐに<u>提供</u>します。
+J-3: シェフはホリデーフィースト用においしい食事を<u>提供</u>します。

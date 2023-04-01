@@ -1,0 +1,11 @@
+# Key:get wet to the skin
+## Response
+### English Sentences
+E-1: I forgot to bring an umbrella and ended up <u>getting wet to the skin</u> in the rain.
+E-2: The kids didn't listen and went swimming in the lake, <u>getting wet to the skin</u> despite the chilly weather.
+E-3: The athlete dove into the pool, <u>getting wet to the skin</u> as she started training.
+
+### Japanese Translation
+J-1: 傘を持ってこず、雨で<u>びしょ濡れになってしまった</u>。
+J-2: 子供たちは聞かずに湖で泳ぎ、寒い天気の中でも<u>ずぶ濡れになってしまった</u>。
+J-3: 選手はプールに飛び込み、トレーニングを始めた際、<u>肌までびしょ濡れになった</u>。

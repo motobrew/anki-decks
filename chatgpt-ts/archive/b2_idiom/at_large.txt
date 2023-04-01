@@ -1,0 +1,11 @@
+# Key:at large
+## Response
+### English Sentences
+E-1: The fugitive was still <u>at large</u> and the police were actively searching for him.
+E-2: The CEO's vision for the company's future was discussed <u>at large</u> during the board meeting.
+E-3: The candidate's policies were debated <u>at large</u> by the panel of experts.
+
+### Japanese Translation
+J-1: 逃亡中の犯罪者はまだ<u>逃走中</u>であり、警察が積極的に捜索している。
+J-2: CEOの会社の未来に対するビジョンについては、取締役会で<u>詳細に</u>議論されました。
+J-3: 候補者の政策は、専門家パネルによって<u>詳しく</u>論争されました。

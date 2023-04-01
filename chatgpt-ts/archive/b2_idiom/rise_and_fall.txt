@@ -1,0 +1,11 @@
+# Key:rise and fall
+## Response
+### English Sentences
+E-1: The success of a company can <u>rise and fall</u> based on its leadership.
+E-2: The history of empires is a story of <u>rise and fall</u>.
+E-3: The stock market can experience <u>rise and fall</u> depending on economic conditions.
+
+### Japanese Translation
+J-1: 企業の成功は、リーダーシップによって<u>盛衰</u>することがあります。
+J-2: 大帝国の歴史は<u>隆衰</u>の物語です。
+J-3: 株式市場は、経済状況に応じて<u>上下する</u>ことがあります。

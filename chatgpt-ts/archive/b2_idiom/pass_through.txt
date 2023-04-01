@@ -1,0 +1,11 @@
+# Key:pass through
+## Response
+### English Sentences
+E-1: We had to <u>pass through</u> a metal detector to enter the courthouse.
+E-2: The airplane will <u>pass through</u> several different time zones during the flight.
+E-3: The hiker planned to <u>pass through</u> several small towns on their journey.
+
+### Japanese Translation
+J-1: 裁判所に入るために、金属探知機を<u>通過</u>する必要がありました。
+J-2: 飛行機は飛行中にいくつかの異なる時差を<u>通過</u>します。
+J-3: ハイカーは旅の途中でいくつかの小さな町を<u>通過</u>する予定でした。

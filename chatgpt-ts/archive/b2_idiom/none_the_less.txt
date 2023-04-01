@@ -1,0 +1,11 @@
+# Key:none the less
+## Response
+### English Sentences
+E-1: <u>None the less</u>, I still enjoyed the movie despite the bad reviews.
+E-2: He failed the exam, but <u>none the less</u>, his parents were proud of his hard work.
+E-3: The weather forecast predicted rain, but <u>none the less</u>, I forgot to bring my umbrella.
+
+### Japanese Translation
+J-1: 批評が悪くても、私は<u>それでも</u>映画を楽しんだ。
+J-2: 彼が試験に落ちたけど、彼の両親は彼の努力に<u>それでも</u>誇りを持っていた。
+J-3: 天気予報で雨が降ると予測されたが、<u>それでも</u>私は傘を持ってこなかった。

@@ -1,0 +1,11 @@
+# Key:nod off
+## Response
+### English Sentences
+E-1: I often <u>nod off</u> during meetings, even when I try my best to stay awake.
+E-2: The baby finally <u>nodded off</u> after being rocked to sleep for an hour.
+E-3: I don't like to <u>nod off</u> while watching a movie, but sometimes it's hard to stay awake.
+
+### Japanese Translation
+J-1: ミーティング中には、必死に起きていようとしても、私はしばしば居眠りしてしまいます。
+J-2: 赤ちゃんは、1時間揺られた後、やっと眠りに<u>落ちました</u>。
+J-3: 映画を観ながら居眠りするのは好きではありませんが、時には目を開けているのが難しいです。

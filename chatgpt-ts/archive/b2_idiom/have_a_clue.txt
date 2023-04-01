@@ -1,0 +1,11 @@
+# Key:have a clue
+## Response
+### English Sentences
+E-1: I don't <u>have a clue</u> where my phone is.
+E-2: Can you explain this math problem to me? I don't <u>have a clue</u> what to do.
+E-3: She asked me a question about chemistry, but I don't <u>have a clue</u> since I never took that class.
+
+### Japanese Translation
+J-1: 私の携帯電話がどこにあるか<u>全くわからない</u>。
+J-2: この数学の問題を説明してくれませんか？何をすべきか<u>全くわかりません</u>。
+J-3: 彼女は私に化学の質問をしたが、私はその授業を受けたことがないので<u>まったくわからない</u>。

@@ -1,0 +1,11 @@
+# Key:have a flat tire
+## Response
+### English Sentences
+E-1: I'm sorry, I can't meet you for lunch. I <u>have a flat tire</u> and need to get it fixed.
+E-2: We were driving on the highway when suddenly we <u>had a flat tire</u>, so we had to pull over to the side of the road.
+E-3: When I went out to my car this morning, I saw that I <u>had a flat tire</u> and had to call a tow truck.
+
+### Japanese Translation
+J-1: ごめんなさい、ランチに会えないよ。私の車が<u>パンクした</u>ので、修理に出かける必要があるんだ。
+J-2: 高速道路を走っていたら、突然<u>パンクした</u>ので、路肩に車を止めなければならなかった。
+J-3: 今朝、車に乗り込んでみたら、タイヤが<u>パンクしていた</u>ので、レッカーを呼ばなければならなかった。

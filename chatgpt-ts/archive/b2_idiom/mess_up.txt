@@ -1,0 +1,11 @@
+# Key:mess up
+## Response
+### English Sentences
+E-1: I always <u>mess up</u> my recipe when I try to cook something new.
+E-2: I hope I don't <u>mess up</u> during my presentation in front of the boss.
+E-3: My brother always seems to <u>mess up</u> in his relationships.
+
+### Japanese Translation
+J-1: 新しい料理を作ろうとするといつもレシピを<u>混乱させて</u>しまいます。
+J-2: 上司の前でのプレゼンで<u>失敗しないように</u>願っています。
+J-3: 私の兄はいつも<u>恋愛関係で失敗</u>してしまうようです。

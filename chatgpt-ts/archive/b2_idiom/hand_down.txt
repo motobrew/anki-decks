@@ -1,0 +1,11 @@
+# Key:hand down
+## Response
+### English Sentences
+E-1: My grandfather <u>handed down</u> his favorite watch to me before he passed away.
+E-2: The tradition of making homemade pasta has been <u>handed down</u> in my family for generations.
+E-3: The company's CEO plans to <u>hand down</u> his decision to the employees next week.
+
+### Japanese Translation
+J-1: 祖父は亡くなる前に私に彼のお気に入りの時計を<u>譲り渡しました</u>。
+J-2: 自家製パスタを作る伝統は、私の家族で何世代にも<u>受け継がれてきました</u>。
+J-3: 会社のCEOは来週、従業員に彼の意思決定を<u>伝える予定</u>です。

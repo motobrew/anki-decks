@@ -1,0 +1,11 @@
+# Key:quarrel with
+## Response
+### English Sentences
+E-1: I don't want to <u>quarrel with</u> you over something so small.
+E-2: My parents used to <u>quarrel with</u> each other a lot when I was younger.
+E-3: I hope we can resolve this issue without having to <u>quarrel with</u> anyone.
+
+### Japanese Translation
+J-1: そんな些細なことで<u>口げんかする</u>のは嫌です。
+J-2: 私が子供のころ、両親はよく<u>けんかをしていました</u>。
+J-3: 誰かと<u>口論する</u>ことなく、この問題を解決できるといいですね。

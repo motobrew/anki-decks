@@ -1,0 +1,11 @@
+# Key:set at
+## Response
+### English Sentences
+E-1: The thermostat is <u>set at</u> 72 degrees Fahrenheit.
+E-2: The price for the concert tickets is <u>set at</u> $50 each.
+E-3: The meeting time is <u>set at</u> 3 PM tomorrow.
+
+### Japanese Translation
+J-1: サーモスタットは華氏72度に<u>設定されています</u>。
+J-2: コンサートのチケットの値段は1枚$50に<u>設定されています</u>。
+J-3: ミーティングの時間は明日3時に<u>設定されています</u>。

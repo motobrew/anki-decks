@@ -1,0 +1,11 @@
+# Key:be impatient with
+## Response
+### English Sentences
+E-1: She tends to <u>be impatient with</u> slow talkers, so try to speak clearly and concisely.
+E-2: If you <u>are impatient with</u> the progress of the project, please communicate your concerns with the team.
+E-3: He always <u>was impatient with</u> his younger siblings, but he learned to be more patient as he grew older.
+
+### Japanese Translation
+J-1: 彼女は話し方が遅い人に対して<u>イライラする</u>傾向があるので、はっきりと簡潔に話してください。
+J-2: もしプロジェクトの進捗に<u>イライラしている</u>場合は、チームと意見を共有してください。
+J-3: 彼はいつも弟妹に<u>イライラした</u>が、年を重ねるにつれてより我慢強くなった。

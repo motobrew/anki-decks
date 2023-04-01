@@ -1,0 +1,11 @@
+# Key:chip in
+## Response
+### English Sentences
+E-1: We can all <u>chip in</u> to buy a gift for our friend's birthday.
+E-2: If everyone can <u>chip in</u> a little bit, we can make this fundraiser a success.
+E-3: Let's all <u>chip in</u> and help clean up the park after the event.
+
+### Japanese Translation
+J-1: 私たちは友達の誕生日にプレゼントを買うため、皆で<u>出し合う</u>ことができます。
+J-2: みんな少しずつ<u>協力する</u>ことができれば、この募金活動を成功に導けます。
+J-3: イベント後に公園の清掃を手伝って、皆で<u>貢献</u>しましょう。

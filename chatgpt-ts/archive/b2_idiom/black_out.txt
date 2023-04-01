@@ -1,0 +1,11 @@
+# Key:black out
+## Response
+### English Sentences
+E-1: I had a <u>black out</u> during the concert and don't remember anything after that.
+E-2: The storm caused a <u>black out</u> and we were without power for two days.
+E-3: The company experienced a <u>black out</u> and all of our systems were down.
+
+### Japanese Translation
+J-1: コンサート中に<u>意識を失った</u>ので、それ以降の記憶がありません。
+J-2: 嵐が<u>停電</u>を引き起こし、2日間電力がなかった。
+J-3: 会社が<u>サーバーダウン</u>し、すべてのシステムがダウンしました。

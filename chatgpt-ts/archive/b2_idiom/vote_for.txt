@@ -1,0 +1,11 @@
+# Key:vote for
+## Response
+### English Sentences
+E-1: Make sure to <u>vote for</u> your preferred candidate in the upcoming election.
+E-2: I will <u>vote for</u> the candidate who has the best platform for education reform.
+E-3: It's important to <u>vote for</u> someone who supports policies that align with your values.
+
+### Japanese Translation
+J-1: 次の選挙であなたの支持する候補者に<u>投票する</u>ことを忘れないでください。
+J-2: 私は教育改革に最も熱心な候補者に<u>投票する</u>つもりです。
+J-3: 自分の価値観に一致する政策を支持する人に<u>投票する</u>ことが重要です。

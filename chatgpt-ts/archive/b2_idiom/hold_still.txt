@@ -1,0 +1,11 @@
+# Key:hold still
+## Response
+### English Sentences
+E-1: Can you please <u>hold still</u> while I take your picture?
+E-2: The doctor asked the patient to <u>hold still</u> during the examination.
+E-3: The hairdresser told the customer to <u>hold still</u> while cutting their hair.
+
+### Japanese Translation
+J-1: 写真を撮る間、<u>動かないで</u>くれませんか？
+J-2: 医者は検査中に患者に<u>じっとしているよう</u>に頼みました。
+J-3: 美容師は髪を切る時にお客さんに<b><u>じっとしているよう</u></b>に指示しました。

@@ -1,0 +1,11 @@
+# Key:halfway house
+## Response
+### English Sentences
+E-1: She stayed at a <u>halfway house</u> after completing rehab before going back to her family.
+E-2: The prisoner was transferred to a <u>halfway house</u> to assist with his transition back to society.
+E-3: The organization provides temporary housing at a <u>halfway house</u> for homeless individuals.
+
+### Japanese Translation
+J-1: 彼女はリハビリを終えた後、家族に戻る前に<u>ハーフウェイハウス</u>に滞在しました。
+J-2: 囚人は、社会復帰を手助けするために<u>ハーフウェイハウス</u>に転送されました。
+J-3: その団体は、ホームレスの人々に<u>ハーフウェイハウス</u>での一時的な住居を提供しています。

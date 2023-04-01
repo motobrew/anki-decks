@@ -1,0 +1,11 @@
+# Key:kick back
+## Response
+### English Sentences 
+E-1: After a long day of work, I like to <u>kick back</u> and watch some TV.
+<br>E-2: He decided to <u>kick back</u> and take a nap on the couch.
+<br>E-3: Let's <u>kick back</u> and relax at the beach this weekend.
+
+### Japanese Translation 
+J-1: 仕事が長かった後は、テレビを見て<u>リラックス</u>するのが好きです。
+<br>J-2: 彼はソファでうとうとして、<u>のんびりする</u>ことにしました。
+<br>J-3: 週末はビーチで<u>くつろいで</u>過ごそう。

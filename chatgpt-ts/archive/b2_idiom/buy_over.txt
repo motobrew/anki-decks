@@ -1,0 +1,11 @@
+# Key:buy over
+## Response
+### English Sentences
+E-1: The company plans to <u>buy over</u> its rival in the next quarter.
+E-2: The wealthy businessman tried to <u>buy over</u> the politician with large donations.
+E-3: The famous football club wants to <u>buy over</u> the star player from their rival team.
+
+### Japanese Translation
+J-1: その企業は来期にライバル企業を<u>買収する</u>予定です。
+J-2: 富豪のビジネスマンは大金を寄付して政治家を<u>買収しようとしました。</u>
+J-3: 有名なサッカークラブはライバルチームのスタープレーヤーを<u>獲得したい</u>と考えています。

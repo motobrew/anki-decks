@@ -1,0 +1,11 @@
+# Key:wrestle with
+## Response
+### English Sentences
+E-1: I've been <u>wrestling with</u> this math problem for hours and still can't solve it.
+E-2: Sarah has been <u>wrestling with</u> her decision to quit her job and start her own business.
+E-3: Many people <u>wrestle with</u> anxiety and depression on a daily basis.
+
+### Japanese Translation
+J-1: 私は数時間間この数学の問題に<u>取り組んでいますが</u>、まだ解決できません。
+J-2: サラは自分の仕事を辞めて独立するかどうか<u>悩んでいます</u>。
+J-3: 多くの人々が<u>毎日</u>不安やうつ病と<勝負しています>。

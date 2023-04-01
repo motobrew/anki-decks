@@ -1,0 +1,11 @@
+# Key:pretend to do
+## Response
+### English Sentences
+E-1: She likes to <u>pretend to be</u> a superhero and save the day.
+E-2: My little brother likes to <u>pretend to cook</u> with his toy kitchen set.
+E-3: The children love to <u>pretend to go on adventures</u> in their backyard.
+
+### Japanese Translation
+J-1: 彼女はスーパーヒーローになって救いの手を差し伸べるのを<u>真似る</u>ことが好きです。
+J-2: 弟はおもちゃのキッチンセットで<u>料理をするフリ</u>をするのが好きです。
+J-3: 子供たちは裏庭で<u>冒険に出るフリ</u>をするのが大好きです。

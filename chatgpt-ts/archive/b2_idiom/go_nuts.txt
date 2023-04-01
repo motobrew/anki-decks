@@ -1,0 +1,11 @@
+# Key:go nuts
+## Response
+### English Sentences
+E-1: When the new Star Wars movie comes out, I'm going to <u>go nuts</u> with excitement.
+E-2: My sister <u>went nuts</u> when she found out she got accepted into her dream college.
+E-3: If my boss gives me one more last-minute assignment, I'm going to <u>go nuts</u>.
+
+### Japanese Translation
+J-1: 新しいスターウォーズ映画が公開されたら、わくわくして<u>興奮しすぎる</u>だろう。
+J-2: 私の姉は、夢の大学に合格したことを知った時には、<u>興奮しすぎてぶち切れた</u>。
+J-3: もし上司がもう一つの締め切りギリギリの課題を与えたら、<u>我慢できなくなる</u>。

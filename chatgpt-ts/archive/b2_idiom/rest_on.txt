@@ -1,0 +1,11 @@
+# Key:rest on
+## Response
+### English Sentences
+E-1: The success of the project will <u>rest on</u> the skills and dedication of the team.
+E-2: The fate of the criminal case will <u>rest on</u> the verdict of the judge.
+E-3: His future career prospects <u>rest on</u> coming up with a new innovative product.
+
+### Japanese Translation
+J-1: プロジェクトの成功は、チームのスキルと献身に<u>掛かって</u>います。
+J-2: 犯罪事件の行方は、裁判官の判決に<u>左右される</u>でしょう。
+J-3: 彼の将来のキャリア展望は、新しい革新的な製品を考案する<u>ことに掛かって</u>います。

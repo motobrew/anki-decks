@@ -1,0 +1,11 @@
+# Key:at the cost of
+## Response
+### English Sentences
+E-1: We achieved our business goals, but <u>at the cost of</u> our employees' well-being.
+E-2: The company increased profits <u>at the cost of</u> cutting corners on safety measures.
+E-3: He became successful <u>at the cost of</u> sacrificing his personal life and relationships.
+
+### Japanese Translation
+J-1: 私たちはビジネス目標を達成しましたが、その<u>代償として</u>従業員の福利厚生を犠牲にしました。
+J-2: その会社は安全対策の端折り<u>の代償として</u>利益を増やしました。
+J-3: 彼は個人的な人生や人間関係を犠牲にして<u>代償として</u>成功を収めました。

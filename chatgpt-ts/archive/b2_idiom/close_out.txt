@@ -1,0 +1,11 @@
+# Key:close out
+## Response
+### English Sentences
+E-1: It's time to <u>close out</u> this project and move on to the next one.
+E-2: The store is having a clearance sale to <u>close out</u> their winter inventory.
+E-3: The accountant needs to <u>close out</u> the books for the fiscal year.
+
+### Japanese Translation
+J-1: このプロジェクトを<u>締めくくり</u>、次のプロジェクトに移る時間です。
+J-2: その店は冬の在庫を<u>売り切る</u>ためにクリアランスセールを開催しています。
+J-3: 会計士は会計年度の帳簿を<u>締める</u>必要があります。

@@ -1,0 +1,11 @@
+# Key:take delight in
+## Response
+### English Sentences
+E-1: I always <u>take delight in</u> watching the sunset by the beach.
+E-2: She <u>takes delight in</u> cooking for her family and friends.
+E-3: The children <u>take delight in</u> playing in the park on weekends.
+
+### Japanese Translation
+J-1: 私はいつも、浜辺で夕日を見るのを<u>楽しみにしています</u>。
+J-2: 彼女は家族や友人のために料理をすることを<u>楽しんでいます</u>。
+J-3: 子供たちは週末に公園で遊ぶことを<u>楽しんでいます</u>。

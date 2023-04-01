@@ -1,0 +1,11 @@
+# Key:commit suicide
+## Response
+### English Sentences
+E-1: It is important to seek help if you or someone you know is considering to <u>commit suicide</u>.
+E-2: The tragic news of the celebrity's <u>suicide</u> shocked the world.
+E-3: Many mental health organizations offer resources and support for those struggling with thoughts of <u>suicide</u>.
+
+### Japanese Translation
+J-1: 自殺を<u>企てている</u>場合、自分自身や知人は助けを求めることが重要です。
+J-2: 有名人の<u>自殺</u>の悲報は世界中を衝撃に陥れました。
+J-3: 多くのメンタルヘルスの団体が、<u>自殺</u>の考えに苦しんでいる人々のための資源や支援を提供しています。

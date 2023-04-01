@@ -1,0 +1,11 @@
+# Key:step in
+## Response
+### English Sentences
+E-1: When the regular teacher is absent, a substitute teacher will <u>step in</u> and teach the class.
+E-2: My mom asked me to <u>step in</u> and pick up my little brother from school.
+E-3: In a heated argument, sometimes you need someone to <u>step in</u> and mediate.
+
+### Japanese Translation
+J-1: 通常の先生が不在の場合、代理の先生がやってきて授業を<u>受け持つ</u>ことになります。
+J-2: 母は私に手伝ってと頼んで、弟を学校から<u>迎えに行く</u>ように言いました。
+J-3: 熱くなった論争の場合、調停役が<u>介入する</u>必要があることがあります。

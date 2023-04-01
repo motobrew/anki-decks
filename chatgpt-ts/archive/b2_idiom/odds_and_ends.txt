@@ -1,0 +1,11 @@
+# Key:odds and ends
+## Response
+### English Sentences
+E-1: I have a drawer full of <u>odds and ends</u> that I never use.
+E-2: The thrift store sells a variety of <u>odds and ends</u> that people donate.
+E-3: I need to go to the hardware store to buy some <u>odds and ends</u> for my home improvement project.
+
+### Japanese Translation
+J-1: 私は、使わない<u>いろいろな雑多なもの</u>が入っている引き出しを持っています。
+J-2: リサイクルショップでは、人々が寄付する<u>さまざまな雑多なもの</u>を販売しています。
+J-3: 私は家の改装のためにいくつかの<u>細かい部品</u>を買うためにハードウェアストアに行かなければなりません。

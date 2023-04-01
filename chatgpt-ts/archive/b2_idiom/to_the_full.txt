@@ -1,0 +1,11 @@
+# Key:to the full
+## Response
+### English Sentences
+E-1: I want to live my life <u>to the full</u>, with no regrets.
+E-2: She always dances <u>to the full</u>, giving it her all.
+E-3: He plans to travel <u>to the full</u>, visiting every country in the world.
+
+### Japanese Translation
+J-1: 私は後悔のないように、人生を<u>存分に</u>生きたいと思っています。
+J-2: 彼女はいつも全力で踊り、<u>存分に</u>楽しんでいます。
+J-3: 彼は世界中のすべての国を訪れ、<u>存分に</u>旅行するつもりです。

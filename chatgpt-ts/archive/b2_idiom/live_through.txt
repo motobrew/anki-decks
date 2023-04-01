@@ -1,0 +1,11 @@
+# Key:live through
+## Response
+### English Sentences
+E-1: My grandparents <u>live through</u> World War II and saw many changes in their lifetime. 
+E-2: It was difficult to <u>live through</u> the pandemic, but we adapted and found ways to stay connected. 
+E-3: She had to <u>live through</u> the pain of losing her best friend.
+
+### Japanese Translation
+J-1: 私の祖父母は第二次世界大戦を<u>生き抜きました</u>、そして彼らの人生の中で多くの変化を見ました。
+J-2: パンデミックを<u>生き抜く</u>のは難しかったが、私たちは適応し、つながりを保つ方法を見つけた。
+J-3: 彼女は最高の友人を失う痛みを<u>経験しなければならなかった</u>。

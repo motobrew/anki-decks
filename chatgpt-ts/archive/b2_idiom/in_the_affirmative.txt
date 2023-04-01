@@ -1,0 +1,11 @@
+# Key:in the affirmative
+## Response
+### English Sentences
+E-1: She responded <u>in the affirmative</u> to his proposal.
+E-2: The boss nodded <u>in the affirmative</u> to their request for a pay raise.
+E-3: When the teacher asked if everyone had finished their homework, all the students answered <u>in the affirmative</u>.
+
+### Japanese Translation
+J-1: 彼のプロポーズに彼女は<u>賛成</u>の返答をした。
+J-2: ボスは彼らの賃上げの要望にうなづき<u>賛成</u>した。
+J-3: 先生が課題をやり終えたか尋ねた時、全員が<u>肯定的</u>に答えた。

@@ -1,0 +1,11 @@
+# Key:take a beating
+## Response
+### English Sentences
+E-1: After playing in the football game, my body felt like it had <u>taken a beating</u>.
+E-2: The stock market has <u>taken a beating</u> this week due to economic uncertainty.
+E-3: The old car had <u>taken a beating</u> over the years and needed many repairs.
+
+### Japanese Translation
+J-1: フットボールの試合をしてから、私の身体は丸まるほど痛くなりました。
+J-2: 経済不安のため、株式市場は今週<u>打撃を受けました</u>。
+J-3: 古い車は何年もの間、<b>激しい使い方をされていたため、多くの修理が必要でした。</b>

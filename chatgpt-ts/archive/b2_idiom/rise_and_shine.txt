@@ -1,0 +1,11 @@
+# Key:rise and shine
+## Response
+### English Sentences
+E-1: <u>Rise and shine</u>, it's time to start the day!
+E-2: I always feel more productive when I <u>rise and shine</u> early in the morning.
+E-3: My mom used to wake me up every morning by saying, "Time to <u>rise and shine</u>!"
+
+### Japanese Translation
+J-1: おはようございます！朝だよ！
+J-2: 私はいつも、朝早く<u>起きて準備をする</u>と、より生産的な一日を過ごせる気がします。
+J-3: 母親はいつも「おはよう！今日も一日がんばろう！</u>」って言って私を起こしてくれました。

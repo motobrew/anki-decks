@@ -1,0 +1,11 @@
+# Key:in all likelihood
+## Response
+### English Sentences
+E-1: In all likelihood, it will rain this afternoon according to the weather forecast.
+E-2: In all likelihood, the project will be finished by the end of the week.
+E-3: In all likelihood, the company will announce layoffs next month.
+
+### Japanese Translation
+J-1: 天気予報によると、午後には<u>ほぼ間違いなく</u>雨が降るでしょう。
+J-2: <u>ほぼ間違いなく</u>、そのプロジェクトは今週の終わりまでに完成します。
+J-3: 次の月には<u>ほぼ間違いなく</u>、その会社は解雇を発表するでしょう。

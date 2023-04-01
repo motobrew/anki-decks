@@ -1,0 +1,11 @@
+# Key:stop off
+## Response
+### English Sentences
+E-1: We can <u>stop off</u> at the grocery store on the way home and grab some milk.
+E-2: Let's <u>stop off</u> at the gas station to fill up the car before we hit the road.
+E-3: The tour bus will <u>stop off</u> at the famous landmarks along the way.
+
+### Japanese Translation
+J-1: 帰り道にスーパーに<u>立ち寄って</u>牛乳を買いましょう。
+J-2: 出発前に車を満タンにするためにガソリンスタンドに<u>寄る</u>べきです。
+J-3: ツアーバスは途中で有名なランドマークに<u>立ち寄る</u>予定です。

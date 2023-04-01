@@ -1,0 +1,11 @@
+# Key:bear fruit
+## Response
+### English Sentences
+E-1: With hard work and dedication, your efforts will eventually <u>bear fruit</u>.
+E-2: Mary's good behavior will <u>bear fruit</u> as her parents will reward her with a trip to Disneyland.
+E-3: The company's strategy to enter the Chinese market is starting to <u>bear fruit</u> with their successful sales numbers. 
+
+### Japanese Translation
+J-1: 努力と献身により、あなたの努力はいずれ<u>実を結ぶ</u>でしょう。
+J-2: メアリーの良い行いは、彼女の両親によってディズニーランド旅行を<u>実を結ぶ</u>ことになります。
+J-3: 中国市場に参入するための会社の戦略が、成功した売上高で<u>実を結ぶ</u>ようになってきました。

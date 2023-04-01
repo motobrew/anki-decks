@@ -1,0 +1,11 @@
+# Key:to say the least
+## Response
+### English Sentences
+E-1: That movie was a disaster, <u>to say the least</u>.
+E-2: The weather yesterday was unpleasant, <u>to say the least</u>.
+E-3: His behavior during the meeting was unprofessional, <u>to say the least</u>.
+
+### Japanese Translation
+J-1: あの映画は、控えめに言っても酷かった。
+J-2: 昨日の天気は、控えめに言っても嫌な天気だった。
+J-3: 彼の会議中の振る舞いは、控えめに言ってもプロ意識に欠けるものだった。

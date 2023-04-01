@@ -1,0 +1,11 @@
+# Key:interfere in
+## Response
+### English Sentences
+E-1: The boss warned his employees not to <u>interfere in</u> his personal life.
+E-2: I don't want to <u>interfere in</u> your relationship with your family.
+E-3: The government should not <u>interfere in</u> people's freedom of speech.
+
+### Japanese Translation
+J-1: 社長は社員たちに自分のプライベートライフに<u>干渉する</u>ことを警告しました。
+J-2: 君と家族との関係に<u>干渉する</u>つもりはありません。
+J-3: 政府は人々の言論の自由に<u>干渉する</u>べきではありません。

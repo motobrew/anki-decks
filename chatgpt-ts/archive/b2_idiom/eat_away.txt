@@ -1,0 +1,11 @@
+# Key:eat away
+## Response
+### English Sentences
+E-1: The acid will eventually <u>eat away</u> the metal if left unchecked.
+E-2: Every time I eat ice cream, it feels like it's <u>eating away</u> at my teeth.
+E-3: The high cost of living is slowly <u>eating away</u> at my savings.
+
+### Japanese Translation
+J-1: 酸は放置すると、やがて金属を<u>侵食</u>します。
+J-2: アイスクリームを食べるたびに、歯に<u>侵食</u>されているように感じます。
+J-3: 高い生活費は、徐々に私の貯金を<u>食いつぶしています</u>。

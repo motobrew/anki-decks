@@ -1,0 +1,11 @@
+# Key:go in for
+## Response
+### English Sentences
+E-1: I really <u>go in for</u> spicy food, even if it makes me sweat.
+E-2: My sister likes to <u>go in for</u> yoga classes on the weekends.
+E-3: He doesn't <u>go in for</u> organized sports, but he enjoys hiking.
+
+### Japanese Translation
+J-1: 私は辛い料理が大好きで、汗をかいても食べます。
+J-2: 姉は週末にヨガのクラスに<u>通っています</u>。
+J-3: 彼はチームスポーツに<u>はまらない</u>が、ハイキングは楽しんでいます。

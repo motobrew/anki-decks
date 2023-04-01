@@ -1,0 +1,11 @@
+# Key:best for
+## Response
+### English Sentences
+E-1: It's best for your health to exercise regularly.
+E-2: A full night's rest is the best thing for productivity.
+E-3: The best thing for a headache is to drink plenty of water.
+
+### Japanese Translation
+J-1: 定期的な運動は健康に<u>最適</u>です。
+J-2: 充分な睡眠が生産性に<u>最適</u>です。
+J-3: 頭痛に<u>最適</u>なのは十分な水分補給です。

@@ -1,0 +1,11 @@
+# Key:under cover
+## Response
+### English Sentences
+E-1: The detective went <u>under cover</u> to infiltrate the criminal organization.
+E-2: The journalist worked <u>under cover</u> to expose the corruption in the government.
+E-3: The spy was sent <u>under cover</u> to gather intelligence on the enemy.
+
+### Japanese Translation
+J-1: 刑事は犯罪組織に潜入するために<u>変装</u>しました。
+J-2: ジャーナリストは政府の腐敗を暴くために<u>変装</u>して働きました。
+J-3: スパイは敵の情報を収集するために<u>偽装</u>して送り込まれました。

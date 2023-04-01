@@ -1,0 +1,11 @@
+# Key:issue A to B
+## Response
+### English Sentences
+E-1: The HR department will <u>issue</u> new employee ID badges to all new hires.
+E-2: The bank will <u>issue</u> a credit card to eligible customers upon request.
+E-3: The government will <u>issue</u> passports to citizens for international travel purposes.
+
+### Japanese Translation
+J-1: 人事部は新しい雇用者のIDバッジを<u>発行</u>します。
+J-2: 銀行は要件を満たす客にリクエストに応じて<u>クレジットカード</u>を発行します。
+J-3: 政府は市民に国際旅行の目的のために<u>パスポート</u>を発行します。

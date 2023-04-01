@@ -1,0 +1,11 @@
+# Key:back out
+## Response
+### English Sentences
+E-1: I had to <u>back out</u> of the race due to a knee injury.
+E-2: The company <u>backed out</u> of the project at the last minute.
+E-3: He promised to help us move, but then he <u>backed out</u> because he had to work.
+
+### Japanese Translation
+J-1: 膝の怪我のためレースから<u>辞退</u>しなければならなかった。
+J-2: その企業はギリギリでプロジェクトから<u>撤退</u>しました。
+J-3: 彼は助けると約束したが、仕事があるため<u>辞退</u>した。

@@ -1,0 +1,11 @@
+# Key:buy up
+## Response
+### English Sentences
+E-1: The investors are trying to <u>buy up</u> all the available shares of the company.
+E-2: The local supermarket is planning to <u>buy up</u> all the small grocery stores in the area.
+E-3: After the news of the limited edition shoes came out, sneaker collectors rushed to <u>buy up</u> all the pairs they could find.
+
+### Japanese Translation
+J-1: 投資家たちは企業の全ての株式を<u>買い占めよう</u>としています。
+J-2: 地元のスーパーマーケットはエリア内の小さい食料品店を全て<u>買い占める</u>計画を立てています。
+J-3: 限定スニーカーのニュースが出た後、スニーカーコレクターたちは見つけることができる全てのペアを<u>買い占める</u>ために殺到しました。

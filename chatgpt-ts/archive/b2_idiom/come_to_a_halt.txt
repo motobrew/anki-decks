@@ -1,0 +1,11 @@
+# Key:come to a halt
+## Response
+### English Sentences
+E-1: The car suddenly <u>came to a halt</u> when it ran out of gas.
+E-2: The construction work <u>came to a halt</u> due to bad weather.
+E-3: The company's expansion plans <u>came to a halt</u> when they ran out of funding.
+
+### Japanese Translation
+J-1: 車は突然ガソリン切れで<u>止まった</u>。
+J-2: 悪天候のため、建設作業は<u>中止</u>になった。
+J-3: 資金が底をついたため、企業の拡大計画は<u>止まった</u>。

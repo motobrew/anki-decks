@@ -1,0 +1,11 @@
+# Key:burst into
+## Response
+### English Sentences
+E-1: When he heard the news, he <u>burst into</u> tears.
+E-2: Suddenly, the door opened and a group of people <u>burst into</u> the room.
+E-3: The audience <u>burst into</u> applause after the stunning performance.
+
+### Japanese Translation
+J-1: 彼はそのニュースを聞いて、泣き<font color='red'>崩れた</font>。
+J-2: 突然、ドアが開いて人々の集団が部屋に<u>突入</u>した。
+J-3: 素晴らしいパフォーマンスに対して、観客は拍手に<u>湧いた</u>。

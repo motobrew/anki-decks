@@ -1,0 +1,11 @@
+# Key:convince A of B
+## Response
+### English Sentences
+E-1: I need to <u>convince my boss</u> of my idea for a new project.
+E-2: Can you <u>convince your parents</u> to let you go on the trip with us?
+E-3: She finally <u>convinced him</u> to try sushi for the first time.
+
+### Japanese Translation
+J-1: 新しいプロジェクトのアイデアを上司に<u>納得</u>してもらわなければならない。
+J-2: 一緒に旅行に行くことを許してくれるよう<u>両親を説得</u>できますか？
+J-3: 彼女はついに彼を<u>説得し</u>、初めて寿司を試してみることにした。

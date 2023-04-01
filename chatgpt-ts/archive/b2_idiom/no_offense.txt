@@ -1,0 +1,11 @@
+# Key:no offense
+## Response
+### English Sentences
+E-1: <u>No offense</u>, but I don't really like sushi.
+E-2: <u>No offense</u>, but your idea won't work in practice.
+E-3: <u>No offense</u>, but I think your outfit is a bit too flashy.
+
+### Japanese Translation
+J-1: 冒頭に<u>失礼</u>しますが、私は寿司があまり好きではありません。
+J-2: 冒頭に<u>失礼</u>しますが、あなたのアイデアは実践には適さないと思います。
+J-3: 冒頭に<u>失礼</u>しますが、あなたの服装は少し派手すぎると思います。

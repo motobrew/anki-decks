@@ -1,0 +1,11 @@
+# Key:lie on
+## Response
+### English Sentences
+E-1: The cat likes to <u>lie on</u> the sunny window sill in the afternoon.
+E-2: I always feel relaxed when I <u>lie on</u> my bed after a long day.
+E-3: The picnic blanket was <u>lying on</u> the grassy field waiting for us.
+
+### Japanese Translation
+J-1: 猫は午後、日当たりの良い窓辺に<u>寝そべっている</u>のが好きです。
+J-2: 長い一日の後、私はいつもベッドに<u>寝そべっている</u>とリラックスします。
+J-3: ピクニック用のブランケットが、草むらに<u>広がり放しになっていました</u>。

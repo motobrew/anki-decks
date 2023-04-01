@@ -1,0 +1,11 @@
+# Key:free of charge
+## Response
+### English Sentences
+E-1: The admission to the museum is <u>free of charge</u> on Fridays.
+E-2: Our company provides training <u>free of charge</u> to new employees.
+E-3: The hotel offers a shuttle service <u>free of charge</u> for its guests.
+
+### Japanese Translation
+J-1: 金曜日は博物館の入場が<u>無料</u>です。
+J-2: 当社は新入社員に対して研修を<u>無料で</u>提供しています。
+J-3: ホテルは宿泊者に<u>無料で</u>シャトルサービスを提供しています。

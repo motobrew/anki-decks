@@ -1,0 +1,11 @@
+# Key:buy off
+## Response
+### English Sentences
+E-1: The company tried to <u>buy off</u> the protestors with a large sum of money.
+E-2: I won't be <u>buying off</u> your silence, so you better keep your mouth shut.
+E-3: The politician was accused of attempting to <u>buy off</u> his opponents.
+
+### Japanese Translation
+J-1: 企業は大金を出して抗議者を<u>買収しよう</u>とした。
+J-2: 私はあなたの口止めを<u>金で買う</u>つもりはないので、口を閉ざすように。
+J-3: 政治家は競争相手を<u>買収しよう</u>としたとして告発された。

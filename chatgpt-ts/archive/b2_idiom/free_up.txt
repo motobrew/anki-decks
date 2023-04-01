@@ -1,0 +1,11 @@
+# Key:free up
+## Response
+### English Sentences
+E-1: I need to <u>free up</u> some space on my computer by deleting old files.
+E-2: You can <u>free up</u> your schedule by canceling the non-essential meetings.
+E-3: The company plans to <u>free up</u> resources by outsourcing certain tasks to a third-party firm.
+
+### Japanese Translation
+J-1: 古いファイルを削除して、コンピューターのスペースを<u>空ける</u>必要があります。
+J-2: 必須ではないミーティングをキャンセルすることで、スケジュールを<u>空ける</u>ことができます。
+J-3: 企業は、サードパーティの会社に特定のタスクをアウトソーシングすることで、リソースを<u>確保する</u>計画を立てています。

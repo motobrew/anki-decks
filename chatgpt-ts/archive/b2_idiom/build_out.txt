@@ -1,0 +1,11 @@
+# Key:build out
+## Response
+### English Sentences
+E-1: The company is planning to <u>build out</u> its new headquarters by adding more floors and amenities.
+E-2: We need to <u>build out</u> our team if we want to take on more projects.
+E-3: The restaurant decided to <u>build out</u> its menu by adding more vegetarian and gluten-free options.
+
+### Japanese Translation
+J-1: 会社はフロアを追加し、設備を増やして、新しい本社を<u>拡張</u>する予定です。
+J-2: もっと多くのプロジェクトに取り組むために、チームを<u>拡大</u>する必要があります。
+J-3: レストランは、ベジタリアンやグルテンフリーのオプションを増やしてメニューを<u>充実</u>させることに決めました。

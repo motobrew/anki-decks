@@ -1,0 +1,11 @@
+# Key:iron out
+## Response
+### English Sentences
+E-1: We need to have a meeting to <u>iron out</u> the details of the project.
+E-2: Let's <u>iron out</u> our differences and work together to solve this problem.
+E-3: It took some time, but we were able to <u>iron out</u> all the wrinkles in the plan.
+
+### Japanese Translation
+J-1: プロジェクトの詳細を<u>詰める</u>ために会議を開かなければなりません。
+J-2: もめ事を<u>解消</u>しましょう。一緒にこの問題を解決しましょう。
+J-3: 時間がかかりましたが、計画のすべての問題を<u>解決する</u>ことができました。

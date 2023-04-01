@@ -1,0 +1,11 @@
+# Key:drink to
+## Response
+### English Sentences
+E-1: Let's <u>drink to</u> the success of our project.
+E-2: They always <u>drink to</u> good health before having a meal.
+E-3: We can <u>drink to</u> his memory at the memorial service.
+
+### Japanese Translation
+J-1: プロジェクトの成功を<u>祝杯</u>しましょう。
+J-2: 彼らは食事の前にいつも<u>乾杯</u>して健康を祈っています。
+J-3: 追悼式で、彼の追悼の意味で<u>乾杯</u>することができます。

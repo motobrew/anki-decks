@@ -1,0 +1,11 @@
+# Key:have off
+## Response
+### English Sentences
+E-1: I'm going to take tomorrow <u>off</u> from work.
+E-2: The teacher gave us the whole week <u>off</u> for spring break.
+E-3: I usually have Mondays <u>off</u> from my job.
+
+### Japanese Translation
+J-1: 私は明日、仕事を<u>休み</u>ます。
+J-2: 先生は春休みのため、私たちに1週間<u>休み</u>を与えました。
+J-3: 私は普段、仕事で月曜日を<u>休み</u>にしています。

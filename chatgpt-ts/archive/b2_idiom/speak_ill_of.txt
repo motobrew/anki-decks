@@ -1,0 +1,11 @@
+# Key:speak ill of
+## Response
+### English Sentences
+E-1: It's never appropriate to <u>speak ill of</u> others behind their back.
+E-2: She was upset when she overheard someone <u>speaking ill of</u> her friend.
+E-3: Let's try to focus on the positive and not <u>speak ill of</u> our competitors.
+
+### Japanese Translation
+J-1: 誰かの背後で<u>悪口を言う</u>ことは決して適切ではありません。
+J-2: 彼女は友達のことを<u>悪く言われている</u>のを聞いて upset になった。
+J-3: 私たちは競合他社を<u>悪く言わない</u>ように、肯定的な方向に焦点を合わせるようにしましょう。

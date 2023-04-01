@@ -1,0 +1,11 @@
+# Key:make an end of
+## Response
+### English Sentences
+E-1: It's time to <u>make an end of</u> this conversation and get back to work.
+E-2: The company decided to <u>make an end of</u> their partnership due to financial troubles.
+E-3: The government vows to <u>make an end of</u> the corruption in the system.
+
+### Japanese Translation
+J-1: この会話は<u>終わりに</u>して、仕事に戻る時間です。
+J-2: 企業は財政上の問題から、パートナーシップを<u>解消する</u>ことを決定しました。
+J-3: 政府はシステム内の腐敗を<u>終わらせる</u>ことを誓います。

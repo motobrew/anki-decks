@@ -1,0 +1,11 @@
+# Key:struggle with
+## Response
+### English Sentences
+E-1: I always <u>struggle with</u> public speaking, but I am working on improving my skills.
+E-2: She has been <u>struggling with</u> the new math concepts, so she meets with a tutor twice a week.
+E-3: They are <u>struggling with</u> financial difficulties due to the pandemic.
+
+### Japanese Translation
+J-1: 私はいつも公演することに<u>苦戦して</u>いますが、スキルを向上させるために努力しています。
+J-2: 彼女は新しい数学の概念に<u>苦戦して</u>いるので、週に2回家庭教師に会っています。
+J-3: 彼らはパンデミックによる財政難に<u>苦戦して</u>います。

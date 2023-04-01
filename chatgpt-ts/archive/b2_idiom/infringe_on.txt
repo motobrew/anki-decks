@@ -1,0 +1,11 @@
+# Key:infringe on
+## Response
+### English Sentences
+E-1: The new copyright law could <u>infringe on</u> the rights of content creators.
+E-2: The company's new policy may <u>infringe on</u> employees' privacy.
+E-3: We have to be careful not to <u>infringe on</u> the intellectual property of others.
+
+### Japanese Translation
+J-1: 新しい著作権法は、コンテンツ作成者の権利を<u>侵害する</u>可能性があります。
+J-2: 会社の新しい方針は、従業員のプライバシーを<u>侵害する</u>可能性があります。
+J-3: 私たちは他人の知的財産を<u>侵害しないように</u>注意しなければなりません。

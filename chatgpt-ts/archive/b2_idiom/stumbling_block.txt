@@ -1,0 +1,11 @@
+# Key:stumbling block
+## Response
+### English Sentences
+E-1: The lack of experience in web development can be a <u>stumbling block</u> for those trying to create their own website.
+E-2: His fear of failure became a <u>stumbling block</u> to pursuing his dreams.
+E-3: The language barrier can be a <u>stumbling block</u> to effective communication in a multicultural workplace.
+
+### Japanese Translation
+J-1: ウェブ開発の経験不足は、自分でウェブサイトを作ろうとする人にとって<u>足かせ</u>になることがあります。
+J-2: 彼の失敗への恐怖は、彼の夢を追求するための<u>障害となり</u>ました。
+J-3: 言葉の壁は、多文化的な職場での効果的なコミュニケーションに<u>足かせ</u>となることがあります。

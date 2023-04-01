@@ -1,0 +1,11 @@
+# Key:in addition to
+## Response
+### English Sentences
+E-1: <u>In addition to</u> your salary, you will receive health benefits and a retirement plan.
+E-2: <u>In addition to</u> studying for exams, I also have to work part-time to pay for my tuition.
+E-3: <u>In addition to</u> English, she is fluent in Spanish and French.
+
+### Japanese Translation
+J-1: 給料に<u>加えて</u>、健康保険と退職プランも受け取れます。
+J-2: 試験勉強<u>に加えて</u>、学費を支払うためにアルバイトもしなければなりません。
+J-3: 彼女は英語<u>に加えて</u>、スペイン語とフランス語も流暢です。

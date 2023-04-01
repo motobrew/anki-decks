@@ -1,0 +1,11 @@
+# Key:elaborate on
+## Response
+### English Sentences
+E-1: Can you please <u>elaborate on</u> your idea? I don't quite understand.
+E-2: The professor asked me to <u>elaborate on</u> my research findings during the presentation.
+E-3: The witness was asked to <u>elaborate on</u> what he saw during the crime.
+
+### Japanese Translation
+J-1: あなたのアイデアをもう少し<u>詳しく説明</u>してもらえますか？理解できません。
+J-2: 教授はプレゼン中に私に研究の発見について<u>詳しく説明</u>するように頼みました。
+J-3: 目撃者は犯罪の際に何が見えたのか<u>詳しく説明</u>するように求められました。

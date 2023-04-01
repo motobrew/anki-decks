@@ -1,0 +1,11 @@
+# Key:sticking point
+## Response
+### English Sentences
+E-1: Money has always been a <u>sticking point</u> in our relationship.
+E-2: The negotiations have come to a <u>sticking point</u> and it seems like a compromise is impossible.
+E-3: Learning how to do calculus was a <u>sticking point</u> for me in college.
+
+### Japanese Translation
+J-1: お金は私たちの関係で常に<u>躓く点</u>でした。
+J-2: 交渉は<u>躓く点</u>に達し、妥協が不可能に見えます。
+J-3: 大学で微積分を学ぶことは私にとって<u>躓く点</u>でした。

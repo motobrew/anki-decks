@@ -1,0 +1,11 @@
+# Key:come in contact with
+## Response
+### English Sentences
+E-1: It's important to wash your hands regularly to avoid <u>coming in contact with</u> germs.
+E-2: The company has strict safety protocols to prevent employees from <u>coming in contact with</u> hazardous materials.
+E-3: Some people believe that aliens have <u>come in contact with</u> humans in the past.
+
+### Japanese Translation
+J-1: 細菌に<u>接触する</u>ことを避けるために、手を定期的に洗うことが重要です。
+J-2: 会社は、従業員が有害物質に<u>接触する</u>のを防ぐために厳しい安全プロトコルを持っています。
+J-3: 過去にエイリアンが人類と<u>接触した</u>と信じる人もいます。

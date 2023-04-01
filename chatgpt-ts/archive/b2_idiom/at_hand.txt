@@ -1,0 +1,11 @@
+# Key:at hand
+## Response
+### English Sentences
+E-1: The solution to the problem is <u>at hand</u>.
+E-2: We need to be prepared for any situation that may come <u>at hand</u>.
+E-3: The product launch is <u>at hand</u>, and we need to finalize the details.
+
+### Japanese Translation
+J-1: 問題の解決法が<u>手元に</u>あります。
+J-2: どんな状況が<u>手元に</u>来るかに備える必要があります。
+J-3: 製品のローンチが<u>目前に</u>あり、詳細を最終決定する必要があります。

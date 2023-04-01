@@ -1,0 +1,11 @@
+# Key:watch over
+## Response
+### English Sentences
+E-1: Can you please <u>watch over</u> my dog while I'm out of town?
+E-2: The lifeguard will <u>watch over</u> the pool to make sure everyone is safe.
+E-3: You need to <u>watch over</u> the frying pan so that the food doesn't burn.
+
+### Japanese Translation
+J-1: 私が町を離れている間、私の犬を<u>預かって</u>もらえますか？
+J-2: ライフグッドは監視し、みんなが安全であることを確認するためにプールを<u>見守る</u>必要があります。
+J-3: 食べ物が焦げないように、フライパンを<u>目を光らせて</u>見なければならない。

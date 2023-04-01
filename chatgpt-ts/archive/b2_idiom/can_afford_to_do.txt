@@ -1,0 +1,11 @@
+# Key:can afford to do
+## Response
+### English Sentences
+E-1: She <u>can afford to buy</u> a new car with her savings.
+E-2: They <u>can't afford to take</u> a vacation this year due to financial difficulties.
+E-3: He <u>can afford to quit</u> his job because he has another offer.
+
+### Japanese Translation
+J-1: 彼女は貯金で新しい車を<u>買う余裕がある</u>。
+J-2: 彼らは財政上の問題から今年は<u>休暇に行く余裕がない</u>。
+J-3: 彼は<strong>別のオファーがあるため</strong>、仕事を<u>辞めることができる</u>余裕がある。

@@ -1,0 +1,11 @@
+# Key:give way
+## Response
+### English Sentences
+E-1: The car in front of me suddenly <u>gave way</u>, and I was able to pass.
+E-2: After hours of negotiation, the company decided to <u>give way</u> and allow the workers to form a union.
+E-3: The bridge was old and weak, and finally <u>gave way</u> under the weight of the truck.
+
+### Japanese Translation
+J-1: 前の車が急に<u>後退し</u>、私は抜けることができました。
+J-2: 何時間もの交渉の後、会社は<u>譲歩する</u>ことに決め、労働者が組合を結成することを許可しました。
+J-3: 橋は古くて弱く、ついにトラックの重みに耐えることができず、<u>崩れ落ちた</u>。

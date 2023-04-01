@@ -1,0 +1,11 @@
+# Key:be addicted to
+## Response
+### English Sentences
+E-1: He started to <u>be addicted to</u> playing video games every day.
+E-2: She realized she was <u>addicted to</u> caffeine when she couldn't function without her morning coffee.
+E-3: The company had to intervene when some employees became <u>addicted to</u> their smartphones during work hours.
+
+### Japanese Translation
+J-1: 彼は毎日ビデオゲームを<u>やみつきになる</u>ようになりました。
+J-2: 彼女は朝のコーヒーなしでは機能できなくなったときにカフェインに<u>依存している</u>ことに気づきました。
+J-3: 会社は、一部の従業員が勤務時間中にスマートフォンに<u>夢中になり過ぎている</u>と判断し、介入する必要がありました。

@@ -1,0 +1,11 @@
+# Key:loud and clear
+## Response
+### English Sentences
+E-1: The instructions were <u>loud and clear</u>, but some still did not follow them.
+E-2: When he speaks, he wants his message to be heard <u>loud and clear</u>.
+E-3: The referee made his decision <u>loud and clear</u>, leaving no room for disputes.
+
+### Japanese Translation
+J-1: 指示は<u>明確に</u>伝えられましたが、まだ従っていない人もいました。
+J-2: 彼は話すときに、彼のメッセージが<u>はっきりと</u>聞かれることを望んでいます。
+J-3: 審判は<u>明確に</u>判断を下し、紛争の余地を残さなかった。

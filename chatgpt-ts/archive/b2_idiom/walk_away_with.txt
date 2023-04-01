@@ -1,0 +1,11 @@
+# Key:walk away with
+## Response
+### English Sentences
+E-1: After the job interview, I was happy to <u>walk away with</u> a job offer.
+E-2: The lucky winner will <u>walk away with</u> a brand new car after the raffle.
+E-3: Despite the heavy competition, our team was able to <u>walk away with</u> first place in the tournament.
+
+### Japanese Translation
+J-1: 就職面接後、私は求職申し出を<u>手に入れる</u>ことができて嬉しかったです。
+J-2: 幸運な当選者は、くじ引き後に新車を<u>手に入れる</u>ことができます。
+J-3: 激しい競争にもかかわらず、チームはトーナメントで<u>優勝する</u>ことができました。

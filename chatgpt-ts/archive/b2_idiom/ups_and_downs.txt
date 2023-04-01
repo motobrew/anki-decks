@@ -1,0 +1,11 @@
+# Key:ups and downs
+##Response 
+### English Sentences 
+E-1: Life has its <u>ups and downs</u>, but it's important to stay positive. 
+E-2: We've had some <u>ups and downs</u> in our relationship, but we're still going strong. 
+E-3: This stock market is known for its <u>ups and downs</u>, so you have to be careful when investing. 
+
+### Japanese Translation 
+J-1: 人生にはいろいろな<u>波風</u>がありますが、前向きに考えることが大切です。 
+J-2: 私たちの関係にはいくつかの<u>波乱</u>がありましたが、まだまだ頑張っています。 
+J-3: この株式市場は<u>荒れ模様</u>が多いので、投資する際は注意する必要があります。

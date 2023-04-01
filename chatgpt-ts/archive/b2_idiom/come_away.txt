@@ -1,0 +1,11 @@
+# Key:come away
+## Response
+### English Sentences
+E-1: Let's <u>come away</u> from the busy city and spend some time in nature.
+E-2: When the argument got heated, she needed to <u>come away</u> to cool down.
+E-3: It's hard for me to <u>come away</u> from my work and take a break.
+
+### Japanese Translation
+J-1: 忙しい街から<u>離れて</u>、自然の中で過ごしましょう。
+J-2: 議論が激しくなったとき、彼女は冷静になるために<u>離れる</u>必要があった。
+J-3: 仕事から<u>離れて</u>休憩をとることが私には難しいです。

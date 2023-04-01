@@ -1,0 +1,11 @@
+# Key:be applicable to
+## Response
+### English Sentences
+E-1: The new policy will <u>be applicable to</u> all employees starting next month.
+E-2: These safety regulations only <u>be applicable to</u> workers in hazardous environments.
+E-3: This discount code will <u>be applicable to</u> your next purchase on our website.
+
+### Japanese Translation
+J-1: 新しい方針は来月から全従業員に<u>適用されます</u>。
+J-2: これらの安全規制は、危険な環境で働く従業員にだけ<u>適用されます</u>。
+J-3: このディスカウントコードは、当社のウェブサイトで次回の購入に<u>適用されます</u>。

@@ -1,0 +1,11 @@
+# Key:wash out
+## Response
+### English Sentences
+E-1: The rain was so heavy that it <u>washed out</u> the game.
+E-2: The flood <u>washed out</u> the bridge and now we can't cross the river.
+E-3: I forgot to put sunscreen on and now the sweat is making it <u>wash out</u> of my skin.
+
+### Japanese Translation
+J-1: 雨が激しくて、試合が<u>中止</u>になった。
+J-2: 洪水で橋が<u>流され</u>、今では川を渡ることができない。
+J-3: 日焼け止めを塗り忘れて、今汗で肌から<u>落ちていく</u>。

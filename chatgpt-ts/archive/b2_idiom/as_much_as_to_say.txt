@@ -1,0 +1,11 @@
+# Key:as much as to say
+## Response
+### English Sentences
+E-1: Julia shrugged her shoulders, <u>as much as to say</u> she didn't know the answer. 
+E-2: Emily raised one eyebrow, <u>as much as to say</u> she doubted what he was saying. 
+E-3: When I asked him if he needed any help, he sighed and looked away, <u>as much as to say</u> he didn't want to burden me.
+
+### Japanese Translation
+J-1: ジュリアは肩をすくめ、答えがわからないことを<u>暗に示すように</u>しました。 
+J-2: エミリーは片方の眉を上げて、彼が言っていることを疑っている<u>様子で</u>した。
+J-3: 私が彼に手伝いが必要か尋ねたとき、彼はため息をついて目をそらし、私を<u>迷惑がらせたくない</u>と<u>暗に示すように</u>しました。

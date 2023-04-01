@@ -1,0 +1,11 @@
+# Key:put down
+## Response
+### English Sentences
+E-1: He had to <u>put down</u> his beloved pet dog as it had become very sick and was suffering.
+E-2: The teacher asked the students to <u>put down</u> their pencils and pay attention to the lesson.
+E-3: The contractor had to <u>put down</u> a new layer of concrete on the floor.
+
+### Japanese Translation
+J-1: 彼はとても病気で苦しんでいたため、愛しいペット犬を<u>安楽死</u>する必要があった。
+J-2: 先生は生徒たちに<u>鉛筆を置く</u>ように頼んで、授業に集中するように指示した。
+J-3: 請負業者は床に新しい層のコンクリートを<u>流し込む</u>必要があった。

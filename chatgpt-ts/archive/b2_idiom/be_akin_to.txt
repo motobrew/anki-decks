@@ -1,0 +1,11 @@
+# Key:be akin to
+## Response
+### English Sentences
+E-1: The way she behaves is <u>akin to</u> that of a child, despite being an adult.
+E-2: This product is <u>akin to</u> the one you were using before, but with some additional features.
+E-3: His attitude towards work is <u>akin to</u> laziness and lack of motivation.
+
+### Japanese Translation
+J-1: 彼女の振る舞いは、大人にもかかわらず子供のようなものです。
+J-2: この製品は、以前使っていたものと<u>同様の</u>ものですが、いくつかの追加機能があります。
+J-3: 彼の仕事への姿勢は、怠惰さとモチベーションの欠如に<u>似ている</u>。

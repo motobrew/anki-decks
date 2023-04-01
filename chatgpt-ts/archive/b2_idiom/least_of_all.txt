@@ -1,0 +1,11 @@
+# Key:least of all
+## Response
+### English Sentences
+E-1: I don't want to go to that party, <u>least of all</u> with him.
+E-2: I enjoy all types of sports, <u>least of all</u> golf.
+E-3: I don't like Mondays, <u>least of all</u> when I have to wake up early.
+
+### Japanese Translation
+J-1: 彼と一緒にそのパーティーに行きたくない、<u>彼のせいでなおさらに</u>。
+J-2: 私はあらゆるスポーツが好きですが、<u>中でも最も</u>ゴルフは嫌いです。
+J-3: 月曜日が嫌いです、<u>特に</u>早起きしなければならないときは。

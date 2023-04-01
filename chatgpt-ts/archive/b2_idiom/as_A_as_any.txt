@@ -1,0 +1,11 @@
+# Key:as A as any
+## Response
+### English Sentences
+E-1: She is <u>as talented as any</u> musician in the world.
+E-2: The restaurant's food is <u>as delicious as any</u> I've ever tasted.
+E-3: His artwork is <u>as beautiful as any</u> masterpiece in a museum.
+
+### Japanese Translation
+J-1: 彼女は世界のどの音楽家にも負けないほど<u>才能がある</u>。
+J-2: このレストランの料理は私が今まで食べたどんなものよりも<u>おいしい</u>。
+J-3: 彼の芸術作品は博物館にあるどの傑作とも<u>美しい</u>。

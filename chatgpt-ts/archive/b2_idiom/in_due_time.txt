@@ -1,0 +1,11 @@
+# Key:in due time
+## Response
+### English Sentences
+E-1: Patience is a virtue, success will come <u>in due time</u>.
+E-2: The company will pay off its debts <u>in due time</u>.
+E-3: The flowers will bloom <u>in due time</u> with proper care.
+
+### Japanese Translation
+J-1: 忍耐は美徳です。成功は<u>時期尚早</u>です。
+J-2: その会社は<u>やがて</u>借金を返します。
+J-3: 適切な管理で花は<u>自然に</u>咲きます。

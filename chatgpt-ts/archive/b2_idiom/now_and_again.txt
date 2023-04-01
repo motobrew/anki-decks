@@ -1,0 +1,11 @@
+# Key:now and again
+## Response
+### English Sentences
+E-1: Now and again, I like to treat myself to a fancy dinner at a nice restaurant.
+E-2: Now and again, my family likes to take a trip to the beach to relax.
+E-3: Now and again, I like to stay up late to finish reading a good book.
+
+### Japanese Translation
+J-1: 時々、高級レストランで豪華なディナーを楽しむのが好きです。
+J-2: 時々、家族と一緒にビーチに行ってリラックスするのが好きです。
+J-3: 時々、良い本を読み終えるために遅くまで起きているのが好きです。

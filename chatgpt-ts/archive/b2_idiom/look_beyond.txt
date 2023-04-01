@@ -1,0 +1,11 @@
+# Key:look beyond
+## Response
+### English Sentences
+E-1: When making a decision, it's important to <u>look beyond</u> your personal biases and consider all the facts.
+E-2: To truly understand a culture, you need to <u>look beyond</u> surface-level differences and dig deeper into its history and values.
+E-3: In order to find true happiness, we must <u>look beyond</u> material possessions and focus on the things that bring us joy and fulfillment.
+
+### Japanese Translation
+J-1: 意思決定をする際には、自分自身の偏見を超えて全ての事実を考慮することが重要です。
+J-2: 他の文化を正しく理解するためには、外見的な違いを超えて歴史や価値観など深層の部分に注目する必要があります。
+J-3: 真の幸福を見つけるためには、物質的な所有物を超えて、喜びや満足感をもたらすことに焦点を置く必要があります。

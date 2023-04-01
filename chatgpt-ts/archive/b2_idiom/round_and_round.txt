@@ -1,0 +1,11 @@
+# Key:round and round
+## Response
+### English Sentences
+E-1: The merry-go-round went <u>round and round</u> as children laughed and shouted.
+E-2: His thoughts kept going <u>round and round</u> in his head, making it hard to focus on anything else.
+E-3: The car drove <u>round and round</u> the track, competing against other racers.
+
+### Japanese Translation
+J-1: 子供たちが笑いながら叫ぶ中、メリーゴーランドは<u>ぐるぐる</u>回りました。
+J-2: 彼の思考が<u>ぐるぐる</u>と回り続け、他のことに集中するのが難しかった。
+J-3: 車はトラックを<u>ぐるぐる</u>回りながら、他のレーサーたちと競っていました。

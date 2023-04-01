@@ -1,0 +1,12 @@
+# Key:derive from
+## Response
+
+### English Sentences
+E-1: Many English words <u>derive from</u> Latin or Greek roots.
+E-2: The recipe <u>derives from</u> my grandmother's cookbook.
+E-3: The company's profits <u>derive from</u> sales of their flagship product.
+
+### Japanese Translation
+J-1: 多くの英単語はラテン語やギリシャ語の語根から<u>派生しています</u>。
+J-2: そのレシピは<u>祖母の料理本から由来します</u>。
+J-3: その会社の利益は、主力製品の販売から<u>生じています</u>。

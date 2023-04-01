@@ -1,0 +1,11 @@
+# Key:tie into
+## Response
+### English Sentences
+E-1: The theme of the conference will <u>tie into</u> the latest research in the field. 
+E-2: The movie's plot will <u>tie into</u> the previous installment of the franchise. 
+E-3: The company's new product will <u>tie into</u> their overall strategy for growth.
+
+### Japanese Translation
+J-1: その会議のテーマは、その分野での最新の研究に<u>繋がる</u>でしょう。 
+J-2: その映画のプロットは、フランチャイズの前作に<u>関連する</u>でしょう。 
+J-3: その会社の新製品は、成長戦略に<u>結びつく</u>でしょう。

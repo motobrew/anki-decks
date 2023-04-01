@@ -1,0 +1,11 @@
+# Key:stare at
+## Response
+### English Sentences
+E-1: He couldn't help but <u>stare at</u> her beautiful face.
+E-2: The students were told not to <u>stare at</u> each other during the exam.
+E-3: I caught him trying to <u>stare at</u> my computer screen.
+
+### Japanese Translation
+J-1: 彼は彼女の美しい顔を見て、見とれてしまった。
+J-2: 試験中に生徒たちはお互いに<u>じろじろ見る</u>ことをしないように言われました。
+J-3: 彼が私のパソコンの画面を<u>じっと見ようとしている</u>のを見つけました。

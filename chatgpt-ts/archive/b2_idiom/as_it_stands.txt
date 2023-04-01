@@ -1,0 +1,11 @@
+# Key:as it stands
+## Response
+### English Sentences
+E-1: As it stands, we won't be able to finish the project by the deadline.
+E-2: The budget, as it stands, doesn't allow for any additional expenses.
+E-3: As it stands, the law doesn't address this particular issue.
+
+### Japanese Translation
+J-1: 現時点で、締め切りまでにプロジェクトを終わらせることができない見込みです。
+J-2: 予算は現状では、追加の費用を許容していません。
+J-3: 現行法は、この特定の問題に関して取り上げていません。

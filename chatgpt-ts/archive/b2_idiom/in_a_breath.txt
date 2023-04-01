@@ -1,0 +1,11 @@
+# Key:in a breath
+## Response
+### English Sentences
+E-1: She ran the entire marathon <u>in a breath</u>, she was so well-trained.
+E-2: The singer hit all the high notes <u>in a breath</u>, proving her vocal range.
+E-3: The comedian told the entire story <u>in a breath</u>, making the audience laugh uncontrollably.
+
+### Japanese Translation
+J-1: 彼女はトレーニングがしっかりしていたため、マラソンを<u>息を切らさず</u>完走した。
+J-2: 歌手は<b>息をを切らさず</u>高音域を全て出し切り、彼女の歌唱力を証明した。
+J-3: そのコメディアンは<b>息を切らさず</u>話を全て話して、観客を爆笑させた。

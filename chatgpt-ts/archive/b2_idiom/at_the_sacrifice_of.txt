@@ -1,0 +1,11 @@
+# Key:at the sacrifice of
+## Response
+### English Sentences
+E-1: He succeeded in his career, but it came <u>at the sacrifice of</u> his personal life.
+E-2: Some people think that progress <u>at the sacrifice of</u> the environment is inevitable.
+E-3: The team won the championship, but it came <u>at the sacrifice of</u> their health and well-being.
+
+### Japanese Translation
+J-1: 彼はキャリアで成功したが、私生活を<u>犠牲</u>にした。
+J-2: 環境を<u>犠牲</u>に進歩することは避けられないと考える人もいる。
+J-3: チームは優勝したが、健康や幸福を<u>犠牲</u>にした。

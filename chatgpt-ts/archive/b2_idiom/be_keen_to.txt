@@ -1,0 +1,11 @@
+# Key:be keen to
+## Response
+### English Sentences
+E-1: He seems to <u>be keen to</u> learn more about science.
+E-2: I am <u>keen to</u> go on a trip to Japan next year.
+E-3: The company is <u>keen to</u> expand their business overseas.
+
+### Japanese Translation
+J-1: 彼は科学のさらに学ぶことに<u>熱心そうだ</u>。
+J-2: 私は来年日本へ旅行に<u>行きたいと強く思っている</u>。
+J-3: その会社は海外でビジネスを拡大することに<u>意欲的だ</u>。

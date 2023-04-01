@@ -1,0 +1,11 @@
+# Key:come out with
+## Response
+### English Sentences
+E-1: The company plans to <u>come out with</u> a new product line next year.
+E-2: I can't wait for the band to <u>come out with</u> their new album.
+E-3: The author is set to <u>come out with</u> a sequel to her best-selling novel.
+
+### Japanese Translation
+J-1: その会社は来年新しい製品ラインを<u>リリースする予定</u>です。
+J-2: そのバンドが新しいアルバムを<u>リリースすること</u>を楽しみにしています。
+J-3: その作家は彼女のベストセラー小説の続編を<u>発表するつもり</u>です。

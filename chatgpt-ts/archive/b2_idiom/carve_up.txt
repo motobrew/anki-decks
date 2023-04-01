@@ -1,0 +1,11 @@
+# Key:carve up
+## Response
+### English Sentences
+E-1: The two countries agreed to <u>carve up</u> the disputed territory between them.
+E-2: The siblings had to <u>carve up</u> their father's estate and assets after his passing.
+E-3: The chef was skilled at <u>carving up</u> the turkey for Thanksgiving dinner.
+
+### Japanese Translation
+J-1: 2つの国は争われた領土を<u>分割する</u>ことで合意しました。
+J-2: 兄弟は父親の遺産や資産を<u>分割する</u>必要がありました。
+J-3: シェフは感謝祭の夕食で七面鳥をうまく<u>切り分ける</u>ことができました。

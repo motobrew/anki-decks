@@ -1,0 +1,11 @@
+# Key:slip of the tongue
+## Response
+### English Sentences
+E-1: I didn't mean to say that rude remark; it was just a <u>slip of the tongue</u>.
+E-2: The politician made a huge gaffe during his speech, but he claimed it was just a <u>slip of the tongue</u>.
+E-3: After a few drinks, he accidentally revealed his secret. He blamed it on a <u>slip of the tongue</u>.
+
+### Japanese Translation
+J-1: あの失礼な発言は意図しなかったんだ、ただ<u>言い間違い</u>だったんだ。
+J-2: 政治家はスピーチ中に大きな失言をしたけど、<u>言い間違い</u>だと主張した。
+J-3: お酒を飲んでちょっとした口滑らせで、彼は秘密を漏らしてしまった。その<u>言い間違い</u>と言い訳した。

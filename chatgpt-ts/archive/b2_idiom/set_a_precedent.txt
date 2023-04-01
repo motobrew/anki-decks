@@ -1,0 +1,11 @@
+# Key:set a precedent
+## Response
+### English Sentences
+E-1: The court's ruling on the case will <u>set a precedent</u> for future similar cases.
+E-2: The company's decision to offer four-day workweeks may <u>set a precedent</u> for other companies to follow.
+E-3: The athlete's record-breaking performance will <u>set a precedent</u> for future athletes to strive towards.
+
+### Japanese Translation
+J-1: その事件に対する裁判所の判決は、将来の同様の事件において<u>前例を設定する</u>ことになるでしょう。
+J-2: その会社が週4日の勤務を提供するという決定は、他の企業が追随する<u>前例を設定</u>するかもしれません。
+J-3: その選手の記録破りのパフォーマンスは、将来の選手が目指すべき<u>前例を設定する</u>ことになります。

@@ -1,0 +1,11 @@
+# Key:come in handy
+## Response
+### English Sentences
+E-1: A Swiss Army Knife can <u>come in handy</u> when you're camping.
+E-2: Keeping a first-aid kit in your car can <u>come in handy</u> in case of an emergency.
+E-3: Knowing how to speak Spanish can <u>come in handy</u> when traveling in South America.
+
+### Japanese Translation
+J-1: キャンプに行くときは、スイスアーミーナイフが<u>あると便利</u>です。
+J-2: 車の中に応急手当キットを持ち歩くと、<u>緊急時に役に立つ</u>ことがあります。
+J-3: スペイン語を話せることは、南アメリカで旅行するときに<u>役に立つことがある</u>。

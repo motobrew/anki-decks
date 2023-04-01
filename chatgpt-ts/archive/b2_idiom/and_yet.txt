@@ -1,0 +1,11 @@
+# Key:and yet
+## Response
+### English Sentences
+E-1: The weather forecast predicted rain all day, and yet it's been sunny so far.
+E-2: She failed her driving test twice, and yet she still wants to try again.
+E-3: The team played horribly in the first half, and yet they managed to win the game.
+
+### Japanese Translation
+J-1: 天気予報は終日雨を予想しましたが、<u>それでも</u>今まで晴れています。
+J-2: 彼女は2回運転免許試験に落ちたけど、<u>それでも</u>もう一度やりたいと思っています。
+J-3: チームは前半ひどくプレーしましたが、<u>それでも</u>試合に勝ちました。

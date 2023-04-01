@@ -1,0 +1,11 @@
+# Key:rumor has it that
+## Response
+### English Sentences
+E-1: <u>Rumor has it that</u> John is quitting his job next month.
+E-2: <u>Rumor has it that</u> the company is going bankrupt.
+E-3: <u>Rumor has it that</u> the movie will have a surprise ending.
+
+### Japanese Translation
+J-1: ジョンが来月仕事を辞めるという<u>噂がある</u>。
+J-2: その企業が倒産するという<u>噂がある</u>。
+J-3: その映画に予想外の結末があるという<u>噂がある</u>。

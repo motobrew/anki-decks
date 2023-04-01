@@ -1,0 +1,11 @@
+# Key:catch a glimpse of
+## Response
+### English Sentences
+E-1: As the train passed by, I was able to <u>catch a glimpse of</u> the beautiful sunset.
+E-2: I tried to <u>catch a glimpse of</u> the celebrity as they walked into the restaurant.
+E-3: The bird flew away too quickly for me to <u>catch a glimpse of</u> its unique colors.
+
+### Japanese Translation
+J-1: 電車が通り過ぎる際に、美しい夕日を<u>ちらっと見る</u>ことができました。
+J-2: 有名人がレストランに入っていくのを<u>ちらりと見る</u>ようにしました。
+J-3: 鳥はあまりにも早く飛び去ったため、その独特な色を<u>ちらっと見る</u>ことができませんでした。

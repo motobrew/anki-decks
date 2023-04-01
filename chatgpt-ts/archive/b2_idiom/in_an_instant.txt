@@ -1,0 +1,11 @@
+# Key:in an instant
+## Response
+### English Sentences
+E-1: The car stopped <u>in an instant</u> when the driver slammed on the brakes.
+E-2: The storm blew away the umbrellas <u>in an instant</u>.
+E-3: The fireworks lit up the sky and disappeared <u>in an instant</u>.
+
+### Japanese Translation
+J-1: ドライバーがブレーキを急に踏んだ時、車は<u>一瞬で</u>止まった。
+J-2: 嵐が傘を<u>瞬く間に</u>吹き飛ばした。
+J-3: 花火は空を照らし、<u>あっという間に</u>消えた。

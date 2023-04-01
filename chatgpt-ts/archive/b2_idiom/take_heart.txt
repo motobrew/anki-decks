@@ -1,0 +1,11 @@
+# Key:take heart
+## Response
+### English Sentences
+E-1: <u>Take heart</u>, things will get better eventually.
+E-2: Even though we lost the game, we can <u>take heart</u> in knowing that we played our best.
+E-3: In times of difficulty, it's important to <u>take heart</u> and keep going.
+
+### Japanese Translation
+J-1: あきらめないで、いずれ良くなるので<u>気を取り直して</u>ください。
+J-2: 試合に負けたけど、私たちがベストを尽くしたことを<u>励み</u>にしてください。
+J-3: 困難な状況でも、<u>心を強く持って</u>前に進むことが大切です。

@@ -1,0 +1,11 @@
+# Key:public official
+## Response
+### English Sentences
+E-1: The <u>public official</u> refused to comment on the ongoing investigation.
+E-2: As a <u>public official</u>, it is important to maintain impartiality in all decisions.
+E-3: The <u>public official</u> was indicted on charges of corruption.
+
+### Japanese Translation
+J-1: <u>公務員</u>は進行中の調査にコメントを拒否しました。
+J-2: <u>公務員</u>として、すべての決定において中立性を維持することが重要です。
+J-3: <u>公務員</u>は汚職の容疑で起訴されました。

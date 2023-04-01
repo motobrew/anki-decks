@@ -1,0 +1,11 @@
+# Key:run errands
+## Response
+### English Sentences
+E-1: I need to <u>run errands</u> today, including going to the post office and buying groceries.
+E-2: Can you <u>run errands</u> for me and pick up my dry cleaning on your way home?
+E-3: We have a busy day tomorrow, so let's <u>run errands</u> in the morning before our appointments.
+
+### Japanese Translation
+J-1: 今日は郵便局に行って食料品を買うなど、いくつかの<u>用事を済ませなければならない</u>。
+J-2: 帰宅途中に私のクリーニングを<u>取りに行ってくれますか</u>？
+J-3: 明日は忙しい予定があるので、<u>予約前に朝早く用事を済ませましょう</u>。

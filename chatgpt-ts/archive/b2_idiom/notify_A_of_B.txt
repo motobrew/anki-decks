@@ -1,0 +1,11 @@
+# Key:notify A of B
+## Response
+### English Sentences
+E-1: Can you please <u>notify John</u> of the meeting time and location?
+E-2: The landlord needs to <u>notify the tenants</u> of upcoming renovations in the building.
+E-3: The company will <u>notify its customers</u> of new product releases via email.
+
+### Japanese Translation
+J-1: ミーティングの時間と場所を<u>ジョンに通知</u>していただけますか？
+J-2: 不動産オーナーは建物の改装を<u>テナントに通知</u>する必要があります。
+J-3: その会社は、新製品のリリースを<u>顧客にメールで通知</u>します。

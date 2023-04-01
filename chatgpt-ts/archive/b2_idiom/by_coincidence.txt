@@ -1,0 +1,11 @@
+# Key:by coincidence
+## Response
+### English Sentences
+E-1: By coincidence, I ran into my old high school friend at the grocery store.
+E-2: The two sisters wore identical dresses to the party, but it was just by coincidence.
+E-3: By coincidence, the book I was looking for was already checked out from the library.
+
+### Japanese Translation
+J-1: 偶然にも、私はスーパーマーケットで昔の高校の友人に偶然出会った。
+J-2: 二人の姉妹はパーティーで同じドレスを着ていたが、それは偶然の一致だった。
+J-3: 偶然にも私が探していた本は、すでに図書館から借りられていた。

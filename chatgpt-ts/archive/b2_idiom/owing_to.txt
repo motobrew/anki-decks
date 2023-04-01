@@ -1,0 +1,11 @@
+# Key:owing to
+## Response
+### English Sentences
+E-1: <u>Owing to</u> the heavy rain, the soccer game was canceled.
+E-2: <u>Owing to</u> a broken pipe, there was no water in the building.
+E-3: <u>Owing to</u> traffic congestion, the bus was running late.
+
+### Japanese Translation
+J-1: 大雨<u>のため</u>、サッカーの試合が中止されました。
+J-2: 破裂したパイプ<u>のため</u>、建物に水がありませんでした。
+J-3: 交通渋滞<u>のため</u>、バスが遅れていました。

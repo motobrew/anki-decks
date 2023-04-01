@@ -1,0 +1,11 @@
+# Key:none the more
+## Response
+### English Sentences
+E-1: The rain didn't stop the workers from continuing with their tasks, <u>none the more</u>.
+E-2: She failed her driving test twice, but she was determined to pass <u>none the more</u>.
+E-3: The lack of funding didn't discourage the team from pursuing their project, <u>none the more</u>.
+
+### Japanese Translation
+J-1: 雨は作業を続ける労働者たちを、それでも<u>何ら影響を与えず</u>にいた。
+J-2: 彼女は2回も運転テストに落ちたが、<u>それでもなお</u>合格したいと決意していた。
+J-3: 資金不足があったが、チームはプロジェクトを追求し続け、<u>それでもなお</u>諦めなかった。

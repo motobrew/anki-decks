@@ -1,0 +1,11 @@
+# Key:on the subject of
+## Response
+### English Sentences
+E-1: <u>On the subject of</u> sports, I think basketball is the most exciting to watch.
+E-2: <u>On the subject of</u> traveling, I prefer to go to places that are off the beaten path.
+E-3: <u>On the subject of</u> food, I love trying new dishes from different cultures.
+
+### Japanese Translation
+J-1: スポーツに<u>ついて</u>は、私はバスケットボールが最も興奮を覚えると思います。
+J-2: 旅行に<u>ついて</u>は、マイナーな場所に行く方が好きです。
+J-3: 食べ物に<u>ついて</u>は、異文化の新しい料理を試すのが大好きです。

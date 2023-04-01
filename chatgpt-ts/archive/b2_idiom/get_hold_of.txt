@@ -1,0 +1,11 @@
+# Key:get hold of
+## Response
+### English Sentences
+E-1: I've been trying to <u>get hold of</u> my friend all day, but she hasn't been answering her phone.
+E-2: I need to <u>get hold of</u> a copy of that book for my research paper.
+E-3: If you ever <u>get hold of</u> that rare item, it could be worth a lot of money.
+
+### Japanese Translation
+J-1: 一日中友達に電話しているけど、つながらない。彼女に<u>連絡</u>しようとしているんだけど。
+J-2: 論文のためにあの本を<u>手に入れる</u>必要があるわ。
+J-3: もしもあのレアアイテムを<u>手に入れられたら</u>、とても高価になるかもしれません。

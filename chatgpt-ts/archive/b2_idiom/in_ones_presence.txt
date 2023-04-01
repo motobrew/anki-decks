@@ -1,0 +1,11 @@
+# Key:in one's presence
+## Response
+### English Sentences
+E-1: It's important to behave respectfully <u>in one's presence</u> to make a good impression.
+E-2: He always tries to be on his best behavior <u>in his boss's presence</u>.
+E-3: The performer felt nervous <u>in the presence</u> of the famous celebrity.
+
+### Japanese Translation
+J-1: 良い印象を与えるためには、<u>その人の前で</u>敬意を持ってふるまうことが重要です。
+J-2: 彼はいつも、<u>上司の前で</u>優れた振る舞いをしようと努力しています。
+J-3: 有名なセレブの<u>前で</u>パフォーマーは緊張を感じました。

@@ -1,0 +1,11 @@
+# Key:take steps
+## Response
+### English Sentences
+E-1: We need to <u>take steps</u> to reduce our carbon footprint.
+E-2: The company is planning to <u>take steps</u> to improve employee satisfaction.
+E-3: The government should <u>take steps</u> to address the issue of homelessness.
+
+### Japanese Translation
+J-1: 炭素排出量を減らすために、私たちは<u>手段を講じる</u>必要があります。
+J-2: 会社は従業員の満足度を高めるために<u>手段を講じる</u>予定です。
+J-3: 政府はホームレス問題に<u>対策を講じる</u>必要があります。

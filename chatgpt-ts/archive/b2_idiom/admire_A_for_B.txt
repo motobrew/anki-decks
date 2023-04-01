@@ -1,0 +1,11 @@
+# Key:admire A for B
+## Response
+### English Sentences
+E-1: I <u>admire John</u> for his dedication to his job.
+E-2: She <u>admires her grandmother</u> for her wisdom and kindness.
+E-3: They <u>admire their coach</u> for his leadership and guidance.
+
+### Japanese Translation
+J-1: 私はジョンが仕事に対する献身心を持っているのを<u>尊敬しています</u>。
+J-2: 彼女は祖母の知恵と優しさを<u>称賛しています</u>。
+J-3: 彼らはコーチのリーダーシップと指導に<u>感心しています</u>。

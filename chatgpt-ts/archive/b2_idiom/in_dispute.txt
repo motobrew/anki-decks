@@ -1,0 +1,11 @@
+# Key:in dispute
+## Response
+### English Sentences
+E-1: The ownership of the land is <u>in dispute</u> between the two families.
+E-2: The company's decision is currently <u>in dispute</u> among the board members.
+E-3: The validity of the contract is <u>in dispute</u> due to unclear terms.
+
+### Japanese Translation
+J-1: その土地の所有権は2つの家族の間で<u>係争中</u>です。
+J-2: 会社の決定は現在、役員の間で<u>論争中</u>です。
+J-3: 契約の有効性は、不明瞭な条件のために<u>係争中</u>です。

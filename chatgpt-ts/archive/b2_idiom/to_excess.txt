@@ -1,0 +1,11 @@
+# Key:to excess
+## Response
+### English Sentences
+E-1: She tends to drink alcohol <u>to excess</u> at parties, which often leads to embarrassing situations.
+E-2: His love for video games sometimes leads him to play <u>to excess</u>, causing him to neglect other important tasks.
+E-3: Eating <u>to excess</u> can be harmful to one's health and lead to weight gain.
+
+### Japanese Translation
+J-1: 彼女はパーティーでアルコールを<u>過剰に</u>飲む傾向があり、しばしば恥ずかしい状況に陥ってしまいます。
+J-2: 彼のビデオゲームへの愛情は時々彼を<u>過剰</u>にプレイさせ、他の重要なタスクを怠ることにつながることがあります。
+J-3: 食べ物を<u>過剰</u>に摂取することは健康に悪影響を与え、体重増加につながる可能性があります。

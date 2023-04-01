@@ -1,0 +1,11 @@
+# Key:with a vengeance
+## Response
+### English Sentences
+E-1: After losing the championship last year, the team came back <u>with a vengeance</u> and won every game this season.
+E-2: The company's new CEO is making changes <u>with a vengeance</u>, restructuring the entire organization.
+E-3: After being rejected from the school's drama club last year, she auditioned again <u>with a vengeance</u> and landed the lead role.
+
+### Japanese Translation
+J-1: 去年チャンピオンシップで敗北した後、チームは<em>復讐心を持って</em>戻ってきて、今シーズンすべての試合に勝ちました。
+J-2: 会社の新しいCEOは、<em>復讐心を持って</em>変更を加え、組織全体を再構築しています。
+J-3: 去年、学校の演劇部から拒否された後、彼女は<em>復讐心を持って</em>再度オーディションを受け、主役の役割を射止めました。

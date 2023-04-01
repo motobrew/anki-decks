@@ -1,0 +1,11 @@
+# Key:with a start
+## Response
+### English Sentences
+E-1: <u>With a start</u>, she woke up to the sound of thunder outside her window.
+E-2: <u>With a start</u>, the cat jumped off the couch when the doorbell rang.
+E-3: <u>With a start</u>, he realized he forgot his phone at home.
+
+### Japanese Translation
+J-1: 窓の外で雷の音が鳴り、彼女は<u>びっくりして</u>目を覚ました。
+J-2: ソファーで寝ていた猫が、ドアベルの音で<u>びっくりして</u>飛び降りた。
+J-3: 彼は<u>びっくりして</u>、自分の携帯を家に忘れたことに気づいた。

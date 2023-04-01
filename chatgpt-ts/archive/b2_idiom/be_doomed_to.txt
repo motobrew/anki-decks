@@ -1,0 +1,11 @@
+# Key:be doomed to
+## Response
+### English Sentences
+E-1: The company's financial troubles may <u>be doomed to</u> bankruptcy.
+E-2: Despite his efforts, the project seemed <u>doomed to</u> failure from the beginning.
+E-3: The relationship between the two nations may <u>be doomed to</u> tension due to political differences.
+
+### Japanese Translation
+J-1: その企業の財政問題は、倒産<u>する運命にあるかもしれない</u>。
+J-2: 彼の努力にもかかわらず、そのプロジェクトは最初から<u>失敗する運命にあったようだ</u>。
+J-3: 政治的な違いが原因で、2つの国の関係は<u>緊張する運命にあるかもしれない</u>。

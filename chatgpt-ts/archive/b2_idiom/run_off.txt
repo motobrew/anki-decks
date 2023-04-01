@@ -1,0 +1,11 @@
+# Key:run off
+## Response
+### English Sentences
+E-1: The water in the kettle has boiled, I'm going to <u>pour it off</u> for my tea.
+E-2: I accidentally knocked over the vase and the flowers <u>ran off</u> onto the table.
+E-3: The children were misbehaving so the teacher had to <u>run off</u> copies of the classroom rules.
+
+### Japanese Translation
+J-1: ケトルの水が沸騰しました、私は茶のためにそれを<u>注ぎ出す</u>つもりです。
+J-2: 花瓶を誤って倒してしまい、花がテーブルに<u>こぼれ落ちた</u>。
+J-3: 子供たちが行儀悪くしていたので、先生は教室の規則のコピーを<u>配布</u>しなければならなかった。

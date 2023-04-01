@@ -1,0 +1,11 @@
+# Key:split the bill
+## Response
+### English Sentences
+E-1: Let's <u>split the bill</u> evenly between everyone at the table.
+E-2: We always <u>split the bill</u> when we go out to eat with friends.
+E-3: Can we please <u>split the bill</u> so that I can pay for my own meal?
+
+### Japanese Translation
+J-1: テーブルにいるみんなで料金を<b>割り勘</b>にしましょう。
+J-2: 友達と外食に行くときはいつも<b>割り勘</b>にします。
+J-3: 自分の食事代は自分で支払いたいので、<b>割り勘</b>にしてもらえませんか？

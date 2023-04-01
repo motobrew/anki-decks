@@ -1,0 +1,11 @@
+# Key:on hand
+## Response
+### English Sentences
+E-1: We always have extra blankets <u>on hand</u> in case someone gets cold.
+E-2: The caterer had plenty of food <u>on hand</u> for the party.
+E-3: The doctor had medication <u>on hand</u> to treat the patient's pain.
+
+### Japanese Translation
+J-1: 誰か寒くなった場合のために、いつも余分な毛布が<u>手元</u>にあります。
+J-2: ケータリング業者はパーティー用にたくさんの食べ物が<u>手元</u>にありました。
+J-3: 医師は患者の痛みを治療するために、薬剤が<u>手元</u>にありました。

@@ -1,0 +1,11 @@
+# Key:forget oneself
+## Response
+### English Sentences
+E-1: She was so excited that she <u>forgot herself</u> and started screaming.
+E-2: When he heard the news, he <u>forgot himself</u> and jumped for joy.
+E-3: You need to learn to control your temper and not <u>forget yourself</u> in public.
+
+### Japanese Translation
+J-1: 彼女は興奮しすぎて、自分を<u>忘れて</u>叫び始めた。
+J-2: 彼はそのニュースを聞いて、自分を<u>忘れて</u>喜び跳び上がった。
+J-3: 人前で感情をコントロールし、自分を<u>忘れないように</u>する必要がある。

@@ -1,0 +1,11 @@
+# Key:pan out
+## Response
+### English Sentences
+E-1: Despite their best efforts, the company's new product line didn't <u>pan out</u> as expected.
+E-2: Let's wait and see how this plan <u>pan out</u> before making any hasty decisions.
+E-3: I've been working on this project for weeks, but so far, it hasn't <u>panned out</u> the way I hoped.
+
+### Japanese Translation
+J-1: 最善を尽くしましたが、会社の新しい製品ラインは期待通りには<u>うまくいかなかった</u>。
+J-2: この計画がどう<u>展開するか</u>見てから、急いで決定を下さない方がいいです。
+J-3: 数週間にわたってこのプロジェクトに取り組んでいますが、これまでのところ思ったようには<u>進んでいません</u>。

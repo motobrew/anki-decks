@@ -1,0 +1,11 @@
+# Key:crank up
+## Response
+### English Sentences
+E-1: I need to <u>crank up</u> the volume so I can hear the music better.
+E-2: Let's <u>crank up</u> the air conditioning, it's getting too hot in here.
+E-3: The company is planning to <u>crank up</u> production to meet the high demand.
+
+### Japanese Translation
+J-1: 音楽をもっと聴きたいので、音量を<u>上げる</u>必要があります。
+J-2: ここは暑くなってきたので、エアコンを<u>強めにする</u>ことにしましょう。
+J-3: 高い需要に対応するため、会社は生産を<u>拡大する</u>計画です。

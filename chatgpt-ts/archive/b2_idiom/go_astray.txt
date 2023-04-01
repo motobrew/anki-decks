@@ -1,0 +1,11 @@
+# Key:go astray
+## Response
+### English Sentences
+E-1: Sometimes, well-intentioned people can <u>go astray</u> and end up causing harm instead of help.
+E-2: The hiker <u>went astray</u> from the trail and got lost in the woods.
+E-3: The company's profits <u>went astray</u> due to mismanagement and corruption.
+
+### Japanese Translation
+J-1: 時には善意のある人々も<u>道を誤る</u>ことがあり、助けるどころか害を与えることになるかもしれません。
+J-2: ハイカーがトレイルから<u>迷子</u>になって森の中で道に迷いました。
+J-3: その会社の利益は、不正と管理不良のために<u>消滅してしまいました</u>。

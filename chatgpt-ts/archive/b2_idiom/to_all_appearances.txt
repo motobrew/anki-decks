@@ -1,0 +1,11 @@
+# Key:to all appearances
+## Response
+### English Sentences
+E-1: <u>To all appearances</u>, he seems like a trustworthy person.
+E-2: <u>To all appearances</u>, the company is doing well financially.
+E-3: <u>To all appearances</u>, the car looks brand new despite being used for years.
+
+### Japanese Translation
+J-1: 彼は<u>見た目によれば</u>、信頼できる人物のようだ。
+J-2: 会社は<u>外見から判断すると</u>経済的に上手くいっているようだ。
+J-3: 車は長年使用されているにも関わらず、外見<u>だけ見れば</u>まるで新品のように見える。

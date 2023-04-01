@@ -1,0 +1,11 @@
+# Key:keep down
+## Response
+### English Sentences
+E-1: I'm trying to <u>keep down</u> my expenses this month so I can save some money.
+E-2: The medication helped <u>keep down</u> her fever so she could recover more easily.
+E-3: Please try to <u>keep down</u> the noise levels in the library.
+
+### Japanese Translation
+J-1: 今月は出費を<u>抑える</u>ことで、少しでもお金を貯められるようにしています。
+J-2: 薬は彼女の発熱を<u>抑える</u>のに役立ち、回復がより楽になりました。
+J-3: 図書館では<u>騒音を抑える</u>ようにしてください。

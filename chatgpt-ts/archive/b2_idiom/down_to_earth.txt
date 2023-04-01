@@ -1,0 +1,11 @@
+# Key:down to earth
+## Response
+### English Sentences
+E-1: John is a very <u>down to earth</u> person who doesn't like to flaunt his wealth.
+E-2: I appreciate Sarah's <u>down to earth</u> approach to problem-solving.
+E-3: The new CEO is known for his <u>down to earth</u> management style, which has earned him the respect of his employees.
+
+### Japanese Translation
+J-1: ジョンは裕福さを見せびらかすことが嫌いな、とても<u>謙虚な</u>人です。
+J-2: 問題解決に対するサラの<u>現実的</u>なアプローチを評価します。
+J-3: 新しいCEOは、従業員たちの尊敬を集めている<u>現実的な</u>経営スタイルで知られています。

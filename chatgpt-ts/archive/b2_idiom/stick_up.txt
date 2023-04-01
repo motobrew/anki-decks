@@ -1,0 +1,11 @@
+# Key:stick up
+## Response
+### English Sentences
+E-1: The convenience store was <u>held up</u> by a masked robber last night.
+E-2: She had to <u>stick up</u> for herself when her coworker tried to take credit for her work.
+E-3: He was nervous to <u>stick up</u> to his boss and ask for a raise.
+
+### Japanese Translation
+J-1: 昨晩、コンビニがマスクをした強盗に<u>襲わ</u>れました。
+J-2: 同僚が自分の仕事の功績を横取りしようとしたとき、彼女は自分自身を<u>守る</u>必要がありました。
+J-3: 彼は上司に<u>立ち向かい</u>、昇給を頼むのに緊張していました。

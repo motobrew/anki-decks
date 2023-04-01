@@ -1,0 +1,11 @@
+# Key:out in the cold
+## Response
+### English Sentences
+E-1: When the company downsized, many employees were left <u>out in the cold</u> without a job.
+E-2: John was ignored by his friends and left <u>out in the cold</u> when he needed their help.
+E-3: Without proper preparation, the hikers could find themselves <u>out in the cold</u> when the weather changes suddenly.
+
+### Japanese Translation
+J-1: 会社が規模を縮小した際、多くの従業員が仕事を失い<u>取り残された</u>。
+J-2: ジョンは友人たちに無視され、助けが必要なときに<u>孤立</u>してしまった。
+J-3: 適切な準備がなければ、ハイカーたちは天気が急に変わったときに<u>取り残される</u>ことがある。

@@ -1,0 +1,11 @@
+# Key:put emphasis on
+## Response
+### English Sentences
+E-1: When writing a research paper, it's important to <u>put emphasis on</u> supporting evidence.
+E-2: The coach always <u>puts emphasis on</u> teamwork and communication during practice.
+E-3: The teacher reminded the students to <u>put emphasis on</u> proper grammar and spelling in their writing assignments.
+
+### Japanese Translation
+J-1: 研究論文を書く際は、支持する証拠に<u>重点を置く</u>ことが重要です。
+J-2: コーチは練習中に常にチームワークとコミュニケーションに<u>重点を置く</u>。
+J-3: 先生は生徒たちに、ライティングの宿題で正しい文法とスペルに<u>重点を置く</u>よう忠告しました。

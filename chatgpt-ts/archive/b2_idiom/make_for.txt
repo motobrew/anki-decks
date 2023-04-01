@@ -1,0 +1,11 @@
+# Key:make for
+## Response
+### English Sentences
+E-1: The sunny weather today will <u>make for</u> a perfect day to go to the beach.
+E-2: Her hard work and dedication will <u>make for</u> a successful career.
+E-3: The lack of communication between the team members will <u>make for</u> a difficult project.
+
+### Japanese Translation
+J-1: 今日の晴れた天気は、ビーチに行くのに<u>最適</u>な日になります。
+J-2: 彼女の勤勉さと献身は、成功したキャリアを<u>もたらす</u>ことになるでしょう。
+J-3: チームメンバー間のコミュニケーション不足は、難しいプロジェクトを<u>もたらす</u>ことになります。

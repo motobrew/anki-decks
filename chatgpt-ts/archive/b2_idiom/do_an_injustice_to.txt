@@ -1,0 +1,11 @@
+# Key:do an injustice to
+## Response
+### English Sentences
+E-1: Telling lies about someone can <u>do an injustice to</u> their reputation and character.
+E-2: Cutting important scenes from a movie adaptation can <u>do an injustice to</u> the original story.
+E-3: Not giving credit to the original creator of an idea can <u>do an injustice to</u> their intellectual property.
+
+### Japanese Translation
+J-1: 誰かについ嘘をつくことは、その人の評判と性格に<u>不正を与える</u>ことになります。
+J-2: 映画のアダプテーションから重要なシーンをカットすることは、元の物語に<u>不正を与える</u>ことになります。
+J-3: アイデアの元のクリエイターにクレジットを与えないことは、彼らの知的財産に<u>不正を与える</u>ことになります。

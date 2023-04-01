@@ -1,0 +1,11 @@
+# Key:die of
+## Response
+### English Sentences
+E-1: If you eat too much junk food, you're going to <u>die of</u> a heart attack.
+E-2: Many people in the world still <u>die of</u> hunger and malnutrition every day.
+E-3: The patient's condition worsened and he eventually <u>died of</u> cancer.
+
+### Japanese Translation
+J-1: ジャンクフードを食べ過ぎると、心臓発作で<u>死ぬ可能性があります</u>。
+J-2: 世界中の多くの人々がまだ<u>飢餓や栄養失調のために毎日死亡しています</u>。
+J-3: 患者の状態が悪化し、結局はがんで<u>亡くなりました</u>。

@@ -1,0 +1,11 @@
+# Key:in haste
+## Response
+### English Sentences
+E-1: She signed the contract <u>in haste</u> and later regretted it.
+E-2: He hastily packed his bags and left the hotel without saying goodbye to anyone.
+E-3: The company made a <u>hasty</u> decision to lay off employees due to the pandemic.
+
+### Japanese Translation
+J-1: 彼女は急いで契約書にサインをし、後悔した。
+J-2: 彼は急いで荷物を詰め、誰にも別れを告げずにホテルを出た。
+J-3: その会社はパンデミックのため、従業員を急いで解雇する決定をした。

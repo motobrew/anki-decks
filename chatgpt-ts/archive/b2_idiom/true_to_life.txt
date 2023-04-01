@@ -1,0 +1,11 @@
+# Key:true to life
+## Response
+### English Sentences
+E-1: That film is so well-made, it's <u>true to life</u>.
+E-2: The author's characters and situations are always <u>true to life</u>.
+E-3: The new museum exhibit aims to accurately portray <u>true to life</u> historical events.
+
+### Japanese Translation
+J-1: あの映画はとても上手に作られていて、<u>現実的</u>です。
+J-2: その作家のキャラクターや状況はいつも<u>現実離れしていない</u>。
+J-3: 新しい博物館の展示は、<u>現実的</u>な歴史的な出来事を正確に描写することを目指しています。

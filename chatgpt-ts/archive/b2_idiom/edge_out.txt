@@ -1,0 +1,11 @@
+# Key:edge out
+## Response
+### English Sentences
+E-1: The company was looking to <u>edge out</u> its competitors by launching a new advertising campaign.
+E-2: The reigning champion was <u>edged out</u> by a newcomer in the final round of the boxing match.
+E-3: The CEO of the company was planning to <u>edge out</u> his partner and become the sole owner of the business.
+
+### Japanese Translation
+J-1: その会社は新しい広告キャンペーンを打ち出して、競合他社を<u>締め出す</u>ことを目指していた。
+J-2: 現チャンピオンは、ボクシングの最終ラウンドで新人に<u>追い抜かれた</u>。
+J-3: その会社のCEOは、パートナーを<u>おさえつけて</u>、事業の唯一のオーナーになる計画を立てていた。

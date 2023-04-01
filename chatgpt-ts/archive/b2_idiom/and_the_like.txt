@@ -1,0 +1,11 @@
+# Key:and the like
+## Response
+### English Sentences
+E-1: We sell laptops, desktop computers, tablets, and the like in our store.
+E-2: She enjoys listening to classical music, opera, and the like in her free time.
+E-3: The museum has artifacts from ancient Greece, Rome, Egypt, and the like on display.
+
+### Japanese Translation
+J-1: 私たちの店では、ノートパソコン、デスクトップコンピューター、タブレットなどを販売しています。
+J-2: 彼女は自由時間に、クラシック音楽、オペラなどを聴くことが好きです。
+J-3: その博物館には、古代ギリシャ、ローマ、エジプトなどの遺物が展示されています。

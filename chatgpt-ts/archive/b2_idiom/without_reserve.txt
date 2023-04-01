@@ -1,0 +1,11 @@
+# Key:without reserve
+## Response
+### English Sentences
+E-1: The customer bought the painting <u>without reserve</u> at the art auction.
+E-2: The manager gave the employee a glowing review <u>without reserve</u>.
+E-3: She expressed her love for him <u>without reserve</u>.
+
+### Japanese Translation
+J-1: その顧客はオークションで絵画を<u>最高額で</u>買った。
+J-2: マネージャーは社員に対して完全な評価を<u>打ち明けた</u>。
+J-3: 彼女は全く<u>遠慮なく</u>彼に愛を表現した。

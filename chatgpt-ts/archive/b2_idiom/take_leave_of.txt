@@ -1,0 +1,11 @@
+# Key:take leave of
+## Response
+### English Sentences
+E-1: Before taking leave of the party, she said goodbye to all her friends.
+E-2: It's time for me to take leave of this job and move on to better opportunities.
+E-3: The soldier had to take leave of his family for several months for deployment.
+
+### Japanese Translation
+J-1: パーティーを終える前に、彼女はすべての友達にさよならを言いました。
+J-2: 私にはこの仕事から<u>身を引いて</u>、より良い機会に進む時間が来た。
+J-3: 兵士は派遣のために数ヶ月間家族から<u>離れる</u>必要がありました。

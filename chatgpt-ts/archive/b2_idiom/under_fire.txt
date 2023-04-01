@@ -1,0 +1,11 @@
+# Key:under fire
+## Response
+### English Sentences
+E-1: The CEO was <u>under fire</u> for his questionable business practices.
+E-2: The soldiers were <u>under fire</u> from enemy forces on the front lines.
+E-3: The government official was <u>under fire</u> for his controversial statements.
+
+### Japanese Translation
+J-1: CEOは疑わしいビジネスプラクティスのために<u>非難されました</u>。
+J-2: 兵士たちは前線で敵から<u>攻撃を受けていました</u>。
+J-3: 政府高官は物議を醸す発言のために<u>批判を浴びていました</u>。

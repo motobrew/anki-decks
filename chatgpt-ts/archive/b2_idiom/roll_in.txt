@@ -1,0 +1,11 @@
+# Key:roll in
+## Response
+### English Sentences
+E-1: The clouds are starting to <u>roll in</u>, so we should head indoors.
+E-2: The company's CEO just announced a new project that is expected to <u>roll in</u> millions of dollars in revenue.
+E-3: Let's wait until the passengers from the previous flight have disembarked before we <u>roll in</u>.
+
+### Japanese Translation
+J-1: 雲が<u>迫り来ている</u>ので、室内に入るべきです。
+J-2: その会社のCEOは、数百万ドルの収益が<u>入ってくる</u>と見られる新しいプロジェクトを発表しました。
+J-3: 私たちは前の便の乗客が降りるのを待ってから<u>入り込む</u>べきです。

@@ -1,0 +1,11 @@
+# Key:make allowance for
+## Response
+### English Sentences
+E-1: It's important to <u>make allowance for</u> unexpected expenses when creating a budget.
+E-2: You should <u>make allowance for</u> traffic when planning your commute.
+E-3: The teacher will <u>make allowance for</u> students who need extra time to complete the exam.
+
+### Japanese Translation
+J-1: 予算を立てる際に予期せぬ出費を<u>考慮に入れる</u>ことが重要です。
+J-2: 通勤計画を立てる際には、交通渋滞を<u>考慮に入れる</u>べきです。
+J-3: 先生は試験を完成するのに余分な時間が必要な生徒を<u>配慮する</u>でしょう。

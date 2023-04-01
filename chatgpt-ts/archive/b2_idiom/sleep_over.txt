@@ -1,0 +1,11 @@
+# Key:sleep over
+## Response
+### English Sentences
+E-1: My friends are coming to <u>sleep over</u> this weekend.
+E-2: Can I <u>sleep over</u> at your place tonight?
+E-3: We used to have <u>sleep overs</u> all the time when we were kids.
+
+### Japanese Translation
+J-1: 友達が今週末に<u>泊まりに来る</u>予定です。
+J-2: 今夜、あなたのところで<u>泊めてもらえますか</u>？
+J-3: 子供のころはよく友達と<u>お泊まり会</u>をしていました。

@@ -1,0 +1,11 @@
+# Key:pay regard to
+## Response
+### English Sentences
+E-1: We should always <u>pay regard to</u> the safety of those around us.
+E-2: It is important to <u>pay regard to</u> the rules and regulations set by the organization.
+E-3: When making a decision, one should <u>pay regard to</u> the potential consequences.
+
+### Japanese Translation
+J-1: 私たちは常に周りの人々の安全に<u>注意を払う</u>べきです。
+J-2: 組織が定めた規則や規制に<u>留意する</u>ことが重要です。
+J-3: 決定をする際には、潜在的な結果に<u>留意する</u>必要があります。

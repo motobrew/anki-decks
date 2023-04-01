@@ -1,0 +1,11 @@
+# Key:level out
+## Response
+### English Sentences
+E-1: The rollercoaster ride finally began to <u>level out</u> after a series of intense drops and loops.
+E-2: The company's profits seem to be <u>leveling out</u> after a period of growth.
+E-3: I hope my emotional state will eventually <u>level out</u> after all the stress.
+
+### Japanese Translation
+J-1: ジェットコースターの乗り物は、激しい落下とループの連続の後、ついに<u>平らに</u>なり始めました。
+J-2: その会社の利益は、成長期間の後、<u>安定し始めています</u>。
+J-3: ストレスのすべての後で、私の感情状態が最終的には<u>安定することを願っています</u>。

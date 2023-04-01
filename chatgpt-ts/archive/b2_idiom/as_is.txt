@@ -1,0 +1,11 @@
+# Key:as is
+## Response
+### English Sentences
+E-1: The car is being sold <u>as is</u>, so it's important to inspect it carefully before buying.
+E-2: The antique vase was sold <u>as is</u> at the auction, with all its cracks and dents visible.
+E-3: The landlord rented out the apartment <u>as is</u>, with the understanding that the tenant would make any repairs needed.
+
+### Japanese Translation
+J-1: この車は<u>現状有姿</u>で売られているので、購入前によく調べることが大切です。
+J-2: その骨董品の花瓶はオークションで<u>そのまま</u>売られ、すべてのひびや凹みが見えていました。
+J-3: 大家はアパートを<u>そのまま</u>貸し出し、テナントが必要に応じて修理することに同意しました。

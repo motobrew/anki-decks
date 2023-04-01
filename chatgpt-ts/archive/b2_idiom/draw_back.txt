@@ -1,0 +1,11 @@
+# Key:draw back
+## Response
+### English Sentences
+E-1: One <u>draw back</u> of living in a big city is the high cost of living.
+E-2: The only <u>draw back</u> to this plan is the lack of funding.
+E-3: The team's main <u>draw back</u> was their lack of experience.
+
+### Japanese Translation
+J-1: 大都市に住む<u>欠点</u>の1つは高い生活費です。
+J-2: この計画の唯一の<u>欠点</u>は資金不足です。
+J-3: チームの主な<u>欠点</u>は経験不足でした。

@@ -1,0 +1,11 @@
+# Key:in succession
+## Response
+### English Sentences
+E-1: The runner won three marathons <u>in succession</u> and set a new world record.
+E-2: The company has released five successful products <u>in succession</u>.
+E-3: The band played their hit songs <u>in succession</u> during their concert.
+
+### Japanese Translation
+J-1: ランナーは3つのマラソンを<u>連続して</u>優勝し、新記録を樹立しました。
+J-2: その会社は5つの成功製品を<u>続けて</u>発売しました。
+J-3: そのバンドはコンサートでヒットソングを<u>連続して</u>演奏しました。

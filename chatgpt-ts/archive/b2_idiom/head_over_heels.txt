@@ -1,0 +1,11 @@
+# Key:head over heels
+## Response
+### English Sentences
+E-1: I fell <u>head over heels</u> in love with him the moment I met him.
+E-2: She tripped and fell <u>head over heels</u> down the stairs.
+E-3: After the promotion, he was <u>head over heels</u> excited about his new job.
+
+### Japanese Translation
+J-1: 彼に会った瞬間、私は彼に<u>一目惚れ</u>した。
+J-2: 彼女はつまずいて、階段を<u>転がり落ち</u>た。
+J-3: 昇進後、彼は新しい仕事に<u>大喜び</u>した。

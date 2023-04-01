@@ -1,0 +1,11 @@
+# Key:seldom if ever
+## Response
+### English Sentences
+E-1: Seldom if ever do I stay up past midnight anymore.
+E-2: He seldom if ever spoke about his family background.
+E-3: That team seldom if ever wins games against their rivals.
+
+### Japanese Translation
+J-1: もはや私は真夜中過ぎに起きていることはめったにありません。
+J-2: 彼はめったに家族の背景について話しませんでした。
+J-3: あのチームはライバルに勝つことはめったにありません。

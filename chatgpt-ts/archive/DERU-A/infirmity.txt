@@ -1,0 +1,11 @@
+# Key:infirmity
+## Response
+### English Sentences
+E-1: The old woman couldn't lift the box due to her <u>infirmity</u>.
+E-2: The company offers special accommodations for employees with <u>infirmities</u>.
+E-3: John's <u>infirmity</u> prevented him from participating in the marathon.
+
+### Japanese Translation
+J-1: 老女性は彼女の<u>病弱</u>により箱を持ち上げることができなかった。
+J-2: その会社は<u>疾患</u>を持つ従業員に特別な配慮を提供しています。
+J-3: ジョンの<u>不健康</u>状態が彼をマラソンに参加させなかった。

@@ -1,0 +1,11 @@
+# Key:rebut
+## Response
+### English Sentences
+E-1: The lawyer was able to <u>rebut</u> the prosecution's argument with a strong alibi.
+E-2: The scientist published a study to <u>rebut</u> the claims of the anti-vaccine movement.
+E-3: The athlete made a statement to <u>rebut</u> the allegations of doping.
+
+### Japanese Translation
+J-1: 弁護士は強力なアリバイで検察側の主張を<u>反論</u>することができました。
+J-2: 科学者は、反ワクチン運動の主張を<u>反駁</u>するために研究を発表しました。
+J-3: そのアスリートはドーピングの疑惑を<u>反論</u>する声明を出しました。

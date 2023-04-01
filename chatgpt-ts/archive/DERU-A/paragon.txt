@@ -1,0 +1,11 @@
+# Key:paragon
+## Response
+### English Sentences
+E-1: Mary is a <u>paragon</u> of beauty and grace, admired by all who know her.
+E-2: The young athlete is considered a <u>paragon</u> of dedication and hard work by his coaches.
+E-3: The CEO is often regarded as a <u>paragon</u> of success in the business world.
+
+### Japanese Translation
+J-1: メアリーは美しさと優雅さの<u>模範</u>であり、彼女を知るすべての人に賞賛されています。
+J-2: 若いアスリートは、コーチたちからの献身と努力の<u>模範</u>と考えられています。
+J-3: CEOはしばしばビジネス界での成功の<u>模範</u>として見なされています。

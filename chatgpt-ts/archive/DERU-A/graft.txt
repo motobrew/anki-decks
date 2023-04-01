@@ -1,0 +1,11 @@
+# Key:graft
+## Response
+### English Sentences
+E-1: The surgeon performed a <u>graft</u> to repair the damaged tissue.
+E-2: The gardener <u>grafted</u> different types of roses together to create a hybrid plant.
+E-3: The politician was accused of <u>graft</u> and corruption.
+
+### Japanese Translation
+J-1: 外科医は傷ついた組織を修復するために<u>移植手術</u>を実施しました。
+J-2: 庭師は異なる種類のバラを<u>接ぎ木</u>してハイブリッド植物を作り出しました。
+J-3: 政治家は<u>汚職</u>や横領の罪で訴えられました。

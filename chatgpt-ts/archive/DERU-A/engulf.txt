@@ -1,0 +1,11 @@
+# Key:engulf
+## Response
+### English Sentences
+E-1: The hurricane is expected to <u>engulf</u> the entire coastal region.
+E-2: He couldn't escape the flames as they <u>engulfed</u> his house.
+E-3: The feeling of guilt began to <u>engulf</u> her after she lied to her friend.
+
+### Japanese Translation
+J-1: ハリケーンは、沿岸地域全体を<u>飲み込む</u>と予想されています。
+J-2: 彼は自宅が炎に<u>飲み込ま</u>れるのを逃れることができませんでした。
+J-3: 友達に嘘をついた後、彼女を<u>包み込む</u>罪の感情が始まりました。

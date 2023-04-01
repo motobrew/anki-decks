@@ -1,0 +1,11 @@
+# Key:protrusion
+## Response
+### English Sentences
+E-1: The dent in the car's bumper was a <u>protrusion</u> that couldn't be fixed.
+E-2: The rock formation had a small <u>protrusion</u> that looked like a nose.
+E-3: The herniated disc was causing a painful <u>protrusion</u> in her lower back.
+
+### Japanese Translation
+J-1: 車のバンパーにあるへこみは、修復できない<u>突起物</u>でした。
+J-2: 岩の形状には、鼻のように見える小さな<u>突起</u>がありました。
+J-3: 脊椎ヘルニアが彼女の腰部に痛みを伴う<u>突起</u>を引き起こしていました。

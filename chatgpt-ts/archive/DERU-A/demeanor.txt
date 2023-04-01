@@ -1,0 +1,11 @@
+# Key:demeanor
+## Response
+### English Sentences
+E-1: His calm and collected <u>demeanor</u> helped diffuse the tense situation.
+E-2: Despite the stress of the job, the nurse maintained a professional <u>demeanor</u> with patients.
+E-3: The politician's arrogant <u>demeanor</u> turned off potential voters.
+
+### Japanese Translation
+J-1: 彼の冷静で落ち着いた<u>態度</u>が、緊張した状況を鎮めるのを助けました。
+J-2: 仕事のストレスにもかかわらず、看護師は患者に対してプロの<u>態度</u>を保ちました。
+J-3: 政治家の傲慢な<u>態度</u>は、潜在的な有権者を遠ざけました。

@@ -1,0 +1,11 @@
+# Key:lavish
+## Response
+### English Sentences
+E-1: The wedding reception was a <u>lavish</u> affair with a grand buffet, live music, and fireworks.
+E-2: The billionaire businessman lives in a <u>lavish</u> mansion with a private movie theater, swimming pool, and tennis court.
+E-3: She wore a <u>lavish</u> fur coat to the party, drawing criticism from animal rights activists.
+
+### Japanese Translation
+J-1: 結婚式の披露宴は、豪華なビュッフェ、ライブ音楽、花火で<u>贅沢</u>なものでした。
+J-2: 億万長者のビジネスマンは、プライベートの映画館、プール、テニスコートがある<u>豪華</u>な邸宅に住んでいます。
+J-3: 彼女はパーティーに<u>贅沢</u>な毛皮のコートを着て来たため、動物愛護活動家たちから批判を浴びました。

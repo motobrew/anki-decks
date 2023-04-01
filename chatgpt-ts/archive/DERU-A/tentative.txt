@@ -1,0 +1,11 @@
+# Key:tentative
+## Response
+### English Sentences
+E-1: The plans for the project are still <u>tentative</u> and subject to change.
+E-2: The couple made a <u>tentative</u> agreement to meet for dinner on Friday.
+E-3: The company made a <u>tentative</u> offer to buy out their smaller competitor.
+
+### Japanese Translation
+J-1: プロジェクトの計画はまだ<u>暫定的</u>で、変更の可能性があります。
+J-2: カップルは金曜日にディナーをする<u>暫定的な</u>合意をしました。
+J-3: 会社はより小さい競合他社を買収する<u>暫定的</u>なオファーを出しました。

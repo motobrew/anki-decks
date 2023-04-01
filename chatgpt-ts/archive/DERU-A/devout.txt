@@ -1,0 +1,11 @@
+# Key:devout
+## Response
+### English Sentences
+E-1: She was a <u>devout</u> Catholic and attended church every Sunday.
+E-2: The <u>devout</u> monk spent most of his days in meditation and prayer.
+E-3: The <u>devout</u> congregation gathered together to sing hymns and give praise.
+
+### Japanese Translation
+J-1: 彼女は熱心なカトリック信者で、毎週日曜日に教会に通っていました。
+J-2: 熱心な僧侶は、ほとんどの時間を瞑想や祈りに費やしていました。
+J-3: 熱心な信徒たちは、一緒に讃美歌を歌い、賛美を捧げるために集まりました。

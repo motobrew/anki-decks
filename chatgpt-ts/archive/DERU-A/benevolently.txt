@@ -1,0 +1,11 @@
+# Key:benevolently
+## Response
+### English Sentences
+E-1: The generous billionaire donated <u>benevolently</u> to multiple charities.
+E-2: She looked at him <u>benevolently</u>, knowing he had made a mistake but choosing to forgive him.
+E-3: The leader ruled <u>benevolently</u>, always putting the needs of his people above his own.
+
+### Japanese Translation
+J-1: 誠実な億万長者は多くの慈善団体に<u>寛大に</u>寄付を行いました。
+J-2: 彼女は彼を<u>親切に</u>見つめ、彼が間違いをしたことを知っていたが、彼を許した。
+J-3: 指導者はいつも自分自身のニーズを超えて、自分の人々のニーズを優先的に考えて<u>寛大に</u>統治しました。

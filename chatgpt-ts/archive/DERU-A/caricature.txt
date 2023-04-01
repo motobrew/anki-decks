@@ -1,0 +1,11 @@
+# Key:caricature
+## Response
+### English Sentences
+E-1: The political <u>caricature</u> in the newspaper was quite amusing.
+E-2: The artist created a <u>caricature</u> of the famous celebrity.
+E-3: The comedian used <u>caricature</u> to exaggerate his friend's features for a joke.
+
+### Japanese Translation
+J-1: 新聞に載った政治の<u>風刺画</u>はとても面白かったです。
+J-2: アーティストは有名なセレブの<u>風刺画</u>を作りました。
+J-3: そのコメディアンは友達の特徴を大げさに描いて<u>風刺</u>をしました。

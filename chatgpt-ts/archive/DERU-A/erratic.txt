@@ -1,0 +1,11 @@
+# Key:erratic
+## Response
+### English Sentences
+E-1: The stock market has been <u>erratic</u> lately, with unpredictable fluctuations.
+E-2: His behavior can be quite <u>erratic</u>, one moment he's happy and the next he's angry.
+E-3: The pilot had to make an emergency landing due to <u>erratic</u> weather conditions.
+
+### Japanese Translation
+J-1: 最近、株式市場は予測がつかない変動が<u>不安定</u>でした。
+J-2: 彼の振る舞いはかなり<u>不規則</u>で、一瞬幸せそうで、次の瞬間には怒っています。
+J-3: パイロットは<u>不安定</u>な天候条件のため、緊急着陸を余儀なくされました。

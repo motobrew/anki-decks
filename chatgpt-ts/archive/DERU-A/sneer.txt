@@ -1,0 +1,11 @@
+# Key:sneer
+## Response
+### English Sentences
+E-1: He gave a <u>sneer</u> when the teacher announced the pop quiz.
+E-2: The politician's opponent responded with a <u>sneer</u> to his proposal.
+E-3: I could see the <u>sneer</u> on his face when he heard the bad news.
+
+### Japanese Translation
+J-1: 先生がサプライズクイズを発表したとき、彼は<u>嗤った</u>。
+J-2: 政治家の対立候補は提案に<u>冷笑した</u>。
+J-3: 悪いニュースを聞いたとき、彼の顔に<u>嗤い</u>が見えた。

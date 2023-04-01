@@ -1,0 +1,11 @@
+# Key:meager
+## Response
+### English Sentences
+E-1: The villagers' <u>meager</u> resources were not enough to withstand the drought.
+E-2: He survived on a <u>meager</u> diet of bread and water for weeks.
+E-3: The company's profits were <u>meager</u> compared to those of their competitors.
+
+### Japanese Translation
+J-1: 村人たちの貧しい資源では干ばつに耐えられませんでした。
+J-2: 彼は数週間、パンと水という貧しい食事で生き残りました。
+J-3: その会社の利益は競合他社に比べると<u>わずか</u>でした。

@@ -1,0 +1,11 @@
+# Key:invincible
+## Response
+### English Sentences
+E-1: Superman is often seen as an <u>invincible</u> hero who can overcome any obstacle.
+E-2: The undefeated champion boxer thought he was <u>invincible</u>, until he lost his first match.
+E-3: The castle was considered <u>invincible</u> until the enemy found a secret entrance.
+
+### Japanese Translation
+J-1: スーパーマンはどんな障害にも勝つことができる<u>無敵の</u>ヒーローとして知られています。
+J-2: 無敗のチャンピオンボクサーは自分が<u>無敵だ</u>と思っていましたが、初めて負けた試合があった。
+J-3: 城は敵が秘密の入り口を見つけるまでは<u>不沈の</u>存在とされていました。

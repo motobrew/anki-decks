@@ -1,0 +1,11 @@
+# Key:lackluster
+## Response
+### English Sentences
+E-1: The movie was disappointing with its <u>lackluster</u> plot and uninteresting characters.
+E-2: The team's <u>lackluster</u> performance in the first half resulted in a big loss.
+E-3: The party ended up being <u>lackluster</u> due to the absence of many of the guests.
+
+### Japanese Translation
+J-1: その映画は、無味乾燥なプロットと興味深くないキャラクターでがっかりする<u>地味な</u>作品でした。
+J-2: チームの<u>活力のない</u>前半のパフォーマンスが大敗北につながりました。
+J-3: ゲストの多くが欠席したため、パーティーは<u>活気に欠ける</u>ものになりました。

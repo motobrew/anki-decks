@@ -1,0 +1,11 @@
+# Key:bucolic
+## Response
+### English Sentences
+E-1: The <u>bucolic</u> scenery of the countryside made me feel peaceful.
+E-2: We enjoyed a <u>bucolic</u> picnic in the meadow surrounded by wildflowers.
+E-3: The small town has a <u>bucolic</u> charm with its quaint houses and rolling hills.
+
+### Japanese Translation
+J-1: 田舎の自然の中の<u>のどかな</u>景色が私を落ち着かせました。
+J-2: 野の花に囲まれた草地で<u>のどかな</u>ピクニックを楽しんだ。
+J-3: その小さな町は、趣きある家と起伏する丘陵による<u>のどかな</u>魅力を持っている。

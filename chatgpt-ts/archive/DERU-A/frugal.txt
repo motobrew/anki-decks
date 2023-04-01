@@ -1,0 +1,11 @@
+# Key:frugal
+## Response
+### English Sentences
+E-1: She lived a <u>frugal</u> life, saving every penny she could.
+E-2: My grandfather is very <u>frugal</u> and always tries to find the best deals.
+E-3: The company implemented <u>frugal</u> cost-cutting measures to stay within budget.
+
+### Japanese Translation
+J-1: 彼女は貧乏暮らしをし、できる限りのお金を節約していました。
+J-2: 私のおじいちゃんはとても<b>倹約家</b>で、常に最高の取引を見つけようとします。
+J-3: 会社は予算内に収まるために<b>節約的</b>なコスト削減策を実施しました。

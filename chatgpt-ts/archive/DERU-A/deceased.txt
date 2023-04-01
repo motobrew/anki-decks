@@ -1,0 +1,11 @@
+# Key:deceased
+## Response
+### English Sentences
+E-1: The <u>deceased</u> left behind a will detailing how their assets should be distributed.
+E-2: The family mourned the loss of their <u>deceased</u> loved one at the funeral.
+E-3: The police are investigating the suspicious circumstances surrounding the <u>deceased</u> person's death.
+
+### Japanese Translation
+J-1: <u>故人</u>は遺言を残し、自分の資産の配分を詳しく記載しています。
+J-2: 家族は葬儀で亡くなった<u>故人</u>を悼みました。
+J-3: 警察は<u>故人</u>の死の疑わしい状況について捜査しています。

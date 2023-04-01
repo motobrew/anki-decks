@@ -1,0 +1,11 @@
+# Key:derision
+## Response
+### English Sentences
+E-1: The comedian's joke was met with <u>derision</u> from the audience.
+E-2: The manager's idea was met with <u>derision</u> from the team members.
+E-3: The politician's proposal was met with <u>derision</u> from the opposition party.
+
+### Japanese Translation
+J-1: コメディアンのジョークは聴衆から<u>嘲笑</u>を浴びた。
+J-2: マネージャーのアイデアはチームメンバーから<u>ばかにされた</u>。
+J-3: 政治家の提案は野党から<u>嘲笑</u>を浴びた。

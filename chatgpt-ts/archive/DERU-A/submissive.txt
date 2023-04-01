@@ -1,0 +1,11 @@
+# Key:submissive
+## Response
+### English Sentences
+E-1: She is very <u>submissive</u> in her marriage and always defers to her husband's wishes.
+E-2: The CEO expects <u>submissive</u> behavior from his employees and does not tolerate any pushback.
+E-3: The dog showed <u>submissive</u> behavior by cowering and putting its tail between its legs.
+
+### Japanese Translation
+J-1: 彼女は結婚生活で非常に<u>従順</u>であり、常に夫の希望に従っています。
+J-2: CEOは従業員に<u>従順</u>な行動を期待し、反発を許しません。
+J-3: 犬はお尻をおろし、尻尾を脚の間に挟んで<u>従順</u>な行動を示しました。

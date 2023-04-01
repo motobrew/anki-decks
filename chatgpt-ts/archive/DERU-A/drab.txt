@@ -1,0 +1,11 @@
+# Key:drab
+## Response
+### English Sentences
+E-1: The city in winter can look very <u>drab</u> with grey skies and bare trees.
+E-2: The office was painted in <u>drab</u> colors to create a serious atmosphere.
+E-3: She wore a <u>drab</u> brown coat, blending in with the dull surroundings.
+
+### Japanese Translation
+J-1: 冬の街は灰色の空と裸の木々でとても<u>冴えない</u>様子に見えます。
+J-2: オフィスは真面目な雰囲気を作るために<u>地味な</u>色で塗られました。
+J-3: 彼女は<u>地味な</u>茶色のコートを着て、退屈な周りに溶け込んでいました。

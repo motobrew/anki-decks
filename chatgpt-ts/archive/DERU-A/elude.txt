@@ -1,0 +1,11 @@
+# Key:elude
+## Response
+### English Sentences
+E-1: The answer to the puzzle continues to <u>elude</u> me, even after several attempts.
+E-2: Despite their best efforts, the police were unable to <u>elude</u> the suspect during the chase.
+E-3: The true meaning of the poem seemed to <u>elude</u> most of the students in the class.
+
+### Japanese Translation
+J-1: パズルの答えは何度も試してみたけれど、未だに<u>見つけられない</u>。
+J-2: 最善の努力にもかかわらず、警察は追跡中に容疑者を<u>振り切ることができなかった</u>。
+J-3: 詩の真の意味は、クラスのほとんどの生徒には<u>理解しきれないようだった</u>。

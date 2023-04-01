@@ -1,0 +1,11 @@
+# Key:concoct
+## Response
+### English Sentences
+E-1: She decided to <u>concoct</u> a plan to surprise her husband on their anniversary.
+E-2: The chef will <u>concoct</u> a special dish for tonight's menu.
+E-3: The author had to <u>concoct</u> a believable plot for her new novel.
+
+### Japanese Translation
+J-1: 彼女は結婚記念日に夫を驚かす計画を<u>考案</u>することに決めました。
+J-2: シェフは今夜のメニューに特別な料理を<u>編み出す</u>予定です。
+J-3: 作家は新しい小説の信憑性のあるプロットを<u>でっち上げる</u>必要がありました。

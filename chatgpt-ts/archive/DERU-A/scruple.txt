@@ -1,0 +1,11 @@
+# Key:scruple
+## Response
+### English Sentences
+E-1: The politician hesitated to accept the bribe because it went against his <u>scruples</u>.
+E-2: She had no <u>scruples</u> about lying to get what she wanted.
+E-3: The company's CEO had a <u>scruple</u> about exploiting cheap labor in developing countries.
+
+### Japanese Translation
+J-1: 政治家は、賄賂を受け取ることが自分の<u>良心</u>に反するため、ためらいました。
+J-2: 彼女は、得たいものを手に入れるために嘘をつくことに何の<u>ためらい</u>もありませんでした。
+J-3: その企業のCEOは、発展途上国で安い労働力を搾取することに<u>良心の呵責</u>を感じていました。

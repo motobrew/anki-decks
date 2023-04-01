@@ -1,0 +1,11 @@
+# Key:remit
+## Response
+### English Sentences
+E-1: The company will <u>remit</u> your paycheck every two weeks.
+E-2: The charity organization will <u>remit</u> the donations to the designated beneficiaries.
+E-3: The bank will <u>remit</u> the money to your account within 24 hours.
+
+### Japanese Translation
+J-1: 会社は2週間ごとにあなたの給料を<u>振り込む</u>でしょう。
+J-2: チャリティ団体は寄付金を指定された受益者に<u>送金する</u>でしょう。
+J-3: 銀行は24時間以内にあなたの口座にお金を<u>送金する</u>でしょう。

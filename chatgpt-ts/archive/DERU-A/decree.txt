@@ -1,0 +1,11 @@
+# Key:decree
+## Response
+### English Sentences
+E-1: The king issued a <u>decree</u> that all citizens must pay taxes.
+E-2: The company's <u>decree</u> was that all employees must wear formal attire to work.
+E-3: The president's <u>decree</u> was met with opposition from many members of parliament.
+
+### Japanese Translation
+J-1: 王様は、すべての市民が税金を支払わなければならないという<u>布告</u>を発した。
+J-2: その会社の<u>規定</u>は、すべての従業員が勤務時に正式な服装を着用しなければならないことでした。
+J-3: 大統領の<u>指令</u>は、議会の多くのメンバーから反対を受けました。

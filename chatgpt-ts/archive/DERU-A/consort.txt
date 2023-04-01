@@ -1,0 +1,11 @@
+# Key:consort
+## Response
+### English Sentences
+E-1: The queen was seen with her <u>consort</u> at the ball.
+E-2: The musician collaborated with a well-known <u>consort</u> in his latest album.
+E-3: The CEO's <u>consort</u> was also a prominent businesswoman.
+
+### Japanese Translation
+J-1: 女王はダンスパーティーで彼女の<u>配偶者</u>と一緒に見られました。
+J-2: ミュージシャンは、彼の最新アルバムで有名な<u>協奏者</u>とコラボレーションしました。
+J-3: CEOの<u>配偶者</u>も有名な女性実業家でした。

@@ -1,0 +1,11 @@
+# Key:gradient
+## Response
+### English Sentences
+E-1: The <u>gradient</u> of the mountain path was so steep, it was difficult to climb.
+E-2: The artist used a <u>gradient</u> of blue shades to create a beautiful painting of the ocean.
+E-3: The temperature outside had a <u>gradient</u>, starting off cool in the morning and getting warmer in the afternoon.
+
+### Japanese Translation
+J-1: 山道の<u>勾配</u>が非常に急だったため、登るのが難しかった。
+J-2: 画家は、青色の<u>グラデーション</u>を使用して美しい海の絵を描きました。
+J-3: 外の気温は<u>勾配</u>があり、朝は涼しく、午後には暖かくなっていました。

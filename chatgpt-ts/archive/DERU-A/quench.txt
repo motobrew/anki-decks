@@ -1,0 +1,11 @@
+# Key:quench
+## Response
+### English Sentences
+E-1: I drank a whole bottle of water to <u>quench</u> my thirst after the long hike.
+E-2: The rain finally came to <u>quench</u> the flames of the wildfire.
+E-3: The company hired a new employee to <u>quench</u> their thirst for fresh ideas.
+
+### Japanese Translation
+J-1: 長いハイキングの後、喉を<u>潤す</u>ために水のボトル一本を飲みました。
+J-2: 雨が降って、ついに山火事の炎を<u>消し止めました</u>。
+J-3: 会社は新しい従業員を雇い、新しいアイデアへの<u>渇望を</u>満たしました。

@@ -1,0 +1,11 @@
+# Key:spillage
+## Response
+### English Sentences
+E-1: Please clean up the <u>spillage</u> on the kitchen floor.
+E-2: The waiter apologized for the <u>spillage</u> of wine on the tablecloth.
+E-3: The company was fined for the environmental <u>spillage</u> caused by their factory.
+
+### Japanese Translation
+J-1: 台所の床にある<u>こぼれたもの</u>を片付けてください。
+J-2: ウェイターは、テーブルクロスに<u>こぼれたもの</u>のことを謝罪しました。
+J-3: 会社は、工場による環境の<u>汚染</u>に対して罰金を課せられました。

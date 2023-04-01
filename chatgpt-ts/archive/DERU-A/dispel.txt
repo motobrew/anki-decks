@@ -1,0 +1,11 @@
+# Key:dispel
+## Response
+### English Sentences
+E-1: The teacher tried to <u>dispel</u> the student's misunderstanding about the subject.
+E-2: A glass of warm milk before bed can help <u>dispel</u> insomnia.
+E-3: The CEO held a meeting to <u>dispel</u> rumors about the company's financial instability.
+
+### Japanese Translation
+J-1: 先生は、生徒の科目に関する誤解を<u>解消</u>しようとしました。
+J-2: 就寝前に温かいミルクを飲むと、不眠症を<u>解消</u>するのに役立ちます。
+J-3: CEOは、企業の財政的不安定性に関する噂を<u>払拭</u>するために会議を開きました。

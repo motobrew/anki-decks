@@ -1,0 +1,11 @@
+# Key:plagiarism
+## Response
+### English Sentences
+E-1: The student was accused of <u>plagiarism</u> for copying entire paragraphs from an online article.
+E-2: The consequences of <u>plagiarism</u> in academic writing can include a failing grade or even expulsion.
+E-3: To avoid <u>plagiarism</u>, it is important to properly cite all sources used in a research paper.
+
+### Japanese Translation
+J-1: その生徒は、オンライン記事から段落をそのままコピーしたことで<u>盗作</u>の罪に問われた。
+J-2: 学術論文における<u>盗作</u>の結果として、不合格や退学などの処分が下されることがある。
+J-3: 研究論文で使用したすべての参考文献を適切に引用することで、<u>盗作</u>を避けることが重要です。

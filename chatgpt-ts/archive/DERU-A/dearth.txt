@@ -1,0 +1,11 @@
+# Key:dearth
+## Response
+### English Sentences
+E-1: There is a <u>dearth</u> of food supplies in this famine-stricken region.
+E-2: The <u>dearth</u> of rain has resulted in drought across the country.
+E-3: The pandemic has caused a <u>dearth</u> of job opportunities.
+
+### Japanese Translation
+J-1: この飢餓に苦しむ地域では食料の<u>不足</u>があります。
+J-2: <u>不足</u>した雨は全国的に干ばつを引き起こしました。
+J-3: パンデミックのため、仕事の<u>機会不足</u>が起きています。

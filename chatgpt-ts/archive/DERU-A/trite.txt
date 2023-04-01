@@ -1,0 +1,11 @@
+# Key:trite
+## Response
+### English Sentences
+E-1: The writer used a <u>trite</u> plot that was predictable from the beginning.
+E-2: The comedian's jokes were <u>trite</u> and lacked originality.
+E-3: The speech was filled with <u>trite</u> cliches and did not engage the audience.
+
+### Japanese Translation
+J-1: その作家は、最初から予測できる<u>決まり文句</u>プロットを使用しました。
+J-2: そのコメディアンのジョークは<u>陳腐</u>で、オリジナリティに欠けていました。
+J-3: スピーチには<u>ありふれた</u>呆れた決まり文句がいっぱいで、聴衆を引き付けることができませんでした。

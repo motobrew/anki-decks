@@ -1,0 +1,11 @@
+# Key:pedantic
+## Response
+### English Sentences
+E-1: His <u>pedantic</u> way of speaking made it difficult for others to follow his train of thought.
+E-2: The professor's <u>pedantic</u> lectures were often seen as tedious by his students.
+E-3: She was criticized for being <u>pedantic</u> in her writing style, making her work seem dry and emotionless.
+
+### Japanese Translation
+J-1: 彼の話し方は<u>学術的すぎる</u>ため、他の人達は彼の考えを理解することが難しかった。
+J-2: 教授の<u>煩わしい学問的な</u>講義は、学生たちにとって退屈だと思われていました。
+J-3: 彼女の文章は<u>堅苦しい</u>と批判され、彼女の作品に情緒がないと言われました。

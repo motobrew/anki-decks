@@ -1,0 +1,11 @@
+# Key:irreparably
+## Response
+### English Sentences
+E-1: The damage to the computer was <u>irreparably</u> done, and we need to buy a new one.
+E-2: The fire <u>irreparably</u> damaged the historical building, and it had to be torn down.
+E-3: The betrayal by her best friend <u>irreparably</u> damaged their relationship, and they never spoke again.
+
+### Japanese Translation
+J-1: コンピューターの損傷は<u>修復不能</u>であり、新しいものを買わなければなりません。
+J-2: 火災は歴史的建物を<u>修復不能</u>に損傷させ、取り壊す必要がありました。
+J-3: 親友に裏切られたことは、彼女たちの関係に<u>修復不能</u>なダメージを与え、二度と話すことはありませんでした。

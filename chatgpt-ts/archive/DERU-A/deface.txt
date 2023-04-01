@@ -1,0 +1,11 @@
+# Key:deface
+## Response
+### English Sentences
+E-1: The graffiti artist was caught attempting to <u>deface</u> the building's walls.
+E-2: Vandalism is a serious crime that can result in fines or imprisonment for those who <u>deface</u> public property.
+E-3: The historical statue was <u>defaced</u> with spray paint and will require restoration work.
+
+### Japanese Translation
+J-1: グラフィティアーティストは、建物の壁を<u>汚す</u>試みで捕まえられました。
+J-2: 破壊行為は公共物を<u>汚す</u>人に罰金または投獄の結果をもたらす重大な犯罪です。
+J-3: 歴史的な像はスプレーペイントで<u>損傷を受け</u>、修復作業が必要となります。

@@ -1,0 +1,11 @@
+# Key:stringent
+## Response
+### English Sentences
+E-1: The university has <u>stringent</u> admission requirements for their graduate programs.
+E-2: The company has <u>stringent</u> safety regulations to ensure the well-being of their employees.
+E-3: The new law has <u>stringent</u> penalties for those who violate it.
+
+### Japanese Translation
+J-1: 大学は大学院プログラムの入学要件が<u>厳格</u>です。
+J-2: 会社は従業員の福利を確保するために<u>厳格</u>な安全規則を持っています。
+J-3: 新しい法律には、それを違反する者に<u>厳格</u>な罰則があります。

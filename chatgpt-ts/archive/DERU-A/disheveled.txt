@@ -1,0 +1,11 @@
+# Key:disheveled
+## Response
+### English Sentences
+E-1: The lazy student showed up to class with <u>disheveled</u> hair and wrinkled clothes.
+E-2: After the party, the living room was left in a <u>disheveled</u> mess.
+E-3: The homeless man had a <u>disheveled</u> appearance, with torn clothes and uncombed hair.
+
+### Japanese Translation
+J-1: 怠惰な学生は、<u>だらしなく</u>絡まった髪としわくちゃの服で授業に現れました。
+J-2: パーティーの後、リビングルームは<u>だらしなく</u>散らかっていました。
+J-3: ホームレスの男性は、破れた洋服と乱れた髪型で<u>だらしない</u>外見をしていました。

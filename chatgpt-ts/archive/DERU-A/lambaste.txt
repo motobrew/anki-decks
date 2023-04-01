@@ -1,0 +1,11 @@
+# Key:lambaste
+## Response
+### English Sentences
+E-1: The boss will <u>lambaste</u> employees who don't meet their sales targets.
+E-2: The movie critic <u>lambasted</u> the new blockbuster for being too predictable.
+E-3: The politician <u>lambasted</u> their opponent in a televised debate.
+
+### Japanese Translation
+J-1: ボスは目標の売り上げを達成しない従業員を<u>厳しく叱責する</u>。
+J-2: 映画評論家は、新作映画が予想通りの内容であるとして<u>痛烈に批評した</u>。
+J-3: 政治家は、テレビ討論会で相手を<u>激しく非難した</u>。

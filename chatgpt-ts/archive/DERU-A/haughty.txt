@@ -1,0 +1,11 @@
+# Key:haughty
+## Response
+### English Sentences
+E-1: Her <u>haughty</u> attitude made it difficult for anyone to approach her. 
+E-2: The CEO's <u>haughty</u> behavior towards his employees caused many to quit. 
+E-3: The guest's <u>haughty</u> remarks about the food offended the host. 
+
+### Japanese Translation
+J-1: 彼女の<u>高慢な</u>態度が、誰も彼女に近づけないようにした。 
+J-2: CEOの社員に対する<u>傲慢な</u>態度は、多くの人が辞める原因となった。 
+J-3: その客の<u>高慢な</u>食事への発言が、ホストを不快にさせた。

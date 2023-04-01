@@ -1,0 +1,11 @@
+# Key:perceptible
+## Response
+### English Sentences
+E-1: The difference in color between the two paints was <u>perceptible</u> even to untrained eyes. 
+E-2: The impact of the pandemic on the economy was <u>perceptible</u> in a matter of weeks. 
+E-3: She tried to hide her nervousness, but it was <u>perceptible</u> in her trembling voice. 
+
+### Japanese Translation
+J-1: 2つのペイントの色の違いは、訓練されていない目でも<u>感知できる</u>ほどでした。
+J-2: パンデミックが経済に与えた影響は数週間で<u>感じられる</u>程度でした。
+J-3: 彼女は緊張を隠そうとしましたが、震える声でそれが<u>感じられた</u>。

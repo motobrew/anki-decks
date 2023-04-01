@@ -1,0 +1,11 @@
+# Key:surmount
+## Response
+### English Sentences
+E-1: With hard work and determination, you can <u>surmount</u> any obstacle in your way.
+E-2: The team was able to <u>surmount</u> their previous losses and win the championship game.
+E-3: She felt a great sense of accomplishment when she was finally able to <u>surmount</u> her fear of public speaking.
+
+### Japanese Translation
+J-1: 努力と決意を持ってすれば、道に立ちはだかる障害を<u>克服</u>できます。
+J-2: チームは前の敗北を<u>克服</u>し、優勝試合に勝つことができました。
+J-3: 彼女はついに公演恐怖症を<u>克服</u>できた時、大きな達成感を感じました。

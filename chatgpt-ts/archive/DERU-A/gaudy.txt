@@ -1,0 +1,11 @@
+# Key:gaudy
+## Response
+### English Sentences
+E-1: The dress she wore to the party was too <u>gaudy</u> for my taste.
+E-2: The new building in the city center is decorated with <u>gaudy</u> neon signs.
+E-3: He designed a <u>gaudy</u> website with bright colors and flashy icons.
+
+### Japanese Translation
+J-1: 彼女がパーティーで着ていたドレスは私の好みに合わないくらい派手でした。
+J-2: 街の中心に建設された新しい建物は、<u>派手な</u>ネオンサインで飾られています。
+J-3: 彼は明るい色と目立つアイコンで<u>派手な</u>ウェブサイトをデザインしました。

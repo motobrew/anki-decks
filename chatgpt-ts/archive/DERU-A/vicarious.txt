@@ -1,0 +1,11 @@
+# Key:vicarious
+## Response
+### English Sentences
+E-1: Since she couldn't travel herself, she lived <u>vicariously</u> through her daughter's travel stories.
+E-2: I got to experience the thrill of skydiving through a <u>vicarious</u> virtual reality experience.
+E-3: As a child, he lived a <u>vicarious</u> life through the characters in his favorite books.
+
+### Japanese Translation
+J-1: 彼女自身が旅行できなかったため、娘の旅行の話を聞きながら<u>代理体験</u>しました。
+J-2: 私はバーチャルリアリティを通じての<u>代理体験</u>でスカイダイビングのスリルを体験しました。
+J-3: 子供の頃、彼はお気に入りの本のキャラクターを通じて<u>代理生活</u>を送っていました。

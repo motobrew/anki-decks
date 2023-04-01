@@ -1,0 +1,11 @@
+# Key:deduce
+## Response
+### English Sentences
+E-1: By analyzing the data, we can <u>deduce</u> that the sales have been steadily increasing.
+E-2: Based on the evidence, the detective was able to <u>deduce</u> who the culprit was.
+E-3: From the way she spoke, I could <u>deduce</u> that she was from England.
+
+### Japanese Translation
+J-1: データを分析することによって、売上が着実に増加していることが<u>推測</u>できます。
+J-2: 証拠に基づいて、刑事は犯人が誰かを<u>推理</u>することができました。
+J-3: 彼女の話し方から、彼女がイギリス出身であることを<u>推測</u>することができました。

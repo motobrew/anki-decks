@@ -1,0 +1,11 @@
+# Key:ingenious
+## Response
+### English Sentences
+E-1: The scientist came up with an <u>ingenious</u> solution to the problem.
+E-2: The artist used an <u>ingenious</u> technique to create the painting.
+E-3: The engineer designed an <u>ingenious</u> machine that could do the work of ten people.
+
+### Japanese Translation
+J-1: その科学者は問題に対する<u>巧妙な</u>解決策を考え出しました。
+J-2: 画家は<u>独創的な</u>技法を使って、絵を作りました。
+J-3: エンジニアは、10人分の仕事を行うことができる<u>巧妙な</u>機械を設計しました。

@@ -1,0 +1,11 @@
+# Key:destitute
+## Response
+### English Sentences
+E-1: Many people in the town are <u>destitute</u> and in need of assistance. 
+E-2: After losing his job and home, he became completely <u>destitute</u>.
+E-3: The charity organization aims to provide aid and support for the <u>destitute</u> families in the city.
+
+### Japanese Translation
+J-1: その街の多くの人が<u>破産状態</u>で援助を必要としています。
+J-2: 彼は仕事と家を失って完全に<u>破産状態</u>になりました。
+J-3: その慈善団体は、都市の<u>破産状態</u>の家族に援助や支援を提供することを目的としています。

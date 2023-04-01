@@ -1,0 +1,11 @@
+# Key:lax
+## Response
+### English Sentences
+E-1: He was fired for being <u>lax</u> in his job responsibilities.
+E-2: The teacher had a <u>lax</u> grading policy, which made the students happy.
+E-3: The company had to implement stricter security measures after a <u>lax</u> breach.
+
+### Japanese Translation
+J-1: 彼は仕事上の責任を怠ったため解雇されました。
+J-2: 先生は評価の基準が<u>緩い</u>ため、生徒たちは喜んでいました。
+J-3: その企業は<u>手ぬるい</u>セキュリティ対策が原因で厳しい措置を取らざるを得なくなりました。

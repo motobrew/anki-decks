@@ -1,0 +1,11 @@
+# Key:eminence
+## Response
+### English Sentences
+E-1: The scientist's <u>eminence</u> in the field of genetics earned him international recognition.
+E-2: The new restaurant has become a popular spot due to the <u>eminence</u> of its chef.
+E-3: The university awarded an honorary degree to the <u>eminence</u> in literature for her extraordinary contributions.
+
+### Japanese Translation
+J-1: 遺伝学の分野での科学者の<u>卓越性</u>が国際的な認知を得ました。
+J-2: 新しいレストランのシェフの<u>卓越性</u>が人気の理由となっています。
+J-3: 大学は文学の<u>卓越者</u>に対して、その優れた貢献を称えて名誉学位を授与しました。

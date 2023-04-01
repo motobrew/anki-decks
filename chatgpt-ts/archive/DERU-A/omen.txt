@@ -1,0 +1,11 @@
+# Key:omen
+## Response
+### English Sentences
+E-1: The black cat crossing your path is considered an <u>omen</u> of bad luck.
+E-2: The sudden drop in temperature in the middle of summer was an <u>omen</u> of an approaching storm.
+E-3: The coach saw the team's inability to communicate during practice as an <u>omen</u> of future failure.
+
+### Japanese Translation
+J-1: 道を横切る黒猫は不吉な<u>前兆</u>とされています。
+J-2: 夏の中で急な気温の低下は、接近する嵐の<u>前触れ</u>でした。
+J-3: コーチは練習中のチームのコミュニケーション不全を将来の失敗の<u>予言</u>と見ました。

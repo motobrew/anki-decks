@@ -1,0 +1,11 @@
+# Key:conflagration
+## Response
+### English Sentences
+E-1: The forest fire turned into a massive <u>conflagration</u>, spreading across several acres of land.
+E-2: The riots escalated into a dangerous <u>conflagration</u>, resulting in destruction of public property.
+E-3: The enemy's attack caused a <u>conflagration</u> in the ammunition depot, leading to a huge explosion.
+
+### Japanese Translation
+J-1: 森林火災は大量の土地に広がる<u>大規模な火災</u>になりました。
+J-2: 暴動が危険な<u>大規模な火災</u>にエスカレートし、公共財産が破壊されました。
+J-3: 敵の攻撃により、弾薬庫で<u>火災</u>が発生し、巨大な爆発が起こりました。

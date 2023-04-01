@@ -1,0 +1,11 @@
+# Key:dawdle
+## Response
+### English Sentences
+E-1: Please don't <u>dawdle</u> on your way to school or you'll be late.
+E-2: We can't <u>dawdle</u> any longer, we need to start working on this project.
+E-3: We missed the bus because we <u>dawdled</u> too much at the park.
+
+### Japanese Translation
+J-1: 学校までの道で<u>ぐずぐず</u>しないでください。遅刻しちゃいますよ。
+J-2: もう<u>ぐずぐず</u>できない。このプロジェクトに取り掛からなくちゃ。
+J-3: 公園であまり<u>ぐずぐず</u>したから、バスに乗り遅れた。

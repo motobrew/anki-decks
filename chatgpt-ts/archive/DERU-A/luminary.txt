@@ -1,0 +1,11 @@
+# Key:luminary
+## Response
+### English Sentences
+E-1: The museum is hosting a talk by a <u>luminary</u> in the field of art history.
+E-2: The concert featured several <u>luminaries</u> of the jazz world.
+E-3: The company hired a <u>luminary</u> as a consultant for their new project.
+
+### Japanese Translation
+J-1: 美術史の<u>著名人</u>がトークを開催する美術館があります。
+J-2: コンサートには、ジャズ界のいくつかの<u>著名人</u>が出演しました。
+J-3: その会社は、新しいプロジェクトのコンサルタントとして<u>著名人</u>を採用しました。

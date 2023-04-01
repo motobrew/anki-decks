@@ -1,0 +1,11 @@
+# Key:mesmerize
+## Response
+### English Sentences
+E-1: The beautiful sunset over the ocean <u>mesmerized</u> everyone on the beach.
+E-2: The magician was able to <u>mesmerize</u> the audience with his amazing tricks.
+E-3: The stunning performance by the ballet dancers <u>mesmerized</u> the entire audience.
+
+### Japanese Translation
+J-1: 海の上に広がる美しい夕日に、ビーチにいた全員が<u>うっとり</u>しました。
+J-2: 魔法使いは素晴らしいトリックで観客を<u>魅了</u>することができました。
+J-3: バレエダンサーの素晴らしいパフォーマンスに、全員が<u>うっとり</u>しました。

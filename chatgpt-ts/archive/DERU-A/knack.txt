@@ -1,0 +1,11 @@
+# Key:knack
+## Response
+### English Sentences
+E-1: She had a <u>knack</u> for getting people to open up to her and share their secrets.
+E-2: He had a <u>knack</u> for fixing things around the house without any help.
+E-3: She has a <u>knack</u> for making delicious meals from just a few simple ingredients.
+
+### Japanese Translation
+J-1: 彼女は人々を開放的にし、秘密を共有するように誘導する<u>才能</u>があった。
+J-2: 彼は手伝いなしで家の中で物事を修理する<u>技術</u>を持っていた。
+J-3: 彼女はわずかな材料からおいしい食事を作る<u>こつ</u>を持っています。

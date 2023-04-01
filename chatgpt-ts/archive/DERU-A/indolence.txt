@@ -1,0 +1,11 @@
+# Key:indolence
+## Response
+### English Sentences
+E-1: His <u>indolence</u> prevented him from completing his work on time.
+E-2: She spent the day in <u>indolence</u>, lounging on the couch and watching TV.
+E-3: The company suffered due to the CEO's <u>indolence</u> and lack of dedication.
+
+### Japanese Translation
+J-1: 彼の<u>怠惰</u>が彼を仕事を期限までに終わらせることを妨げた。
+J-2: 彼女は1日中<u>怠惰</u>を過ごし、ソファーに寝そべってテレビを見ていた。
+J-3: CEOの<u>怠惰</u>と献身の欠如のため、会社は被害を受けました。

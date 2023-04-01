@@ -1,0 +1,11 @@
+# Key:emigrate
+## Response
+### English Sentences
+E-1: My great-grandparents <u>emigrated</u> from Italy to America during the early 1900s.
+E-2: Many people <u>emigrate</u> to other countries in search of better job opportunities and living conditions.
+E-3: The government provided assistance for refugees who wished to <u>emigrate</u> to a safer country.
+
+### Japanese Translation
+J-1: 1900年代初頭に私の曽祖父母はイタリアからアメリカに<u>移住</u>しました。
+J-2: 多くの人々がより良い仕事と生活環境を求めて他国に<u>移住</u>します。
+J-3: 政府は安全な国に<u>移住</u>したい難民に支援を提供しました。

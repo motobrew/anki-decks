@@ -1,0 +1,11 @@
+# Key:contraband
+## Response
+### English Sentences
+E-1: It is illegal to bring <u>contraband</u> items into the country.
+E-2: The police found a bag of <u>contraband</u> drugs in the suspect's car.
+E-3: The customs officers seized the <u>contraband</u> cigarettes being smuggled into the country.
+
+### Japanese Translation
+J-1: 国に<u>密輸品</u>を持ち込むことは違法です。
+J-2: 警察は容疑者の車の中に<u>密輸品</u>の麻薬を見つけました。
+J-3: 税関当局は国に密輸されていた<u>密輸品</u>のたばこを押収しました。

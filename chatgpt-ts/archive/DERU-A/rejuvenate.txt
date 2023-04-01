@@ -1,0 +1,11 @@
+# Key:rejuvenate
+## Response
+### English Sentences
+E-1: Taking a long vacation can help you <u>rejuvenate</u> and feel refreshed.
+E-2: Using a face mask regularly can <u>rejuvenate</u> your skin and improve its texture.
+E-3: A massage can help <u>rejuvenate</u> your body and relieve muscle tension.
+
+### Japanese Translation
+J-1: 長期のバケーションを取ることは、<u>活気を取り戻し</u>、リフレッシュするのに役立ちます。
+J-2: 定期的にフェイスマスクを使用することで、肌を<u>若返らせ</u>、質を向上させることができます。
+J-3: マッサージは、体を<u>若返らせ</u>、筋肉の緊張を緩和するのに役立ちます。

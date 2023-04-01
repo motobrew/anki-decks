@@ -1,0 +1,11 @@
+# Key:consummate
+## Response
+### English Sentences
+E-1: The artist's <u>consummate</u> skill is evident in every brushstroke of the painting.
+E-2: The <u>consummate</u> professionalism of the surgeon ensured a successful operation.
+E-3: After years of practice, the musician attained <u>consummate</u> mastery of their instrument.
+
+### Japanese Translation
+J-1: 画家の<u>卓越した</u>技術が、絵画の一つ一つの筆遣いに表れています。
+J-2: 外科医の<u>完全な</u>プロフェッショナリズムによって、手術は成功裏に終わりました。
+J-3: 長年の練習の後、音楽家は自分の楽器に<u>全くの</u>マスターを達成しました。

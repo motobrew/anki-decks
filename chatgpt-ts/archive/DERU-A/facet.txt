@@ -1,0 +1,11 @@
+# Key:facet
+## Response
+### English Sentences
+E-1: The diamond has many <u>facets</u>, each reflecting the light in a different way.
+E-2: The issue has many <u>facets</u>, and we need to consider them all before making a decision.
+E-3: Sheila showed us a <u>different facet</u> of her personality when she performed on stage.
+
+### Japanese Translation
+J-1: ダイヤモンドには多くの<u>面</u>があり、それぞれ異なる角度で光を反射します。
+J-2: 問題には多くの<u>側面</u>があり、決定を下す前にすべてを考慮する必要があります。
+J-3: シーラは舞台でパフォーマンスをするときに、彼女の<u>別の側面</u>を見せました。

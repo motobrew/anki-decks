@@ -1,0 +1,11 @@
+# Key:contingency
+## Response
+### English Sentences
+E-1: We have a <u>contingency</u> plan in case the weather disrupts our outdoor event.
+E-2: The company's <u>contingency</u> fund is intended for unexpected expenses.
+E-3: The government is discussing a <u>contingency</u> strategy for a possible natural disaster.
+
+### Japanese Translation
+J-1: 天気が屋外イベントを中断する場合、<u>万が一の</u>計画があります。
+J-2: 会社の<u>非常事態</u>基金は予期せぬ出費のために用意されています。
+J-3: 政府は<u>緊急</u>な自然災害に備えた戦略を検討しています。

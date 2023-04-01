@@ -1,0 +1,11 @@
+# Key:delusion
+## Response
+### English Sentences
+E-1: His belief that he could fly was a <u>delusion</u>.
+E-2: She was suffering from a <u>delusion</u> that everyone was out to get her.
+E-3: The cult leader's <u>delusions</u> led to the mass suicide of his followers.
+
+### Japanese Translation
+J-1: 彼が飛べると信じるのは<u>妄想</u>だった。
+J-2: 彼女は、誰もが彼女を狙っているという<u>妄想</u>に苦しんでいた。
+J-3: カルト指導者の<u>妄想</u>が彼のフォロワーたちの大量自殺につながった。

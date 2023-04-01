@@ -1,0 +1,11 @@
+# Key:veracity
+## Response
+### English Sentences
+E-1: The <u>veracity</u> of her testimony was called into question during the trial.
+E-2: The article's <u>veracity</u> was confirmed by multiple sources before it was published.
+E-3: It is important to ensure the <u>veracity</u> of information before sharing it on social media.
+
+### Japanese Translation
+J-1: 彼女の証言の<u>真実性</u>が裁判中に疑問視されました。
+J-2: 記事の<u>真実性</u>は公表される前に複数の情報源から確認されました。
+J-3: ソーシャルメディアで情報を共有する前に<u>真実性</u>を確認することが重要です。

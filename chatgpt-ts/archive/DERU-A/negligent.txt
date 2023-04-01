@@ -1,0 +1,11 @@
+# Key:negligent
+## Response
+### English Sentences
+E-1: The company was found to be <u>negligent</u> in their safety practices, leading to multiple workplace accidents.
+E-2: The doctor was sued for <u>negligent</u> medical treatment of their patient.
+E-3: The driver was charged with <u>negligent</u> driving after causing a car accident.
+
+### Japanese Translation
+J-1: 会社は安全管理のいい加減さが原因で、職場での事故が多発したと判明しました。
+J-2: その医師は患者への<u>過失</u>医療の理由で訴えられました。
+J-3: その運転手は車の事故を引き起こしたため、<u>過失</u>運転で告訴されました。

@@ -1,0 +1,11 @@
+# Key:tinge
+## Response
+### English Sentences
+E-1: The painting had a <u>tinge</u> of blue in the background.
+E-2: Her voice had a <u>tinge</u> of sadness when she spoke about her childhood.
+E-3: The sun's rays gave the clouds a <u>tinge</u> of pink at sunset.
+
+### Japanese Translation
+J-1: 絵には背景に青い<u>色合い</u>があった。
+J-2: 彼女が子供時代に話をするとき、声には少し<u>悲しみの色合い</u>があった。
+J-3: 夕陽の時、太陽の光線は雲に<u>ピンク色の色合い</u>を与えた。

@@ -1,0 +1,11 @@
+# Key:rampage
+## Response
+### English Sentences
+E-1: The elephant went on a <u>rampage</u> through the village, destroying everything in its path.
+E-2: The protestors went on a <u>rampage</u>, breaking windows and setting fire to cars.
+E-3: After losing his job, he went on a <u>rampage</u> and destroyed his entire office.
+
+### Japanese Translation
+J-1: ゾウは村中に<u>暴れ始め</u>、道筋にあるもの全部を破壊していった。
+J-2: デモ隊は<u>暴れ出し</u>、窓を割って車を燃やし始めた。
+J-3: 仕事を失った彼は<u>癇癪</u>を起こし、オフィスを完全に破壊してしまった。

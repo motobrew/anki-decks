@@ -1,0 +1,11 @@
+# Key:evoke
+## Response
+### English Sentences
+E-1: The old photograph of her grandparents always <u>evokes</u> happy memories for her.
+E-2: The song <u>evokes</u> feelings of nostalgia for his childhood.
+E-3: The smell of fresh-baked cookies <u>evokes</u> a sense of home for her.
+
+### Japanese Translation
+J-1: 彼女の祖父母の古い写真はいつも彼女に幸せな思い出を<u>呼び起こさせます</u>。
+J-2: その曲は彼の子供時代に対する懐かしさを<u>引き起こします</u>。
+J-3: 焼きたてのクッキーの香りは、彼女に「家」を感じさせる<u>効果を持っています</u>。

@@ -1,0 +1,11 @@
+# Key:archaic
+## Response
+### English Sentences
+E-1: The language used in the ancient text is <u>archaic</u> and difficult to understand.
+E-2: The old castle was filled with <u>archaic</u> furniture and decorations.
+E-3: The tribal rituals were considered <u>archaic</u> by outsiders.
+
+### Japanese Translation
+J-1: 古代のテキストに使われている言葉は<u>古語</u>で、理解するのが難しいです。
+J-2: 古い城には<u>時代遅れの</u>家具や装飾品がいっぱいでした。
+J-3: 部外者から見た場合、部族の儀式は<u>時代遅れの</u>と考えられていました。

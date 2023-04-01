@@ -1,0 +1,11 @@
+# Key:fidelity
+## Response
+### English Sentences
+E-1: The couple's <u>fidelity</u> to each other was unshakeable, even in the face of temptation.
+E-2: The audio equipment was praised for its <u>fidelity</u> to the original sound recording.
+E-3: The financial advisor emphasized the importance of <u>fidelity</u> in managing her clients' investments.
+
+### Japanese Translation
+J-1: カップルの<u>貞節</u>は、誘惑に直面しても揺るぎなかった。
+J-2: 音声設備は、オリジナルの音声録音に<u>忠実</u>であると評価されました。
+J-3: 金融アドバイザーは、クライアントの投資を管理する際に<u>誠実性</u>の重要性を強調しました。

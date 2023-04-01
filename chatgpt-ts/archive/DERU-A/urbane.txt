@@ -1,0 +1,11 @@
+# Key:urbane
+## Response
+### English Sentences
+E-1: His <u>urbane</u> manners made him popular among the upper class.
+E-2: The ambassador's <u>urbane</u> speech impressed the foreign guests.
+E-3: The hotel's <u>urbane</u> decor gave it a sophisticated atmosphere.
+
+### Japanese Translation
+J-1: 彼の上品なマナーは上流階級の間で人気を博した。
+J-2: 大使の上品な演説は外国の客を感心させた。
+J-3: ホテルの上品な内装は洗練された雰囲気を与えた。

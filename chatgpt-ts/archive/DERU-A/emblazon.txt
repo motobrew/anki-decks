@@ -1,0 +1,11 @@
+# Key:emblazon
+## Response
+### English Sentences
+E-1: The coat of arms on the wall is <u>emblazoned</u> with the family motto.
+E-2: The superhero's emblem is <u>emblazoned</u> on his chest, identifying him to the world.
+E-3: The banner was <u>emblazoned</u> with the team's logo, proudly displayed at the stadium.
+
+### Japanese Translation
+J-1: 壁に掛かっている紋章は家族のモットーで<u>飾られ</u>ています。
+J-2: スーパーヒーローのエンブレムは胸に<u>刻まれ</u>、彼を世界に識別します。
+J-3: そのバナーには、競技場で誇らしげに展示されるチームのロゴが<u>刻まれ</u>ていました。

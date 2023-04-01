@@ -1,0 +1,11 @@
+# Key:emphatic
+## Response
+### English Sentences
+E-1: The coach's <u>emphatic</u> speech inspired the team to win the championship.
+E-2: She spoke with such <u>emphatic</u> confidence that nobody could doubt her expertise.
+E-3: The teacher's <u>emphatic</u> message to study hard resonated with the students.
+
+### Japanese Translation
+J-1: コーチの<u>力強い</u>スピーチがチームを勝利へと導きました。
+J-2: 彼女は<u>強い口調で</u>話し、誰も彼女の専門知識を疑うことはできませんでした。
+J-3: 先生の勉強についての<u>強い</u>メッセージは学生たちに響きました。

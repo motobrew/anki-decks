@@ -1,0 +1,11 @@
+# Key:garbled
+## Response
+### English Sentences
+E-1: The message was <u>garbled</u> and hard to understand.
+E-2: The phone connection was <u>garbled</u> and we had to call back.
+E-3: His speech was <u>garbled</u> due to his heavy accent.
+
+### Japanese Translation
+J-1: そのメッセージは<u>難解な</u>ため、理解するのが難しかったです。
+J-2: 電話の接続が<u>不明瞭だった</u>ため、折り返し電話をしなければなりませんでした。
+J-3: 彼のスピーチは、彼の強いアクセントのため<u>聞き取りにくかった</u>。

@@ -1,0 +1,11 @@
+# Key:encrypt
+## Response
+### English Sentences
+E-1: It is important to <u>encrypt</u> your sensitive information to protect it from hackers.
+E-2: The company uses a complex algorithm to <u>encrypt</u> their customers' private data.
+E-3: You can <u>encrypt</u> your email messages to ensure that they remain private.
+
+### Japanese Translation
+J-1: ハッカーから情報を守るために、重要な情報を<u>暗号化</u>することが重要です。
+J-2: その会社は、顧客のプライベートデータを<u>暗号化</u>するために複雑なアルゴリズムを使用しています。
+J-3: 電子メールメッセージを<u>暗号化</u>することで、プライバシーを保護することができます。

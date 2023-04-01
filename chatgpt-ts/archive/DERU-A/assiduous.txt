@@ -1,0 +1,11 @@
+# Key:assiduous
+## Response
+### English Sentences
+E-1: She was assiduous in her studies, spending countless hours pouring over books and notes.
+E-2: His assiduous attention to detail was evident in the impeccable work he produced.
+E-3: The company's success can be attributed to the assiduous efforts of its hardworking employees.
+
+### Japanese Translation
+J-1: 彼女は勉強に熱心で、何時間も本やノートを見て過ごしました。
+J-2: 彼の細心の注意は、完成度の高い仕事に表れていました。
+J-3: 企業の成功は、一生懸命働く従業員たちの努力によるものと言えます。

@@ -1,0 +1,11 @@
+# Key:guzzle
+## Response
+### English Sentences
+E-1: The party goers continued to <u>guzzle</u> beer long after midnight.
+E-2: He tends to <u>guzzle</u> soda whenever he's feeling thirsty.
+E-3: The athletes started to <u>guzzle</u> water as soon as they crossed the finish line.
+
+### Japanese Translation
+J-1: パーティーの参加者たちは深夜を過ぎてもビールを<u>がぶ飲み</u>していました。
+J-2: 彼は喉が渇いた時にはいつでもソーダを<u>ぐいぐい</u>飲む傾向があります。
+J-3: アスリートたちはゴールした直後から水を<u>がぶ飲み</u>し始めました。

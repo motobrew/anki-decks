@@ -1,0 +1,11 @@
+# Key:brawl
+## Response
+### English Sentences
+E-1: The bar erupted into a <u>brawl</u> after a disagreement between two customers.
+E-2: The hockey players got into a <u>brawl</u> on the rink during the game.
+E-3: The party ended abruptly after a <u>brawl</u> broke out between two guests. 
+
+### Japanese Translation
+J-1: 2人の客間での意見の不一致により、バーで<u>もみ合い</u>が勃発した。
+J-2: ホッケー選手たちは試合中にリンクで<u>乱闘</u>になった。
+J-3: 2人のゲスト間で<u>大喧嘩</u>が発生し、パーティーは急に終わった。

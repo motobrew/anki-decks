@@ -1,0 +1,11 @@
+# Key:defiance
+## Response
+### English Sentences
+E-1: The students showed <u>defiance</u> by protesting against the new school policy.
+E-2: The rebel leader stared at the enemy army with <u>defiance</u> in his eyes.
+E-3: She crossed her arms and stood with <u>defiance</u> as her boss scolded her.
+
+### Japanese Translation
+J-1: 生徒たちは新しい学校の方針に抗議して<u>反抗</u>を示しました。
+J-2: 反乱軍のリーダーは敵軍を見つめ、目に<u>反抗心</u>を宿らせました。
+J-3: 彼女は腕を組んで、上司に叱責されながらも<u>反抗的な</u>姿勢で立っていました。

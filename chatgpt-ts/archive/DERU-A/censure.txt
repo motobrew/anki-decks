@@ -1,0 +1,11 @@
+# Key:censure
+## Response
+### English Sentences
+E-1: The senator faced <u>censure</u> from her colleagues after making controversial comments.
+E-2: The teacher received a <u>censure</u> from the school board for inappropriate behavior in the classroom.
+E-3: The journalist faced intense <u>censure</u> for writing a biased article.
+
+### Japanese Translation
+J-1: 参議院議員は、物議をかもす発言をしたことで同僚から<u>非難</u>を受けました。
+J-2: 教師は、授業中の不適切な行動に対して学校委員会から<u>戒告</u>を受けました。
+J-3: ジャーナリストは、偏向した記事を書いたことで激しい<u>批判</u>を受けました。

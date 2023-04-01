@@ -1,0 +1,11 @@
+# Key:scrupulous
+## Response
+### English Sentences
+E-1: The accountant was known for being <u>scrupulous</u> in his financial dealings.
+E-2: The professor was very <u>scrupulous</u> in grading his students' papers.
+E-3: The journalist conducted interviews with <u>scrupulous</u> attention to detail.
+
+### Japanese Translation
+J-1: 会計士は財務取引において<u>誠実な</u>ことで知られていました。
+J-2: 教授は学生の論文を評価する際、非常に<u>良心的な</u>だった。
+J-3: ジャーナリストは詳細に注意を払ってインタビューを行いました。

@@ -1,0 +1,11 @@
+# Key:elocution
+## Response
+### English Sentences
+E-1: The public speaking coach taught the students about proper <u>elocution</u> for effective communication.
+E-2: The politician's impeccable <u>elocution</u> skills helped him win over the crowd during his campaign rallies.
+E-3: The audiobook narrator's clear <u>elocution</u> made it easy to follow along with the story.
+
+### Japanese Translation
+J-1: 公演コーチは、効果的なコミュニケーションのための適切な<u>朗読法</u>について生徒たちに教えました。
+J-2: 政治家の完璧な<u>朗読法</u>スキルは、キャンペーン集会で群衆を魅了するのに役立ちました。
+J-3: オーディオブックのナレーターのクリアな<u>朗読法</u>は、ストーリーに沿って簡単についていくことができました。

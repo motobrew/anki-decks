@@ -1,0 +1,11 @@
+# Key:banal
+## Response
+### English Sentences
+E-1: His speech was so <u>banal</u> that most of the audience fell asleep.
+E-2: I'm tired of reading <u>banal</u> love stories with predictable endings.
+E-3: The company's marketing campaign was criticized for its <u>banal</u> slogans and ideas.
+
+### Japanese Translation
+J-1: 彼のスピーチはとても<u>平凡</u>で、聴衆のほとんどが眠ってしまいました。
+J-2: 予測可能な結末を持つ<u>平凡</u>な恋愛小説を読むのに飽きました。
+J-3: その会社のマーケティングキャンペーンは、<u>平凡</u>なスローガンやアイデアで批判されました。

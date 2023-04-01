@@ -1,0 +1,11 @@
+# Key:devoid
+## Response
+### English Sentences
+E-1: The old house was <u>devoid</u> of modern amenities, such as air conditioning and Wi-Fi.
+E-2: The painting was <u>devoid</u> of color, with only shades of black and white.
+E-3: The new store was <u>devoid</u> of customers, despite its great location and advertising.
+
+### Japanese Translation
+J-1: 古い家はエアコンやWi-Fiなどの現代的な設備が<u>欠如していました</u>。
+J-2: 絵は、黒と白の濃淡しかなく、色が<u>なかった</u>。
+J-3: 素晴らしい場所で宣伝も行っていたが、新しい店はお客さんが<u>いなかった</u>。

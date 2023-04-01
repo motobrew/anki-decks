@@ -1,0 +1,11 @@
+# Key:dangle
+## Response
+### English Sentences
+E-1: The keys to the car were left inside and <u>dangle</u>d from the ignition.
+E-2: She leaned over the bridge and let her feet <u>dangle</u> in the water below.
+E-3: The cat played with the ball of yarn, letting it <u>dangle</u> from its mouth.
+
+### Japanese Translation
+J-1: 車の鍵は中に残され、イグニッションから<u>ぶら下がって</u>いました。
+J-2: 彼女は橋に身を乗り出して、足を下に<u>ぶら下げました</u>。
+J-3: 猫は毛糸の玉で遊び、口から<u>ぶら下げた</u>ままでした。

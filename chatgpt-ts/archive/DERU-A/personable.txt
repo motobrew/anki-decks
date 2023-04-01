@@ -1,0 +1,11 @@
+# Key:personable
+## Response
+### English Sentences
+E-1: The new employee is very <u>personable</u> and has made friends with everyone in the office.
+E-2: The customer was impressed with the <u>personable</u> service they received at the restaurant.
+E-3: The politician's <u>personable</u> demeanor helped him connect with voters on the campaign trail.
+
+### Japanese Translation
+J-1: 新入社員は非常に<u>愛想がよく</u>、オフィスのみんなと親しくなりました。
+J-2: その客は、レストランで受けた<u>愛想のよい</u>サービスに感心しました。
+J-3: 政治家の<u>愛想のよい</u>態度が、キャンペーン中に有権者と結び付くのを助けました。

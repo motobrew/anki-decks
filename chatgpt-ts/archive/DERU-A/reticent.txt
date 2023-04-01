@@ -1,0 +1,11 @@
+# Key:reticent
+## Response
+### English Sentences
+E-1: He was <u>reticent</u> about his past and didn't like to talk about it.
+E-2: The new employee remained <u>reticent</u> in meetings and didn't contribute much.
+E-3: Despite repeated requests for information, the company remained <u>reticent</u> about their plans.
+
+### Japanese Translation
+J-1: 彼は過去について<u>口を閉ざす</u>ことが多く、話したがりませんでした。
+J-2: 新入社員は会議で<u>寡黙</u>で、あまり貢献しなかった。
+J-3: 情報の繰り返し要求にもかかわらず、会社は計画について<u>沈黙</u>を守り続けました。

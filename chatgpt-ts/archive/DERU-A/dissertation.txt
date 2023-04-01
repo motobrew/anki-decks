@@ -1,0 +1,11 @@
+# Key:dissertation
+## Response
+### English Sentences
+E-1: My dissertation topic is on the effects of social media on mental health.
+E-2: I've been working on my dissertation for months now and it's finally coming together.
+E-3: The professor asked me to revise the conclusion of my dissertation before submitting it.
+
+### Japanese Translation
+J-1: 私の博士論文のトピックは、ソーシャルメディアが精神衛生に与える影響です。
+J-2: 私は数ヶ月間博士論文に取り組んできましたが、ようやくまとまりつつあります。
+J-3: 教授は私に、提出する前に博士論文の結論を修正するように頼みました。

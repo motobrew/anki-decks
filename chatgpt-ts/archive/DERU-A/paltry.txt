@@ -1,0 +1,11 @@
+# Key:paltry
+## Response
+### English Sentences
+E-1: The company offered me a paltry salary for the job, so I turned it down.
+E-2: Despite working long hours every day, the farmer's earnings were paltry compared to his expenses.
+E-3: The restaurant's vegetarian options were paltry, with only one dish on the menu.
+
+### Japanese Translation
+J-1: その会社は私に仕事のためにわずかな給料を申し出たので、私は断りました。
+J-2: 毎日長時間働きながら、農家の収益は経費に比べてわずかでした。
+J-3: そのレストランのベジタリアンの選択肢はわずかで、メニューには1つの料理しかありませんでした。

@@ -1,0 +1,11 @@
+# Key:lanky
+## Response
+### English Sentences
+E-1: The lanky basketball player was able to easily reach the rim for the dunk.
+E-2: She towered over her classmates with her lanky frame.
+E-3: The lanky tree cast a long shadow on the ground.
+
+### Japanese Translation
+J-1: 細長いバスケットボール選手はダンクをするために簡単にリムに届きました。
+J-2: 彼女はスリムな体型で同級生たちを超えていました。
+J-3: 細長い木が地面に長い影を落としました。

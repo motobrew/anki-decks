@@ -1,0 +1,11 @@
+# Key:fallible
+## Response
+### English Sentences
+E-1: His argument is <u>fallible</u> because it is based on false assumptions.
+E-2: As humans, we are <u>fallible</u> and make mistakes from time to time.
+E-3: The scientist was humble enough to admit that his theory was <u>fallible</u> and needed more evidence to support it.
+
+### Japanese Translation
+J-1: 彼の主張は誤った前提に基づいているため、<u>誤りやすい</u>ものです。
+J-2: 人間として、私たちは<u>誤りやすい</u>存在であり、時には間違いを comすることがあります。
+J-3: その科学者は自分の理論が<u>誤りやすい</u>もので、さらなる証拠が必要だと認める謙虚さがあった。

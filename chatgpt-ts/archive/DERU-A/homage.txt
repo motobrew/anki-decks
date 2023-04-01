@@ -1,0 +1,11 @@
+# Key:homage
+## Response
+### English Sentences
+E-1: The movie director paid <u>homage</u> to his favorite film in his latest work.
+E-2: The artist's newest painting is a beautiful <u>homage</u> to the natural beauty of his hometown.
+E-3: The awards ceremony was a night of <u>homage</u> to the greatest actors and actresses of all time.
+
+### Japanese Translation
+J-1: 映画監督は最新作でお気に入りの映画に<u>オマージュ</u>を捧げました。
+J-2: そのアーティストの最新の絵画は、故郷の自然美に<u>オマージュ</u>を捧げた美しい作品です。
+J-3: 授賞式は歴代の偉大な俳優や女優に<u>オマージュ</u>を捧げた夜でした。

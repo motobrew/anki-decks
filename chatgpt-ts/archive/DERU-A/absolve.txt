@@ -1,0 +1,11 @@
+# Key:absolve
+## Response
+### English Sentences
+E-1: The priest <u>absolved</u> the sinner of his sins after confession.
+E-2: The court <u>absolved</u> the accused of all charges due to lack of evidence.
+E-3: I can't <u>absolve</u> you of your responsibilities, you have to face the consequences.
+
+### Japanese Translation
+J-1: 司祭は告解後、罪人を罪から<u>解放しました</u>。
+J-2: 証拠不十分のため、裁判所は被告を<u>免罪しました</u>。
+J-3: 責任から<u>解放することはできません</u>。あなたは結果に直面しなければなりません。

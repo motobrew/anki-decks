@@ -1,0 +1,11 @@
+# Key:amity
+## Response
+### English Sentences
+E-1: The <u>amity</u> between the two nations was evident during the peace talks.
+E-2: The company's culture fosters <u>amity</u> and cooperation among its employees.
+E-3: The non-profit organization aims to promote <u>amity</u> and mutual understanding among different communities.
+
+### Japanese Translation
+J-1: 平和交渉中に、二国間の<u>友好関係</u>は明らかでした。
+J-2: その企業の文化は、従業員間の<u>友好</u>や協力を育むようになっています。
+J-3: その非営利団体は、異なるコミュニティ間の<u>友好</u>と相互理解を促進することを目的としています。

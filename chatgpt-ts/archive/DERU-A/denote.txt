@@ -1,0 +1,11 @@
+# Key:denote
+## Response
+### English Sentences
+E-1: The letter "P" <u>denotes</u> the sound made by the letter in the word "pineapple".
+E-2: In chess, a pawn <u>denotes</u> the smallest piece on the board.
+E-3: The color red <u>denotes</u> danger in many warning signs.
+
+### Japanese Translation
+J-1: 「P」の文字は「パイナップル」という単語での音を<u>示します</u>。
+J-2: チェスでは、ポーンはボード上で最も小さい駒を<u>表します</u>。
+J-3: 赤色は多くの警告サインで危険を<u>示します</u>。

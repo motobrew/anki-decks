@@ -1,0 +1,11 @@
+# Key:facetious
+## Response
+### English Sentences
+E-1: His comment was just <u>facetious</u>, but it still offended some people.
+E-2: I always have a hard time telling if he's being serious or just <u>facetious</u>.
+E-3: Even in his <u>facetious</u> remarks, there's always an element of truth.
+
+### Japanese Translation
+J-1: 彼のコメントは単なる<u>ふざけた</u>ものだったが、それでもいくつかの人々を怒らせた。
+J-2: 彼が真剣なのか、ただ<u>ふざけている</u>のかを判断するのはいつも難しい。
+J-3: 彼の<u>ふざけた</u>発言にも常に真実の要素がある。

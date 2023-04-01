@@ -1,0 +1,11 @@
+# Key:tarnish
+## Response
+### English Sentences
+E-1: Leaving the silverware out in the open will quickly <u>tarnish</u>.
+E-2: The scandal has begun to <u>tarnish</u> the reputation of the company.
+E-3: Time can <u>tarnish</u> even the most precious memories.
+
+### Japanese Translation
+J-1: 銀器を放置するとすぐに<u>汚れ</u>がつきます。
+J-2: そのスキャンダルによって、その会社の評判が<u>損なわ</u>れ始めています。
+J-3: 時間が経てば、最も大切な思い出でさえも<u>くすんでしま</u>います。

@@ -1,0 +1,11 @@
+# Key:improvise
+## Response
+### English Sentences
+E-1: The band didn't have any sheet music, so they had to <u>improvise</u> and play by ear.
+E-2: During the power outage, we had to <u>improvise</u> and use candles for light.
+E-3: The chef had run out of ingredients, so he had to <u>improvise</u> and create a new dish on the fly.
+
+### Japanese Translation
+J-1: バンドは楽譜を持っていなかったので、耳で聞きながら<u>即興で演奏</u>しなければならなかった。
+J-2: 停電の間、キャンドルを使って<u>即興で対応</u>しなければなりませんでした。
+J-3: シェフは材料を使い切ってしまったので、<u>即興で料理を作りあげ</u>なければならなかった。

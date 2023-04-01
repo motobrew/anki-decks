@@ -1,0 +1,11 @@
+# Key:incessant
+## Response
+### English Sentences
+E-1: The <u>incessant</u> rainfall made it difficult to drive on the slippery roads.
+E-2: His <u>incessant</u> talking during the movie annoyed the other moviegoers.
+E-3: The company's <u>incessant</u> pursuit of profits led to unethical practices.
+
+### Japanese Translation
+J-1: 滑りやすい道路を運転することが難しくなった<u>絶え間ない</u>雨。
+J-2: 映画中の彼の<u>絶え間ない</u>話し声が他の映画ファンをイライラさせた。
+J-3: 会社の<u>絶え間ない</u>利益追求が倫理的でない行動につながった。

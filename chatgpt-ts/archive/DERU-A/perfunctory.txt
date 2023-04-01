@@ -1,0 +1,11 @@
+# Key:perfunctory
+## Response
+### English Sentences
+E-1: The employee's <u>perfunctory</u> response to the customer's complaint did not satisfy them.
+E-2: The politician's speech was filled with <u>perfunctory</u> statements and lacked substance.
+E-3: The teacher's <u>perfunctory</u> grading of the student's paper did not reflect the amount of effort they put in.
+
+### Japanese Translation
+J-1: 従業員の<u>いい加減な</u>返答は、顧客の苦情に満足させませんでした。
+J-2: 政治家のスピーチは、<u>おおよその</u>陳述が多く、本質を欠いていました。
+J-3: 教師の<u>形式的な</u>採点は、生徒が取り組んだ量を反映していませんでした。

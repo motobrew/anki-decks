@@ -1,0 +1,11 @@
+# Key:astound
+## Response
+### English Sentences
+E-1: The magician's performance <u>astounded</u> the audience with its incredible illusions.
+E-2: The beautiful scenery of the mountains never fails to <u>astound</u> me.
+E-3: The sheer size of the whale <u>astounded</u> the researchers who were studying it.
+
+### Japanese Translation
+J-1: 魔術師のパフォーマンスは信じられない魔法で観客を<u>驚かせました</u>。
+J-2: 山々の美しい景色は私をいつも<u>驚かせます</u>。
+J-3: ホエールウォッチングをしていた研究者たちは、そのウィリーの巨大さに<u>驚かされました</u>。

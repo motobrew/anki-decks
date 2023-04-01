@@ -1,0 +1,11 @@
+# Key:deity
+## Response
+### English Sentences
+E-1: Many ancient civilizations believed in multiple <u>deities</u>, each with their own powers and responsibilities.
+E-2: The temple was built to honor a <u>deity</u> of fertility and harvest.
+E-3: In Hinduism, there are many different <u>deities</u>, including Brahma, Vishnu, and Shiva.
+
+### Japanese Translation
+J-1: 多くの古代文明は、それぞれに固有の力と責任を持つ複数の<u>神々</u>を信じていました。
+J-2: 寺院は、豊穣と収穫の<u>神</u>を讃えるために建てられました。
+J-3: ヒンズー教には、ブラフマ、ビシュヌ、シヴァなど、多くの異なる<u>神々</u>があります。

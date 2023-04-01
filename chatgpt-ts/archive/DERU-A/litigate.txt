@@ -1,0 +1,11 @@
+# Key:litigate
+## Response
+### English Sentences
+E-1: The two companies decided to <u>litigate</u> their contract dispute in court.
+E-2: It can be expensive to <u>litigate</u> a case, so it's important to consider alternative dispute resolution methods.
+E-3: The lawyer advised his clients to try to settle the dispute out of court, rather than <u>litigate</u> for months or even years.
+
+### Japanese Translation
+J-1: 2つの会社は、裁判所で契約紛争を<u>訴訟</u>することに決めました。
+J-2: ケースを<u>訴訟</u>するのは高額になることがありますので、代替紛争解決方法を考慮することが重要です。
+J-3: 弁護士は、数ヶ月または数年にわたって<u>訴訟</u>するよりも、和解することをクライアントに勧めました。

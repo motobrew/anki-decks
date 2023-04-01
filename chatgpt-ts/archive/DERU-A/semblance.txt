@@ -1,0 +1,11 @@
+# Key:semblance
+## Response
+### English Sentences
+E-1: The old bookstore gave the <u>semblance</u> of being abandoned, but was actually filled with hidden treasures.
+E-2: The actor put on a fake smile and maintained a <u>semblance</u> of composure during the interview.
+E-3: The politician condemned the violence, but his actions bore no <u>semblance</u> of genuine concern.
+
+### Japanese Translation
+J-1: 古い本屋は放棄されているように見えましたが、実際には隠れた宝物でいっぱいでした。
+J-2: 俳優は偽の笑顔を浮かべ、インタビュー中に落ち着きを<u>装った</u>。
+J-3: 政治家は暴力を非難しましたが、その行動は本当の心配の<u>形跡</u>もなかった。

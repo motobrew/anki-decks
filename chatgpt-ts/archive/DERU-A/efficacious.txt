@@ -1,0 +1,11 @@
+# Key:efficacious
+## Response
+### English Sentences
+E-1: The new vaccine has proven to be quite <u>efficacious</u> in preventing the spread of the virus.
+E-2: The therapist recommended an <u>efficacious</u> treatment plan for managing anxiety.
+E-3: The company's marketing campaign was not very <u>efficacious</u> in attracting new customers.
+
+### Japanese Translation
+J-1: 新しいワクチンはウイルスの拡散を防ぐのにかなり<u>効果的</u>であることが証明されています。
+J-2: セラピストは、不安を管理するための<u>有効な</u>治療計画を勧めました。
+J-3: その会社のマーケティングキャンペーンは、新しい顧客を引き付けるのにあまり<u>効果的</u>ではありませんでした。

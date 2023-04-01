@@ -1,0 +1,11 @@
+# Key:jeer
+## Response
+### English Sentences
+E-1: The bullies would <u>jeer</u> at the new student in school.
+E-2: The audience began to <u>jeer</u> at the terrible performance on stage.
+E-3: The opposing team would <u>jeer</u> at our players during the game.
+
+### Japanese Translation
+J-1: 学校で新しい生徒に向かっていじめっ子達が<b>せせら笑い </b>を浴びせた。
+J-2: 舞台上でひどいパフォーマンスを見せたため、観客は<u>あざ笑い</u>始めた。
+J-3: 試合中、対戦チームは私たちのプレイヤーに<u>やじ</u>を浴びせた。

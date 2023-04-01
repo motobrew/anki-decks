@@ -1,0 +1,11 @@
+# Key:redress
+## Response
+### English Sentences
+E-1: It's only fair that the victim receives <u>redress</u> for the damages caused by the company's negligence.
+E-2: The union is demanding <u>redress</u> for the workers who were unfairly laid off.
+E-3: The court ordered the company to provide <u>redress</u> to the customers who were overcharged.
+
+### Japanese Translation
+J-1: 会社の過失によって被害者が被った損害の<u>償い</u>を受けるのは当然です。
+J-2: 労働組合は不当に解雇された労働者の<u>補償</u>を要求しています。
+J-3: 法廷は、過剰請求された顧客に<u>救済措置</u>を提供するように企業に命じました。

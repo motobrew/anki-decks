@@ -1,0 +1,11 @@
+# Key:coax
+## Response
+### English Sentences
+E-1: She gently tried to <u>coax</u> the shy child out of his shell.
+E-2: The trainer used a treat to <u>coax</u> the dog into performing the new trick.
+E-3: I had to <u>coax</u> my car up the steep hill.
+
+### Japanese Translation
+J-1: 彼女はそっと内気な子供を誘い出そうとしました。
+J-2: トレーナーはおやつを使って犬を新しいトリックをするように<u>説得しました</u>。
+J-3: 私は急な坂道を車で<u>ゆっくり動かすように誘う</u>必要がありました。

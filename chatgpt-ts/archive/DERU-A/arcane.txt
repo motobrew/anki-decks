@@ -1,0 +1,11 @@
+# Key:arcane
+## Response
+### English Sentences
+E-1: The book contained <u>arcane</u> knowledge that had been lost for centuries.
+E-2: The magician's tricks were based on <u>arcane</u> rituals passed down through generations.
+E-3: Only a few scholars could understand the <u>arcane</u> language used in the ancient manuscript.
+
+### Japanese Translation
+J-1: その本には何世紀も失われていた<u>秘術的</u>な知識が含まれていました。
+J-2: 魔術師のトリックは、世代から世代に伝えられた<u>神秘的</u>な儀式に基づいていた。
+J-3: 古代写本に使用された<u>難解な</u>言語を理解できるのは、ほんのわずかな学者だけでした。

@@ -1,0 +1,11 @@
+# Key:implicit
+## Response
+### English Sentences
+E-1: The author's <u>implicit</u> message in the book is that justice is not always easily achieved.
+E-2: The company's <u>implicit</u> policy is to prioritize customer satisfaction over profits.
+E-3: She made an <u>implicit</u> promise to her best friend to always have her back.
+
+### Japanese Translation
+J-1: その著者が書いた本の<u>暗黙の</u>メッセージは、正義を得ることが常に簡単ではないということです。
+J-2: その会社の<u>暗黙の</u>方針は、利益よりも顧客満足度を優先することです。
+J-3: 彼女は親友に<u>暗黙の</u>約束をしました。つねに支えることを約束しました。

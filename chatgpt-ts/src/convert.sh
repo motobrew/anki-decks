@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-target_dir=./logs/distinction
+target_dir=./logs/DERU-A
 
 ls $target_dir | while read file
 do

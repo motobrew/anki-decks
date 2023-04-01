@@ -1,0 +1,11 @@
+# Key:impulsive
+## Response
+### English Sentences
+E-1: He made an <u>impulsive</u> decision to quit his job without having another one lined up.
+E-2: She's known for her <u>impulsive</u> shopping sprees, often buying things she doesn't need.
+E-3: His <u>impulsive</u> behavior landed him in trouble with the law.
+
+### Japanese Translation
+J-1: 彼は次の仕事が見つかってないのに、職を辞めるという<u>思いつき</u>の決断をしました。
+J-2: 彼女は<u>衝動買い</u>が多く、必要のないものを買うことで有名です。
+J-3: 彼の<u>衝動的な</u>行動が、彼を法律問題に巻き込みました。

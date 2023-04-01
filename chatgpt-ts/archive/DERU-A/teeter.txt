@@ -1,0 +1,11 @@
+# Key:teeter
+## Response
+### English Sentences
+E-1: The toddler managed to <u>teeter</u> across the room before falling.
+E-2: The old bridge began to <u>teeter</u> dangerously as the heavy truck passed over it.
+E-3: As the airplane hit turbulence, the drinks on the tray table began to <u>teeter</u>.
+
+### Japanese Translation
+J-1: 赤ちゃんは転びながら、部屋を<u>よちよち歩き</u>ました。
+J-2: 重いトラックが通過すると、古い橋は危険に<u>ゆらゆらと</u>揺れ始めました。
+J-3: 飛行機が乱気流に陥ると、トレイテーブルの上のドリンクが<u>ぐらぐらと</u>揺れ始めました。

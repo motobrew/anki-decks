@@ -1,0 +1,11 @@
+# Key:purge
+## Response
+### English Sentences
+E-1: The new CEO promised to <u>purge</u> the company of any corrupt employees.
+E-2: After her breakup, she decided to <u>purge</u> her closet of all her ex's clothes.
+E-3: The medicine is designed to <u>purge</u> your system of toxins.
+
+### Japanese Translation
+J-1: 新しいCEOは、腐敗した従業員を<u>追放する</u>と約束しました。
+J-2: 彼女は別れた後、元彼の服をすべてクローゼットから<u>排除する</u>ことに決めました。
+J-3: その薬は、あなたの体内の毒素を<u>排除する</u>ように設計されています。

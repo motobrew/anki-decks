@@ -1,0 +1,11 @@
+# Key:dormant
+## Response
+### English Sentences
+E-1: The volcano has been <u>dormant</u> for hundreds of years, but it could still erupt at any time.
+E-2: The company had a <u>dormant</u> period during the recession, but now they are thriving again.
+E-3: The virus can remain <u>dormant</u> in the body for years before causing symptoms.
+
+### Japanese Translation
+J-1: 数百年にわたってその火山は<u>活動休止</u>状態でしたが、いつ噴火してもおかしくありません。
+J-2: その会社は不況時に<u>休眠期間</u>がありましたが、今は再び繁栄しています。
+J-3: そのウイルスは症状を引き起こす前に、何年も<u>潜伏</u>することができます。

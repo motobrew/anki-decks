@@ -1,0 +1,11 @@
+# Key:conveyance
+## Response
+### English Sentences
+E-1: The company provided a <u>conveyance</u> for the employees to get to the offsite meeting.
+E-2: The horses were used as a <u>conveyance</u> for transportation in medieval times.
+E-3: The trucking company specializes in the <u>conveyance</u> of large, heavy equipment.
+
+### Japanese Translation
+J-1: 会社は社員がオフサイトミーティングに行くための<u>乗り物</u>を提供しました。
+J-2: 中世には、馬が<u>移動手段</u>として使用されていました。
+J-3: トラッキング会社は大型重機の<u>輸送</u>に特化しています。

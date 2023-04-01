@@ -1,0 +1,11 @@
+# Key:infiltrate
+## Response
+### English Sentences
+E-1: The spy managed to <u>infiltrate</u> the enemy's headquarters undetected.
+E-2: The hacker was able to <u>infiltrate</u> the company's database and steal sensitive information.
+E-3: The organization attempted to <u>infiltrate</u> the government to gain more influence.
+
+### Japanese Translation
+J-1: スパイは注意されることなく敵の本部に<u>潜入</u>することができました。
+J-2: ハッカーは企業のデータベースに<u>浸透</u>して、機密情報を盗み出すことができました。
+J-3: その団体はより多くの影響力を得るために政府への<u>浸透</u>を試みました。

@@ -1,0 +1,11 @@
+# Key:jinx
+## Response
+### English Sentences
+E-1: I don't want to <u>jinx</u> it, but I think we have a good chance of winning the game.
+E-2: She always wears her lucky socks for important meetings to avoid <u>jinxing</u> the outcome.
+E-3: Saying "break a leg" before a performance is believed to <u>jinx</u> the actor's success.
+
+### Japanese Translation
+J-1: 勝つ可能性が高いと思いますが、<u>呪わない</u>ようにしたいです。
+J-2: 彼女は重要な会議の時にはいつも幸運を呼び込むために幸運の靴下を着用して、結果を<u>悪くする</u>のを避けます。
+J-3: 「がんばれ」と劇の前に言うことは、俳優の成功を<u>邪魔する</u>と信じられています。

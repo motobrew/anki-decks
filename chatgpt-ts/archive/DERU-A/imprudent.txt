@@ -1,0 +1,11 @@
+# Key:imprudent
+## Response
+### English Sentences
+E-1: It would be <u>imprudent</u> to invest all your savings in one risky business venture.
+E-2: The politician's <u>imprudent</u> actions caused a lot of controversy and backlash.
+E-3: It's important to avoid <u>imprudent</u> spending habits in order to maintain financial stability.
+
+### Japanese Translation
+J-1: リスクの高いビジネスに全ての貯蓄を投資するのは<u>軽率</u>です。
+J-2: 政治家の<u>軽率</u>な行動が多くの論争や反発を引き起こした。
+J-3: 財政的な安定を維持するために<u>軽率</u>な消費習慣を避けることが重要です。

@@ -1,0 +1,11 @@
+# Key:jubilant
+## Response
+### English Sentences
+E-1: The team was <u>jubilant</u> after winning the championship game.
+E-2: The parents were <u>jubilant</u> when their daughter graduated from college.
+E-3: The audience was <u>jubilant</u> when the singer returned for an encore performance.
+
+### Japanese Translation
+J-1: チームは優勝試合に勝った後、<u>歓喜の</u>気持ちに包まれた。
+J-2: 娘が大学を卒業したとき、両親は<u>大喜びの</u>気持ちになった。
+J-3: 歌手がアンコール演奏を行うと、観客は<u>歓喜の</u>声を上げた。

@@ -1,0 +1,11 @@
+# Key:bountiful
+## Response
+### English Sentences
+E-1: The harvest this year was bountiful, with plenty of fruits and vegetables to last my family all winter.
+E-2: The generous donor made a bountiful contribution to the charity, allowing them to continue helping people in need.
+E-3: The bountiful buffet at the wedding reception was overflowing with delicious food and desserts.
+
+### Japanese Translation
+J-1: 今年の収穫は豊かで、家族が冬季すべて食べ物を持ち続けるだけの十分な果物や野菜がありました。
+J-2: 寛大な寄贈者が慈善団体に豊富な貢献をし、困っている人々を助け続けることができました。
+J-3: 結婚式のレセプションでの豊かなビュッフェは、おいしい食べ物やデザートで溢れていました。

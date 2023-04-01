@@ -1,0 +1,11 @@
+# Key:laudable
+## Response
+### English Sentences
+E-1: The company's commitment to reducing waste with sustainable practices is <u>laudable</u>.
+E-2: The researcher's dedication to finding a cure for the disease is <u>laudable</u>.
+E-3: The athlete's hard work and determination to achieve their goal is <u>laudable</u>.
+
+### Japanese Translation
+J-1: その会社が持続可能な実践によって廃棄物を減らすことに取り組む姿勢は<u>称賛に値する</u>。
+J-2: 研究者がその病気の治療法を見つけるための献身は<u>賞賛に値する</u>。
+J-3: その運動選手が目標達成に向けた努力と決意は<u>称賛に値する</u>。

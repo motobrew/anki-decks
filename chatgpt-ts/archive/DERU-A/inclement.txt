@@ -1,0 +1,11 @@
+# Key:inclement
+## Response
+### English Sentences
+E-1: The outdoor concert was cancelled due to <u>inclement</u> weather.
+E-2: The hikers took shelter in a cave during the <u>inclement</u> storm.
+E-3: The pilot decided to delay the flight because of <u>inclement</u> conditions.
+
+### Japanese Translation
+J-1: 屋外コンサートは<u>荒天</u>のため中止になりました。
+J-2: ハイカーたちは<u>荒天</u>の嵐で洞窟に避難しました。
+J-3: パイロットは<u>荒天</u>の状況のためフライトを遅延することに決めました。

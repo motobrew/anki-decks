@@ -1,0 +1,11 @@
+# Key:redeem
+## Response
+### English Sentences
+E-1: You can <u>redeem</u> your points for gift cards or merchandise.
+E-2: She hoped that good deeds in her life would <u>redeem</u> her soul in the afterlife.
+E-3: The actor tried to <u>redeem</u> himself with a heartfelt apology after his controversial remarks.
+
+### Japanese Translation
+J-1: ポイントを利用して、ギフトカードや商品を<u>交換</u>できます。
+J-2: 彼女は、人生での善行が来世で彼女の魂を<u>救う</u>ことを望んでいた。
+J-3: 俳優は、論議を呼んだ発言の後、心からの謝罪で自分自身を<u>立て直そう</u>と努めた。

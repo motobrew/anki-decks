@@ -1,0 +1,11 @@
+# Key:valiant
+## Response
+### English Sentences
+E-1: The knight was <u>valiant</u> in his fight against the dragon.
+E-2: The firefighters were <u>valiant</u> in their efforts to save the burning building.
+E-3: The soldiers showed <u>valiant</u> courage in the face of enemy gunfire.
+
+### Japanese Translation
+J-1: 騎士はドラゴンと戦う中で<u>勇敢</u>でした。
+J-2: 消防士たちは燃える建物を救うために<u>勇敢</u>に働きました。
+J-3: 兵士たちは敵の銃火に対して<u>勇敢</u>な勇気を見せました。

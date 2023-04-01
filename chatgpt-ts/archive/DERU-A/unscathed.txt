@@ -1,0 +1,11 @@
+# Key:unscathed
+## Response
+### English Sentences
+E-1: The car crashed into the tree, but miraculously the driver walked away <u>unscathed</u>.
+E-2: Despite the explosion, all of the precious artifacts were found <u>unscathed</u>.
+E-3: The athlete managed to finish the race <u>unscathed</u> despite the difficult track.
+
+### Japanese Translation
+J-1: 車が木に衝突したが、驚くべきことに運転手は無傷で歩いていった。
+J-2: 爆発にもかかわらず、貴重な文化財はすべて<u>無傷</u>で見つけられました。
+J-3: 選手は難しいコースにもかかわらず、<u>無傷で</u>レースを終えることができました。

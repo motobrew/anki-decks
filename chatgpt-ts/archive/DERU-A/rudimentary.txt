@@ -1,0 +1,11 @@
+# Key:rudimentary
+## Response
+### English Sentences
+E-1: The child only has a <u>rudimentary</u> understanding of math concepts.
+E-2: This company's first product was a <u>rudimentary</u> version of what they produce now.
+E-3: The camping trip was tough because we only had <u>rudimentary</u> tools for survival.
+
+### Japanese Translation
+J-1: その子供は数学の概念に<u>初歩的な</u>理解しか持っていません。
+J-2: この会社の最初の製品は今作っているものの<u>初歩的な</u>バージョンでした。
+J-3: キャンプ旅行は困難でした。生存に必要な<u>初歩的な</u>道具しか持っていませんでした。

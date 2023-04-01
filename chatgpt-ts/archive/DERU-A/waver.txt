@@ -1,0 +1,11 @@
+# Key:waver
+## Response
+### English Sentences
+E-1: His confidence in his decision began to <u>waver</u> when he heard opposing arguments.
+E-2: The company's profits have started to <u>waver</u> due to increased competition.
+E-3: She tried not to <u>waver</u> in her commitment to her goals, even in the face of obstacles.
+
+### Japanese Translation
+J-1: 反対意見を聞いた時、彼の決断に対する自信が揺らぎ始めた。
+J-2: 競合の増加により、その会社の利益が揺らぎ始めた。
+J-3: 彼女は障害に直面しても、自分の目標への取り組みを揺るがさせないように努めた。

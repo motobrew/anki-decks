@@ -1,0 +1,11 @@
+# Key:derogatory
+## Response
+### English Sentences
+E-1: Using <u>derogatory</u> language towards someone is not acceptable in a professional setting.
+E-2: The article's <u>derogatory</u> tone towards immigrants sparked controversy.
+E-3: She made a <u>derogatory</u> comment about his appearance, hurting his feelings. 
+
+### Japanese Translation
+J-1: プロの場では誰かに<u>軽蔑的な</u>言葉を使うことは許されません。
+J-2: その記事の移民に対する<u>侮蔑的な</u>トーンが論争を引き起こしました。
+J-3: 彼女は彼の容姿に<u>軽蔑的な</u>コメントをしたことで、彼の気持ちを傷つけました。

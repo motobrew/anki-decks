@@ -1,0 +1,11 @@
+# Key:foliage
+## Response
+### English Sentences
+E-1: The <u>foliage</u> in Central Park is especially beautiful in the fall.
+E-2: She collected some bright red <u>foliage</u> to use as decorations for Thanksgiving.
+E-3: The dense <u>foliage</u> of the jungle made it difficult to see very far ahead.
+
+### Japanese Translation
+J-1: 中央公園の<u>葉</u>は秋に特に美しいです。
+J-2: 彼女は明るい赤い<u>葉っぱ</u>を集め、感謝祭の装飾に使いました。
+J-3: ジャングルの密集した<u>植生</u>は先が見えにくくなりました。

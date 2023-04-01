@@ -1,0 +1,11 @@
+# Key:optimum
+## Response
+### English Sentences
+E-1: The athlete needs to find the <u>optimum</u> performance level to win the championship.
+E-2: The restaurant sets the temperature to the <u>optimum</u> level for cooking the perfect steak.
+E-3: The doctor prescribed the <u>optimum</u> dosage of medication for the patient's condition.
+
+### Japanese Translation
+J-1: スポーツ選手は優勝するために<u>最適</u>なパフォーマンスレベルを見つける必要があります。
+J-2: レストランは完璧なステーキを調理する<u>最適</u>な温度に設定します。
+J-3: 医師は患者の状態に<u>最適</u>な薬の投与量を処方しました。

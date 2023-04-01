@@ -1,0 +1,11 @@
+# Key:obstinate
+## Response
+### English Sentences
+E-1: The cat was so <u>obstinate</u> that it refused to come down from the tree.
+E-2: Even after receiving a bad grade, the student remained <u>obstinate</u> about their study habits.
+E-3: The politician was known for their <u>obstinate</u> refusal to compromise on any issue.
+
+### Japanese Translation
+J-1: 猫はとても<u>強情</u>で、木から降りようとしませんでした。
+J-2: 悪い成績を受け取った後も、学生は自分の勉強習慣について<u>強情</u>でした。
+J-3: 政治家は、どの問題についても妥協しない<u>頑固</u>さで知られていました。

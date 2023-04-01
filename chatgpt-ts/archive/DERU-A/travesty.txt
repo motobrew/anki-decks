@@ -1,0 +1,11 @@
+# Key:travesty
+## Response
+### English Sentences
+E-1: The decision to cut funding to the after-school program was a <u>travesty</u>.
+E-2: The company's treatment of its employees during the pandemic was a <u>travesty</u> of justice.
+E-3: The film adaptation of the beloved book was a <u>travesty</u> that did not do the source material justice.
+
+### Japanese Translation
+J-1: 放課後プログラムへの資金削減の決定は<u>悲劇的な出来事</u>でした。
+J-2: パンデミック中の従業員への会社の扱いは正義の<u>冒涜</u>でした。
+J-3: 愛される本の映画化は、原作に正義を与えなかった<u>悲劇</u>でした。

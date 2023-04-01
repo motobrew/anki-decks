@@ -1,0 +1,11 @@
+# Key:lurid
+## Response
+### English Sentences
+E-1: The news article was filled with <u>lurid</u> details about the crime scene.
+E-2: The horror movie had <u>lurid</u> scenes of violence and gore.
+E-3: He was known for his <u>lurid</u> stories of love and betrayal.
+
+### Japanese Translation
+J-1: そのニュース記事には事件現場に関する<u>おぞましい</u>詳細が満載でした。
+J-2: そのホラー映画には暴力やグロテスクな<u>恐ろしい</u>シーンがありました。
+J-3: 彼は愛と裏切りについての<u>下品な</u>話で知られていました。

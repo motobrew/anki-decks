@@ -1,0 +1,11 @@
+# Key:delve
+## Response
+### English Sentences
+E-1: Let's <u>delve</u> deeper into the issue to find a solution.
+E-2: The archaeologists plan to <u>delve</u> into the ruins to uncover hidden artifacts.
+E-3: The therapist helped the patient <u>delve</u> into their past to better understand their present struggles.
+
+### Japanese Translation
+J-1: 解決策を見つけるために問題に<u>掘り下げ</u>ましょう。
+J-2: 考古学者たちは隠れた遺物を見つけるために遺跡に<u>掘り下げ</u>る予定です。
+J-3: セラピストは患者が現在の問題をよりよく理解するために、彼らの過去に<u>深く掘り下げる</u>のを手伝いました。

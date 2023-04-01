@@ -1,0 +1,11 @@
+# Key:decorum
+## Response
+### English Sentences
+E-1: The <u>decorum</u> of a wedding ceremony requires guests to dress formally.
+E-2: The professor was known for his strict adherence to <u>decorum</u> in the classroom.
+E-3: Despite the tension in the room, the diplomat maintained perfect <u>decorum</u> during the negotiations.
+
+### Japanese Translation
+J-1: 結婚式の<u>儀礼</u>には、ゲストはフォーマルな服装である必要があります。
+J-2: 教授は授業中の<u>礼儀正しさ</u>に厳格で知られていました。
+J-3: 緊張感のある部屋であっても、外交官は交渉中に完璧な<u>礼儀作法</u>を保ちました。

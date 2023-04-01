@@ -1,0 +1,11 @@
+# Key:deplorable
+## Response
+### English Sentences
+E-1: The conditions in the refugee camps were <u>deplorable</u>.
+E-2: The treatment of the workers was <u>deplorable</u> and led to protests.
+E-3: The state of the park was <u>deplorable</u> due to lack of maintenance.
+
+### Japanese Translation
+J-1: 難民キャンプの状況は<u>悲惨な</u>ものでした。
+J-2: 従業員の扱いが<u>ひどく</u>、抗議を引き起こしました。
+J-3: 公園の状態は、メンテナンスの不足のため<u>ひどい</u>ものでした。

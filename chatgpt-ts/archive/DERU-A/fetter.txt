@@ -1,0 +1,11 @@
+# Key:fetter
+## Response
+### English Sentences
+E-1: The prisoner felt trapped by the <u>fetters</u> on his ankles.
+E-2: The new policy has been a <u>fetter</u> on the company's growth.
+E-3: She wants to pursue her dreams without any <u>fetters</u> holding her back.
+
+### Japanese Translation
+J-1: 囚人は足首に<u>足かせ</u>を感じていました。
+J-2: 新しい方針は企業の成長に<u>拘束</u>となっています。
+J-3: 彼女は自分を<u>拘束する要因</u>なしに夢を追いたいと思っています。

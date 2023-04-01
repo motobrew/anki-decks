@@ -1,0 +1,11 @@
+# Key:flimsy
+## Response
+### English Sentences
+E-1: The tent was so <u>flimsy</u> that it ripped in the wind.
+E-2: I wouldn't trust that ladder, it looks <u>flimsy</u>.
+E-3: The argument against the proposed policy seemed <u>flimsy</u> and without evidence.
+
+### Japanese Translation
+J-1: テントが風で破れたのは、あまりにも<u>薄っぺらい</u>素材だからです。
+J-2: あのはしごには、信頼できない。とっても<u>ぐらついている</u>よ。
+J-3: 提案された方針に反対する論点は反証がなく、<u>根拠のない</u>もののように見えました。

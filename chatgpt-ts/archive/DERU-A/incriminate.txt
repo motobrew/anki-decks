@@ -1,0 +1,11 @@
+# Key:incriminate
+## Response
+### English Sentences
+E-1: The evidence presented in court did not <u>incriminate</u> the defendant.
+E-2: I am not going to say anything that could <u>incriminate</u> me.
+E-3: The witness refused to answer questions that could potentially <u>incriminate</u> her.
+
+### Japanese Translation
+J-1: 法廷で提示された証拠は被告人を<u>有罪にする</u>わけではなかった。
+J-2: 私は自分を<u>自白</u>させる可能性のある発言はしないつもりだ。
+J-3: 証人は自分を<u>自白</u>させる可能性のある質問に答えることを拒んだ。

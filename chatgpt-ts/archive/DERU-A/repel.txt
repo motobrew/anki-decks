@@ -1,0 +1,11 @@
+# Key:repel
+## Response
+### English Sentences
+E-1: The strong smell of the chemical spray can <u>repel</u> insects.
+E-2: His rude behavior was enough to <u>repel</u> anyone who tried to befriend him.
+E-3: The defense system was designed to <u>repel</u> any potential attacks.
+
+### Japanese Translation
+J-1: 化学スプレーの強い匂いは昆虫を<u>撃退</u>することができます。
+J-2: 彼の失礼な態度は、彼と友達になろうとする人々を<u>排除</u>するのに十分でした。
+J-3: 防衛システムは潜在的な攻撃を<u>防ぐ</u>よう設計されています。

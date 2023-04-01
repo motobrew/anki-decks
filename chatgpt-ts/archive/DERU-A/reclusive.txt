@@ -1,0 +1,11 @@
+# Key:reclusive
+## Response
+### English Sentences
+E-1: The author was known to be <u>reclusive</u>, rarely making public appearances or giving interviews. 
+E-2: After retiring from the music industry, the singer became increasingly <u>reclusive</u>, rarely leaving their house. 
+E-3: The wealthy businessman lived a <u>reclusive</u> lifestyle on his private island, rarely interacting with the outside world. 
+
+### Japanese Translation
+J-1: その著者は、めったに公の場に姿を現さず、インタビューも受けないという<u>隠遁的な</u>人だった。
+J-2: 音楽業界から引退した後、その歌手はますます<u>隠遁的</u>になり、自宅からあまり出ることがなくなった。
+J-3: その富豪のビジネスマンは、私有島で<u>隠遁的な</u>生活を送り、外界との交流はめったになかった。

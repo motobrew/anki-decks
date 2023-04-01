@@ -1,0 +1,11 @@
+# Key:spurn
+## Response
+### English Sentences
+E-1: The superstar athlete's agent decided to <u>spurn</u> the lower offer from the team.
+E-2: After being rejected by the company, he felt a sense of <u>spurn</u> and began looking for other job opportunities.
+E-3: She decided to <u>spurn</u> his romantic advances because she didn't want to jeopardize their friendship.
+
+### Japanese Translation
+J-1: スーパースターアスリートのエージェントは、チームからの低いオファーを<u>拒否する</u>ことに決めました。
+J-2: 会社に断られた後、彼は<u>拒否された</u>と感じ、他の求職機会を探し始めました。
+J-3: 彼女は彼のロマンチックなアドバンスを<u>断る</u>ことに決めました。友情を危険にしたくなかったからです。

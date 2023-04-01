@@ -1,0 +1,11 @@
+# Key:ecstatic
+## Response
+### English Sentences
+E-1: The children were <u>ecstatic</u> when they found out they were going to Disneyland.
+E-2: She was <u>ecstatic</u> when she got accepted into her dream college.
+E-3: The fans were <u>ecstatic</u> when their favorite band came on stage.
+
+### Japanese Translation
+J-1: 子供たちはディズニーランドに行くことがわかったとき、<u>大喜び</u>でした。
+J-2: 彼女は夢の大学に合格したとき、<u>大喜び</u>でした。
+J-3: ファンたちは大好きなバンドがステージに現れたとき、<u>大喜び</u>しました。

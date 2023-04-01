@@ -1,0 +1,11 @@
+# Key:platitude
+## Response
+### English Sentences
+E-1: His speech was full of empty <u>platitudes</u> that didn't offer any real solutions.
+E-2: The politician's <u>platitude</u> about unity sounded hollow after his divisive actions.
+E-3: The graduation speaker's <u>platitudes</u> about following your dreams were met with eye-rolls from the bored audience.
+
+### Japanese Translation
+J-1: 彼のスピーチは、実際の解決策を提供しない空虚な<u>決まり文句</u>でいっぱいだった。
+J-2: 政治家の統一に関する<u>大義名分</u>は、彼の分裂的な行動によって虚偽に聞こえた。
+J-3: 卒業式のスピーカーが夢に従うことについての<u>ありきたりの表現</u>には、退屈な聴衆から目をそらされた。

@@ -1,0 +1,11 @@
+# Key:idiosyncrasy
+## Response
+### English Sentences
+E-1: One of her <u>idiosyncrasies</u> is that she always wears mismatched socks.
+E-2: His <u>idiosyncrasies</u> can make him difficult to work with, but also bring a unique perspective.
+E-3: The painter's style was full of <u>idiosyncrasies</u> that made his work instantly recognizable.
+
+### Japanese Translation
+J-1: 彼女の<u>特異性</u>の一つは、いつも合わない靴下を履くことです。
+J-2: 彼の<u>個性的な性格</u>は、彼と一緒に仕事をするのが難しいかもしれませんが、独自の視点をもたらします。
+J-3: 画家の作風には、彼の作品を瞬時に認識できる<u>独自性</u>がたくさんありました。

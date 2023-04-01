@@ -1,0 +1,11 @@
+# Key:succinct
+## Response
+### English Sentences
+E-1: His speech was <u>succinct</u> and to the point, lasting only five minutes.
+E-2: The instructions on the manual are <u>succinct</u> and easy to understand.
+E-3: The summary of the report was <u>succinct</u>, highlighting the main points of the study.
+
+### Japanese Translation
+J-1: 彼のスピーチは<u>簡潔</u>で論点を明確にしたもので、5分しか続きませんでした。
+J-2: 取扱説明書の説明は<u>簡明</u>で分かりやすいです。
+J-3: レポートのまとめは<u>簡潔</u>で、研究の主要なポイントを強調しています。

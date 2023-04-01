@@ -1,0 +1,11 @@
+# Key:deprecate
+## Response
+### English Sentences
+E-1: The boss always tries to <u>deprecate</u> my ideas in meetings.
+E-2: We should never <u>deprecate</u> someone's achievements, no matter how small they may seem.
+E-3: Using degrading language to <u>deprecate</u> someone is never acceptable.
+
+### Japanese Translation
+J-1: 上司はいつもミーティングで私のアイデアを<u>貶めようとする</u>。
+J-2: 誰かの成果を<u>見くびる</u>ことは、どんなに小さく見えても、決してしてはいけません。
+J-3: 誰かを<u>貶める</u>ために卑劣な言葉を使うことは、決して許されない。

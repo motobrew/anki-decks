@@ -1,0 +1,11 @@
+# Key:gorge
+## Response
+### English Sentences
+E-1: The hiker marveled at the natural <u>gorge</u> created by the river cutting through the rocks.
+E-2: She lost her balance and fell into the <u>gorge</u>, luckily only sustaining minor injuries.
+E-3: The road wound through a steep <u>gorge</u> with breathtaking views of the surrounding mountains.
+
+### Japanese Translation
+J-1: ハイカーは、川が岩を切り抜いた自然の<u>渓谷</u>に驚嘆した。
+J-2: 彼女はバランスを崩して<u>渓谷</u>に落ち、幸いにも軽傷ですんだ。
+J-3: 道は周囲の山々の美しい景色を見渡せる険しい<u>渓谷</u>を抜けていた。

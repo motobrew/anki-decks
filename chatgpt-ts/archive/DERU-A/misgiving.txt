@@ -1,0 +1,11 @@
+# Key:misgiving
+## Response
+### English Sentences
+E-1: She had a <u>misgiving</u> about accepting the job offer because of the long commute.
+E-2: He couldn't shake off the <u>misgiving</u> that something was off about the company's financial statements.
+E-3: The team had a <u>misgiving</u> about their new manager's lack of experience in the industry.
+
+### Japanese Translation
+J-1: 長い通勤時間のせいで、彼女はその仕事のオファーを受けることに<u>不安</u>を感じていた。
+J-2: あの企業の財務諸表に何かがおかしいという<u>不安</u>を払拭できなかった。
+J-3: チームは、新しいマネージャーが業界の経験がないことに<u>疑問</u>を持っていた。

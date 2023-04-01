@@ -1,0 +1,11 @@
+# Key:drench
+## Response
+### English Sentences
+E-1: I got caught in the rain and was completely <u>drenched</u> by the time I got home.
+E-2: The water ride at the amusement park was so intense that we all got <u>drenched</u>.
+E-3: Don't forget to bring an umbrella, it looks like it's going to <u>drench</u> outside.
+
+### Japanese Translation
+J-1: 雨に降られて帰宅するまで完全に<u>ずぶ濡れ</u>になりました。
+J-2: 遊園地のウォーターライドはとても激しかったので、私たちは皆<u>びしょ濡れ</u>になりました。
+J-3: 傘を持ってくるのを忘れないでください、外が<u>大雨</u>になりそうです。

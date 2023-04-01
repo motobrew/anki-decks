@@ -1,0 +1,11 @@
+# Key:levitate
+## Response
+### English Sentences
+E-1: The magician was able to <u>levitate</u> off the ground and float in mid-air.
+E-2: Some people claim that they can <u>levitate</u> objects with their mind.
+E-3: In the movie, the character was able to <u>levitate</u> objects by using a special power.
+
+### Japanese Translation
+J-1: そのマジシャンは地面から<u>浮かび上がり</u>、空中で浮遊することができました。
+J-2: 一部の人々は、意識力で物体を<u>浮かび上がらせ</u>ることができると主張しています。
+J-3: その映画では、キャラクターは特殊な力を使って物体を<u>浮かび上がらせ</u>ることができました。

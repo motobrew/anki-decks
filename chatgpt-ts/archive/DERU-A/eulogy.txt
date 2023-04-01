@@ -1,0 +1,11 @@
+# Key:eulogy
+## Response
+### English Sentences
+E-1: The man gave a heartfelt <u>eulogy</u> at his friend's funeral.
+E-2: Writing a <u>eulogy</u> for her father was one of the hardest things she had ever done.
+E-3: The family requested that donations be made to a charity in the deceased's name instead of <u>eulogy</u> flowers. 
+
+### Japanese Translation
+J-1: 男性は友人の葬式で心からの<u>弔辞</u>を述べました。
+J-2: 父親のために<u>弔辞</u>を書くことは、彼女が今まで経験した中で最も難しいことの1つでした。
+J-3: 家族は、<u>弔辞</u>の花よりも故人の名前を冠した慈善団体への寄付を要請しました。

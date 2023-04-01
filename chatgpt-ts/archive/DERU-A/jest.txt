@@ -1,0 +1,11 @@
+# Key:jest
+## Response
+### English Sentences
+E-1: She <u>jests</u> with her coworkers during lunch breaks to make the atmosphere more relaxed.
+E-2: His statement was meant to be taken seriously, but his sarcastic tone made it seem like a <u>jest</u>.
+E-3: You should take his advice seriously instead of dismissing it as a <u>jest</u>.
+
+### Japanese Translation
+J-1: 彼女は昼休み中に同僚たちと<u>冗談を言って</u>、雰囲気をリラックスさせます。
+J-2: 彼の発言は真剣に受け取るべきだったが、皮肉な口調で言ったせいで、冗談に聞こえた。
+J-3: 彼のアドバイスを冗談としてしか聞かず、真剣に受け止めないでください。

@@ -1,0 +1,11 @@
+# Key:innuendo
+## Response
+### English Sentences
+E-1: The comedian's jokes were full of <u>innuendo</u> that flew over the heads of children in the audience.
+E-2: The politician's speech contained a lot of <u>innuendo</u> about his opponent's personal life.
+E-3: The gossip columnist used <u>innuendo</u> to imply that a celebrity couple was headed for divorce.
+
+### Japanese Translation
+J-1: コメディアンのジョークは子供たちの頭上を飛び越えた<u>暗示</u>でいっぱいだった。
+J-2: 政治家のスピーチは、対戦相手のプライベートな生活について<u>ほのめかし</u>が多かった。
+J-3: ゴシップコラムニストは、あるセレブカップルが離婚の途中であることを<u>ほのめかし</u>するために<u>暗示</u>を使った。

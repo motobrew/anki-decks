@@ -1,0 +1,11 @@
+# Key:adjudicate
+## Response
+### English Sentences
+E-1: The judge will <u>adjudicate</u> the case and make a final ruling.
+E-2: The arbitration panel was brought in to <u>adjudicate</u> the dispute between the two parties.
+E-3: It is the responsibility of the court to <u>adjudicate</u> legal matters fairly.
+
+### Japanese Translation
+J-1: 裁判官が事件を<u>審理</u>し、最終判決を下します。
+J-2: 仲裁委員会が呼び出され、2つの当事者間の紛争を<u>仲裁</u>するために入ってきました。
+J-3: 法廷が公正に<u>裁定</u>することが求められています。

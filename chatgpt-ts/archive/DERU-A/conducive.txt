@@ -1,0 +1,11 @@
+# Key:conducive
+## Response
+### English Sentences
+E-1: A quiet atmosphere is <u>conducive</u> to studying.
+E-2: This room's layout is <u>conducive</u> to hosting large parties.
+E-3: The warm weather is <u>conducive</u> to outdoor activities like hiking and swimming.
+
+### Japanese Translation
+J-1: 静かな雰囲気は勉強に<u>適しています</u>。
+J-2: この部屋のレイアウトは大規模なパーティーに<u>適しています</u>。
+J-3: 暖かい天気はハイキングや水泳などの屋外活動に<u>適しています</u>。

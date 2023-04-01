@@ -1,0 +1,11 @@
+# Key:unruly
+## Response
+### English Sentences
+E-1: The unruly crowd refused to disperse even after the police arrived.
+E-2: The teacher had a lot of trouble with the unruly students in her class.
+E-3: The unruly dog kept barking and jumping on everyone at the park.
+
+### Japanese Translation
+J-1: 警察が到着しても、暴徒化した群衆は解散しなかった。
+J-2: 先生はクラスの手に負えない生徒たちに苦労した。
+J-3: 荒々しい犬が公園で誰に対しても吠えたてて飛びかかってきた。

@@ -1,0 +1,11 @@
+# Key:precarious
+## Response
+### English Sentences
+E-1: He felt like his job was in a <u>precarious</u> position because the company was going bankrupt.
+E-2: The hiker had to navigate through the <u>precarious</u> rocky terrain to reach the summit.
+E-3: The kitten balanced on the <u>precarious</u> edge of the windowsill, causing its owner to worry.
+
+### Japanese Translation
+J-1: 会社が破産寸前であるため、彼の仕事は<u>危うい</u>状態だと感じていました。
+J-2: ハイカーは、頂上に到達するため<u>不安定な</u>岩肌を乗り越えなければなりませんでした。
+J-3: 世話人を心配させるため、子猫は窓際の<u>危うい</u>縁にバランスをとりました。

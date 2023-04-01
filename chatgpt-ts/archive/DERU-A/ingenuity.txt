@@ -1,0 +1,11 @@
+# Key:ingenuity
+## Response
+### English Sentences
+E-1: Her <u>ingenuity</u> in finding creative solutions to problems helped her earn the promotion.
+E-2: The company's success is due in large part to the <u>ingenuity</u> of its engineers.
+E-3: The inventor's <u>ingenuity</u> led to the creation of a breakthrough new product.
+
+### Japanese Translation
+J-1: 問題に対して創造的な解決策を見つける彼女の<u>独創性</u>が昇進に役立ちました。
+J-2: この会社の成功は、大きくはエンジニアの<u>独創性</u>によるものです。
+J-3: 発明家の<u>独創性</u>が画期的な新製品の開発につながりました。

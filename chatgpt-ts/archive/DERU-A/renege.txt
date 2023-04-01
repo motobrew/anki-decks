@@ -1,0 +1,11 @@
+# Key:renege
+## Response
+### English Sentences
+E-1: He promised to pay me back, but then he <u>renege</u>d on his word.
+E-2: The company <u>renege</u>d on their offer to give employees a bonus.
+E-3: If you <u>renege</u> on your obligations, it will damage your reputation.
+
+### Japanese Translation
+J-1: 彼は私に返済する約束をしたが、その後言葉を<u>破った</u>。
+J-2: その企業は従業員にボーナスを与えるというオファーを<u>取り消した</u>。
+J-3: 約束を<u>反故（ほご）</u>にすると、評判を傷つけることになります。

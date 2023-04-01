@@ -1,0 +1,11 @@
+# Key:succulent
+## Response
+### English Sentences
+E-1: The steak was so <u>succulent</u> that it practically melted in my mouth.
+E-2: I bought a bunch of <u>succulent</u> plants to decorate my apartment.
+E-3: She served a <u>succulent</u> roast chicken for dinner.
+
+### Japanese Translation
+J-1: そのステーキはとても<u>ジューシーな</u>ので、口の中で溶けそうでした。
+J-2: アパートを飾るために、<u>多肉植物</u>の束を買いました。
+J-3: 彼女はディナーに、<u>やわらかくて美味しい</u>ローストチキンを出しました。

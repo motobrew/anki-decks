@@ -1,0 +1,11 @@
+# Key:irate
+## Response
+### English Sentences
+E-1: The customer became <u>irate</u> when she found out her order was wrong.
+E-2: The coach was <u>irate</u> when the team showed up late for practice.
+E-3: The boss was <u>irate</u> when he discovered the project was behind schedule.
+
+### Japanese Translation
+J-1: 注文が間違っていたことがわかったとき、お客様は<u>激怒</u>しました。
+J-2: チームが練習に遅刻した際、コーチは<u>激怒</u>しました。
+J-3: プロジェクトがスケジュールより遅れていたことがわかったとき、上司は<u>激怒</u>しました。

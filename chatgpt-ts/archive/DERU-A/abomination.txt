@@ -1,0 +1,11 @@
+# Key:abomination
+## Response
+### English Sentences
+E-1: The smell coming from the dumpster was an <u>abomination</u>.
+E-2: The dictator's treatment of his citizens was an <u>abomination</u> to human rights.
+E-3: A vegan would see meat-eating as an <u>abomination</u> to animal welfare.
+
+### Japanese Translation
+J-1: ダンプスターから出る臭いは、<u>忌み嫌わしいもの</u>でした。
+J-2: 独裁者が市民に対する扱いは、人権に対する<u>忌み嫌わしいもの</u>でした。
+J-3: ビーガンは、肉食を動物の福祉に対する<u>忌み嫌わしいもの</u>と見なします。

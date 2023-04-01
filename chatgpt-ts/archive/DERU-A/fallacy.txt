@@ -1,0 +1,11 @@
+# Key:fallacy
+## Response
+### English Sentences
+E-1: It is a <u>fallacy</u> that success can only be achieved through working long hours.
+E-2: The politician's argument is based on a <u>fallacy</u> that all immigrants are criminals.
+E-3: Believing that all women are bad drivers is a <u>fallacy</u> that needs to be corrected.
+
+### Japanese Translation
+J-1: 長時間働くしか成功を収められない、というのは<u>誤り</u>です。
+J-2: 政治家の主張は、すべての移民が犯罪者であるという<u>論理の誤り</u>に基づいています。
+J-3: 女性全員が運転が下手だと信じることは、<u>誤認</u>が訂正される必要があります。

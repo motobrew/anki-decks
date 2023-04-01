@@ -1,0 +1,11 @@
+# Key:quell
+## Response
+### English Sentences
+E-1: The teacher tried to <u>quell</u> the students' excitement during the field trip.
+E-2: The new policy was implemented to <u>quell</u> the rising crime rates in the city.
+E-3: She needed to <u>quell</u> her nerves before her job interview.
+
+### Japanese Translation
+J-1: 教師は遠足中の生徒たちの興奮を<u>抑える</u>ようにした。
+J-2: 新しい方針は都市の犯罪率の上昇を<u>抑える</u>ために実施された。
+J-3: 彼女は面接前に緊張を<u>抑える</u>必要があった。

@@ -1,0 +1,11 @@
+# Key:obsequious
+## Response
+### English Sentences
+E-1: The obsequious salesperson kept complimenting me and following me around the store, making me uncomfortable.
+E-2: The new employee was so obsequious to the boss that it was obvious he was trying to impress him.
+E-3: The politician's obsequious behavior towards his donors made many people question his motives.
+
+### Japanese Translation
+J-1: ごますりするセールスパーソンが私にお世辞を言い続け、店内をついて回るため不快だった。
+J-2: 新入社員は上司に非常にサービス精神旺盛であったため、彼を感心させようとしているのが明らかであった。
+J-3: 政治家の金主に対するおべっか使いが、多くの人々が彼の動機を疑問視することにつながった。

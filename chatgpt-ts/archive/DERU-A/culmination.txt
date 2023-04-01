@@ -1,0 +1,11 @@
+# Key:culmination
+## Response
+### English Sentences
+E-1: The project's <u>culmination</u> was a successful product launch.
+E-2: Years of hard work led to the <u>culmination</u> of her dream of becoming a doctor.
+E-3: The marathon was the <u>culmination</u> of months of training for the runners.
+
+### Japanese Translation
+J-1: そのプロジェクトの<u>クライマックス</u>は、成功した製品ローンチでした。
+J-2: 長年の努力が実った結果、彼女の医師になるという夢が<u>実現</u>しました。
+J-3: マラソンはランナーたちが数か月のトレーニングを<u>結実</u>させたものでした。

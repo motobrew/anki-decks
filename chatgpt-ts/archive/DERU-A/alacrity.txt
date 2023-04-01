@@ -1,0 +1,11 @@
+# Key:alacrity
+## Response
+### English Sentences
+E-1: With great <u>alacrity</u>, she accepted the new job offer.
+E-2: The firefighter sprang into action with <u>alacrity</u> when the alarm went off.
+E-3: The team worked with <u>alacrity</u> to finish the project before the deadline.
+
+### Japanese Translation
+J-1: 彼女は大きな<u>意欲</u>を持って、新しい仕事の申し出を受け入れた。
+J-2: 消防士はアラームが鳴った瞬間に<u>迅速に</u>行動した。
+J-3: チームは締め切り前にプロジェクトを<u>素早く</u>終了するために働きました。

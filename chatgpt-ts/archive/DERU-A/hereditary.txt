@@ -1,0 +1,11 @@
+# Key:hereditary
+## Response
+### English Sentences
+E-1: <u>Hereditary</u> diseases can be passed down through generations in a family.
+E-2: The king's crown is a <u>hereditary</u> item that has been passed down for centuries.
+E-3: He has a <u>hereditary</u> talent for music, just like his father.
+
+### Japanese Translation
+J-1: <u>遺伝的</u>疾患は、家族の間で世代を超えて受け継がれることがあります。
+J-2: 王の王冠は、何世紀にもわたって受け継がれてきた<u>世襲の</u>品です。
+J-3: 彼には、父親と同じく<u>世襲的な</u>音楽の才能があります。

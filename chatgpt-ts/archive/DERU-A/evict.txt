@@ -1,0 +1,11 @@
+# Key:evict
+## Response
+### English Sentences
+E-1: The landlord decided to <u>evict</u> the tenants for not paying rent.
+E-2: The homeowner was legally allowed to <u>evict</u> the squatters from their property.
+E-3: The building manager is going to <u>evict</u> the problematic tenant for multiple violations.
+
+### Japanese Translation
+J-1: 家賃を払わなかったため、家主は入居者を<u>立ち退かせる</u>ことに決めました。
+J-2: 不法侵入者を<u>排除する</u>ため、家の所有者は法的にその権利を持っていました。
+J-3: 建物の管理者は、規則違反が重なった問題のあるテナントを<u>立ち退かせる</u>予定です。

@@ -1,0 +1,11 @@
+# Key:congregate
+## Response
+### English Sentences
+E-1: The birds will <u>congregate</u> in the park during the winter months.
+E-2: The protesters plan to <u>congregate</u> in front of City Hall tomorrow.
+E-3: Students often <u>congregate</u> in the library to study.
+
+### Japanese Translation
+J-1: 冬の間、鳥たちは公園で<u>群れを成す</u>でしょう。
+J-2: 抗議者たちは明日市庁舎の前に<u>集まる</u>予定です。
+J-3: 生徒たちはよく図書館で<u>集まって</u>勉強します。

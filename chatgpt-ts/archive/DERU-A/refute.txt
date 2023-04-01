@@ -1,0 +1,11 @@
+# Key:refute
+## Response
+### English Sentences
+E-1: The scientist tried to <u>refute</u> the theory that the Earth is flat.
+E-2: She provided evidence to <u>refute</u> the argument made by her opponent.
+E-3: The lawyer was able to <u>refute</u> the false accusations against his client.
+
+### Japanese Translation
+J-1: 科学者は地球が平面であるという理論を<u>反論しようとしました</u>。
+J-2: 彼女は証拠を提供して、相手の主張を<u>反駁しました</u>。
+J-3: 弁護士はクライアントに対する不当な告発を<u>反証する</u>ことができました。

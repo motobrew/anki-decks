@@ -1,0 +1,11 @@
+# Key:acquittal
+## Response
+### English Sentences
+E-1: The defendant was granted an <u>acquittal</u> due to lack of evidence.
+E-2: The lawyer argued for the <u>acquittal</u> of their client on the basis of self-defense.
+E-3: The jury reached a verdict of <u>acquittal</u> after the trial.
+
+### Japanese Translation
+J-1: 証拠不十分のため、被告人は<u>無罪放免</u>と裁定されました。
+J-2: 自己防衛の理由に基づいて、弁護士はクライアントの<u>無罪放免</u>を主張しました。
+J-3: 陪審員は、裁判後に<u>無罪放免</u>の評決を下しました。

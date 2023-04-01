@@ -1,0 +1,11 @@
+# Key:dreary
+## Response
+### English Sentences
+E-1: The dreary weather made everyone feel sad and gloomy.
+E-2: The abandoned house looked old and dreary.
+E-3: The office was dreary and boring, with no decorations or color.
+
+### Japanese Translation
+J-1: 暗くてどんよりした天気は、皆を悲しくさせました。
+J-2: 放棄された家は古くて陰気でした。
+J-3: オフィスは装飾や色がなく、陰気で退屈でした。

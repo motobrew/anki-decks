@@ -1,0 +1,11 @@
+# Key:malevolent
+## Response
+### English Sentences
+E-1: His <u>malevolent</u> behavior towards his colleagues eventually got him fired.
+E-2: The old abandoned house had a <u>malevolent</u> aura that made people feel uneasy.
+E-3: Some people believed the curse on the town was caused by a <u>malevolent</u> spirit.
+
+### Japanese Translation
+J-1: 彼の同僚への<u>悪意のある</u>行動が、ついに彼を解雇させた。
+J-2: 古い放棄された家は、人々に不安を感じさせる<u>邪悪な</u>オーラを持っていた。
+J-3: 一部の人々は、町にかかる呪いは<u>悪意のある</u>霊によって引き起こされたと信じている。

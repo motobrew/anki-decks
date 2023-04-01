@@ -1,0 +1,11 @@
+# Key:debase
+## Response
+### English Sentences
+E-1: The cruel ruler sought to <u>debase</u> his political enemies by spreading false rumors and lies.
+E-2: The counterfeit goods sold at the market <u>debase</u> the reputation of the genuine products.
+E-3: Employees who steal from the company <u>debase</u> the values of honesty and integrity.
+
+### Japanese Translation
+J-1: 残酷な支配者は、虚偽の噂や嘘を広めることによって政治的な敵を<u>貶めよう</u>としました。
+J-2: 市場で販売されている偽物の商品は、本物の製品の評判を<u>低下させます</u>。
+J-3: 企業から盗みをする従業員は、正直さと誠実さの価値を<u>貶めます</u>。

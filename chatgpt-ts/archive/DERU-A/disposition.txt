@@ -1,0 +1,11 @@
+# Key:disposition
+## Response
+### English Sentences
+E-1: Mary has a cheerful <u>disposition</u> and always sees the bright side of things.
+E-2: The company values employees with a positive <u>disposition</u> and strong work ethic.
+E-3: The judge took into consideration the defendant's <u>disposition</u> before making the final ruling.
+
+### Japanese Translation
+J-1: メアリーは陽気な<u>気質</u>を持ち、常に物事の明るい面を見ます。
+J-2: 会社は、ポジティブな<u>気質</u>と強い職業意識を持つ従業員を大切にします。
+J-3: 判事は最終判決を下す前に、被告人の<u>性格</u>を考慮に入れました。

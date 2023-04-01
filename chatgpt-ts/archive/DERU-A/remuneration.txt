@@ -1,0 +1,11 @@
+# Key:remuneration
+## Response
+### English Sentences
+E-1: The company offers a competitive <u>remuneration</u> package to attract top talent.
+E-2: The freelance writer negotiated a higher <u>remuneration</u> for her latest article.
+E-3: The sales team received a bonus as a <u>remuneration</u> for exceeding their targets.
+
+### Japanese Translation
+J-1: 会社は優秀な人材を引き付けるために競争力のある<u>報酬</u>パッケージを提供しています。
+J-2: フリーランスライターは、最新の記事の<u>報酬</u>を交渉しました。
+J-3: 営業チームは目標を超えたことに<u>報酬</u>としてボーナスを受け取りました。

@@ -1,0 +1,11 @@
+# Key:pandemic
+## Response
+### English Sentences
+E-1: The <u>pandemic</u> has forced many businesses to close permanently.
+E-2: Face masks and social distancing are necessary precautions during a <u>pandemic</u>.
+E-3: The government implemented strict measures to control the spread of the <u>pandemic</u>.
+
+### Japanese Translation
+J-1: <u>パンデミック</u>の影響で多くのビジネスが永久に閉鎖を余儀なくされました。
+J-2: <u>パンデミック</u>中には、マスク着用やソーシャルディスタンスが必要な予防措置です。
+J-3: 政府は<u>パンデミック</u>の拡散を抑制するために厳格な対策を実施しました。

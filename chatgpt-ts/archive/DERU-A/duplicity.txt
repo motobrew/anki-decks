@@ -1,0 +1,11 @@
+# Key:duplicity
+## Response
+### English Sentences
+E-1: The politician's <u>duplicity</u> was exposed when he was caught lying to both sides of the argument.
+E-2: The spy's <u>duplicity</u> nearly jeopardized the entire mission.
+E-3: She couldn't trust him after she discovered his <u>duplicity</u> in their previous business dealings.
+
+### Japanese Translation
+J-1: 政治家の<u>二枚舌</u>は、彼が議論の両側面に嘘をついているのが発覚したときに暴かれた。
+J-2: スパイの<u>不誠実さ</u>は、任務全体を危うくしかねなかった。
+J-3: 彼女は、以前のビジネス取引で彼の<u>不誠実さ</u>が発覚した後、彼を信頼できなくなった。

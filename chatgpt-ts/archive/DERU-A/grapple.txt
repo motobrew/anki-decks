@@ -1,0 +1,11 @@
+# Key:grapple
+## Response
+### English Sentences
+E-1: The wrestler tried to <u>grapple</u> his opponent to the mat.
+E-2: The team had to <u>grapple</u> with difficult decisions during the game.
+E-3: The company had to <u>grapple</u> with financial losses in order to stay afloat.
+
+### Japanese Translation
+J-1: レスラーは相手をマットに<u>押し倒す</u>ために努力しました。
+J-2: チームは試合中に難しい決断に<u>取り組まなければならなかった</u>。
+J-3: その会社は存続するために財政上の損失に<u>苦しまなければならなかった</u>。

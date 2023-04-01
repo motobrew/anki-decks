@@ -1,0 +1,11 @@
+# Key:distend
+## Response
+### English Sentences
+E-1: After eating too much, his stomach began to <u>distend</u> uncomfortably.
+E-2: The balloon started to <u>distend</u> as more and more air was blown into it.
+E-3: The tumor caused his abdomen to <u>distend</u> and doctors became concerned.
+
+### Japanese Translation
+J-1: 食べ過ぎた後、彼の胃は不快に<u>膨らみました</u>。
+J-2: 空気を吹き込むと、風船は<u>膨張し始めました</u>。
+J-3: 腫瘤は彼の腹部を<u>膨らませ、</u>医者たちは心配し始めました。

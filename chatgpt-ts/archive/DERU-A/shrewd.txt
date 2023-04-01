@@ -1,0 +1,11 @@
+# Key:shrewd
+## Response
+### English Sentences
+E-1: The <u>shrewd</u> businessman made a clever investment and earned a big profit.
+E-2: She is known for her <u>shrewd</u> negotiating skills and always gets the best deal.
+E-3: The detective used his <u>shrewd</u> intuition to solve the complicated case.
+
+### Japanese Translation
+J-1: <u>機敏な</u>ビジネスマンは賢い投資をして大きな利益を得ました。
+J-2: 彼女は彼女の<u>巧妙な</u>交渉術で知られており、常に最高の取引を得ます。
+J-3: 刑事は<u>洞察力の鋭い</u>直感を使って複雑な事件を解決しました。

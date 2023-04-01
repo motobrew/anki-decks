@@ -1,0 +1,11 @@
+# Key:commotion
+## Response
+### English Sentences
+E-1: There was a lot of <u>commotion</u> outside the stadium after the game ended.
+E-2: The sudden <u>commotion</u> in the classroom made it difficult for the teacher to continue the lesson.
+E-3: The arrival of the celebrity caused a <u>commotion</u> among the fans waiting outside the hotel.
+
+### Japanese Translation
+J-1: 試合が終わった後、スタジアムの外で多くの<u>騒ぎ</u>がありました。
+J-2: 教室での突然の<u>騒ぎ</u>が、先生が授業を続けるのを困難にしました。
+J-3: セレブの到着は、ホテルの外で待っていたファンたちの<u>騒動</u>を引き起こしました。

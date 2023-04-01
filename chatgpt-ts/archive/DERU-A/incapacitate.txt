@@ -1,0 +1,11 @@
+# Key:incapacitate
+## Response
+### English Sentences
+E-1: The injury to his leg would <u>incapacitate</u> him from playing in the game.
+E-2: A power outage could <u>incapacitate</u> the entire city's infrastructure.
+E-3: The virus can <u>incapacitate</u> the immune system, making the body vulnerable to other infections.
+
+### Japanese Translation
+J-1: 彼の足の怪我は彼が試合に出場できなくすることになった。
+J-2: 停電は街のインフラを<u>麻痺</u>させる可能性がある。
+J-3: ウイルスは免疫システムを<u>無力化</u>させ、体を他の感染症に対して脆弱にします。

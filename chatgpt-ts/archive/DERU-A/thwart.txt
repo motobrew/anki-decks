@@ -1,0 +1,11 @@
+# Key:thwart
+## Response
+### English Sentences
+E-1: The thunderstorm <u>thwarted</u> our plans for a picnic in the park.
+E-2: The goalkeeper's quick reflexes <u>thwarted</u> the opponent's attempt at scoring a goal.
+E-3: The detectives tried to catch the thief, but he <u>thwarted</u> their efforts by escaping through the window.
+
+### Japanese Translation
+J-1: 雷雨が起こったため、公園でのピクニック計画は<u>水泡</u>に帰した。
+J-2: ゴールキーパーの素早い反射は、相手のゴール狙いを<u>阻止</u>した。
+J-3: 探偵たちは泥棒を捕まえようとしたが、彼は窓から逃げて、彼らの努力を<u>挫折</u>させた。

@@ -1,0 +1,11 @@
+# Key:rationale
+## Response
+### English Sentences
+E-1: The company's <u>rationale</u> for downsizing is to reduce costs and ensure long-term profitability.
+E-2: The scientist explained the <u>rationale</u> behind their research study in a detailed report.
+E-3: The teacher provided a clear <u>rationale</u> for the homework assignment, emphasizing its importance for understanding the lesson.
+
+### Japanese Translation
+J-1: 会社が人員削減をする<u>理由</u>は、コストを削減し、長期的な利益を確保するためです。
+J-2: 科学者は、詳細なレポートで研究調査の<u>根拠</u>を説明しました。
+J-3: 教師は宿題課題の<u>妥当性</u>を明確に説明し、授業の理解に重要であることを強調しました。

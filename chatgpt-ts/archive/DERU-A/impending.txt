@@ -1,0 +1,11 @@
+# Key:impending
+## Response
+### English Sentences
+E-1: The storm clouds in the sky indicated the <u>impending</u> thunderstorm.
+E-2: The company announced its plan for an <u>impending</u> layoff of employees.
+E-3: The villagers were warned of the <u>impending</u> tsunami and evacuated to higher ground.
+
+### Japanese Translation
+J-1: 空に立ち込めた嵐雲が<u>差し迫った</u>雷雨を示していた。
+J-2: その企業は従業員の<u>迫り来る</u>レイオフ計画を発表しました。
+J-3: 村人たちは<u>迫り来る</u>津波に警告され、高いところへ避難しました。

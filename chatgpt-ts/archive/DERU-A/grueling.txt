@@ -1,0 +1,11 @@
+# Key:grueling
+## Response
+### English Sentences
+E-1: Running a marathon can be a <u>grueling</u> experience, both physically and mentally.
+E-2: The contestants had to endure a <u>grueling</u> obstacle course in order to win the prize.
+E-3: Studying for the bar exam was a <u>grueling</u> process that required months of preparation.
+
+### Japanese Translation
+J-1: マラソンを走ることは、身体的にも精神的にも<u>過酷な</u>経験になることがあります。
+J-2: 参加者は、賞金を手にするために<u>過酷な</u>障害コースを耐え忍ばなければならなかった。
+J-3: 法曹試験の勉強は、準備に数か月を要する<u>過酷な</u>プロセスでした。

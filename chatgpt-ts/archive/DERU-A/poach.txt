@@ -1,0 +1,11 @@
+# Key:poach
+## Response
+### English Sentences
+E-1: The restaurant owner was caught trying to <u>poach</u> a chef from a rival restaurant.
+E-2: Hunting and <u>poaching</u> of endangered species is illegal.
+E-3: The company had to pay a fine for <u>poaching</u> a competitor's clients.
+
+### Japanese Translation
+J-1: レストランオーナーは、ライバル店からシェフを<u>引き抜こう</u>としたところを捕まえられました。
+J-2: 絶滅危惧種の狩猟や<u>密猟</u>は違法です。
+J-3: その企業は、競合他社の顧客を<u>引き抜いた</u>ことで罰金を支払う必要がありました。

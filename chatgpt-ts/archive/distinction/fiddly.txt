@@ -1,0 +1,11 @@
+# Key:fiddly
+## Response
+### English Sentences
+E-1: This task is so <u>fiddly</u>, I can't seem to get it right.
+E-2: I had to spend hours doing <u>fiddly</u> adjustments to the machine to get it working.
+E-3: The buttons on this remote control are so <u>fiddly</u>, I keep pressing the wrong ones.
+
+### Japanese Translation
+J-1: このタスクはとても<u>細かい作業</u>で、上手くいかないようです。
+J-2: 機械を動かすために、この<u>細かい調整作業</u>に何時間も費やさなければなりませんでした。
+J-3: このリモコンのボタンはとても<u>微妙な</u>ところにあり、私は間違えて押してしまいます。

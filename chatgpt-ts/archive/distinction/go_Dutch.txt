@@ -1,0 +1,11 @@
+# Key:go Dutch
+## Response
+### English Sentences
+E-1: Let's <u>go Dutch</u> and split the bill for dinner.
+E-2: I'm tired of always paying for everything, let's <u>go Dutch</u> this time.
+E-3: Do you mind if we <u>go Dutch</u> on the movie tickets?
+
+### Japanese Translation
+J-1: 夕食の会計は私たちで<u>割り勘</u>にしましょう。
+J-2: いつも私が払ってばかりで飽きた、今回は<u>割り勘</u>にしよう。
+J-3: 映画のチケット、<u>割り勘</u>でいいですか？

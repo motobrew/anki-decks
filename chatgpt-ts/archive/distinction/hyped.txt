@@ -1,0 +1,11 @@
+# Key:hyped
+## Response
+### English Sentences
+E-1: Everyone is getting <u>hyped</u> for the new movie coming out this weekend.
+E-2: The crowd at the concert was so <u>hyped</u>, it was hard to hear the music.
+E-3: The team was feeling <u>hyped</u> before the big game, ready to win.
+
+### Japanese Translation
+J-1: 今週末に公開される新しい映画に向けてみんなが<u>盛り上がって</u>います。
+J-2: コンサートの観客はとても<u>熱狂的で</u>、音楽が聞きづらかった。
+J-3: チームは大きな試合前に<u>テンションが高まり</u>、勝つための準備が整っていた。

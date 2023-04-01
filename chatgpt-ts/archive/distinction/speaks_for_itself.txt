@@ -1,0 +1,11 @@
+# Key:speaks for itself
+## Response
+### English Sentences
+E-1: The evidence <u>speaks for itself</u> in this case. 
+E-2: Her artwork is so beautiful, it really <u>speaks for itself</u>. 
+E-3: I don't need to explain my decision, the outcome of my actions <u>speaks for itself</u>.
+
+### Japanese Translation
+J-1: この事件での証拠は<u>自己証言</u>となしている。
+J-2: 彼女のアート作品はとても美しく、本当に<u>自己表現</u>している。
+J-3: 自分の決定を説明する必要はありません、私の行動の結果が<u>自己満足</u>である。

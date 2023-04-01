@@ -1,0 +1,11 @@
+# Key:hold sth/sb up
+## Response
+### English Sentences
+E-1: The traffic jam <u>held me up</u>, so I'll be a little late.
+E-2: The bad weather <u>held up</u> our flight for several hours.
+E-3: The construction work <u>held up</u> the delivery of our new furniture.
+
+### Japanese Translation
+J-1: 交通渋滞で<u>遅れてしまった</u>ので、少しだけ遅れます。
+J-2: 悪天候のため、飛行機が<u>何時間も遅れた</u>。
+J-3: 建設工事が原因で、新しい家具の<u>配送が遅れた</u>。

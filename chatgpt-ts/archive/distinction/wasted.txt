@@ -1,0 +1,11 @@
+# Key:wasted
+## Response
+### English Sentences
+E-1: I got really <u>wasted</u> at the party last night.
+E-2: He's <u>wasted</u> his talent by not practicing enough.
+E-3: We can't go out tonight, I'm too <u>wasted</u> from work.
+
+### Japanese Translation
+J-1: 昨晩のパーティーで本当に<u>酔っ払った</u>。
+J-2: 彼は十分に練習しなかったため、自分の才能を<u>無駄にした</u>。
+J-3: 今晩は出かけられない、仕事で疲れすぎて<u>ダウンしている</u>。

@@ -1,0 +1,11 @@
+# Key:101
+## Response
+### English Sentences
+E-1: I need to take <u>Psychology 101</u> next semester to fulfill my requirements.
+E-2: He's still in <u>Relationships 101</u>, he has no idea what he's doing.
+E-3: If you want to understand investment, you should take <u>Finance 101</u>.
+  
+### Japanese Translation
+J-1: 来学期私は要求を満たすために<u>心理学 101</u>を取らなければならない。
+J-2: 彼はまだ<u>恋愛の基礎 101</u>にいます。何をしているか全然分かりません。
+J-3: インベストメントを理解したいなら、<u>ファイナンス 101</u>を取るべきです。

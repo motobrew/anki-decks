@@ -1,0 +1,11 @@
+# Key:at the end of one's rope
+## Response
+### English Sentences
+E-1: She's been working overtime for weeks and is <u>at the end of her rope</u>.
+E-2: After searching for his lost wallet for hours, John was <u>at the end of his rope</u>.
+E-3: The constant crying and fussing of the baby had the new parents <u>at the end of their rope</u>.
+
+### Japanese Translation
+J-1: 彼女は何週間も残業しており、もう限界です。
+J-2: 長時間財布を探した後、ジョンはもう我慢できなくなりました。
+J-3: 赤ちゃんのずっと泣き叫ぶこととわがままに、新米の両親はもう我慢できなくてイライラしています。

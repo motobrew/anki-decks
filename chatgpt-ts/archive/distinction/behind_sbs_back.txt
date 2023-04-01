@@ -1,0 +1,11 @@
+# Key:behind sb's back
+## Response
+### English Sentences
+E-1: Don't talk about me <u>behind my back</u>.
+E-2: I can't trust her, she always talks <u>behind people's backs</u>.
+E-3: It's not fair to criticize someone <u>behind their back</u>.
+
+### Japanese Translation
+J-1: 私の<u>背後で</u>話さないでください。
+J-2: 彼女を信用できない、いつも人の<u>背後で</u>話す。
+J-3: 誰かの<u>背後で</u>批判するのは公平ではありません。

@@ -1,0 +1,11 @@
+# Key:roll sth out
+## Response
+### English Sentences
+E-1: The company plans to <u>roll out</u> its new product next month.
+E-2: Our team is working hard to <u>roll out</u> a new feature for the app.
+E-3: The government is set to <u>roll out</u> a new policy for small businesses.
+
+### Japanese Translation
+J-1: その会社は来月新製品を<u>発売</u>する予定です。
+J-2: 弊社のチームはアプリの新機能を<u>展開</u>するために一生懸命働いています。
+J-3: 政府は中小企業向けの新しい施策を<u>導入</u>する予定です。

@@ -1,0 +1,11 @@
+# Key:ancient
+## Response
+### English Sentences
+E-1: That phone is so <u>ancient</u>, it doesn't even have a touch screen.
+E-2: I can't believe you still listen to <u>ancient</u> music like the Beatles.
+E-3: Your fashion sense is so <u>ancient</u>, those bell-bottoms went out of style decades ago.
+
+### Japanese Translation
+J-1: あの携帯は古すぎて、タッチスクリーンがないんだよ。
+J-2: ビートルズのような<u>古い</u>音楽をまだ聴くの？信じられない。
+J-3: あなたのファッションセンスって、ベルボトムが流行った何十年も前の<u>古臭い</u>感じだね。

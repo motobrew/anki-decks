@@ -1,0 +1,11 @@
+# Key:unwritten rule
+## Response
+### English Sentences
+E-1: It's an <u>unwritten rule</u> that you don't bring up politics at the dinner table.
+E-2: There's an <u>unwritten rule</u> that you don't take someone else's seat at the bar.
+E-3: The <u>unwritten rule</u> is that you always bring a bottle of wine when you go to someone's housewarming party.
+
+### Japanese Translation
+J-1: 夕食のテーブルでは政治に触れないのが<u>お決まり</u>です。
+J-2: バーでは他人の席に座らないのが<u>お約束</u>です。
+J-3: 新居祝いに行くときは常にワインのボトルを持参するのが<u>普通</u>です。

@@ -1,0 +1,11 @@
+# Key:hard-headed
+## Response
+### English Sentences
+E-1: My boss can be so <u>hard-headed</u>, he never listens to anyone else's ideas.
+E-2: You're being <u>hard-headed</u> about this, there's no need to argue.
+E-3: I knew he wouldn't change his mind, he's too <u>hard-headed</u> for that.
+
+### Japanese Translation
+J-1: 私の上司は頑固すぎて、他の人のアイデアを聞かないことがあります。
+J-2: あなたはこのことについて頑固ですね、議論する必要はありません。
+J-3: 彼が考えを変えるとは思っていなかった、彼はあまりにも頑固だから。

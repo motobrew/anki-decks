@@ -1,0 +1,11 @@
+# Key:think it through
+## Response
+### English Sentences
+E-1: I know you want to buy that expensive car, but you really need to <u>think it through</u> before making a decision.
+E-2: Before you make any big life changes, it's important to <u>think it through</u> and consider all the potential consequences.
+E-3: If you rush into a business deal without <u>thinking it through</u>, you could end up losing a lot of money.
+
+### Japanese Translation
+J-1: あの高価な車を買いたい気持ちは分かりますが、決定する前に本当に<u>よく考えて</u>ください。
+J-2: 大きな人生の変化を加える前には、必要な<u>よく考えて</u>可能な結果をすべて考えることが大切です。
+J-3: 考えずに急いでビジネス取引に入ったら、多額の損失を被る可能性があるので、よく<u>考えて</u>行動する必要があります。

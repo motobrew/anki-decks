@@ -1,0 +1,11 @@
+# Key:on second thought
+## Response
+### English Sentences
+E-1: On second thought, I don't think I'll go to that party tonight.
+E-2: I was going to buy that shirt, but on second thought I don't really need it.
+E-3: At first I thought the movie was boring, but on second thought it was actually pretty good.
+
+### Japanese Translation
+J-1: あのパーティーに行くのはやめよう、<u>考え直して</u>。
+J-2: あのシャツを買おうと思ってたけど、<u>考え直して</u>必要ないや。
+J-3: 最初はその映画はつまらないと思ったけど、<u>考え直すと</u>実は結構良かった。

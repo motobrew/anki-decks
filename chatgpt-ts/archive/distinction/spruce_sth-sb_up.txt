@@ -1,0 +1,11 @@
+# Key:spruce sth/sb up
+## Response
+### English Sentences
+E-1: I need to <u>spruce up</u> my wardrobe before the job interview.
+E-2: We're going to <u>spruce up</u> the backyard with some new plants and furniture.
+E-3: The company decided to <u>spruce up</u> their logo and website to attract more customers.
+
+### Japanese Translation
+J-1: 就職面接前に私のワードローブを<u>衣替え</u>する必要がある。
+J-2: 新しい植物と家具で裏庭を<u>彩る</u>つもりです。
+J-3: 会社はロゴやウェブサイトを<u>リニューアル</u>して、より多くの顧客を引きつけようと決定しました。

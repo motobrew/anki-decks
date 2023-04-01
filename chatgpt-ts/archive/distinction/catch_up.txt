@@ -1,0 +1,11 @@
+# Key:catch up
+## Response
+### English Sentences
+E-1: Let's grab lunch next week and <u>catch up</u> on everything that's been happening.
+E-2: I need to <u>catch up</u> on my work assignments over the weekend.
+E-3: Can we <u>catch up</u> later and talk about the movie you saw last night?
+
+### Japanese Translation
+J-1: 来週お昼ご飯を食べながら、これまで何が起こったか<u>話し合う</u>ことにしましょう。
+J-2: 週末に仕事の課題を<u>取り戻す</u>必要があります。
+J-3: 昨晩見た映画について後で<u>話し合えますか</u>？

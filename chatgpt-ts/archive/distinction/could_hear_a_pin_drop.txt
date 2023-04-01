@@ -1,0 +1,11 @@
+# Key:could hear a pin drop
+## Response
+### English Sentences
+E-1: When the teacher entered the classroom, everyone was so silent you could hear a pin drop.
+E-2: The speaker was so captivating that the audience was quiet as a mouse, you could hear a pin drop.
+E-3: During the suspenseful moment in the movie, the entire theater was so quiet you could hear a pin drop.
+
+### Japanese Translation
+J-1: 先生が教室に入ると、みんなとても静かで、ピンを落とした音が聞こえました。
+J-2: スピーカーがとても魅力的だったため、観客は静かで、マウスのように、ピンを落とした音が聞こえました。
+J-3: 映画のサスペンスシーン中、映画館全体がとても静かでピンを落とした音が聞こえました。

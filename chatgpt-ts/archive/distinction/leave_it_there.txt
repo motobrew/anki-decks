@@ -1,0 +1,11 @@
+# Key:leave it there
+## Response
+### English Sentences
+E-1: I think we've discussed enough about this topic, let's just <u>leave it there</u>.
+E-2: You made a mistake in your presentation, but let's just <u>leave it there</u> and move on.
+E-3: He kept insisting on his point, but I had to tell him to <u>leave it there</u> as we had to go.
+
+### Japanese Translation
+J-1: このトピックについて十分に話し合ったので、もう<u>そこで</u>終わりにしましょう。
+J-2: プレゼンテーションでミスをしたけど、<u>そこで</u>終わりにして次に進もう。
+J-3: 彼は自分の意見を強く主張し続けたけど、行かなければならなかったので<u>そこで</u>やめておいた。

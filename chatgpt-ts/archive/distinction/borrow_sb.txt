@@ -1,0 +1,11 @@
+# Key:borrow sb
+## Response
+### English Sentences
+E-1: I need to <u>borrow my friend</u>'s dress for the party tonight.
+E-2: Can I <u>borrow you</u>r pen to sign this document?
+E-3: My roommate always <u>borrow</u>s my clothes without asking.
+
+### Japanese Translation
+J-1: 今夜のパーティーに着るドレスを友達に<u>借りないと</u>。
+J-2: この書類にサインするために<u>君のペンを借りてもいい？</u>
+J-3: ルームメイトはいつも私の洋服を勝手に<u>借りて</u>くる。

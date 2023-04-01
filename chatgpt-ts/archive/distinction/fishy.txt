@@ -1,0 +1,11 @@
+# Key:fishy
+## Response
+### English Sentences
+E-1: Something seems <u>fishy</u> about that guy's story. 
+E-2: I don't trust that website, it seems <u>fishy</u>. 
+E-3: The whole situation is starting to feel <u>fishy</u> to me.
+
+### Japanese Translation
+J-1: その男の話には何か<u>おかしい</u>ものがあるようだ。
+J-2: あのウェブサイトは信用できない。何か<u>怪しい</u>。
+J-3: 全体的な状況が私には<u>不審</u>に感じられ始めています。

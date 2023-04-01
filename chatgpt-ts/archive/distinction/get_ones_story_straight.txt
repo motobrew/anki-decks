@@ -1,0 +1,11 @@
+# Key:get one's story straight
+## Response
+### English Sentences
+E-1: He needs to <u>get his story straight</u> before he talks to the boss.
+E-2: The suspects were interrogated separately to see if their stories matched, and to make sure they <u>got their stories straight</u>.
+E-3: I don't believe him, his version of events keeps changing. He needs to <u>get his story straight</u>.
+
+### Japanese Translation
+J-1: 上司と話す前に彼は自分の言い分を整理しなければならない。
+J-2: 容疑者たちは別々に取り調べられ、話が一致するか、彼らが<u>きちんと話を合わせている</u>か確認された。
+J-3: 彼の話が食い違っているので信じられない。彼は自分の言い分を<u>整理する</u>必要がある。

@@ -1,0 +1,11 @@
+# Key:reinvent the wheel
+## Response
+### English Sentences
+E-1: There's no need to <u>reinvent the wheel</u> here, just follow the instructions.
+E-2: You don't have to <u>reinvent the wheel</u>, I already found a way to fix the problem.
+E-3: Let's not <u>reinvent the wheel</u>, we can just use the same format from last year's report.
+
+### Japanese Translation
+J-1: ここでは<u>何も新しいものを発明する必要はありません</u>、指示通りにやってください。
+J-2: <u>車輪を再発明する必要はありません</u>、すでに問題を解決する方法を見つけました。
+J-3: 昨年のレポートと同じフォーマットを使うことで<u>車輪を再発明する必要はありません</u>。

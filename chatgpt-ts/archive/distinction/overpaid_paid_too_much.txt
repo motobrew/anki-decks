@@ -1,0 +1,11 @@
+# Key:overpaid paid too much
+## Response
+### English Sentences
+E-1: That CEO is ridiculously <u>overpaid</u> for his mediocre performance.
+E-2: I can't believe they're offering such a low salary for such an important job - they must think we're all <u>overpaid</u>.
+E-3: The athletes might be <u>overpaid</u>, but they have to work incredibly hard to make it to that level.
+
+### Japanese Translation
+J-1: そのCEOは平凡な業績に対してばかげてるくらい<u>高額な報酬</u>を貰ってるな。
+J-2: こんなに重要な仕事の給料が低すぎるって提供するなんて - どうやら、私たち全員が<u>過剰報酬</u>だと思っているようだね。
+J-3: スポーツ選手は<u>過剰報酬</u>をもらっているかもしれないけど、そのレベルまで行くためには本当に努力しなければならないんだよ。

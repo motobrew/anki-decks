@@ -1,0 +1,11 @@
+# Key:cutting-edge
+## Response
+### English Sentences
+E-1: That new phone has <u>cutting-edge</u> technology that you won't find anywhere else.
+E-2: The fashion show featured <u>cutting-edge</u> designs that really pushed the envelope.
+E-3: The company's research department is always working on <u>cutting-edge</u> innovations to stay ahead of the competition.
+
+### Japanese Translation
+J-1: その新しい電話は他では見つけられない<u>最先端</u>の技術を持っています。
+J-2: ファッションショーは、本当に進化した<u>最先端</u>のデザインを特集しました。
+J-3: その会社の研究部門は、競合他社をリードするために常に<u>最先端</u>のイノベーションに取り組んでいます。

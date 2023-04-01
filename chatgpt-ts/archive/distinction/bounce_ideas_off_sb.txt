@@ -1,0 +1,11 @@
+# Key:bounce ideas off sb
+## Response
+### English Sentences
+E-1: I'm not sure about this idea, let me <u>bounce it off</u> my boss before we move forward.
+E-2: Sometimes it helps to <u>bounce ideas off</u> a colleague to get a fresh perspective.
+E-3: We've been <u>bouncing ideas off</u> each other for hours and still haven't come up with a solution.
+
+### Japanese Translation
+J-1: このアイデアについては、私たちが進める前に上司に<u>相談</u>してみます。
+J-2: ときには、新しい視点を得るために同僚に<u>アイデアを相談</u>することが役立ちます。
+J-3: 私たちは何時間も<u>アイデアを出し合って</u>いますが、解決策が出てきていません。

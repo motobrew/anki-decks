@@ -1,0 +1,11 @@
+# Key:black sheep
+## Response
+### English Sentences
+E-1: He's always been the <u>black sheep</u> of the family, always getting into trouble.
+E-2: The company doesn't trust him because he's seen as the <u>black sheep</u> of the department.
+E-3: She feels like the <u>black sheep</u> in her group of friends because she doesn't share their interests.
+
+### Japanese Translation
+J-1: 彼は家族の<u>お荷物</u>で、いつもトラブルに巻き込まれています。
+J-2: その会社は、部署の<u>浮いた存在</u>とみなされている彼に信頼を置いていません。
+J-3: 彼女は友達のグループでは<u>浮いた存在</u>だと感じています。趣味や興味を共有していないからです。

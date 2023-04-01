@@ -1,0 +1,11 @@
+# Key:on the fly
+## Response
+### English Sentences
+E-1: I had to come up with a presentation <u>on the fly</u> because my boss asked for it at the last minute.
+E-2: The chef had to create a new dish <u>on the fly</u> when a customer requested something that wasn't on the menu.
+E-3: Our team had to make adjustments <u>on the fly</u> during the game because the opponent was playing differently than we expected.
+
+### Japanese Translation
+J-1: ボスが土壇場でそれを要求したため、プレゼンを<u>即興</u>で作成する必要がありました。
+J-2: メニューにないものを注文された客がいたので、シェフは新しい料理を<u>即興</u>で考える必要がありました。
+J-3: 相手が予想と違うプレーをしていたため、私たちのチームは試合中に<u>即興</u>で調整する必要がありました。

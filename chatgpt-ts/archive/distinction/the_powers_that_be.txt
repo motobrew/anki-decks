@@ -1,0 +1,11 @@
+# Key:the powers that be
+## Response
+### English Sentences
+E-1: <u>The powers that be</u> have decided to increase taxes next year.
+E-2: It's hard to make changes when <u>the powers that be</u> are resistant to new ideas.
+E-3: We need to appeal to <u>the powers that be</u> to allocate more funding for education.
+
+### Japanese Translation
+J-1: 来年、税金を増やすことを決断した<u>権力者たち</u>がいます。
+J-2: <u>権力者たち</u>が新しいアイデアに抵抗すると、変更を加えるのは難しいです。
+J-3: 教育にもっと資金を割り当てるよう<u>権力者たち</u>に訴える必要があります。

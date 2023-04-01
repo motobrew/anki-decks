@@ -1,0 +1,11 @@
+# Key:scratch the surface
+## Response
+### English Sentences
+E-1: Just because you've read a few articles, doesn't mean you know everything about the subject. You've only <u>scratched the surface</u>.
+E-2: I thought I knew my boyfriend really well, but it turns out I had only <u>scratched the surface</u> of his true personality.
+E-3: The journalist's investigation only <u>scratched the surface</u> of the corrupt organization.
+
+### Japanese Translation
+J-1: 数記事読んだだけでその件について全てを知っているわけではないよ。あなたはただ<u>「表面」に触れただけ</u>だよ。
+J-2: 彼氏のことをよく知っていると思っていたけど、実は彼の本性には<u>「表面」に触れただけ</u>だった。
+J-3: ジャーナリストの調査は、腐敗した組織の<u>「表面」に触れただけ</u>だった。

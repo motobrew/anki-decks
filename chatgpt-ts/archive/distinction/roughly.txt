@@ -1,0 +1,11 @@
+# Key:roughly
+## Response
+### English Sentences
+E-1: I'm <u>roughly</u> six feet tall.
+E-2: That project will cost <u>roughly</u> $500.
+E-3: I'm <u>roughly</u> 30 minutes late.
+
+### Japanese Translation
+J-1: 私の身長は<u>おおよそ</u>6フィートです。
+J-2: そのプロジェクトには<u>おおよそ</u>500ドルかかるでしょう。
+J-3: 私は<u>おおよそ</u>30分遅れています。

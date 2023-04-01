@@ -1,0 +1,11 @@
+# Key:ship-shape
+## Response
+### English Sentences
+E-1: Make sure you clean up your workspace and leave it <u>ship-shape</u> for the next shift.
+E-2: The captain expects the crew to keep the ship <u>ship-shape</u> at all times.
+E-3: I spent all weekend organizing my closet and now it's <u>ship-shape</u>.
+
+### Japanese Translation
+J-1: 次のシフトのためにワークスペースをきれいにして<u>整然として</u>置いてください。
+J-2: 船のキャプテンは常にクルーが船を<u>整然として</u>保つことを期待しています。
+J-3: 私は週末中クローゼットを整理して、今は<u>整然として</u>います。

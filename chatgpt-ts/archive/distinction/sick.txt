@@ -1,0 +1,11 @@
+# Key:sick
+## Response
+### English Sentences
+E-1: That new skateboard trick you just did was <u>sick</u>.
+E-2: The concert last night was absolutely <u>sick</u>, the band killed it.
+E-3: Have you seen the latest action movie? The car chase scene was so <u>sick</u>!
+
+### Japanese Translation
+J-1: あなたがさっきやった新しいスケートボードの技は<u>めちゃくちゃすごい</u>！
+J-2: 昨晩のコンサートは完全に<u>最高だった</u>、バンドが壊れたよ。
+J-3: 最新のアクション映画見た？カーチェイスシーンは<u>超ヤバい</u>よ！

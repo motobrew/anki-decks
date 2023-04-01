@@ -1,0 +1,11 @@
+# Key:steal
+## Response
+### English Sentences
+E-1: I can't believe he <u>stole</u> my idea and presented it as his own.
+E-2: She got caught <u>stealing</u> makeup from the store.
+E-3: He's always trying to <u>steal</u> the spotlight from others.
+
+### Japanese Translation
+J-1: 彼が私のアイデアを<u>盗んで</u>自分のものとして発表したことを信じられない。
+J-2: 彼女は店から化粧品を<u>万引き</u>しようとして捕まった。
+J-3: 彼はいつも他の人から注目を<u>奪おうとして</u>います。

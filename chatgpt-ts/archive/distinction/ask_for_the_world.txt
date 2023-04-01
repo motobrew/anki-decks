@@ -1,0 +1,11 @@
+# Key:ask for the world
+## Response
+### English Sentences
+E-1: He's always asking for the world, expecting things to be handed to him on a plate.
+E-2: You can't just ask for the world and expect to get it without any effort.
+E-3: She asked for the world, but ended up with nothing.
+
+### Japanese Translation
+J-1: 彼はいつも何もせずに物事が自分の手元に落ちてくることを期待して、世界中を求めています。
+J-2: 努力なしに世界中を求めて、簡単に手に入るなんてことはあり得ません。
+J-3: 彼女は世界中を求めたが、結局何も手に入らなかった。

@@ -1,0 +1,11 @@
+# Key:dig deep
+## Response
+### English Sentences
+E-1: You're almost there, don't give up now, <u>dig deep</u> and push through!
+E-2: The team was losing, but they <u>dug deep</u> and ended up winning the game.
+E-3: I know this is a difficult task, but you need to <u>dig deep</u> and find the solution.
+
+### Japanese Translation
+J-1: もうちょっとです、あきらめないでくれ。<u>根気強く頑張る</u>んだ。
+J-2: チームは負けていたけど、<u>諦めずに立ち上がって</u>試合に勝ちました。
+J-3: この仕事は難しいとわかっていますが、<u>粘り強く取り組んで</u>答えを見つけてください。

@@ -1,0 +1,11 @@
+# Key:fired up
+## Response
+### English Sentences
+E-1: I'm so <u>fired up</u> for the concert tonight!
+E-2: He always gets <u>fired up</u> when he talks about politics.
+E-3: Let's <u>fired up</u> the grill and have a barbecue.
+
+### Japanese Translation
+J-1: 今晩のコンサートに向けてとても<u>ワクワクしている</u>！
+J-2: 彼は政治について話すといつも<u>興奮してしまう</u>。
+J-3: グリルを<u>熱くして</u>バーベキューをしましょう。

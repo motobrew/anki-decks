@@ -1,0 +1,11 @@
+# Key:walk in sb's shoes
+## Response
+### English Sentences
+E-1: If you could just <u>walk in my shoes</u> for a day, you'd see how difficult my job really is. 
+E-2: Before you judge her, try to <u>walk a mile in her shoes</u> and understand what she's going through. 
+E-3: It's easy to criticize, but until you <u>walk in someone's shoes</u>, you don't know their struggles.
+
+### Japanese Translation
+J-1: ちょっと1日私の靴に<u>身を置いて</u>、私の仕事がどれだけ難しいか分かるはずです。
+J-2: 彼女を批判する前に、彼女の靴で1マイル<u>歩いてみて</u>、彼女が何を経験しているか理解しよう。
+J-3: 批判するのは簡単ですが、誰かの靴で<u>歩いてみる</u>まで、彼らの苦労はわかりません。

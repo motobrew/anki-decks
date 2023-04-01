@@ -1,0 +1,11 @@
+# Key:dumb sth down
+## Response
+### English Sentences
+E-1: I had to <u>dumb it down</u> for my little sister to understand the math problem.
+E-2: The textbook was too difficult for the students, so the teacher decided to <u>dumb it down</u> for them.
+E-3: The movie studio thought the original script was too complex, so they asked the screenwriter to <u>dumb it down</u>.
+
+### Japanese Translation
+J-1: 私は妹が数学の問題を理解するためにそれを<u>易しめる</u>必要がありました。
+J-2: 生徒たちには難しすぎるということで、教師は教科書を<u>簡単にする</u>ことにしました。
+J-3: 映画スタジオは元の脚本が複雑すぎると考え、脚本家にそれを<u>易しめる</u>よう依頼しました。

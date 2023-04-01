@@ -1,0 +1,11 @@
+# Key:hold one's cards close to one's chest
+## Response
+### English Sentences
+E-1: He's always so secretive about his plans, he really <u>holds his cards close to his chest</u>.
+E-2: The company CEO would always <u>hold her cards close to her chest</u> during negotiations.
+E-3: I can't tell what my friend is thinking, she's really <u>holding her cards close to her chest</u>.
+
+### Japanese Translation
+J-1: 彼はいつも計画を隠して、本当に<u>秘密主義者</u>だ。
+J-2: 企業のCEOは交渉中にいつも<u>カードを引き締める</u>。
+J-3: 友人が何を考えているのか分からない、彼女は本当に<u>カードを隠している</u>。

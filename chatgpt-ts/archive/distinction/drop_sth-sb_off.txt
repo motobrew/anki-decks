@@ -1,0 +1,11 @@
+# Key:drop sth/sb off
+## Response
+### English Sentences
+E-1: Can you please <u>drop me off</u> at the train station on your way to work?
+E-2: I'll <u>drop off</u> the package at the post office on my lunch break.
+E-3: My friend is going to <u>drop off</u> his car for me to borrow for the weekend.
+
+### Japanese Translation
+J-1: 電車に乗る前に私を駅まで<u>送っていって</u>くれますか？
+J-2: 昼休みに郵便局に荷物を<u>届けに行</u>きます。
+J-3: 友達が週末に車を<u>私に貸すために届け</u>てくれる予定です。

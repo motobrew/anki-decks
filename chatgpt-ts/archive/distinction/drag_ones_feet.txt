@@ -1,0 +1,11 @@
+# Key:drag one's feet
+## Response
+### English Sentences
+E-1: Stop <u>dragging your feet</u> and finish your homework already!
+E-2: We've been <u>dragging our feet</u> on making a decision about the new office location.
+E-3: The company is <u>dragging its feet</u> on implementing the new policy.
+
+### Japanese Translation
+J-1: もう片付けて、宿題を<u>サボるのをやめて</u>！
+J-2: 新しいオフィスの場所についての決定を<u>決着がつくまで遅らせている</u>。
+J-3: その会社は新しい方針を実施することに<u>なかなか踏み切らない</u>。

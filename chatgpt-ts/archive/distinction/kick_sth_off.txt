@@ -1,0 +1,11 @@
+# Key:kick sth off
+## Response
+### English Sentences
+E-1: Let's <u>kick off</u> the meeting with a quick update on progress.
+E-2: The concert will <u>kick off</u> at 8 PM sharp, so don't be late.
+E-3: We're planning to <u>kick off</u> the party with some fun icebreaker games.
+
+### Japanese Translation
+J-1: 進捗状況の簡単なアップデートで会議を<u>始めましょう</u>。
+J-2: コンサートは正確に8時に<u>始まります</u>ので、遅れないでください。
+J-3: 楽しいアイスブレイクゲームでパーティーを<u>始める予定</u>です。

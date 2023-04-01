@@ -1,0 +1,11 @@
+# Key:jump the gun
+## Response
+### English Sentences
+E-1: John always <u>jumps the gun</u> and starts eating before everyone is ready at the dinner table.
+E-2: The company <u>jumped the gun</u> and released the product before it was fully tested.
+E-3: Let's not <u>jump the gun</u> and make a decision before we have all the necessary information.
+
+### Japanese Translation
+J-1: ジョンはいつも食事のテーブルで皆が準備ができる前に食べ始めて<u>急かす</u>。
+J-2: その会社は製品のテストがきちんと完了する前に発売して<u>先走った</u>。
+J-3: 必要な情報を全て揃える前に決定して<u>早まらない</u>ようにしましょう。

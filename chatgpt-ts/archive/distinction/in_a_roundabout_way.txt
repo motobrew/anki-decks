@@ -1,0 +1,11 @@
+# Key:in a roundabout way
+## Response
+### English Sentences
+E-1: He never outright said it, but in a <u>roundabout way</u>, I think he's suggesting we break up.
+E-2: Her explanation was so <u>roundabout</u> that I couldn't figure out what she was trying to say.
+E-3: The boss hinted at the promotion <u>in a roundabout way</u>, but never directly offered it to me.
+
+### Japanese Translation
+J-1: 彼ははっきりとは言いませんでしたが、<u>遠回しに</u>別れた方が良いと言ってるんじゃないかと思います。
+J-2: 彼女の説明はとても<u>回りくどく</u>、何を言ってるのかわからなかった。
+J-3: 上司は昇進の暗示を<u>遠まわしに</u>示唆しましたが、直接的には提供しませんでした。

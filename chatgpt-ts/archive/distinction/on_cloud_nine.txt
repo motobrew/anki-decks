@@ -1,0 +1,11 @@
+# Key:on cloud nine
+## Response
+### English Sentences
+E-1: She was <u>on cloud nine</u> after getting accepted into her dream school.
+E-2: He's been <u>on cloud nine</u> since he won the lottery last week.
+E-3: We were all <u>on cloud nine</u> after the team won the championship game.
+
+### Japanese Translation
+J-1: 彼女は夢の学校に合格した後、とても<u>幸せ</u>でした。
+J-2: 先週宝くじに当選して以来、彼はずっと<u>幸せ</u>な状態です。
+J-3: チームが優勝した後、私たちは皆<u>幸せ</u>でした。

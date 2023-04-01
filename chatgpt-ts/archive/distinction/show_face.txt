@@ -1,0 +1,11 @@
+# Key:show face
+## Response
+### English Sentences
+E-1: I don't really want to go to the party, but I'll just <u>show face</u> for a little bit.
+E-2: She's always <u>showing face</u> at the gym, but I've never actually seen her work out.
+E-3: He's only here to <u>show face</u> and make it look like he cares about the charity event.
+
+### Japanese Translation
+J-1: パーティーに行く気はあまりないけど、ちょっと<u>顔を出す</u>だけ。
+J-2: 彼女はいつもジムに<u>顔を出してる</u>けど、実際には運動してるのを見たことがない。
+J-3: 彼はただ<u>顔を出す</u>ためにここにいて、チャリティーイベントに本当に興味があるかのように見せかけているだけだ。

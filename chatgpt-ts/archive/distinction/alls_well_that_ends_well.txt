@@ -1,0 +1,11 @@
+# Key:all's well that ends well
+## Response
+### English Sentences
+E-1: We had some issues during the project, but in the end, <u>all's well that ends well</u>.
+E-2: I was worried about my job interview, but I got the job in the end, so <u>all's well that ends well</u>.
+E-3: My car broke down on the way to vacation, but we still had a great time, so <u>all's well that ends well</u>.
+
+### Japanese Translation
+J-1: プロジェクト中に問題がありましたが、最後にはすべてうまくいったわけです。
+J-2: 就職面接で心配していたけど、最後には仕事を手に入れたので、結果的にはすべてうまくいった。
+J-3: 車が故障してバケーションへの道中に困ったが、最終的には楽しい時間を過ごせたので、結果的にはすべてうまくいったわけだ。

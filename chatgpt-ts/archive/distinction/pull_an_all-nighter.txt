@@ -1,0 +1,11 @@
+# Key:pull an all-nighter
+## Response
+### English Sentences
+E-1: I have a huge exam tomorrow, so I need to <u>pull an all-nighter</u> and study all night.
+E-2: The project is due tomorrow, so I'll have to <u>pull an all-nighter</u> to finish it on time.
+E-3: My friends and I decided to <u>pull an all-nighter</u> and watch the entire season of our favorite show.
+
+### Japanese Translation
+J-1: 明日大きなテストがあるので、徹夜で勉強する必要があります。
+J-2: プロジェクトが明日締め切りなので、時間内に終わらせるために徹夜しなければなりません。
+J-3: 友達と私たちはお気に入りのシーズン全てを見るために徹夜することにしました。

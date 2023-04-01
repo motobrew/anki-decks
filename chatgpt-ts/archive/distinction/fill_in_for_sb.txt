@@ -1,0 +1,11 @@
+# Key:fill in for sb
+## Response
+### English Sentences
+E-1: Can you <u>fill in for me</u> at work tomorrow? I have a doctor's appointment.
+E-2: The substitute teacher had to <u>fill in for the regular teacher</u> who was sick.
+E-3: I'm sorry, I cannot attend the meeting. Can someone <u>fill in for me</u>?
+
+### Japanese Translation
+J-1: 明日仕事で<u>代わってくれることができますか</u>？私は医者の予約があります。
+J-2: 代理教師は、病気の定期教師の<u>代わりを務める</u>必要がありました。
+J-3: 申し訳ありませんが、私は会議に出席できません。誰かが<u>代わりに出席できますか</u>？

@@ -1,0 +1,11 @@
+# Key:long shot!
+## Response
+### English Sentences
+E-1: It's a <u>long shot</u>, but I'll try asking my boss for a raise.
+E-2: I know it's a <u>long shot</u>, but maybe we can still make it to the movie in time.
+E-3: He's not the best candidate, but he's worth a <u>long shot</u> in the upcoming election.
+
+### Japanese Translation
+J-1: 上司に昇給を頼んでみるのは<u>無謀な試み</u>だけど、やってみる価値はある。
+J-2: 間に合うかどうかはわからないけど、映画に間に合うかもしれないと思って<u>少し無謀に</u>でも行ってみよう。
+J-3: 彼は最高の候補者ではないけれど、<u>少し冒険的に</u>次の選挙に出馬してみてもいいかもしれない。

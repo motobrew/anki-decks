@@ -1,0 +1,11 @@
+# Key:give or take
+## Response
+### English Sentences
+E-1: The meeting will start at 3 PM <u>give or take</u>.
+E-2: My flight is supposed to arrive at 7 PM <u>give or take</u> 30 minutes.
+E-3: The package should arrive in 5-7 days, <u>give or take</u> a day or two.
+
+### Japanese Translation
+J-1: 会議は3時に<u>多少前後するかもしれません</u>。
+J-2: 私のフライトは7時に着くはずですが、<u>30分前後するかもしれません</u>。
+J-3: 包みは5〜7日で届く予定ですが、<u>1〜2日前後するかもしれません</u>。

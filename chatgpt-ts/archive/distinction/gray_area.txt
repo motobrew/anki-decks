@@ -1,0 +1,11 @@
+# Key:gray area
+## Response
+### English Sentences
+E-1: The legality of the company's actions falls into a <u>gray area</u>, and may require further investigation.
+E-2: Whether or not the policy is ethical can be seen as a <u>gray area</u>, and opinions may differ.
+E-3: The line between flirting and harassment can be a <u>gray area</u>, so it's important to be respectful and mindful.
+
+### Japanese Translation
+J-1: その企業の行為の合法性は<u>曖昧な状況</u>にあり、さらなる調査が必要かもしれません。
+J-2: 政策が倫理的かどうかは<u>曖昧な範囲</u>と見なされ、意見が異なることがあります。
+J-3: 好意とセクハラの間には<u>曖昧な領域</u>が存在するため、敬意と注意を払うことが重要です。

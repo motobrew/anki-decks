@@ -1,0 +1,11 @@
+# Key:D and M
+## Response
+### English Sentences
+E-1: I had a great <u>chat</u> with my friend over coffee this morning.
+E-2: I need to have a <u>heart-to-heart</u> with my partner about our relationship.
+E-3: Let's grab a drink and have a good <u>deep and meaningful</u> talk.
+
+### Japanese Translation
+J-1: 今朝、コーヒーで友達と<u>おしゃべり</u>を楽しんだ。
+J-2: パートナーと関係について<u>心からの話し合い</u>をしなくてはいけない。
+J-3: 飲み物を飲みながら、<u>深い意味のある</u>話をしよう。

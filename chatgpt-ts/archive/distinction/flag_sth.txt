@@ -1,0 +1,11 @@
+# Key:flag sth
+## Response
+### English Sentences
+E-1: Don't forget to <u>flag</u> the important emails in your inbox.
+E-2: The teacher asked us to <u>flag</u> the parts of the passage that we didn't understand.
+E-3: The website allows you to <u>flag</u> inappropriate content.
+
+### Japanese Translation
+J-1: 大事なメールを受信箱で<u>マーク</u>するのを忘れないでください。
+J-2: 先生はパッセージの理解できない部分を<u>指摘するように言いました。</u>
+J-3: そのウェブサイトでは不適切なコンテンツを<u>報告</u>することができます。

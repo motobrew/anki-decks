@@ -1,0 +1,11 @@
+# Key:wild goose chase
+## Response
+### English Sentences
+E-1: I've been looking for my keys for an hour, but it's turning into a <u>wild goose chase</u>.
+E-2: My boss sent me on a <u>wild goose chase</u> to find a file that didn't exist.
+E-3: Trying to find a decent parking spot downtown is always a <u>wild goose chase</u>.
+
+### Japanese Translation
+J-1: 1時間も鍵を探しているけど、ただの<u>無駄足</u>になりそうだ。
+J-2: 上司に偽のファイルを探すという<u>無駄足</u>な仕事を命じられた。
+J-3: 繁華街で良い駐車場を探すのはいつも<u>無駄足</u>だ。

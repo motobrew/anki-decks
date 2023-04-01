@@ -1,0 +1,11 @@
+# Key:circa
+## Response
+### English Sentences
+E-1: I bought this vintage t-shirt from <u>circa</u> the 80s.
+E-2: The city hall building was constructed <u>circa</u> 1920.
+E-3: The recipe for this dish is from <u>circa</u> my grandmother's time.
+
+### Japanese Translation
+J-1: このビンテージTシャツは80年代<u>頃</u>に買いました。
+J-2: 市役所ビルは1920年<u>頃</u>に建てられました。
+J-3: この料理のレシピは祖母の<u>頃</u>からのものです。

@@ -1,0 +1,11 @@
+# Key:kick sb out
+## Response
+### English Sentences
+E-1: The bouncer had to <u>kick</u> that unruly patron <u>out</u> of the bar.
+E-2: If you don't behave yourself, I'll have to <u>kick you out</u> of class.
+E-3: The landlord decided to <u>kick the tenants out</u> for not paying rent.
+
+### Japanese Translation
+J-1: バウンサーは、騒々しい客をバーから<u>追い出さ</u>なければなりませんでした。
+J-2: あなたが行儀悪いことをしたら、私はあなたをクラスから<u>追い出さ</u>なければなりません。
+J-3: 大家は、家賃を払わないテナントを<u>立ち退かせること</u>にしました。

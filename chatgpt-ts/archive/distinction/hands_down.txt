@@ -1,0 +1,11 @@
+# Key:hands down
+## Response
+### English Sentences
+E-1: That movie was <u>hands down</u> the best one I've seen all year.
+E-2: She's <u>hands down</u> the best singer in the competition.
+E-3: The winner of the race was <u>hands down</u> the fastest runner.
+
+### Japanese Translation
+J-1: その映画は、今年見た中で<u>ダントツで</u>一番良かった。
+J-2: 彼女はコンペティションで<u>絶対に</u>最高の歌手だ。
+J-3: レースの優勝者は、<u>明らかに</u>最速の走者だった。

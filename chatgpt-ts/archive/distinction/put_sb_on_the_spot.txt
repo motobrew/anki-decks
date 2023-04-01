@@ -1,0 +1,11 @@
+# Key:put sb on the spot
+## Response
+### English Sentences
+E-1: When the interviewer asked about my weaknesses, it really <u>put me on the spot</u>.
+E-2: Sarah was <u>put on the spot</u> when her boss asked her to give a presentation with no notice.
+E-3: I didn't want to <u>put him on the spot</u>, so I didn't ask him any questions during the meeting.
+
+### Japanese Translation
+J-1: 面接官が私の弱点について尋ねたとき、本当に<u>当惑させられました</u>。
+J-2: サラは、ノーティスでプレゼンテーションを行うよう上司に頼まれたとき、<u>当惑しました</u>。
+J-3: 私は彼を<u>当惑させたくなかったので</u>、ミーティング中に彼に質問をしなかった。

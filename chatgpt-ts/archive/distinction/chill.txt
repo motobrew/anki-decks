@@ -1,0 +1,11 @@
+# Key:chill
+## Response
+### English Sentences
+E-1: Let's just <u>chill</u> and watch a movie tonight.
+E-2: The party last night was so <u>chill</u>, everyone was just hanging out and having fun.
+E-3: I need to <u>chill</u> out after work before I start studying.
+
+### Japanese Translation
+J-1: 今夜はただ<u>のんびりして</u>映画を観ましょう。
+J-2: 昨晩のパーティーはとても<u>くつろいでいた</u>。みんながただぶらぶらして楽しんでいた。
+J-3: 仕事後に<u>リラックス</u>してから勉強を始める必要があります。

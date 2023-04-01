@@ -1,0 +1,11 @@
+# Key:grab sth
+## Response
+### English Sentences
+E-1: I'm going to <u>grab</u> a quick bite to eat before the meeting.
+E-2: Can you <u>grab</u> me a coffee on your way back from the break room?
+E-3: She's always trying to <u>grab</u> attention with her outrageous outfits.
+
+### Japanese Translation
+J-1: 会議の前に、ちょっとした食事を<u>すぐに手に入れる</u>つもりです。
+J-2: ブレイクルームから戻る途中で、コーヒーを<u>買ってきてもらえますか</u>？
+J-3: 彼女はいつも奇抜な服装で<u>注目を集めようとしている</u>。

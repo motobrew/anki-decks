@@ -1,0 +1,11 @@
+# Key:clear sth up
+## Response
+### English Sentences
+E-1: Can you <u>clear up</u> the misunderstanding between us?
+E-2: I need to <u>clear up</u> my desk before I leave.
+E-3: The doctor will <u>clear up</u> your doubts about the medication. 
+
+### Japanese Translation
+J-1: 私達の間の誤解を<u>解消</u>してくれませんか？
+J-2: 帰る前にデスクを<u>片付け</u>る必要があります。
+J-3: 医師が薬に関する疑問を<u>解明</u>してくれます。

@@ -1,0 +1,11 @@
+# Key:game-changer
+## Response
+### English Sentences
+E-1: That new product launch was a <u>game-changer</u> for our company.
+E-2: Hiring that experienced CEO was a <u>game-changer</u> for the struggling startup.
+E-3: The new technology is going to be a <u>game-changer</u> in the industry.
+
+### Japanese Translation
+J-1: 当社にとっては、新製品の発売は<u>革命的</u>なものでした。
+J-2: 経営が苦戦していたスタートアップにとって、経験豊富なCEOの採用は<u>革命的</u>でした。
+J-3: その新しい技術は、業界において<u>画期的</u>となるでしょう。

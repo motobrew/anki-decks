@@ -1,0 +1,11 @@
+# Key:sight for sore eyes
+## Response
+### English Sentences
+E-1: Seeing my best friend after months of being apart was a <u>sight for sore eyes</u>.
+E-2: After a long day at work, a hot shower and a cold drink are a <u>sight for sore eyes</u>.
+E-3: The park was a <u>sight for sore eyes</u> after being stuck indoors during quarantine.
+
+### Japanese Translation
+J-1: 数か月離れていた親友に会うのは、さすがに嬉しくて<u>涙が出そう</u>だった。
+J-2: 仕事で一日過ごした後、熱いシャワーと冷たい飲み物を楽しむと、それはもう本当に<u>至福の時間</u>だ。
+J-3: 長期間の隔離期間に、公園で外気を楽しむのは、それはもう<u>心から癒される</u>。

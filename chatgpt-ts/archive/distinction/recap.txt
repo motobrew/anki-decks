@@ -1,0 +1,11 @@
+# Key:recap
+## Response
+### English Sentences
+E-1: Let me <u>recap</u> what we discussed in the meeting.
+E-2: Can you <u>recap</u> the key points of the presentation for me?
+E-3: I missed the first episode of the show, can you <u>recap</u> it for me?
+
+### Japanese Translation
+J-1: 会議で話し合った内容を<u>まとめて</u>説明しましょう。
+J-2: プレゼンテーションの要点を<u>簡単にまとめて</u>説明してくれますか？
+J-3: 初回の放送を見逃してしまったので、<u>あらすじ</u>を教えてもらえますか？

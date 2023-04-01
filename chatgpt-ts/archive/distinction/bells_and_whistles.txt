@@ -1,0 +1,11 @@
+# Key:bells and whistles
+## Response
+### English Sentences
+E-1: The basic phone has calling and texting, but the upgraded version has all the <u>bells and whistles</u> like a better camera and facial recognition.
+E-2: The restaurant is famous for its burgers, but they also have a dessert menu with all the <u>bells and whistles</u> like ice cream sundaes and chocolate cake.
+E-3: I prefer a simple watch with just the time, but some people like a watch with all the <u>bells and whistles</u> like a stopwatch and GPS.
+
+### Japanese Translation
+J-1: 基本電話には通話とテキスト機能がありますが、アップグレード版には良いカメラや顔認識など<u>最新機能</u>があります。
+J-2: そのレストランはバーガーが有名ですが、アイスクリームサンデーとチョコレートケーキなど<u>豪華なメニュー</u>もあります。
+J-3: 私は時刻だけのシンプルな時計が好きですが、ストップウォッチやGPSなど<u>多機能な時計</u>が好きな人もいます。

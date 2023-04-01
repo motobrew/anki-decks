@@ -1,0 +1,11 @@
+# Key:play it by ear
+## Response
+### English Sentences
+E-1: We don't have a set plan for the party yet, but we'll just <u>play it by ear</u>.
+E-2: I'm not sure if I'll be able to make it to the meeting tomorrow, so let's <u>play it by ear</u>.
+E-3: We're not sure which restaurant we want to go to, so we'll just <u>play it by ear</u> and see where we end up.
+
+### Japanese Translation
+J-1: パーティーの計画がまだ決まっていないので、<u>その場の判断</u>で行きましょう。
+J-2: 明日の会議に出席できるかわからないので、<u>その場で決めましょう</u>。
+J-3: どのレストランに行くか決めていないので、<u>その場で決めていこう</u>。

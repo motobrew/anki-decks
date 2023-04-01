@@ -1,0 +1,11 @@
+# Key:boil down to sth
+## Response
+### English Sentences
+E-1: When it comes to losing weight, it really <u>boils down to</u> eating less and exercising more.
+E-2: The issue <u>boils down to</u> a lack of communication between the two departments.
+E-3: The success of the project will <u>boil down to</u> whether or not we can secure enough funding.
+
+### Japanese Translation
+J-1: 減量に関して言えば、本当に<u>要するに</u>食事を減らして運動することだ。
+J-2: 問題は、2つの部署の間のコミュニケーション不足に<u>尽きる</u>。
+J-3: プロジェクトの成功は、十分な資金を確保できるかどうかに<u>かかっている</u>。

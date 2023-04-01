@@ -1,0 +1,11 @@
+# Key:rule of thumb
+## Response
+### English Sentences
+E-1: As a <u>rule of thumb</u>, it's best to arrive at the airport two hours before your flight.
+E-2: A <u>rule of thumb</u> for cooking pasta is to use one gallon of water for every pound of pasta.
+E-3: A <u>rule of thumb</u> when budgeting for a trip is to allocate at least 20% for unexpected expenses.
+
+### Japanese Translation
+J-1: <u>ざっくりとした基準として</u>、飛行機に乗る2時間前に空港に到着するのがベストです。
+J-2: パスタを調理するときの<u>ざっくりとした基準として</u>、1ポンドのパスタに対して1ガロンの水を使用することです。
+J-3: 旅費の予算を組むときの<u>ざっくりとした基準として</u>、想定外の費用のために最低20％を割り当てることです。

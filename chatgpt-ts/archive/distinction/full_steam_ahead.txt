@@ -1,0 +1,11 @@
+# Key:full steam ahead
+## Response
+### English Sentences
+E-1: We have a deadline coming up, so let's put <u>full steam ahead</u> on this project.
+E-2: Despite obstacles, the company is moving <u>full steam ahead</u> with their expansion plans.
+E-3: After a setback, she decided to approach the challenge with <u>full steam ahead</u>.
+
+### Japanese Translation
+J-1: 締め切りが迫っているので、このプロジェクトを<u>全力で進めましょう</u>。
+J-2: 障害があるにもかかわらず、その企業は拡大計画を<u>全力で進めています</u>。
+J-3: 妨害があった後、彼女は<u>全力で取り組む</u>ことを決めました。

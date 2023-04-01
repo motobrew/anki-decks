@@ -1,0 +1,11 @@
+# Key:trailblazer
+## Response
+### English Sentences
+E-1: My grandfather was a <u>trailblazer</u> in the field of medicine.
+E-2: She's a <u>trailblazer</u> in the world of fashion and design.
+E-3: That company was a <u>trailblazer</u> in the development of new technology.
+
+### Japanese Translation
+J-1: 私の祖父は医療の分野での<u>草分け</u>だった。
+J-2: 彼女はファッションとデザインの世界での<u>パイオニア</u>だ。
+J-3: その企業は新しいテクノロジーの開発において<u>先駆者</u>だった。

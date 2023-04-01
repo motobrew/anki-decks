@@ -1,0 +1,11 @@
+# Key:take it the wrong way
+## Response
+### English Sentences
+E-1: I don't mean to offend you, so please don't <u>take it the wrong way</u>, but your outfit is a little too flashy for the office.
+E-2: I hope you don't <u>take it the wrong way</u>, but your cooking could use a little improvement.
+E-3: I didn't mean to be rude, so please don't <u>take it the wrong way</u>, but I think you misunderstood what I was trying to say.
+
+### Japanese Translation
+J-1: オフィスにとっては少し派手すぎると思いますが、そんなつもりはないので、気分を害さないでください（<u>take it the wrong way</u>）。
+J-2: クッキングには改善の余地がありますが、不快な思いをさせたくないので、誤解しないでください（<u>take it the wrong way</u>）。
+J-3: 失礼をしたつもりはなかったので、私が言おうとしていたことを間違えて理解してしまったかもしれないので、悪意を持っているわけではありません（<u>take it the wrong way</u>）。

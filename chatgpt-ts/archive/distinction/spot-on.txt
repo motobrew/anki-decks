@@ -1,0 +1,11 @@
+# Key:spot-on
+## Response
+### English Sentences
+E-1: His analysis of the situation was <u>spot-on</u>.
+E-2: The weatherman's forecast was <u>spot-on</u>.
+E-3: Your guess about what I wanted was <u>spot-on</u>.
+
+### Japanese Translation
+J-1: 彼の状況分析は<u>バッチリ</u>だった。
+J-2: 天気予報士の予報は<u>ピタリ</u>だった。
+J-3: 私が欲しかったものを当ててくれたあなたの予想は<u>的中</u>だった。

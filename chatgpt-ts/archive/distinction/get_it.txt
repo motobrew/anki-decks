@@ -1,0 +1,11 @@
+# Key:get it
+## Response
+### English Sentences
+E-1: I don't think she <u>gets it</u>, even after I explained it several times.
+E-2: He finally <u>got it</u> after I drew a diagram of the process.
+E-3: You really need to <u>get it</u> together and start studying for the exam.
+
+### Japanese Translation
+J-1: 私が何度も説明したのに、彼女はまだ<u>理解していない</u>と思います。
+J-2: プロセスの図を描いた後、彼はようやく<u>理解した</u>。
+J-3: あなたは本当に<u>集中して</u>、試験勉強を始める必要があります。

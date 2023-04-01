@@ -1,0 +1,11 @@
+# Key:egg sb on
+## Response
+### English Sentences
+E-1: My friends always try to <u>egg me on</u> to eat spicy food, but I can't handle it.
+E-2: The coach was <u>egging the team on</u> during the game to score more points.
+E-3: My little brother loves to <u>egg me on</u> and make me angry.
+
+### Japanese Translation
+J-1: 友達はいつも私に辛いものを食べるように<u>そそのかす</u>けど、私は耐えられない。
+J-2: コーチは試合中、チームに<u>鼓舞</u>し、もっと点を取るように促した。
+J-3: 弟は私を<u>刺激</u>して怒らせるのが大好きだ。

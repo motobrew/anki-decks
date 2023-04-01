@@ -1,0 +1,11 @@
+# Key:more art than science
+## Response
+### English Sentences
+E-1: Writing essays is more art than science; there's no fixed formula to follow.
+E-2: Cooking a perfect meal is more art than science; it depends on one's intuition and creativity.
+E-3: Making a hit movie is more art than science; it involves capturing the audience's emotions.
+
+### Japanese Translation
+J-1: エッセイを書くことは科学的ではなく、むしろアートの要素が強いです。決まった公式はありません。
+J-2: 絶品の食事を作ることは科学的ではなく、むしろアートの要素が強く、勘や創造力に依存します。
+J-3: ヒット映画を作ることは科学的ではなく、むしろ観客の感情を捉えることに関わります。

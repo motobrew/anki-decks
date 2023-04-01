@@ -12,7 +12,7 @@ main () {
     do
         #key=$(echo $line | sed "s/&#x27;/'/g" | tr -d '"')
         key=$line
-        output_file=$log_dir/$(echo $key | sed 's/ /_/g' | sed "s/'//g").txt
+        output_file=$log_dir/$(echo $key | sed 's/ /_/g' | sed "s/'//g" | sed 's%/%-%g').txt
         echo "### $(date): Start: [$key]"
         echo "# Key:$key" | tee $output_file
         ts-node src/index.ts "'$key'" | tee -a $output_file

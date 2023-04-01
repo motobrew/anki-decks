@@ -1,0 +1,11 @@
+# Key:burning desire
+## Response
+### English Sentences
+E-1: The thought of pizza gives me a <u>burning desire</u> to order it right now.
+E-2: She had a <u>burning desire</u> to travel the world and see all its wonders.
+E-3: He had a <u>burning desire</u> to win the championship and worked hard every day to achieve it.
+
+### Japanese Translation
+J-1: ピザの思い出は私に今すぐ注文したい<u>強い願望</u>を与えます。
+J-2: 彼女は世界中を旅してすべての驚異を見る<u>熱い願望</u>を持っていました。
+J-3: 彼は優勝する<u>強い願望</u>を持っており、毎日努力してそれを達成しようとしました。

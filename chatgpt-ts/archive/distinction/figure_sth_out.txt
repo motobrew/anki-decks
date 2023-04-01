@@ -1,0 +1,11 @@
+# Key:figure sth out
+## Response
+### English Sentences
+E-1: I couldn't <u>figure out</u> the answer to that math problem.
+E-2: Can you help me <u>figure out</u> how to fix my car?
+E-3: He's trying to <u>figure out</u> how to ask her to prom.
+
+### Japanese Translation
+J-1: あの数学の問題の答えが<u>分からなかった</u>。
+J-2: 車を修理する方法を<u>考える</u>のを手伝ってくれませんか？
+J-3: 彼は彼女にプロムに行く方法を<u>考えついている</u>。

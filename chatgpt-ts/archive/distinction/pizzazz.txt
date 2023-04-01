@@ -1,0 +1,11 @@
+# Key:pizzazz
+## Response
+### English Sentences
+E-1: That dress has a lot of <u>pizzazz</u> with all those sequins and glitter.
+E-2: We need to add some <u>pizzazz</u> to this presentation to make it more interesting.
+E-3: The performer has so much <u>pizzazz</u> on stage, everyone was captivated by their performance.
+
+### Japanese Translation
+J-1: そのドレスは、たくさんのシーケンスとグリッターでたくさんの<u>効果を出しています</u>。
+J-2: 私たちはこのプレゼンテーションに少し<u>効果を加える必要が</u>あります。
+J-3: パフォーマーは舞台でとても<u>魅力的</u>だったので、誰もが彼らのパフォーマンスに魅了されました。

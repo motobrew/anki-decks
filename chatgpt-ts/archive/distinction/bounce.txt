@@ -1,0 +1,11 @@
+# Key:bounce
+## Response
+### English Sentences
+E-1: I'm going to <u>bounce</u> from this party, it's too crowded.
+E-2: Hey man, can you <u>bounce</u> me that pen over there?
+E-3: Let's <u>bounce</u> to the next bar and grab a drink.
+
+### Japanese Translation
+J-1: このパーティーから<u>退散</u>するわ、人が多すぎる。
+J-2: おい、あのペンを<u>こっちに投げてくれないか？</u>
+J-3: 次のバーに<u>移動して</u>飲み物を買おう。

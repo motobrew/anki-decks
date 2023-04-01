@@ -1,0 +1,11 @@
+# Key:get one's hands on sth
+## Response
+### English Sentences
+E-1: I finally <u>got my hands on</u> the new iPhone after waiting in line for hours.
+E-2: I've been trying to <u>get my hands on</u> some concert tickets but they're sold out everywhere.
+E-3: If you <u>get your hands on</u> that confidential document, be sure to keep it safe.
+
+### Japanese Translation
+J-1: 数時間待って行列に並んだ後、私はついに新しいiPhoneを<u>手に入れた</u>。
+J-2: コンサートのチケットを<u>手に入れる</u>ために、どこに行っても完売している。
+J-3: その機密文書を<u>手に入れる</u>場合は、しっかりと保管してください。

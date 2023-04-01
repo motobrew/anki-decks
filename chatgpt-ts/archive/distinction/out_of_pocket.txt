@@ -1,0 +1,11 @@
+# Key:out of pocket
+## Response
+### English Sentences
+E-1: I can't believe he didn't pay you back, he's <u>out of pocket</u>.
+E-2: Sorry for the delay, I've been <u>out of pocket</u> all day without my phone.
+E-3: Our boss is <u>out of pocket</u> for the week, so we'll have to handle things on our own.
+
+### Japanese Translation
+J-1: 彼が返金しなかったなんて信じられない、彼は<u>不在</u>だ。
+J-2: 遅れてごめんなさい、一日中携帯電話がなく<u>連絡が取れなかった</u>。
+J-3: 私たちの上司が一週間<u>不在</u>なので、自分たちで処理しなければなりません。

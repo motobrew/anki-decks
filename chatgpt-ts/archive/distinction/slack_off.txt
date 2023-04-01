@@ -1,0 +1,11 @@
+# Key:slack off
+## Response
+### English Sentences
+E-1: Don't <u>slack off</u> on your assignments or you'll fall behind.
+E-2: The boss warned the employees not to <u>slack off</u> during work hours.
+E-3: I need to <u>slack off</u> and relax this weekend.
+
+### Japanese Translation
+J-1: 課題をサボらないようにしないと、遅れるよ。
+J-2: 上司は社員に、仕事中にサボらないように注意した。
+J-3: 今週末はサボってリラックスする必要がある。

@@ -1,0 +1,11 @@
+# Key:cut to the chase
+## Response
+### English Sentences
+E-1: Let's <u>cut to the chase</u>, what's the real reason you came here today?
+E-2: I don't have time to listen to your excuses, can you please <u>cut to the chase</u> and tell me what happened?
+E-3: Instead of beating around the bush, why don't you <u>cut to the chase</u> and tell me what you're trying to ask for?
+
+### Japanese Translation
+J-1: 結局何のために今日来たか、話題を<u>本題に切り替えましょう</u>。
+J-2: あなたの言い訳を聞く時間がありません、早く<u>本題に入って</u>何が起こったかを話してください。
+J-3: 話を遠回しにする代わりに、なんだかんだ言わずに<u>要点をサッと伝えてください</u>。

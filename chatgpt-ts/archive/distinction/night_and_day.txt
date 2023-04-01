@@ -1,0 +1,11 @@
+# Key:night and day
+## Response
+### English Sentences
+E-1: My life has changed <u>night and day</u> since I started exercising regularly.
+E-2: After the renovation, our house looks <u>night and day</u> different than before.
+E-3: After the team hired a new coach, their performance improved <u>night and day</u>.
+
+### Japanese Translation
+J-1: 定期的に運動を始めてから、私の人生は劇的に変わりました。
+J-2: 改装後、私たちの家は以前とは劇的に異なって見えます。
+J-3: チームが新しいコーチを雇った後、彼らのパフォーマンスは劇的に改善しました。

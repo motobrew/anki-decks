@@ -1,0 +1,11 @@
+# Key:steady the ship
+## Response
+### English Sentences
+E-1: The CEO's sudden resignation left the company in chaos, but the new leader was able to <u>steady the ship</u> and restore order.
+E-2: After a few turbulent months, the coach was able to <u>steady the ship</u> and lead the team to victory in the playoffs.
+E-3: The economy was in decline, but the government implemented policies to <u>steady the ship</u> and promote growth.
+
+### Japanese Translation
+J-1: CEOの突然の辞任は会社を混乱させたが、新しいリーダーは<u>舵を取り</u>秩序を回復させた。
+J-2: 数か月間、動乱があったが、コーチはチームを<u>立て直し</u>、プレーオフで勝利に導いた。
+J-3: 経済は低迷していたが、政府は政策を実施して<u>安定させ</u>、成長を促進した。

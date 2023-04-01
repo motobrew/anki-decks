@@ -1,0 +1,11 @@
+# Key:chill out
+## Response
+### English Sentences
+E-1: Hey man, <u>chill out</u>, it's not that serious.
+E-2: Let's just <u>chill out</u> at home tonight and watch a movie.
+E-3: I need to <u>chill out</u> for a bit after that stressful meeting.
+
+### Japanese Translation
+J-1: おい、まったくもって問題ないから<u>冷静になって</u>くれよ。
+J-2: 今夜はただ家でゆっくりと<u>リラックスしよう</u>、映画でも見よう。
+J-3: あのストレスフルな会議の後、ちょっと<u>落ち着かない</u>。

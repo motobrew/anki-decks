@@ -1,0 +1,11 @@
+# Key:deep-dive
+## Response
+### English Sentences
+E-1: We need to do a <u>deep-dive</u> analysis of our sales data to figure out why we're not meeting our targets.
+E-2: The CEO wants to schedule a <u>deep-dive</u> meeting to discuss our company's long-term strategy.
+E-3: The investigative journalist did a <u>deep-dive</u> into the politician's past and uncovered some scandalous information.
+
+### Japanese Translation
+J-1: 私たちは、なぜターゲットに達していないのかを把握するために、売上データの<u>深堀り</u>分析を行う必要があります。
+J-2: CEOは、当社の長期戦略について議論するために<u>深掘り</u>会議をスケジュールしたいと考えています。
+J-3: 調査ジャーナリストは、政治家の過去に<u>深堀り</u>し、スキャンダラスな情報を発掘しました。

@@ -1,0 +1,11 @@
+# Key:blow it
+## Response
+### English Sentences 
+E-1: I had a chance to win the game, but I <u>blew it</u> by missing an easy shot.
+E-2: The company could have made a big profit, but they <u>blew it</u> by making a bad investment.
+E-3: I was going to ask her out on a date, but I got nervous and <u>blew it</u>.
+
+### Japanese Translation
+J-1: 簡単なショットを外して、試合に勝つチャンスがあったのに<u>台無しにしてしまった</u>。
+J-2: 会社は大きな利益を上げることができたのに、悪い投資をして<u>失敗してしまった</u>。
+J-3: 彼女にデートを誘おうと思っていたけど、緊張して<u>しくじってしまった</u>。

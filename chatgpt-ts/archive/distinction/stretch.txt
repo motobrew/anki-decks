@@ -1,0 +1,11 @@
+# Key:stretch
+## Response
+### English Sentences
+E-1: I didn't want to go to the party at first, but I decided to <u>stretch</u> myself and try something new.
+E-2: You only have an hour to complete the exam, so make sure you <u>stretch</u> your time wisely.
+E-3: The company is going to <u>stretch</u> the budget to hire a new team member.
+
+### Japanese Translation
+J-1: 最初はパーティーに行きたくなかったけど、新しいことを試してみようと<u>思い切って</u>行くことにした。
+J-2: 試験を終える時間は1時間しかないので、時間を賢く<u>やり繰り</u>してください。
+J-3: 会社は新しいチームメンバーを採用するために予算を<u>拡大</u>するつもりです。

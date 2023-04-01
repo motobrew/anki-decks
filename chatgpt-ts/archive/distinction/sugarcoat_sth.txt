@@ -1,0 +1,11 @@
+# Key:sugarcoat sth
+## Response
+### English Sentences
+E-1: I don't want to <u>sugarcoat</u> the truth - you failed the exam.
+E-2: She tried to <u>sugarcoat</u> her criticisms, but they were still hurtful.
+E-3: Let's not <u>sugarcoat</u> this - the project is way behind schedule.
+
+### Japanese Translation
+J-1: 私は真実を<u>飾らないで</u>言います - あなたは試験に落ちました。
+J-2: 彼女は自分の批判を<u>柔らかく</u>言おうとしましたが、それでも傷つけるものでした。
+J-3: このまま<u>美辞麗句を使わずに</u>行きましょう - プロジェクトは大幅に遅れています。

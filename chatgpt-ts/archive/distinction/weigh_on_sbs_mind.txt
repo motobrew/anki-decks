@@ -1,0 +1,11 @@
+# Key:weigh on sb's mind
+## Response
+### English Sentences
+E-1: The thought of failing the exam was <u>weighing on</u> his mind.
+E-2: She couldn't sleep at night because the argument with her friend was <u>weighing on</u> her mind.
+E-3: The financial problems were constantly <u>weighing on</u> his mind.
+
+### Japanese Translation
+J-1: 試験に失敗することを考えると彼の心が<u>重く</u>なった。
+J-2: 彼女は友達との口論があって眠れなかった。それが彼女の心を<u>重く</u>していた。
+J-3: 財政上の問題が彼の心を常に<u>重く</u>していた。

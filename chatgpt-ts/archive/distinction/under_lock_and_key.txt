@@ -1,0 +1,11 @@
+# Key:under lock and key
+## Response
+### English Sentences
+E-1: The confidential documents are kept <u>under lock and key</u> in the safe.
+E-2: The winning lottery ticket was <u>under lock and key</u> until the prize was claimed.
+E-3: The museum's priceless artifacts are always kept <u>under lock and key</u> to prevent theft.
+
+### Japanese Translation
+J-1: 機密書類は金庫の中で<u>厳重に保管されています</u>。
+J-2: 当選した宝くじの券は、景品が引き換えられるまで<u>厳重に保管されていました</u>。
+J-3: 博物館の貴重な工芸品は常に<u>盗難を防ぐために厳重に保管されています</u>。

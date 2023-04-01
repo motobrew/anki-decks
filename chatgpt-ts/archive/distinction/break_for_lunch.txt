@@ -1,0 +1,11 @@
+# Key:break for lunch
+## Response
+### English Sentences
+E-1: Let's take a <u>break for lunch</u>.
+E-2: I need to <u>break for lunch</u> before we continue our meeting.
+E-3: We can <u>break for lunch</u> now and reconvene in an hour.
+
+### Japanese Translation
+J-1: 昼食のために<u>休憩しましょう</u>。
+J-2: 会議を続ける前に、私は<u>昼食のために休憩</u>する必要があります。
+J-3: 今すぐ<u>昼食のために休憩</u>し、1時間後に再開することができます。

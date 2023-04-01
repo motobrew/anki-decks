@@ -1,0 +1,11 @@
+# Key:wing it
+## Response
+### English Sentences
+E-1: I forgot my presentation notes at home, so I'll just have to <u>wing it</u>.
+E-2: I didn't have time to rehearse for the audition, so I'll just <u>wing it</u> and hope for the best.
+E-3: The chef ran out of ingredients, so he had to <u>wing it</u> and come up with a new recipe on the spot.
+
+### Japanese Translation
+J-1: プレゼンテーションのノートを家に忘れたので、<u>その場でやってみる</u>しかない。
+J-2: オーディションのリハーサルの時間がなかったので、<u>その場でやってみる</u>しかない、ベストを願って。
+J-3: シェフが材料切れで、<u>即興</u>で新しいレシピを考えなければならなかった。

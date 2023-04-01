@@ -1,0 +1,11 @@
+# Key:bad influence
+## Response
+### English Sentences
+E-1: I can't hang out with Tommy anymore, he's a <u>bad influence</u> and always gets me into trouble.
+E-2: Jenna started smoking because she fell in with a <u>bad influence</u> crowd at school.
+E-3: My brother's girlfriend is a <u>bad influence</u> on him - she's always convincing him to skip work and go party instead.
+
+### Japanese Translation
+J-1: もうトミーとは一緒に遊べない。彼は<u>悪影響</u>で、いつもトラブルに巻き込まれる。
+J-2: ジェナは学校で<u>悪影響</u>のあるグループに入ってしまい、喫煙を始めた。
+J-3: 兄の彼女は彼に<u>悪影響</u>を与えている。彼女はいつも仕事をサボってパーティーに誘ってくるから。

@@ -1,0 +1,11 @@
+# Key:pull the trigger
+## Response
+### English Sentences
+E-1: He talked about quitting his job for months, but finally decided to <u>pull the trigger</u> and hand in his resignation.
+E-2: I've been saving up for a while and now I think it's time to <u>pull the trigger</u> on that new car I've been eyeing.
+E-3: After months of planning, they finally <u>pulled the trigger</u> and booked their dream vacation to Hawaii.
+
+### Japanese Translation
+J-1: 彼は数か月間仕事を辞めることについて話していましたが、ついに気を決めて辞表を出すことにした。
+J-2: 私はしばらく貯金してきましたが、今度こそ狙っている新しい車を手に入れる時が来たと思います。
+J-3: 計画を立てて数カ月後、ついに夢のハワイ旅行を予約する決心をした。

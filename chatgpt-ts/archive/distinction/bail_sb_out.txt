@@ -1,0 +1,11 @@
+# Key:bail sb out
+## Response
+### English Sentences
+E-1: I need you to <u>bail me out</u> of jail.
+E-2: If you have any extra money, can you <u>bail me out</u> and lend me some?
+E-3: The company's financial crisis requires a bailout, and the government will <u>bail them out</u>.
+
+### Japanese Translation
+J-1: 刑務所から私を<u>保釈</u>してください。
+J-2: もし余分なお金があるなら、<u>助け舟</u>を出して少し貸してくれませんか？
+J-3: 会社の財政危機は<acronym title="救済措置">bailout</acronym>が必要で、政府が<u>救済する</u>必要があります。

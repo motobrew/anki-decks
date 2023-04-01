@@ -1,0 +1,11 @@
+# Key:punchy
+## Response
+### English Sentences
+E-1: That joke was so <u>punchy</u>, it had me laughing for hours.
+E-2: I love this song because of its <u>punchy</u> beat and catchy lyrics.
+E-3: The newspaper article's <u>punchy</u> headline caught my attention.
+
+### Japanese Translation
+J-1: あのジョーク、すごく<u>面白かった</u>。数時間笑い続けたよ。
+J-2: この曲は、その<u>力強い</u>ビートとキャッチーな歌詞が好きだ。
+J-3: 新聞記事の<u>短く力強い</u>見出しに注目が集まった。

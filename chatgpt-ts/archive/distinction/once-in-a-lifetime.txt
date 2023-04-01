@@ -1,0 +1,11 @@
+# Key:once-in-a-lifetime
+## Response
+### English Sentences
+E-1: That concert was a <u>once-in-a-lifetime</u> experience, I'll never forget it.
+E-2: Winning the lottery is a <u>once-in-a-lifetime</u> opportunity for most people.
+E-3: Swimming with dolphins is a <u>once-in-a-lifetime</u> experience.
+
+### Japanese Translation
+J-1: あのコンサートは<u>一生に一度</u>の体験でした、忘れられない。
+J-2: 宝くじに当たるのは、ほとんどの人にとって<u>一生に一度</u>の機会です。
+J-3: イルカと泳ぐことは、<u>一生に一度</u>の経験です。

@@ -1,0 +1,11 @@
+# Key:rusty
+## Response
+### English Sentences
+E-1: I haven't played basketball in years, so my skills are <u>rusty</u>.
+E-2: Sorry, I can't play the guitar for you, my fingers are <u>rusty</u>.
+E-3: After taking a break from writing, my creativity feels a bit <u>rusty</u>.
+
+### Japanese Translation
+J-1: 私は数年間バスケットボールをしていないので、技術が<u>生疎</u>になっています。
+J-2: あなたのためにギターを弾くことはできません、私の指が<u>かじかんで</u>います。
+J-3: 書くことから少し休憩を取った後、私の創造性は少し<u>衰え</u>た感じがします。

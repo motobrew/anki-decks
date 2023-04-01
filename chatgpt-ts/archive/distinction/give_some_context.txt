@@ -1,0 +1,11 @@
+# Key:give some context
+## Response
+### English Sentences
+E-1: Let me <u>give some context</u> before I start my presentation.
+E-2: Can you <u>give some context</u> about what happened before I arrived?
+E-3: I'm not sure what you mean. Could you <u>give some context</u>?
+
+### Japanese Translation
+J-1: プレゼンテーションを始める前に、ちょっと<u>背景を説明</u>します。
+J-2: 私が到着する前に何が起こったか<u>説明</u>してもらえますか？
+J-3: あなたが何を言っているのかわかりません。もう少し<u>説明</u>してくれますか？

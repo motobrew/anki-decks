@@ -1,0 +1,11 @@
+# Key:hear through the grapevine
+## Response
+### English Sentences
+E-1: I heard through the grapevine that Sarah got promoted to manager.
+E-2: Have you heard through the grapevine that Jake and Emily broke up?
+E-3: My friends heard through the grapevine that there's going to be a surprise party for me.
+
+### Japanese Translation
+J-1: サラがマネージャーに昇格したと<u>小耳に挟んだ</u>。
+J-2: ジェイクとエミリーが別れたって<u>噂</u>聞いた？
+J-3: 友達が<u>内部情報</u>で誕生日サプライズパーティーがあるって聞いた。

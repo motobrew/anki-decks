@@ -1,0 +1,11 @@
+# Key:watered-down
+## Response
+### English Sentences
+E-1: The soda tastes like it's been <u>watered-down</u>.
+E-2: The movie adaptation was disappointing because it was <u>watered-down</u> from the original book.
+E-3: The politician's promises were <u>watered-down</u> versions of what they had campaigned on.
+
+### Japanese Translation
+J-1: ソーダは<u>駄目押し</u>されたような味がします。
+J-2: 映画化された作品は、原作から<u>いい加減</u>になってがっかりしました。
+J-3: 政治家の約束は、キャンペーン時の約束から<u>緩和</u>されたものでした。

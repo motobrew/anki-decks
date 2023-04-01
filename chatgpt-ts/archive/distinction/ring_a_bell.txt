@@ -1,0 +1,11 @@
+# Key:ring a bell
+## Response
+### English Sentences
+E-1: Does the name Jennifer <u>ring a bell</u>? She used to work with us.
+E-2: I can't remember where I put my keys. Does that <u>ring a bell</u>?
+E-3: The movie sounds familiar but the title doesn't <u>ring a bell</u>.
+
+### Japanese Translation
+J-1: ジェニファーという名前は、私たちと一緒に働いていた人です。覚えていますか？
+J-2: 鍵をどこに置いたか思い出せません。ピンと来ませんか？
+J-3: その映画は聞いたことがあるけど、タイトルがピンと来ない。

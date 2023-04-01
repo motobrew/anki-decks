@@ -1,0 +1,11 @@
+# Key:silver lining
+## Response
+### English Sentences
+E-1: The pandemic has been tough, but the <u>silver lining</u> is that it brought families closer together.
+E-2: My car broke down on the way to work, but the <u>silver lining</u> was that I got to enjoy a beautiful walk.
+E-3: I didn't get the promotion, but the <u>silver lining</u> is that I have more time to focus on my hobbies.
+
+### Japanese Translation
+J-1: パンデミックは厳しいですが、<u>良い面</u>は家族が近づいたことです。
+J-2: 仕事へ向かう途中で車が壊れましたが、<u>幸いなことに</u>美しい散歩を楽しむことができました。
+J-3: 昇進できなかったけど、<u>唯一の救い</u>は趣味に集中する時間が増えたことです。

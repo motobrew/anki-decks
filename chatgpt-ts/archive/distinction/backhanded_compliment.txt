@@ -1,0 +1,11 @@
+# Key:backhanded compliment
+## Response
+### English Sentences
+E-1: She told me I looked good "for my age," which is just a <u>backhanded compliment</u>.
+E-2: Your hair looks better, but it's still not great. Sorry for the <u>backhanded compliment</u>.
+E-3: "You're so smart for someone who didn't finish college," said John, giving a <u>backhanded compliment</u>.
+
+### Japanese Translation
+J-1: 「あなたの年齢にしては」良く見えると言われた。これは裏のある褒め言葉だ。
+J-2: 髪の毛はちょっと良くなったけど、まだまだダメだね。裏のある褒め言葉でごめん。
+J-3: 「大学中退なのにとても頭がいいね」とジョンが言った。これは裏のある褒め言葉だ。

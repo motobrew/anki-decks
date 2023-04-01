@@ -1,0 +1,11 @@
+# Key:the Midas touch
+## Response
+### English Sentences
+E-1: Everything he touches turns to gold. He surely has <u>the Midas touch</u>.
+E-2: The new CEO has been able to turn around the company's fortunes with <u>the Midas touch</u>.
+E-3: The famous director seems to have <u>the Midas touch</u> as every movie he makes is a box office hit.
+
+### Japanese Translation
+J-1: 彼が触れたものは何でも金に変わる。彼は確実に<u>金のタッチ</u>を持っている。
+J-2: 新しいCEOは<u>金のタッチ</u>で会社の運の方向を変えることができた。
+J-3: 有名な監督は、彼が作る全ての映画が興行的ヒットとなる<u>金のタッチ</u>を持っているようだ。

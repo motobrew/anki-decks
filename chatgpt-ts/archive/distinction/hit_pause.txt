@@ -1,0 +1,11 @@
+# Key:hit pause
+## Response
+### English Sentences
+E-1: I need to take a break from work and <u>hit pause</u> for a few minutes.
+E-2: Let's <u>hit pause</u> on this conversation and come back to it later.
+E-3: After the intense workout, I had to <u>hit pause</u> on my exercise routine for a few days.
+
+### Japanese Translation
+J-1: 仕事から休憩して、数分間<u>休憩</u>しなければならない。
+J-2: この会話を<u>一時中断</u>して、後で戻ってくることにしよう。
+J-3: 激しいトレーニングの後、数日間運動を<u>中断</u>しなければならなかった。

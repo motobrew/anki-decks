@@ -1,0 +1,11 @@
+# Key:talk shop
+## Response
+### English Sentences
+E-1: Let's not <u>talk shop</u> during our lunch break, it's our time to relax.
+E-2: Sorry, I can't <u>talk shop</u> with you right now, I'm on vacation mode.
+E-3: The boss called a meeting to <u>talk shop</u> about our upcoming project.
+
+### Japanese Translation
+J-1: 昼休みはリラックスする時間なので、<u>仕事や業務について話さない</u>でしょう。
+J-2: すみません、今はバケーションモードなので、<u>仕事の話はできません</u>。
+J-3: 上司が今後のプロジェクトについて<u>業務について話し合う</u>ためのミーティングを開いた。

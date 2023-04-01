@@ -1,0 +1,11 @@
+# Key:drip-feed sth
+## Response
+### English Sentences
+E-1: We need to <u>drip-feed</u> information about the project to the team, instead of overwhelming them with all the details at once.
+E-2: The teacher decided to <u>drip-feed</u> the homework assignments to the students to avoid them feeling overwhelmed.
+E-3: The company chose to <u>drip-feed</u> the release of their new product, rather than launching it all at once.
+
+### Japanese Translation
+J-1: チームにプロジェクトの情報を一度にすべて与えて圧迫感を与えることを避けるため、情報を<u>少しずつ提供</u>する必要があります。
+J-2: 生徒たちのストレスを軽減するため、先生は宿題の課題を<u>数回に分けて与える</u>ことにしました。
+J-3: 企業は、新製品の発売を<u>一度に発表</u>するのではなく、<u>段階的に発表</u>することを決めました。

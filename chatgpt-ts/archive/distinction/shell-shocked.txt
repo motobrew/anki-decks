@@ -1,0 +1,11 @@
+# Key:shell-shocked
+## Response
+### English Sentences
+E-1: The soldier came back from war <u>shell-shocked</u> and struggled to adjust to civilian life.
+E-2: The car accident left him <u>shell-shocked</u> and unable to speak for a few moments.
+E-3: After hearing the bad news, she was <u>shell-shocked</u> and had trouble processing the information.
+
+### Japanese Translation
+J-1: 兵士は戦争から帰ってきて<u>PTSD</u>になり、市民生活に適応するのが難しかった。
+J-2: カー・アクシデントで彼は<u>愕然</u>とし、数分間話すことができなかった。
+J-3: 悪いニュースを聞いて、彼女は<u>あっけにとられ</u>、情報を処理するのが困難だった。

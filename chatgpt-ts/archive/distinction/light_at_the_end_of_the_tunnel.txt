@@ -1,0 +1,11 @@
+# Key:light at the end of the tunnel
+## Response
+### English Sentences
+E-1: After months of hard work, there's finally <u>light at the end of the tunnel</u> - our project is almost finished.
+E-2: My job search has been tough, but I just got a callback from a great company - there's <u>light at the end of the tunnel</u>.
+E-3: We've been struggling with our finances, but my spouse just got a promotion - there's finally <u>light at the end of the tunnel</u>.
+
+### Japanese Translation
+J-1: 数ヶ月の苦労の末、ついにゴールが見えてきた。プロジェクトはもうすぐ終わりに達している。<u>目処が立った</u>。
+J-2: 求職活動は厳しかったけど、素晴らしい会社から折り返しの連絡があった。これで<u>望みが見えてきた</u>。
+J-3: 財政難で苦労していたが、配偶者が昇進した。ついに<u>改善の兆しが見えてきた</u>。

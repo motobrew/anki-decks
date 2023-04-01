@@ -1,0 +1,11 @@
+# Key:carry the team
+## Response
+### English Sentences
+E-1: Tom really carried the team during the basketball game last night.
+E-2: I'm counting on you to carry the team for this project.
+E-3: If we want to win the competition, everyone needs to carry the team.
+
+### Japanese Translation
+J-1: 昨夜のバスケットボールの試合で、トムは本当にチームを<u>支えました。</u>
+J-2: このプロジェクトでチームを<u>引っ張って</u>もらうことになっています。
+J-3: コンペティションに勝ちたければ、誰もがチームを<u>支えなければなりません。</u>

@@ -1,0 +1,11 @@
+# Key:control freak
+## Response
+### English Sentences
+E-1: My boss is a total <u>control freak</u>, she wants to micromanage every aspect of the project.
+E-2: I can't stand being in a relationship with a <u>control freak</u>, they always want everything their way.
+E-3: My roommate is a <u>control freak</u> about cleanliness, he gets upset if I don't clean the dishes right away.
+
+### Japanese Translation
+J-1: 私の上司は完全な<u>マイクロマネージャー</u>で、プロジェクトのあらゆる面を管理したがります。
+J-2: <u>支配欲</u>の強い人との恋愛は嫌だ、常に彼らの思う通りにしなければなりません。
+J-3: 私のルームメイトは<u>清潔管理のマニア</u>で、すぐに皿を洗わないと怒ります。

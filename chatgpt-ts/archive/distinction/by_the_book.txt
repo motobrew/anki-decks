@@ -1,0 +1,11 @@
+# Key:by the book
+## Response
+### English Sentences
+E-1: The CEO insists that we follow the rules <u>by the book</u> when it comes to company policies.
+E-2: The teacher graded the essay <u>by the book</u>, deducting points for any grammatical errors.
+E-3: Sarah always studies <u>by the book</u>, never straying from the assigned materials.
+
+### Japanese Translation
+J-1: CEOは、会社のポリシーに関してルールを<u>厳格に</u>守るよう求めています。
+J-2: 先生はエッセイを<u>厳格に</u>採点し、文法の誤りがある場合はポイントを減点しました。
+J-3: Sarahは常に<u>正確に</u>勉強し、割り当てられた教材から逸脱することはありません。

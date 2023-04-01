@@ -1,0 +1,11 @@
+# Key:hit a wall
+## Response
+### English Sentences
+E-1: I've been working on this project for weeks and I feel like I've <u>hit a wall</u> - I just can't figure out what to do next.
+E-2: I was making good progress on my diet, but then I <u>hit a wall</u> and started craving junk food again.
+E-3: Our team was winning the game for a while, but then we <u>hit a wall</u> and the other team caught up.
+
+### Japanese Translation
+J-1: 数週間このプロジェクトに取り組んでいますが、次に何をすればいいのかわからず<u>行き詰まっています</u>。
+J-2: ダイエットを順調に進めていたのに、突然ジャンクフードが食べたくなって<u>行き詰まってしまいました</u>。
+J-3: 私たちのチームはしばらく優勢でしたが、その後<u>行き詰まり</u>、相手チームに追いつかれました。

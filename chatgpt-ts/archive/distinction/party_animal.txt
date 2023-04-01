@@ -1,0 +1,11 @@
+# Key:party animal
+## Response
+### English Sentences
+E-1: John is a real <u>party animal</u>, he never fails to show up at every party and dance until morning.
+E-2: I used to be a <u>party animal</u>, but now I prefer to stay at home and read a book.
+E-3: My neighbor is always loud and holding parties, he's a real <u>party animal</u>.
+
+### Japanese Translation
+J-1: ジョンは本当の<u>パーティーアニマル</u>で、毎回のパーティーに現れて朝まで踊ります。
+J-2: 私は以前は<u>パーティーアニマル</u>だったけど、今は家にいて本を読む方が好きです。
+J-3: 私の隣人はいつも騒がしくパーティーをしている、彼は本当の<u>パーティーアニマル</u>だ。

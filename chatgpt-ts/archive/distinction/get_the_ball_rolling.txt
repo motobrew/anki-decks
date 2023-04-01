@@ -1,0 +1,11 @@
+# Key:get the ball rolling
+## Response
+### English Sentences
+E-1: Let's <u>get the ball rolling</u> on this project and start brainstorming ideas.
+E-2: The meeting is starting soon, we need to <u>get the ball rolling</u> and figure out our agenda.
+E-3: We need to <u>get the ball rolling</u> on planning the party before it's too late.
+
+### Japanese Translation
+J-1: このプロジェクトを<u>軌道に乗せましょう</u>、アイデアを出し始めましょう。
+J-2: 会議がすぐに始まるので、<u>巻き込みを開始</u>して議題を決める必要があります。
+J-3: 時間切れになる前に、パーティーの計画を<u>立ち上げて</u>おかなければなりません。

@@ -1,0 +1,11 @@
+# Key:take sth to heart
+## Response
+### English Sentences
+E-1: I know my boss criticized my presentation, but I'm trying not to <u>take it to heart</u>.
+E-2: My mother-in-law always has something negative to say about my cooking, but I've learned not to <u>take it to heart</u>.
+E-3: If someone insults you, don't <u>take it to heart</u>, they're probably just having a bad day.
+
+### Japanese Translation
+J-1: 上司が私のプレゼンテーションを批判したことは知っていますが、私はそれを<u>深刻に受け止めすぎないように</u>しています。
+J-2: 私の義理の母は私の料理について常に何か否定的なことを言いますが、私はそれを<u>深刻に受け止めないように</u>学びました。
+J-3: 誰かがあなたを侮辱した場合、それを<u>深刻に受け止めすぎないように</u>してください。彼らはおそらく悪い日を過ごしているだけです。

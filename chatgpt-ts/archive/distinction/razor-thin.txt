@@ -1,0 +1,11 @@
+# Key:razor-thin
+## Response
+### English Sentences
+E-1: The race was so close, the winner only won by a <u>razor-thin</u> margin.
+E-2: The company profits were <u>razor-thin</u> this quarter, barely staying in the black.
+E-3: The chances of winning the lottery are <u>razor-thin</u>, but people still try anyway.
+
+### Japanese Translation
+J-1: レースはとても接戦で、勝者は<u>微細な</u>差で勝ちました。
+J-2: その会社の利益は今期はほんの<u>僅かな</u>利益で、黒字に残るのがやっとでした。
+J-3: ロトで勝つ確率は<u>非常に低い</u>ですが、人々はそれでも試みます。

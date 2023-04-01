@@ -1,0 +1,11 @@
+# Key:bug sb
+## Response
+### English Sentences
+E-1: Don't forget to <u>bug</u> your phone before you leave the room if you don't want anyone to overhear your conversation.
+E-2: The detective decided to <u>bug</u> the suspect's house to gather evidence.
+E-3: I think my boss might <u>bug</u> my computer, so I have to be careful what I do on it.
+
+### Japanese Translation
+J-1: 誰かが会話を盗み聞きしないようにする場合は、部屋を出る前に電話を<u>盗聴器の埋め込み</u>しないといけません。
+J-2: 探偵は証拠を収集するため、容疑者の家に<u>盗聴器を仕掛ける</u>ことにした。
+J-3: 上司がパソコンに<u>盗聴器を仕掛ける</u>かもしれないので、私はそれを使うときに注意しなければならない。

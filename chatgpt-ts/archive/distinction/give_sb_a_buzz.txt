@@ -1,0 +1,11 @@
+# Key:give sb a buzz
+## Response
+### English Sentences
+E-1: I'll give you a buzz later to see if you want to grab a drink.
+E-2: Can you give me a buzz when you get to the office?
+E-3: She gave her friend a buzz to catch up on all the news.
+
+### Japanese Translation
+J-1: 飲みに行くかどうか確認するため、後であなたに<u>電話する</u>よ。
+J-2: オフィスに着いたら<u>電話して</u>くれますか？
+J-3: 彼女は友達に<u>連絡して</u>、最新のニュースを共有しました。

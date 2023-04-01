@@ -1,0 +1,11 @@
+# Key:look sharp
+## Response
+### English Sentences
+E-1: <u>Look sharp</u>, the boss is coming!
+E-2: You better <u>look sharp</u> if you want to catch the train.
+E-3: The soldiers were ordered to <u>look sharp</u> for the inspection.
+
+### Japanese Translation
+J-1: <u>気をつけて</u>、上司が来るよ！
+J-2: 列車に間に合いたいなら、<u>気をつけて</u>よ。
+J-3: 検閲のために兵士達には<u>気をつけるように</u>命じられた。

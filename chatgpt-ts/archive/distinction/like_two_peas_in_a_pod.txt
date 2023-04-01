@@ -1,0 +1,11 @@
+# Key:like two peas in a pod
+## Response
+### English Sentences
+E-1: John and his sister are like <u>two peas in a pod</u>, they have the same sense of humor.
+E-2: Those twins are like <u>two peas in a pod</u>, I can never tell them apart.
+E-3: My grandparents have been married for 60 years and are still like <u>two peas in a pod</u>.
+
+### Japanese Translation
+J-1: ジョンと彼の妹は、ユーモアのセンスが同じで、まるで<u>瓜二つだ</u>。
+J-2: あの双子は、<u>瓜二つで</u>、いつも見分けがつきません。
+J-3: 私の祖父母は結婚して60年経ちますが、未だに<u>瓜二つのように</u>仲良しです。

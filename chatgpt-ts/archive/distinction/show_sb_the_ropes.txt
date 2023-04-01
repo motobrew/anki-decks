@@ -1,0 +1,11 @@
+# Key:show sb the ropes
+## Response
+### English Sentences
+E-1: Can you show me the ropes? I'm new to this job.
+E-2: I had to show my little brother the ropes on how to ride a bike.
+E-3: The boss asked me to show the new employee the ropes around the office.
+
+### Japanese Translation
+J-1: この仕事は初めてだから、教えてくれる？ 
+J-2: 弟に自転車の乗り方を教える時は、ロープを見せなきゃできなかった。
+J-3: 上司に頼まれて、新しい社員にオフィスの使い方を<u>指南</u>するように言われた。

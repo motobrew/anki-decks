@@ -1,0 +1,11 @@
+# Key:right under sb's nose
+## Response
+### English Sentences
+E-1: The keys were <u>right under my nose</u> the whole time, I just didn't see them.
+E-2: I can't believe I missed the clues, the thief was <u>right under our noses</u>.
+E-3: The solution to the problem was <u>right under their noses</u>, but they couldn't see it.
+
+### Japanese Translation
+J-1: 鍵はずっと<u>目の前にあった</u>のに、私は見落としていた。
+J-2: 私たちは証拠を見逃していた、泥棒は<u>私たちの鼻の下に</u>いたのに。
+J-3: 問題の解決策は<u>彼らの目の前にあった</u>のに、彼らは気づけなかった。

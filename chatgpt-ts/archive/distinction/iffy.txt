@@ -1,0 +1,11 @@
+# Key:iffy
+## Response
+### English Sentences
+E-1: I'm not sure if I trust that guy, he seems a bit <u>iffy</u>.
+E-2: The weather forecast for today is <u>iffy</u>, so we might need to cancel the picnic.
+E-3: I don't know if I want to invest in that company, the financials are looking <u>iffy</u>.
+
+### Japanese Translation
+J-1: あの人を信用して良いかどうか分からない、彼は少し<u>怪しい</u>ように見える。
+J-2: 今日の天気予報は<u>微妙</u>だから、ピクニックを中止するかもしれない。
+J-3: その企業に投資したいかどうか分からない、財務状況が<u>不確か</u>だ。

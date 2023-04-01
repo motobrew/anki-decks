@@ -1,0 +1,11 @@
+# Key:rough around the edges
+## Response
+### English Sentences
+E-1: His manners are a bit <u>rough around the edges</u>, but he means well.
+E-2: The old car may be <u>rough around the edges</u>, but it still runs great.
+E-3: She's a great singer, but her performance was a little <u>rough around the edges</u> tonight.
+
+### Japanese Translation
+J-1: 彼のマナーは少し荒々しいですが、よい意味を持っています。
+J-2: 古い車は少し手入れが行き届いていませんが、まだ素晴らしく走っています。
+J-3: 彼女は優れた歌手ですが、今夜のパフォーマンスは少し上手くいかなかった。

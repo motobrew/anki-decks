@@ -1,0 +1,11 @@
+# Key:fit like a glove
+## Response
+### English Sentences
+E-1: This dress <u>fits like a glove</u>! It's perfect for the wedding.
+E-2: I bought a new pair of gloves and they <u>fit like a glove</u>. They're so comfortable.
+E-3: The puzzle pieces <u>fit like a glove</u>. It was easy to put together.
+
+### Japanese Translation
+J-1: このドレス、ぴったりで<u>ぴったり</u>！ 結婚式にぴったりです。
+J-2: 新しい手袋を買ったら、<u>ぴったり</u>でした。とても快適です。
+J-3: パズルのピースは、<u>ぴったり</u>でした。簡単に組み立てられました。

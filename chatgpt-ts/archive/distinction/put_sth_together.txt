@@ -1,0 +1,11 @@
+# Key:put sth together
+## Response
+### English Sentences
+E-1: I need to <u>put together</u> a presentation for tomorrow's meeting.
+E-2: Can you help me <u>put together</u> this bookshelf?
+E-3: The team worked together to <u>put together</u> a winning strategy.
+
+### Japanese Translation
+J-1: 明日の会議のためにプレゼンテーションを<u>まとめなければいけません</u>。
+J-2: この本棚を<u>組み立てて</u>手伝ってくれますか？
+J-3: チームは勝利戦略を<u>まとめる</u>ために協力しました。

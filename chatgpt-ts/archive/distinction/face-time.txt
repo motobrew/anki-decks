@@ -1,0 +1,11 @@
+# Key:face-time
+## Response
+### English Sentences
+E-1: Let's have some <u>face-time</u> before the meeting to discuss our plan.
+E-2: My boss prefers to have <u>face-time</u> with employees rather than communicating through email.
+E-3: I need some <u>face-time</u> with my friends since we haven't seen each other in months.
+
+### Japanese Translation
+J-1: 会議前に私達の計画を話し合うために<u>リアルタイムで対面</u>しましょう。
+J-2: 私の上司は電子メールでのコミュニケーションよりも社員と<u>直接会うこと</u>を好みます。
+J-3: 友達と<u>実際に会って話をする時間</u>が必要です、何ヶ月も会っていないから。

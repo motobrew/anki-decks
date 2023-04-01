@@ -1,0 +1,11 @@
+# Key:get back to sb
+## Response
+### English Sentences
+E-1: Let me <u>get back to you</u> on that proposal after I review it.
+E-2: Sorry, I can't talk right now. I'll <u>get back to you</u> later.
+E-3: She said she would <u>get back to me</u> with an answer by the end of the day.
+
+### Japanese Translation
+J-1: 提案書を確認してから、後であなたに<u>返信する</u>よ。
+J-2: ごめん、今は話せない。後で<u>折り返し</u>するね。
+J-3: 彼女は今日の終わりまでに<u>回答を返信する</u>と言ってくれた。

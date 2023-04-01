@@ -1,0 +1,11 @@
+# Key:settle one's differences
+## Response
+### English Sentences
+E-1: The two friends finally decided to <u>settle their differences</u> and make up.
+E-2: The company's CEO had a meeting with the rival CEO to <u>settle their differences</u> and reach a compromise.
+E-3: The politicians held talks to <u>settle their differences</u> and avoid a potential war.
+
+### Japanese Translation
+J-1: 二人の友達はついに<u>仲直り</u>しました。
+J-2: 会社のCEOはライバルのCEOと会合を持ち、妥協点に<u>合意</u>するために話し合いを行いました。
+J-3: 政治家たちは話し合いを持ち、<u>紛争</u>を解決し、潜在的な戦争を回避しました。

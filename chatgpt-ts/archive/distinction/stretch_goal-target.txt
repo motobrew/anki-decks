@@ -1,0 +1,11 @@
+# Key:stretch goal/target
+## Response
+### English Sentences
+E-1: Our stretch goal for the fundraiser is to raise $50,000 in addition to our original target of $25,000.
+E-2: The company set a stretch goal of increasing sales by 50% this quarter.
+E-3: I know we only have a week left, but let's aim for our stretch goal of finishing the project two days early.
+
+### Japanese Translation
+J-1: 私たちのストレッチゴールは、25,000ドルの元の目標に加えて50,000ドルを集めることです。
+J-2: その企業は、今四半期の売り上げを50％増やすというストレッチゴールを設定しました。
+J-3: 残り1週間しかないけど、プロジェクトを2日早く終わらせるというストレッチゴールを目指しましょう。

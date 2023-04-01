@@ -1,0 +1,11 @@
+# Key:think back to sth
+## Response
+### English Sentences
+E-1: <u>Think back to</u> when you first met your best friend. Do you remember how you guys became friends?
+E-2: It's important to <u>think back to</u> previous mistakes so you can learn from them.
+E-3: I often <u>think back to</u> my childhood memories when I need comfort.
+
+### Japanese Translation
+J-1: 親友に初めて会ったときに<u>追想してみて</u>ください。どうやって友達になったか覚えていますか？
+J-2: 前の失敗に<u>戻って考える</u>ことは重要です。そうすることで学ぶことができます。
+J-3: 慰めが必要なときには、私はよく子供の頃の思い出に<u>思いを馳せます</u>。

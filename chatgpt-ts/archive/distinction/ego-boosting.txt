@@ -1,0 +1,11 @@
+# Key:ego-boosting
+## Response
+### English Sentences
+E-1: That new dress really <u>gives me an ego-boosting</u> confidence boost.
+E-2: Getting a compliment on my work is always an <u>ego-boosting</u> moment.
+E-3: Winning the game was an <u>ego-boosting</u> experience for the team.
+
+### Japanese Translation
+J-1: その新しいドレスは私に本当に自信を<u>高める</u>のを与えてくれます。
+J-2: 私の仕事に対する称賛を受けることは常に自尊心を<u>高める</u>瞬間です。
+J-3: 試合に勝つことは、チームにとって自尊心を<u>高める</u>経験でした。

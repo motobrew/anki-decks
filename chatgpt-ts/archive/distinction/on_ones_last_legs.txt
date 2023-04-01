@@ -1,0 +1,11 @@
+# Key:on one's last legs
+## Response
+### English Sentences
+E-1: My old car is really <u>on its last legs</u>. It keeps breaking down.
+E-2: After 20 years of use, this computer is <u>on its last legs</u>. I need to replace it soon.
+E-3: The company is <u>on its last legs</u> financially. They might have to close down soon.
+
+### Japanese Translation
+J-1: 私の古い車は本当に<u>瀕死の状態</u>です。何度も壊れます。
+J-2: 20年の使用の後、このコンピューターは<u>最後の瞬間</u>です。近いうちに交換しなければなりません。
+J-3: その会社は経済的に<u>瀕死の状態</u>です。近いうちに閉鎖する可能性があります。

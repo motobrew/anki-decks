@@ -1,0 +1,11 @@
+# Key:fish for compliments
+## Response
+### English Sentences
+E-1: Sally is always <u>fishing for compliments</u> when she wears a new outfit to work.
+E-2: The actor was caught <u>fishing for compliments</u> during his interview about his latest movie.
+E-3: I don't like it when people constantly <u>fish for compliments</u>, it comes off as insincere.
+
+### Japanese Translation
+J-1: サリーは新しい衣装を着て職場に来るとき、いつもその服を褒められたがっています。
+J-2: その俳優は最新作についてのインタビュー中に、褒められたがりであることがわかりました。
+J-3: 人々が常に褒められたがっているのは好きではありません。それは不誠実に見えます。

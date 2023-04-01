@@ -1,0 +1,11 @@
+# Key:keep one's voice down
+## Response
+### English Sentences
+E-1: Can you please <u>keep your voice down</u>? I'm trying to focus.
+E-2: We should <u>keep our voices down</u> so we don't wake up the baby.
+E-3: He had to <u>keep his voice down</u> so his parents wouldn't hear him on the phone past curfew.
+
+### Japanese Translation
+J-1: 集中しようとしているので、声を<u>抑えて</u>いただけますか？
+J-2: 赤ちゃんを起こさないように<u>静かにして</u>話しましょう。
+J-3: 彼は規制時間を過ぎて電話をしていることを両親に知られないように<u>声を潜めて</u>いました。

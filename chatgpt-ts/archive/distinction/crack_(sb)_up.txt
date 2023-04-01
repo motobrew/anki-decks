@@ -1,0 +1,11 @@
+# Key:crack (sb) up
+## Response
+### English Sentences
+E-1: That joke really <u>cracked me up</u>!
+E-2: His impression of the boss always <u>cracks us up</u>.
+E-3: The funny video on YouTube <u>cracked her up</u> for hours.
+
+### Japanese Translation
+J-1: あの冗談は本当に私を<u>笑わせた</u>！
+J-2: 彼の上司のものまねはいつも私たちを<u>笑わせる</u>。
+J-3: YouTubeで見たおもしろいビデオは彼女を数時間<u>笑わせた</u>。

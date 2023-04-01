@@ -1,0 +1,11 @@
+# Key:play on words
+## Response
+### English Sentences
+E-1: The joke was a <u>play on words</u>, relying on the double meaning of the phrase.
+E-2: The headline was a clever <u>play on words</u>, grabbing the reader's attention.
+E-3: The comedian's routine was full of <u>plays on words</u>, making the audience laugh.
+
+### Japanese Translation
+J-1: その冗談は言葉の<u>ダブル・ミーニング</u>に頼っていた。
+J-2: 見出しは巧妙な<u>言葉遊び</u>で、読者の注意を引いた。
+J-3: そのコメディアンの漫才は<u>言葉遊び</u>で満ちており、観客を笑わせた。

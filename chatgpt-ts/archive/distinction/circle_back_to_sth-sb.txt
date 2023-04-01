@@ -1,0 +1,11 @@
+# Key:circle back to sth/sb
+## Response
+### English Sentences
+E-1: Let's <u>circle back</u> to that topic later in the meeting.
+E-2: I'm not sure what the answer is, but I'll <u>circle back</u> with you when I find out.
+E-3: We should <u>circle back</u> with our clients to see if they have any other questions about our proposal.
+
+### Japanese Translation
+J-1: ミーティングの後でそのトピックに<u>戻ろう</u>。
+J-2: 答えが分からないけど、分かったら<u>また連絡する</u>ね。
+J-3: 私たちは提案についてクライアントに<u>再度連絡する</u>べきです。

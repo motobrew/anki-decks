@@ -1,0 +1,11 @@
+# Key:better half
+## Response
+### English Sentences
+E-1: My <u>better half</u> and I are going on vacation next week.
+E-2: I can't make a decision without consulting my <u>better half</u>.
+E-3: My <u>better half</u> surprised me with flowers for our anniversary.
+
+### Japanese Translation
+J-1: 来週、私と<u>伴侶</u>はバカンスに行きます。
+J-2: <u>相方</u>に相談しないと決断できません。
+J-3: 私の<u>パートナー</u>は私たちの記念日に花束を用意してくれました。

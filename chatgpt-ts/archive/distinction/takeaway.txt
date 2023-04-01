@@ -1,0 +1,11 @@
+# Key:takeaway
+## Response
+### English Sentences
+E-1: I'm too tired to cook, let's just get <u>takeaway</u> tonight.
+E-2: The Indian <u>takeaway</u> down the street has the best butter chicken.
+E-3: Can you pick up the <u>takeaway</u> on your way home from work?
+
+### Japanese Translation
+J-1: 料理するのが疲れたから、今夜は<u>テイクアウト</u>にしよう。
+J-2: 通り沿いのインド< u>テイクアウト</u>店は最高のバターチキンを提供しています。
+J-3: 仕事帰りに<u>テイクアウト</u>を取って来てくれますか？

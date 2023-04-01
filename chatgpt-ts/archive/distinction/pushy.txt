@@ -1,0 +1,11 @@
+# Key:pushy
+## Response
+### English Sentences
+E-1: She's really <u>pushy</u>, always trying to get her way.
+E-2: The salesperson was getting too <u>pushy</u>, so I had to leave the store.
+E-3: He's known for being <u>pushy</u> in negotiations.
+
+### Japanese Translation
+J-1: 彼女はとても<u>強引</u>で、常に自分のやり方をしようとしています。
+J-2: 販売員があまりにも<u>しつこく</u>なってきたので、私は店を出なければなりませんでした。
+J-3: 彼は交渉において<u>強引</u>だと有名です。

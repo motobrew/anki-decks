@@ -1,0 +1,11 @@
+# Key:tempest in a teapot
+## Response
+### English Sentences
+E-1: Mary was making a <u>tempest in a teapot</u> over the small typo in the email.
+E-2: John's argument with his girlfriend was just a <u>tempest in a teapot</u> and they made up in a few hours.
+E-3: The manager's reaction to the minor delay was a total <u>tempest in a teapot</u>. 
+
+### Japanese Translation
+J-1: メアリーは、メールの小さなタイプミスについて大騒ぎしていた。
+J-2: ジョンと彼のガールフレンドの喧嘩は、ただのちょっとしたもめ事で、数時間で仲直りした。
+J-3: マネージャーの小さな遅延に対する反応は、完全に無駄に大騒ぎだった。

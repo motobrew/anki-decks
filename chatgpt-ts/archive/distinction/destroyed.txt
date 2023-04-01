@@ -1,0 +1,11 @@
+# Key:destroyed
+## Response
+### English Sentences
+E-1: I drank too much last night, I completely <u>destroyed</u> my liver.
+E-2: I have an exam tomorrow but I didn't study at all, I'm going to get <u>destroyed</u>.
+E-3: If you don't stretch before exercise, you're going to <u>destroy</u> your muscles.
+
+### Japanese Translation
+J-1: 昨晩飲みすぎて、肝臓を完全に<u>破壊</u>してしまった。
+J-2: 明日試験があるのに全然勉強しなかった、滅茶苦茶に<u>落ちる</u>よ。
+J-3: 運動前にストレッチをしないと筋肉を<u>破壊</u>してしまうよ。

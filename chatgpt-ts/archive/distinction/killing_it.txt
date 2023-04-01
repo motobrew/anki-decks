@@ -1,0 +1,11 @@
+# Key:killing it
+## Response
+### English Sentences
+E-1: John aced his exam, he's <u>killing it</u> this semester.
+E-2: The band played an amazing concert last night, they were really <u>killing it</u>.
+E-3: She's been practicing every day and now she's <u>killing it</u> at the piano recital.
+
+### Japanese Translation
+J-1: ジョンは試験に合格し、今年の学期は本当に<u>凄い</u>。 
+J-2: バンドは昨晩素晴らしいコンサートを演奏した、本当に<u>最高</u>でした。
+J-3: 彼女は毎日練習しており、今ではピアノの発表会で<u>超絶技巧を見せています</u>。

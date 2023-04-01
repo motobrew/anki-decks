@@ -1,0 +1,11 @@
+# Key:big deal
+## Response
+### English Sentences
+E-1: It's not a <u>big deal</u> if we can't go out tonight, there's always tomorrow.
+E-2: I don't understand why everyone is making such a <u>big deal</u> about the new iPhone.
+E-3: He acted like it was a <u>big deal</u> when he finally got his driver's license, but it's really not that difficult.
+
+### Japanese Translation
+J-1: 今夜出かけられなくても大した<u>問題</u>じゃない、明日がある。
+J-2: なぜみんなが新しいiPhoneをそんなに<u>大騒ぎ</u>しているのか私には分からない。
+J-3: 彼は運転免許を取った時に大きな<u>出来事</u>みたいに振る舞ったけど、実際そんなに難しくない。

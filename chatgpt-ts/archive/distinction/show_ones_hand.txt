@@ -1,0 +1,11 @@
+# Key:show one's hand
+## Response
+### English Sentences
+E-1: He didn't want to <u>show his hand</u> too soon in the negotiation.
+E-2: The politician was careful not to <u>show her hand</u> regarding her stance on the issue.
+E-3: The competitor tried to <u>show his hand</u> by talking about his great idea, but ended up revealing too much.
+
+### Japanese Translation
+J-1: 彼は交渉で早くも手を明かすことはしたくなかった。
+J-2: 政治家は問題に対する立場を明らかにしないように注意した。
+J-3: 競合他社が自分の素晴らしいアイデアを話して手を明かそうとしたが、結局情報を多く漏らしてしまった。

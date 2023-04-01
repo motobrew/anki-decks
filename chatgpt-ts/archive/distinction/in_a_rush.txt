@@ -1,0 +1,11 @@
+# Key:in a rush
+## Response
+### English Sentences
+E-1: Sorry, I can't chat long, I'm <u>in a rush</u> to catch my train.
+E-2: Can you grab me a coffee? I'm <u>in a rush</u> and don't have time to stop.
+E-3: I'm usually not <u>in a rush</u> in the morning, but today I overslept and now I'm late.
+
+### Japanese Translation
+J-1: ごめん、長く話せない、電車に乗り遅れないように<u>急いでいる</u>んだ。
+J-2: コーヒーを買ってきてくれる？時間がないから<u>急いでいる</u>んだ。
+J-3: 朝は普段あまり<u>急いでいる</u>ことがないけど、今日は寝坊したので遅れているよ。

@@ -1,0 +1,11 @@
+# Key:diamond in the rough
+## Response
+### English Sentences
+E-1: She may seem rough around the edges, but she's a <u>diamond in the rough</u>.
+E-2: The old car we found in the junk yard turned out to be a <u>diamond in the rough</u> after we restored it.
+E-3: This small town may not look like much, but it's a <u>diamond in the rough</u> with plenty of charm.
+
+### Japanese Translation
+J-1: 彼女は外見が荒々しく見えるかもしれませんが、彼女は本当は隠れた才能があるという意味で、<u>まだ磨かれていないダイヤモンド</u>です。
+J-2: 私たちがジャンクヤードで見つけた古い車は、復元した結果、<u>まだ磨かれていないダイヤモンド</u>だった。
+J-3: この小さな町は見た目は地味ですが、実は魅力的で、<u>まだ磨かれていないダイヤモンド</u>です。

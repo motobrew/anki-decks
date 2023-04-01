@@ -1,0 +1,11 @@
+# Key:be-all and end-all
+## Response
+### English Sentences
+E-1: Winning the championship is not the <u>be-all and end-all</u> of sports. 
+E-2: Yes, I want to do well in my job, but it's not the <u>be-all and end-all</u> of my life.
+E-3: Money isn't the <u>be-all and end-all</u>, there are more important things in life.
+
+### Japanese Translation
+J-1: チャンピオンシップを勝つことがスポーツ全体の<u>全て</u>ではありません。
+J-2: はい、私は仕事でうまくやりたいですが、それが生活の<u>全て</u>ではありません。
+J-3: お金は<u>全て</u>じゃない。人生にはもっと重要なことがある。

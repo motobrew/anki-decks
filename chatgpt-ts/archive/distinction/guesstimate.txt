@@ -1,0 +1,11 @@
+# Key:guesstimate
+## Response
+### English Sentences
+E-1: Can you give me a <u>guesstimate</u> of how many people will attend the party?
+E-2: I'm not sure how long it will take to finish this project, but I'll <u>guesstimate</u> about a week.
+E-3: The weather forecasters are just <u>guesstimating</u> when they predict the storm will arrive.
+
+### Japanese Translation
+J-1: パーティーに参加する人数を<u>おおよそ推測</u>できますか？
+J-2: このプロジェクトを終了するのにどのくらい時間がかかるかわかりませんが、<u>おおよそ推測</u>して1週間くらいかかると思います。
+J-3: 気象予報士は、嵐がいつ到着するか<u>おおよその予想</u>をしているだけです。

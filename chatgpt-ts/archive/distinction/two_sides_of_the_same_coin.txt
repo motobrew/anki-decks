@@ -1,0 +1,11 @@
+# Key:two sides of the same coin
+## Response
+### English Sentences
+E-1: Some people say that love and hate are <u>two sides of the same coin</u>.
+E-2: Success and failure are often <u>two sides of the same coin</u>.
+E-3: Freedom and responsibility are <u>two sides of the same coin</u>.
+
+### Japanese Translation
+J-1: 愛と憎しみは同じコインの<u>表裏</u>だという人もいます。
+J-2: 成功と失敗はしばしば同じコインの<u>表裏</u>です。
+J-3: 自由と責任は同じコインの<u>表裏</u>です。

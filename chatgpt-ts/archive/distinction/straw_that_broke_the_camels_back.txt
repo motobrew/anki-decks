@@ -1,0 +1,11 @@
+# Key:straw that broke the camel's back
+## Response
+### English Sentences
+E-1: The constant barking of the neighbor's dog was annoying, but when it woke up her baby, it was the <u>straw that broke the camel's back</u>.
+E-2: After months of overworking and underappreciation, not getting a weekend off was the <u>straw that broke the camel's back</u> for him.
+E-3: The company's decision to cut employee benefits was the <u>straw that broke the camel's back</u> and led to a strike.
+
+### Japanese Translation
+J-1: 隣人の犬が鳴き続けるのは迷惑だったが、赤ちゃんを起こした時は、それが<u>最後の一杯</u>だった。
+J-2: 長時間労働と評価の不足に数か月間耐えた後、週末を取得できなかったのは彼にとって<u>一粒の麦が積み上がっていた山を崩した</u>。
+J-3: 従業員の福利厚生を削減する企業の決定は、ストライキにつながり、<u>不満が爆発した</u>。

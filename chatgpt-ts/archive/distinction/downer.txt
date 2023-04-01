@@ -1,0 +1,11 @@
+# Key:downer
+## Response
+### English Sentences
+E-1: That movie was a real <u>downer</u>, I left feeling really depressed.
+E-2: I don't want to be a <u>downer</u>, but we should consider the risks before making a decision.
+E-3: It's such a <u>downer</u> that it's raining on our beach trip.
+
+### Japanese Translation
+J-1: あの映画は本当に<u>鬱陶しいもの</u>で、見終わった後、私はとても落ち込んだ気持ちになりました。
+J-2: <u>不安に思わせるわけではないが</u>、私たちは決定する前にリスクを考慮すべきだ。
+J-3: ビーチ旅行で雨が降っているのは、本当に<u>がっかり</u>です。

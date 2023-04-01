@@ -1,0 +1,11 @@
+# Key:leave sb high and dry
+## Response
+### English Sentences
+E-1: After promising to help me move, my friend decided to <u>leave me high and dry</u> on moving day.
+E-2: The company suddenly closed down and <u>left its employees high and dry</u> without any warning or compensation.
+E-3: The airline canceled my flight and <u>left me high and dry</u> in a foreign country for two days.
+
+### Japanese Translation
+J-1: 引っ越しの手伝いを約束した友達が、引っ越し当日に私を<u>見捨ててしまいました</u>。
+J-2: 会社が突然倒産し、従業員を何の警告や補償もせずに<u>置き去りにしました</u>。
+J-3: 航空会社が私の便をキャンセルし、外国で<u>2日間取り残されました</u>。

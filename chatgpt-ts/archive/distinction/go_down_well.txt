@@ -1,0 +1,11 @@
+# Key:go down well
+## Response
+### English Sentences
+E-1: The new restaurant in town has great food and service, and it's <u>going down well</u> with the locals.
+E-2: I'm not sure if my joke will <u>go down well</u> with the audience, but I'll give it a try.
+E-3: The boss's new proposal didn't <u>go down well</u> with the employees, and they started to complain.
+
+### Japanese Translation
+J-1: 町の新しいレストランは美味しくてサービスも良いので、地元の人たちに<u>好評</u>です。
+J-2: 自分のジョークが聴衆に<u>ウケるかわからない</u>けど、試してみるよ。
+J-3: 上司の新しい提案は従業員たちには<u>受け入れられなかった</u>ので、彼らは文句を言い始めた。

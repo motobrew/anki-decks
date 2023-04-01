@@ -1,0 +1,11 @@
+# Key:have an eye for identifying sth
+## Response
+### English Sentences
+E-1: She has an <u>eye for identifying</u> designer knockoffs.
+E-2: He has an <u>eye for identifying</u> rare coins and stamps.
+E-3: The detective has an <u>eye for identifying</u> subtle clues in a crime scene.
+
+### Japanese Translation
+J-1: 彼女はデザイナーの偽物を<u>見つける目</u>を持っています。
+J-2: 彼は珍しいコインや切手を<u>見つける目</u>を持っています。
+J-3: 刑事は事件現場の微妙な手がかりを<u>見つける目</u>を持っています。

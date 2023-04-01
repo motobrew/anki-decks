@@ -1,0 +1,11 @@
+# Key:up in the air
+## Response
+### English Sentences
+E-1: The plans for the weekend are still <u>up in the air</u>, we haven't decided yet.
+E-2: My job situation is <u>up in the air</u> right now, I don't know if I'll be laid off or not.
+E-3: The future of the project is <u>up in the air</u>, we're waiting for more funding.
+
+### Japanese Translation
+J-1: 週末の予定はまだ<u>未定</u>です、まだ決めていません。
+J-2: 私の仕事の状況は<u>不透明</u>です、解雇されるかどうかわかりません。
+J-3: プロジェクトの将来は<u>未定</u>です、もっと資金を待っています。

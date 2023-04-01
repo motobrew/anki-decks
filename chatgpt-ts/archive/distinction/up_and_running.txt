@@ -1,0 +1,11 @@
+# Key:up and running
+## Response
+### English Sentences
+E-1: I finally got my computer <u>up and running</u> after it crashed.
+E-2: Our new business is <u>up and running</u> thanks to our dedicated team.
+E-3: Let's wait until the system is <u>up and running</u> before we start the presentation.
+
+### Japanese Translation
+J-1: クラッシュした後、私のコンピュータをようやく<u>復旧させ</u>ました。
+J-2: 私たちの新しいビジネスは、献身的なチームのおかげで<u>立ち上がりました</u>。
+J-3: プレゼンテーションを始める前に、システムが<u>立ち上がるまで</u>待ちましょう。

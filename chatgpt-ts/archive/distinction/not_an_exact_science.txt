@@ -1,0 +1,11 @@
+# Key:not an exact science
+## Response
+### English Sentences
+E-1: Predicting the stock market is <u>not an exact science</u>, so don't invest more than you can afford to lose.
+E-2: Cooking is <u>not an exact science</u>, so don't worry too much about precise measurements.
+E-3: Dating is <u>not an exact science</u>, sometimes you just have to trust your instincts.
+
+### Japanese Translation
+J-1: 株式市場を予測することは<u>正確な科学</u>ではないので、自分に許容できる以上に投資しないでください。
+J-2: 料理は<u>正確な科学</u>ではないので、正確な計量にこだわりすぎないでください。
+J-3: デートは<u>正確な科学</u>ではないので、感性を信じることもあります。

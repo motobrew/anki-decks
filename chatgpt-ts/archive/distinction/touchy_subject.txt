@@ -1,0 +1,11 @@
+# Key:touchy subject
+## Response
+### English Sentences
+E-1: I don't want to bring up politics at Thanksgiving, it's always a <u>touchy subject</u>.
+E-2: Asking about someone's salary can be a <u>touchy subject</u> in some cultures.
+E-3: Bringing up the subject of exes can be a <u>touchy subject</u> in a new relationship.
+
+### Japanese Translation
+J-1: 感謝祭で政治の話を持ち出したくない、いつも<u>敏感な話題</u>だから。
+J-2: ある文化では、給料の話をすることは<u>敏感な話題</u>になることがある。
+J-3: 新しい恋愛では元カレ・元カノの話をすることは<u>敏感な話題</u>になることがある。

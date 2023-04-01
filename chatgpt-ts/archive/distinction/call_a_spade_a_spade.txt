@@ -1,0 +1,11 @@
+# Key:call a spade a spade
+## Response
+### English Sentences
+E-1: She's not afraid to <u>call a spade a spade</u> and speak her mind.
+E-2: Let's <u>call a spade a spade</u>, your work hasn't been up to par lately.
+E-3: I appreciate it when people <u>call a spade a spade</u> instead of sugar-coating things.
+
+### Japanese Translation
+J-1: 彼女は素直に自分の意見を言うことで<u>辛辣に批評</u>することを恐れません。
+J-2: 正直に言おう、最近あなたの仕事は水準に達していない。。
+J-3: 私は、問題を煩わしく説明するのではなく、素直に<u>本音を言っていただける</u>と助かる。

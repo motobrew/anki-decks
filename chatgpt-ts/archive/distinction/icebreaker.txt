@@ -1,0 +1,11 @@
+# Key:icebreaker
+## Response
+### English Sentences
+E-1: The game of pool is a great <u>icebreaker</u> for meeting new people.
+E-2: The host provided an <u>icebreaker</u> activity for the party guests to get to know each other.
+E-3: I started the conversation with a quick <u>icebreaker</u> joke.
+
+### Japanese Translation
+J-1: ビリヤードは新しい人に会う時の良い<u>会話の軽口</u>です。
+J-2: ホストはパーティーの招待客に互いに親しくなるための<u>打ち解けるためのアクティビティ</u>を提供しました。
+J-3: 私は短い<u>軽口</u>で会話を始めました。

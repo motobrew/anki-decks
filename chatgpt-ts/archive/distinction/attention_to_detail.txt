@@ -1,0 +1,11 @@
+# Key:attention to detail
+## Response
+### English Sentences
+E-1: When you're writing a professional email, make sure to pay <u>attention to detail</u> in your formatting and grammar.
+E-2: The architect's design was praised for its incredible <u>attention to detail</u>, from the intricate exterior to the carefully chosen materials.
+E-3: As a surgeon, it's crucial to have a strong <u>attention to detail</u> to avoid any mistakes during procedures.
+
+### Japanese Translation
+J-1: プロのメールを書く時には、フォーマットと文法に<u>細心の注意を払う</u>ようにしてください。
+J-2: 建築家のデザインは、複雑な外観から注意深く選ばれた素材まで、驚くべき<u>細部への注意</u>から賞賛されました。
+J-3: 外科医として、手術中のミスを避けるために<u>細部への注目</u>が欠かせません。

@@ -1,0 +1,11 @@
+# Key:settle in
+## Response
+### English Sentences
+E-1: I just moved to this city and I need to <u>settle in</u> before starting my job.
+E-2: Let's grab some coffee and chat while you <u>settle in</u> to your new apartment.
+E-3: It takes time to <u>settle in</u> to a new routine, so be patient with yourself.
+
+### Japanese Translation
+J-1: この街に引っ越したばかりで、仕事を始める前に<u>落ち着く</u>必要があります。
+J-2: 新しいアパートに<u>落ち着く</u>間にコーヒーでも飲みながら話しましょう。
+J-3: 新しい生活リズムに<u>馴染む</u>には時間がかかりますので、自分自身に寛容でいてください。

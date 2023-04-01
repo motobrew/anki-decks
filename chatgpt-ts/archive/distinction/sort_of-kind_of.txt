@@ -1,0 +1,11 @@
+# Key:sort of/kind of
+## Response
+### English Sentences
+E-1: I think the movie was <u>sort of/kind of</u> boring.
+E-2: The weather today is <u>sort of/kind of</u> chilly.
+E-3: That restaurant is <u>sort of/kind of</u> expensive.
+
+### Japanese Translation
+J-1: 私はその映画は<u>ちょっと</u>退屈だと思います。
+J-2: 今日の天気は<u>ちょっと</u>寒いですね。
+J-3: あのレストランは<u>ちょっと</u>高いです。

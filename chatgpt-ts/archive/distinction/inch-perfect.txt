@@ -1,0 +1,11 @@
+# Key:inch-perfect
+## Response
+### English Sentences
+E-1: The footballer's pass was inch-perfect and led to a goal.
+E-2: The chef's recipe required an inch-perfect measurement of ingredients.
+E-3: The tailor's stitching was inch-perfect and created a flawless fit.
+
+### Japanese Translation
+J-1: サッカー選手のパスはインチパーフェクトであり、ゴールにつながりました。
+J-2: シェフのレシピは、インチパーフェクトな材料の測定を必要としていました。
+J-3: テーラーの縫製はインチパーフェクトで、完璧なフィット感を生み出しました。

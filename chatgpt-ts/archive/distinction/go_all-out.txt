@@ -1,0 +1,11 @@
+# Key:go all-out
+## Response
+### English Sentences
+E-1: We decided to <u>go all-out</u> for her surprise party and rented a yacht for the occasion.
+E-2: The team is going to <u>go all-out</u> to win this championship game.
+E-3: My brother always <u>goes all-out</u> for Halloween decorations and turns our house into a haunted mansion.
+
+### Japanese Translation
+J-1: 彼女のサプライズパーティーのために、私たちは全力で取り組み、ヨットを借りることにしました。
+J-2: チームはこのチャンピオンシップゲームに勝つために全力で挑むつもりです。
+J-3: 私の弟はいつもハロウィンの装飾に全力で取り組んで、私たちの家をお化け屋敷に変えます。

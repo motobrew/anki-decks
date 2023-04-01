@@ -1,0 +1,11 @@
+# Key:married to the idea
+## Response
+### English Sentences
+E-1: He's <u>married to the idea</u> of starting his own business and won't consider any other options.
+E-2: The politician is <u>married to the idea</u> of cutting taxes, regardless of the consequences.
+E-3: My friend is <u>married to the idea</u> of moving to New York, even though he's never been there.
+
+### Japanese Translation
+J-1: 彼は自分でビジネスを始めるという考えに夢中で、他に何も考えない。
+J-2: その政治家は、結果がどうであれ、税金を削減するという考えに固執している。
+J-3: 友人はニューヨークに行ったことがないのに、そこに引っ越すという考えに心を傾けている。

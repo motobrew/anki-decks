@@ -1,0 +1,11 @@
+# Key:drag sb's name through the mud
+## Response
+### English Sentences
+E-1: Stop spreading rumors about her, you're just trying to <u>drag her name through the mud</u>.
+E-2: The tabloids love to <u>drag celebrities' names through the mud</u> in order to sell more papers.
+E-3: He was falsely accused of a crime, but the prosecutor tried to <u>drag his name through the mud</u> anyway.
+
+### Japanese Translation
+J-1: 彼女について噂を広めるのはやめて、彼女の名誉を<u>傷つけんなよ</u>。
+J-2: タブロイドはもっと新聞を売るため、有名人の名誉を<u>傷つけたがる</u>。
+J-3: 彼は冤罪だったけど、検察はそれでも彼の名誉を<u>汚し</u>ようとした。

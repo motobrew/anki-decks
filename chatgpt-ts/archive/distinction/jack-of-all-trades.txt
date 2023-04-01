@@ -1,0 +1,11 @@
+# Key:jack-of-all-trades
+## Response
+### English Sentences
+E-1: He's a real <u>jack-of-all-trades</u>, he can fix your car, your plumbing, and your computer.
+E-2: My friend is a <u>jack-of-all-trades</u>, she can sing, dance, act, and paint.
+E-3: I don't have a specific career path, I'm more of a <u>jack-of-all-trades</u> type of person.
+
+### Japanese Translation
+J-1: 彼は本当の<u>万能型人材</u>だ、車の修理も、水道の修理も、コンピューターの修理もできる。
+J-2: 私の友達は<u>多芸多才</u>だ、歌うことも、踊ることも、演技もできるし、絵も描ける。
+J-3: 私は特定のキャリアパスがない、私は<u>器用貧乏</u>タイプの人間だ。

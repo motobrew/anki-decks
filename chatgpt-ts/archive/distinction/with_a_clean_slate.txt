@@ -1,0 +1,11 @@
+# Key:with a clean slate
+## Response
+### English Sentences
+E-1: After a difficult breakup, she decided to move to a new city and start fresh <u>with a clean slate</u>.
+E-2: The company's reputation was damaged by a scandal, but they hope to regain trust <u>with a clean slate</u>.
+E-3: John made some mistakes in his last job, so he's excited to begin his new job <u>with a clean slate</u>.
+
+### Japanese Translation
+J-1: 辛い別れの後、彼女は新しい街に引っ越して、<u>白紙の状態から</u>再出発することを決めた。
+J-2: その会社はスキャンダルによって評判が損なわれたが、<u>新しい出発を切ることで</u>信頼を回復しようとしている。
+J-3: ジョンは前の仕事でミスをしたので、<u>新しいスタートを切ることで</u>新しい仕事を楽しみにしている。

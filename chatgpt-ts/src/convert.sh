@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-target_dir=./logs/all
+target_dir=./logs/distinction
 
 ls $target_dir | while read file
 do

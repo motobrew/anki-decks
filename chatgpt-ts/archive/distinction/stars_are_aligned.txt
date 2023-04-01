@@ -1,0 +1,11 @@
+# Key:stars are aligned
+## Response
+### English Sentences
+E-1: I've been working so hard, and finally, the <u>stars are aligned</u> for me to get a promotion.
+E-2: This project is finally making progress, it feels like the <u>stars are aligned</u>.
+E-3: It's not every day that everything goes smoothly, but today the <u>stars are aligned</u>.
+
+### Japanese Translation
+J-1: 私は一生懸命働いて、ついに昇進のチャンスが巡ってきた感じです。
+J-2: このプロジェクトがようやく進展している。星が整列したような気がする。
+J-3: 全てがスムーズに進む日はなかなかないが、今日は星が揃ったようだ。

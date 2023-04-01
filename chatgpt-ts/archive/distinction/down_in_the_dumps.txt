@@ -1,0 +1,11 @@
+# Key:down in the dumps
+## Response
+### English Sentences
+E-1: I've been feeling really <u>down in the dumps</u> lately, I think I need to take a vacation.
+E-2: After failing his exam, John was <u>down in the dumps</u> for a week.
+E-3: I tried cheering him up, but he's just <u>down in the dumps</u> about his breakup.
+
+### Japanese Translation
+J-1: 最近本当に落ち込んでいるので、バケーションに行かないとだめだと思います。
+J-2: 試験に失敗して、ジョンは1週間落ち込んでいました。
+J-3: 彼を元気づけようとしたんだけど、彼は別れについて落ち込んでるんだ。

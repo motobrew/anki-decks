@@ -1,0 +1,11 @@
+# Key:so on and so forth
+## Response
+### English Sentences
+E-1: I need to buy groceries like milk, eggs, bread, and <u>so on and so forth</u>.
+E-2: Our company offers benefits such as health insurance, 401(k), paid vacation, and <u>so on and so forth</u>.
+E-3: I like to listen to music genres like rock, pop, hip-hop, R&B, and <u>so on and so forth</u>.
+
+### Japanese Translation
+J-1: 牛乳、卵、パンなど<u>諸々</u>の食料品を買わなければなりません。
+J-2: 当社は健康保険、401(k)、有給休暇など<u>諸々</u>の福利厚生を提供しています。
+J-3: 私はロック、ポップ、ヒップホップ、R＆Bなどの音楽ジャンルを<u>諸々</u>聴くのが好きです。

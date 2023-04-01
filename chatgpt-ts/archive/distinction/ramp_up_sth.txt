@@ -1,0 +1,11 @@
+# Key:ramp up sth
+## Response
+### English Sentences
+E-1: Our company needs to <u>ramp up</u> production in order to meet the increasing demand.
+E-2: The coach decided to <u>ramp up</u> the team's training regime ahead of the championship.
+E-3: The advertising campaign was successful in <u>ramping up</u> sales of the new product.
+
+### Japanese Translation
+J-1: 弊社は需要の増加に対応するため、生産量を<u>増やす</u>必要があります。
+J-2: コーチはチャンピオンシップに向け、チームのトレーニングプログラムを<u>強化する</u>ことに決めました。
+J-3: 広告キャンペーンは新製品の販売を<u>増加させる</u>のに成功しました。

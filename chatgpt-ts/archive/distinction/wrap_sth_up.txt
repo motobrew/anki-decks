@@ -1,0 +1,11 @@
+# Key:wrap sth up
+## Response
+### English Sentences
+E-1: Let's <u>wrap up</u> this meeting soon, it's been going on for hours.
+E-2: I need to <u>wrap up</u> this project before the deadline.
+E-3: Can you please <u>wrap up</u> the conversation? I'm getting late for my next appointment.
+
+### Japanese Translation
+J-1: 会議は長時間続いているので、もうすぐ<u>終わらせましょう</u>。
+J-2: 期限前にこのプロジェクトを<u>終わらせなければなりません</u>。
+J-3: 次の予定の時間が迫っているので、話を<u>まとめて</u>いただけますか？

@@ -1,0 +1,11 @@
+# Key:surefire
+## Response
+### English Sentences
+E-1: The new marketing strategy is a <u>surefire</u> way to increase sales.
+E-2: Follow this recipe for a <u>surefire</u> way to impress your guests.
+E-3: Hiring a professional is a <u>surefire</u> solution to fix the plumbing problem.
+
+### Japanese Translation
+J-1: 新しいマーケティング戦略は売上を<u>確実に</u>増やす方法です。
+J-2: このレシピに従えば、お客様を<u>確実に</u>感動させることができます。
+J-3: プロの業者を雇うことは、配管の問題を<u>確実に</u>修理する解決策です。

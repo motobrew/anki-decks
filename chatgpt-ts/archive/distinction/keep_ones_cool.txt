@@ -1,0 +1,11 @@
+# Key:keep one's cool
+## Response
+### English Sentences
+E-1: When the boss started yelling, I had to really <u>keep my cool</u> to not get fired.
+E-2: Even though the car in front of me cut me off, I tried to <u>keep my cool</u> and not get angry.
+E-3: During a heated argument, it's important to <u>keep your cool</u> and not say things you'll regret.
+
+### Japanese Translation
+J-1: 上司が叫び始めた時、クビにならないように本当に<u>冷静を保つ</u>必要があった。
+J-2: 前の車にカットされたけど、<u>冷静を保つ</u>ようにして怒らないようにした。
+J-3: 激しい口論中、<u>冷静を保つ</u>ことが重要で、後悔することを言わないようにする必要がある。

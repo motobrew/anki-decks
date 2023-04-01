@@ -1,0 +1,11 @@
+# Key:front-load sth
+## Response
+### English Sentences
+E-1: Don't forget to <u>front-load</u> your argument before presenting it.
+E-2: The company will <u>front-load</u> their marketing efforts at the beginning of the year.
+E-3: The teacher always <u>front-loads</u> the most important information in the first class.
+
+### Japanese Translation
+J-1: プレゼンテーションする前に論点を<u>先に述べておく</u>のを忘れないでください。
+J-2: 会社は年初に集中的にマーケティングの取り組みを<u>行います</u>。
+J-3: 先生はいつも最も重要な情報を最初の授業で<u>先に与えます</u>。

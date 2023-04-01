@@ -1,0 +1,11 @@
+# Key:collecting dust
+## Response
+### English Sentences
+E-1: I haven't used my guitar in so long, it's just <u>collecting dust</u> in the corner of my room.
+E-2: That old book on the shelf has been <u>collecting dust</u> for years, no one ever reads it anymore.
+E-3: My gym membership is <u>collecting dust</u> because I haven't gone in months.
+
+### Japanese Translation
+J-1: 私は長い間ギターを使っていないので、部屋の隅にただ<u>埃をかぶっている</u>だけです。
+J-2: 本棚の古い本は数年間<u>ほこりをかぶっている</u>だけで、もう誰も読まなくなりました。
+J-3: 私のジムの会員証は数か月間行っていないので<u>埃をかぶっている</u>だけです。

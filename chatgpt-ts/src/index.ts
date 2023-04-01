@@ -11,8 +11,8 @@ const openai = new OpenAIApi(configuration);
 export async function ask(question: string, model = "gpt-3.5-turbo-0301") {
 
   const content = `
-  I'm learning English slang.
-  give me 3 sentences using "${question}" as slang,
+  I'm learning English and increasing vocabulary by memorizing new words and phrases.
+  Give me 3 sentences using "${question}",
   and put into 2 sections: English sentences and Japanese translation
   then enclose query keywords in <u> tags
   like the following format

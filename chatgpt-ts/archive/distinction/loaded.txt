@@ -1,0 +1,11 @@
+# Key:loaded
+## Response
+### English Sentences
+E-1: I can't believe he arrived to the party so <u>loaded</u> he could barely stand.
+E-2: She won so much money at the casino, she left feeling <u>loaded</u>.
+E-3: He's driving a brand new sports car, he must be <u>loaded</u>.
+
+### Japanese Translation
+J-1: 彼がパーティーに辿り着いたのに、酔いがまわり、立つのもやっとだったとは信じられない。
+J-2: 彼女はカジノで大儲けして、<u>金にあふれて</u>帰った。
+J-3: 彼が新しいスポーツカーに乗っているから、お金持ちなのかもしれない。

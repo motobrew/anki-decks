@@ -1,0 +1,11 @@
+# Key:ignorance is bliss
+## Response
+### English Sentences
+E-1: Sometimes I think <u>ignorance is bliss</u>, I don't want to know all the bad things happening in the world.
+E-2: She's so happy in her bubble of <u>ignorance is bliss</u>, unaware of the problems around her.
+E-3: He chose to stay in <u>ignorance is bliss</u>, not wanting to confront the reality of his situation.
+
+### Japanese Translation
+J-1: 世界で起きているすべての悪いことを知りたくないから、ときに私は<u>無知が幸せだ</u>と思います。
+J-2: 彼女は自分の周りの問題に気づかず、自分のバブルの中で幸せである<u>無知が幸せだ</u>。
+J-3: 彼は状況の現実に立ち向かいたくないので、<u>無知が幸せだ</u>と選択しました。

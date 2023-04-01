@@ -1,0 +1,11 @@
+# Key:rough sb up
+## Response
+### English Sentences
+E-1: The gangsters threatened to <u>rough him up</u> if he didn't pay the money.
+E-2: The drunk guy tried to pick a fight with the bouncer, but ended up getting <u>roughed up</u>.
+E-3: The coach told his team to <u>rough up</u> the opponents and play aggressively.
+
+### Japanese Translation
+J-1: ギャングたちは、金を払わなければ彼を<u>ぶった斬る</u>と脅しました。
+J-2: 酔っ払いは用心棒と喧嘩を売り、結局<u>ぼこぼこにされた</u>。
+J-3: コーチはチームに対して、相手を<u>かっ飛ばすように</u>言いました。

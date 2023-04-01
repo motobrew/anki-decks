@@ -1,0 +1,11 @@
+# Key:pricey
+## Response
+### English Sentences
+E-1: That designer handbag is too <u>pricey</u> for me.
+E-2: The restaurant we went to last night was great, but a bit <u>pricey</u>.
+E-3: I wanted to buy those shoes, but they were too <u>pricey</u> for my budget.
+
+### Japanese Translation
+J-1: あのデザイナーハンドバッグは私には<u>高すぎる</u>。
+J-2: 昨晩行ったレストランは素晴らしかったけど、少し<u>高め</u>だった。
+J-3: あの靴を買おうと思ったけど、私の予算には<u>高すぎた</u>。

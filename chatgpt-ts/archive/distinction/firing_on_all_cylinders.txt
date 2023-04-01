@@ -1,0 +1,11 @@
+# Key:firing on all cylinders
+## Response
+### English Sentences
+E-1: Ever since he started exercising regularly, he's been <u>firing on all cylinders</u> at work.
+E-2: The band's concert was amazing - they were really <u>firing on all cylinders</u> that night.
+E-3: The team won the game because all of the players were <u>firing on all cylinders</u>.
+
+### Japanese Translation
+J-1: 彼が定期的に運動を始めて以来、仕事では本当に<u>力を発揮している</u>。
+J-2: バンドのコンサートは素晴らしかった - その夜、彼らは本当に<u>最高のパフォーマンスを発揮していた</u>。
+J-3: チームは全員が<u>最高の状態であった</u>ため、試合に勝つことができました。

@@ -1,0 +1,11 @@
+# Key:not add up
+## Response
+### English Sentences
+E-1: The story he told me about his job interview just does <u>not add up</u>.
+E-2: The evidence presented in court did <u>not add up</u> and the case was dismissed.
+E-3: Her excuse for being late just does <u>not add up</u> to me.
+
+### Japanese Translation
+J-1: 彼が私に語った彼の面接の話は、うまくいかないように思えます。
+J-2: 法廷で提示された証拠は矛盾していて、事件は却下されました。
+J-3: 彼女が遅れた理由は、私には納得できない。

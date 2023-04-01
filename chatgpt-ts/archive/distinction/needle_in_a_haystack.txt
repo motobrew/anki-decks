@@ -1,0 +1,11 @@
+# Key:needle in a haystack
+## Response
+### English Sentences
+E-1: Trying to find my lost earring in this messy room is like looking for a <u>needle in a haystack</u>.
+E-2: With so many candidates applying for the job, finding the perfect candidate can feel like finding a <u>needle in a haystack</u>.
+E-3: Trying to understand quantum physics without any background is like searching for a <u>needle in a haystack</u>.
+
+### Japanese Translation
+J-1: 散らかった部屋で失くしたイヤリングを見つけるのは、まるで<u>干し草の中の針</u>を探すようなものです。
+J-2: 多くの候補者がその仕事に応募している中で、理想的な候補者を見つけることは、まるで<u>干し草の中の針</u>を探すようなものです。
+J-3: 何の知識もないまま量子物理学を理解しようとするのは、まるで<u>干し草の中の針</u>を探すようなものです。

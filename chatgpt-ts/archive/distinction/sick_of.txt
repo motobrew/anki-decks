@@ -1,0 +1,11 @@
+# Key:sick of
+## Response
+### English Sentences
+E-1: I'm really <u>sick of</u> my job, it's so boring.
+E-2: He's <u>sick of</u> hearing the same song on the radio every day.
+E-3: She's <u>sick of</u> her roommate always leaving a mess in the kitchen.
+
+### Japanese Translation
+J-1: 自分の仕事に本当に<u>うんざり</u>しています。退屈すぎます。
+J-2: 彼は毎日ラジオで同じ曲を聞くのに<u>うんざり</u>しています。
+J-3: 彼女はいつも台所に散らかしたままにしていくルームメイトに<u>うんざり</u>しています。

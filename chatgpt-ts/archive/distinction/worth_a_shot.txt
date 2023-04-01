@@ -1,0 +1,11 @@
+# Key:worth a shot
+## Response
+### English Sentences
+E-1: I'm not sure if this will work, but it's <u>worth a shot</u>.
+E-2: I've never tried Korean food before but it looks interesting, it's <u>worth a shot</u>.
+E-3: He's not the perfect match for me, but dating him is <u>worth a shot</u>.
+
+### Japanese Translation
+J-1: これが動くかはわからないけど、<u>試してみる価値はある</u>。
+J-2: 韓国料理はまだ食べたことがないけど、興味深そうだから<u>試してみる価値はある</u>。
+J-3: 彼は私にとって完璧なマッチではないけど、デートすることは<u>試してみる価値はある</u>。

@@ -1,0 +1,11 @@
+# Key:walk on eggshells
+## Response
+### English Sentences
+E-1: I have to <u>walk on eggshells</u> around my boss because she gets angry very easily.
+E-2: Whenever my parents are arguing, I feel like I have to <u>walk on eggshells</u> around them.
+E-3: The new employee was nervous and <u>walking on eggshells</u> during his first day at work.
+
+### Japanese Translation
+J-1: 目が怒りっぽいので、上司の周りでは<u>気を遣う</u>必要があります。
+J-2: 両親が口論しているときは、私は彼らの周りでいつも<u>慎重に行動</u>しなければなりません。
+J-3: 新しい社員は緊張して、初めての出勤日に<u>慎重に行動</u>していました。

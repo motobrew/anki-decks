@@ -7,8 +7,7 @@ const configuration = new Configuration({
 });
 const openai = new OpenAIApi(configuration);
 
-
-export async function ask(question: string, model = "gpt-3.5-turbo-0301") {
+export async function ask(question: string, model = "gpt-3.5-turbo") {
 
   const content = `
   I'm learning English and increasing vocabulary by memorizing new words and phrases.

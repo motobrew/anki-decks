@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 
-input_file=./data/BD_Temporary.txt
 input_file=./data/keys.txt
 now_ts=$(date +%Y%m%d_%H%M%S)
 log_dir=./logs/$now_ts

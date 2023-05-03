@@ -7,7 +7,6 @@ convert:
 main:
 	bash src/main.sh
 
-
 hello:
 	ts-node src/hello.ts
 

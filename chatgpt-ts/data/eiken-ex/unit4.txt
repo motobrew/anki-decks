@@ -50,6 +50,7 @@ nullify
 tacit
 swerve
 perpetrate
+perpetuate
 reclusive
 onus
 cinch

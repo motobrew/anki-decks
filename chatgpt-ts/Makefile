@@ -11,4 +11,4 @@ hello:
 	ts-node src/hello.ts
 
 test:
-	ts-node src/index.ts "pop up"
+	ts-node src/index.ts "low-key"

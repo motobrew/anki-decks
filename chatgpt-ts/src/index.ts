@@ -7,25 +7,24 @@ const configuration = new Configuration({
 });
 const openai = new OpenAIApi(configuration);
 
-export async function ask(question: string, model = "gpt-3.5-turbo") {
+export async function ask(question: string, model = "gpt-3.5-turbo-0301") {
 
   const content = `
-  I'm learning English and increasing vocabulary by memorizing new words and phrases.
-  Give me 3 sentences using "${question}",
-  and put into 2 sections: English sentences and Japanese translation
-  then enclose query keywords in <u> tags
-  like the following format
+  Hi, I'm an English learner.
+  Give me 2 sentences using "${question}", based on most commonly use cases.
+  But if the keyword I give you has some different meanings, make sentences as different meaing as possible. Shorter is better for each sentence. (8~12 words)
+  And then, put them into 2 sections: English sentences and Japanese translation,
+  In addition to that, enclose in <u> tags both the keyword and corresponding translation.
+  Your response must be complied to the following format.
 
   ## Response
   ### English Sentences
-  E-1: Don't forget to <u>lock up</u> the doors before you leave the house.
-  E-2: The security guard will <u>lock up</u> the building at 10 PM every night.
-  E-3: The police will <u>lock up</u> the criminals in jail.
+  E-1: The advertisement <u>pop up</u> on my computer screen while I was browsing.
+  E-2: We decided to have a picnic if the weather <u>pop up</u> clear tomorrow.
   
   ### Japanese Translation
-  J-1: 家を出る前にドアを<u>施錠</u>するのを忘れないでください。
-  J-2: セキュリティーガードは毎晩10時に建物を<u>施錠</u>します。
-  J-3: 警察は犯罪者を刑務所に<u>監禁</u>します。
+  J-1: 私がウェブを閲覧している間に広告が画面に<u>ポップアップ</u>しました。
+  J-2: もし明日天気が<u>急によくなる</u>なら、ピクニックをすることにしました。
   `;
 
   const response = await openai.createChatCompletion({

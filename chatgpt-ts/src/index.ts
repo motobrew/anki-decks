@@ -11,7 +11,7 @@ export async function ask(question: string, model = "gpt-3.5-turbo-0301") {
 
   const content = `
   Hi, I'm an English learner.
-  Give me 2 sentences using "${question}", based on most commonly use cases.
+  Give me 2 sentences using "${question}" as idiom, based on most commonly use cases.
   But if the keyword I give you has some different meanings, make sentences as different meaing as possible. Shorter is better for each sentence. (8~12 words)
   And then, put them into 2 sections: English sentences and Japanese translation,
   In addition to that, enclose in <u> tags both the keyword and corresponding translation.

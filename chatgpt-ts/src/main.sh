@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-input_file=./keys.txt
+input_file=../data/keys.txt
 now_ts=$(date +%Y%m%d_%H%M%S)
 log_dir=./logs/$now_ts
 test -d $log_dir || mkdir -p $log_dir

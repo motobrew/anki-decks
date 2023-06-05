@@ -1,9 +1,0 @@
-# Key:drive sb up the wall
-## Response
-### English Sentences
-E-1: My coworker's constant humming is starting to <u>drive me up the wall</u>.
-E-2: Waiting in long lines always <u>drives me up the wall</u>.
-
-### Japanese Translation
-J-1: 同僚のひっきりなしのブンブン唱える声がもう<u>イライラさせてきた</u>。
-J-2: 長い列で待つのはいつも<u>イライラさせられる</u>。

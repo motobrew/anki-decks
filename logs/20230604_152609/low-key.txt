@@ -1,9 +1,0 @@
-# Key:low-key
-## Response
-### English Sentences
-E-1: Let's keep this <u>low-key</u> and just have a small gathering at home.
-E-2: He's a <u>low-key</u> kind of guy who doesn't like attention.
-
-### Japanese Translation
-J-1: ここはシンプルに家での小さな集まりにして、<u>地味に</u>しましょう。
-J-2: 彼は注目を浴びることを好まない、<u>控えめな</u>人物です。

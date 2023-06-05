@@ -1,9 +1,0 @@
-# Key:rough sb up
-## Response
-### English Sentences
-E-1: Don't mess with him, he's known to <u>rough people up</u> if provoked.
-E-2: The football game got intense and the players started to <u>rough each other up</u> on the field.
-
-### Japanese Translation
-J-1: 彼には手を出さない方がいい、刺激されたらその人を<u>殴りつけることがある</u>。
-J-2: フットボールの試合が激しくなり、選手たちはフィールド上で<u>お互いに乱暴に扱い合った</u>。

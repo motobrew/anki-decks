@@ -1,0 +1,9 @@
+# Key:control freak
+## Response
+### English Sentences
+E-1: My boss is a <u>control freak</u> who needs everything done his way.
+E-2: She's such a <u>control freak</u> that she even micromanages her friends.
+
+### Japanese Translation
+J-1: 私の上司は何でも自分のやり方でやらせたがる<u>やりすぎ</u>タイプです。
+J-2: 彼女は友達まで細かく管理する<u>支配欲が強い</u>タイプです。

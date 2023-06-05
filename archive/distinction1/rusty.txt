@@ -1,0 +1,9 @@
+# Key:rusty
+## Response
+### English Sentences
+E-1: After years of not playing basketball, my skills are a bit <u>rusty</u>.
+E-2: She needs to practice her French regularly, otherwise her language skills will <u>get rusty</u>.
+
+### Japanese Translation
+J-1: バスケットボールをプレイしなくなって数年経ち、私のスキルは少し<u>衰えている</u>。
+J-2: 彼女は定期的にフランス語の練習をしなければ、言語力が<u>退化する</u>だろう。

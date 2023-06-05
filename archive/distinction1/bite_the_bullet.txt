@@ -1,0 +1,9 @@
+# Key:bite the bullet
+## Response
+### English Sentences
+E-1: I know the exam will be difficult, but you just have to <u>bite the bullet</u> and study hard.
+E-2: The surgery will be painful, but it's time to <u>bite the bullet</u> and get it over with.
+
+### Japanese Translation
+J-1: 試験が難しいことはわかっているけど、<u>覚悟を決めて</u>勉強しなければなりません。
+J-2: 手術は痛いだろうけど、<u>覚悟を決めて</u>終わらせるべきです。

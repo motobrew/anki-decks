@@ -1,0 +1,9 @@
+# Key:fishy
+## Response
+### English Sentences
+E-1: That offer sounds <u>fishy</u>. I wouldn't trust it.
+E-2: Something is <u>fishy</u> here, we need to investigate.
+
+### Japanese Translation
+J-1: そのオファーは<u>怪しい</u>と思います。信用しない方がいいです。
+J-2: 何か<u>うさん臭い</u>ことがあります。調べる必要があります。

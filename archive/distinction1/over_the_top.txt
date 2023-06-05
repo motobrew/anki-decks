@@ -1,0 +1,9 @@
+# Key:over the top
+## Response
+### English Sentences
+E-1: The decorations for the party were way <u>over the top</u>.
+E-2: He always exaggerates his stories and makes them <u>over the top</u>.
+
+### Japanese Translation
+J-1: パーティーの装飾はめちゃくちゃ<u>派手すぎた</u>。
+J-2: 彼はいつも話を大げさにして<u>誇張しすぎる</u>。

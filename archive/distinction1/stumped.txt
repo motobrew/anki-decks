@@ -1,0 +1,9 @@
+# Key:stumped
+## Response
+### English Sentences
+E-1: I've been trying to solve this math problem for hours, but I'm completely <u>stumped</u>.
+E-2: The detective was <u>stumped</u> by the mysterious disappearance of the key witness.
+
+### Japanese Translation
+J-1: 数時間掛けてこの数学の問題に取り組んでいるけど、完全に<u>行き詰まっている</u>。
+J-2: 刑事は重要な証人の謎の失踪に<u>手詰まりになった</u>。

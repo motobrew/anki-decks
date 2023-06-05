@@ -1,0 +1,9 @@
+# Key:watch out for sth/sb
+## Response
+### English Sentences
+E-1: <u>Watch out for</u> the cars when crossing the street.
+E-2: <u>Watch out for</u> that slippery patch of ice on the sidewalk.
+
+### Japanese Translation
+J-1: 道を渡る時に車に<u>注意して</u>ください。
+J-2: 歩道にあの滑りやすい氷の<u>気をつけて</u>ください。

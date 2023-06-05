@@ -1,0 +1,9 @@
+# Key:put sth together
+## Response
+### English Sentences
+E-1: I need to <u>put together</u> a presentation for tomorrow's meeting.
+E-2: Can you <u>put together</u> a meal with the ingredients we have left?
+
+### Japanese Translation
+J-1: 明日のミーティングのためにプレゼンテーションを<u>まとめ</u>なければならない。
+J-2: 残った材料で料理を<u>調理して</u>くれますか？

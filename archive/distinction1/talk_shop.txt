@@ -1,0 +1,9 @@
+# Key:talk shop
+## Response
+### English Sentences
+E-1: Let's not <u>talk shop</u> and enjoy the party.
+E-2: He loves to <u>talk shop</u> even during lunch breaks.
+
+### Japanese Translation
+J-1: パーティーを楽しみましょう、仕事の話をしないで。
+J-2: 彼はお昼休み中でも仕事の話を<u>したがります</u>。

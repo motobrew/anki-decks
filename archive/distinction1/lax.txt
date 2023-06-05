@@ -1,0 +1,9 @@
+# Key:lax
+## Response
+### English Sentences
+E-1: He's very <u>lax</u> when it comes to following rules and regulations.
+E-2: The company's <u>lax</u> security measures led to a data breach.
+
+### Japanese Translation
+J-1: 彼は規則や規定に従うことにおいて非常に<uだらしない>
+J-2: その企業の緩い<u>不注意 </u>なセキュリティ対策がデータ漏えいを引き起こした。

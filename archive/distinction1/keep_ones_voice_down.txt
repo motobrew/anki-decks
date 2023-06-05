@@ -1,0 +1,9 @@
+# Key:keep one's voice down
+## Response
+### English Sentences
+E-1: Can you please <u>keep your voice down</u>? You're waking up the baby.
+E-2: We need to <u>keep our voices down</u> so that we don't get caught.
+
+### Japanese Translation
+J-1: 赤ちゃんが起きるから、声を<u>出すな</u>。
+J-2: 私たちは見つからないように、<u>声を抑えなければならない</u>。

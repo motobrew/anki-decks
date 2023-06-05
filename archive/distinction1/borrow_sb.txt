@@ -1,0 +1,9 @@
+# Key:borrow sb
+## Response
+### English Sentences
+E-1: I need to <u>borrow my friend</u>'s car to get to work.
+E-2: Can I <u>borrow some sugar</u> for this recipe?
+
+### Japanese Translation
+J-1: 仕事に行くために、友達の車を<u>借りる必要</u>があります。
+J-2: このレシピに使うために、<u>砂糖を借りても</u>いいですか？

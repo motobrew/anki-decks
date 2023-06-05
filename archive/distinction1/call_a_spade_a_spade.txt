@@ -1,0 +1,9 @@
+# Key:call a spade a spade
+## Response
+### English Sentences
+E-1: Let's <u>call a spade a spade</u>, he's just lazy.
+E-2: Stop avoiding the issue and <u>call a spade a spade</u>.
+
+### Japanese Translation
+J-1: 率直に言って、彼はただ怠惰なだけです。
+J-2: 問題を避けず、事実を指摘しましょう。

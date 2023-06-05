@@ -1,0 +1,9 @@
+# Key:sort of/kind of
+## Response
+### English Sentences
+E-1: I'm not sure where he is from, but he has a <u>sort of</u> British accent.
+E-2: The dress is <u>kind of</u> expensive, but it's worth it.
+
+### Japanese Translation
+J-1: 彼の出身地はわかりませんが、<u>多少</u>英国のアクセントがあります。
+J-2: そのドレスは<u>やや</u>高価ですが、その価値があります。

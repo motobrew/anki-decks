@@ -1,0 +1,9 @@
+# Key:hold sth/sb up
+## Response
+### English Sentences
+E-1: I'm sorry for being late, but traffic <u>held me up</u>.
+E-2: The construction work <u>held up</u> the delivery truck for an hour.
+
+### Japanese Translation
+J-1: 遅れてすみません。でも、交通渋滞が<u>私を遅らせました</u>。
+J-2: 道路工事が<u>配送トラックを1時間止めました</u>。

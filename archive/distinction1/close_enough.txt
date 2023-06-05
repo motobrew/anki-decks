@@ -1,0 +1,9 @@
+# Key:close enough
+## Response
+### English Sentences
+E-1: I couldn't find the exact address, but this one is <u>close enough</u>.
+E-2: The restaurant doesn't have your favorite dish, but this one is <u>close enough</u>.
+
+### Japanese Translation
+J-1: 正確な住所はわからないけど、これで<u>十分近い</u>です。
+J-2: そのレストランにはお気に入りの料理はないけど、これで<u>十分近い</u>です。

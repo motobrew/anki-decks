@@ -1,0 +1,9 @@
+# Key:nice-to-have
+## Response
+### English Sentences
+E-1: Having a coffee maker in the office is a <u>nice-to-have</u> amenity.
+E-2: The extra storage in the car's trunk is a <u>nice-to-have</u> feature.
+
+### Japanese Translation
+J-1: オフィスにコーヒーメーカーがあるのは<u>あると便利な</u>設備です。
+J-2: 車のトランクに余分な収納スペースがあるのは<u>あると嬉しい</u>機能です。

@@ -1,0 +1,9 @@
+# Key:overpaid
+## Response
+### English Sentences
+E-1: The CEO was <u>overpaid</u> for his mediocre performance.
+E-2: Some professional athletes are <u>overpaid</u> compared to other essential workers.
+
+### Japanese Translation
+J-1: CEOは普通のパフォーマンスに対して<u>過大評価</u>されました。
+J-2: 一部のプロスポーツ選手は、他の必須労働者に比べて<u>過剰に報酬がある</u>。

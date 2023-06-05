@@ -1,0 +1,9 @@
+# Key:pull the trigger
+## Response
+### English Sentences
+E-1: The police officer hesitated before <u>pulling the trigger</u> on his gun.
+E-2: After months of consideration, she finally <u>pulled the trigger</u> on buying a new car.
+
+### Japanese Translation
+J-1: 警官は自分の銃を<u>撃つ決断</u>をする前にためらった。
+J-2: 数ヶ月悩んだ後、彼女はついに<u>新車を購入する決心</u>をしました。

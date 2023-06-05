@@ -1,0 +1,9 @@
+# Key:legit
+## Response
+### English Sentences
+E-1: That online clothing store is <u>legit</u>. I've ordered from them before.
+E-2: Sorry, I can't help you cheat on the exam. I want my degree to be <u>legit</u>.
+
+### Japanese Translation
+J-1: あのオンラインの洋服屋は<u>信頼できる</u>よ。以前に注文したことがあるんだ。
+J-2: ごめん、試験でカンニングするのは手伝えない。自分の学位は<u>合法的</u>に取りたいから。

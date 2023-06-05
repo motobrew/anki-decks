@@ -1,0 +1,9 @@
+# Key:jazz sth up
+## Response
+### English Sentences
+E-1: The party was boring until the DJ <u>jazzed it up</u> with some funky beats.
+E-2: You should <u>jazz up</u> your outfit with a statement necklace or earrings.
+
+### Japanese Translation
+J-1: DJがファンキーなビートでパーティーを<u>盛り上げる</u>まで、退屈な時間でした。
+J-2: 大ぶりなネックレスやイヤリングで、服装を<u>華やかにする</u>べきです。

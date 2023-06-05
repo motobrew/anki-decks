@@ -1,0 +1,9 @@
+# Key:crystalize sth
+## Response
+### English Sentences
+E-1: The plan began to <u>crystallize</u> after several brainstorming sessions.
+E-2: Her ideas for the project started to <u>crystallize</u> after researching the topic.
+
+### Japanese Translation
+J-1: 何回かブレインストーミングのセッションを重ねた後、計画が<u>明確化</u>し始めました。
+J-2: 彼女のプロジェクトのアイデアは、そのトピックについて調べた後、<u>固まり始めました</u>。

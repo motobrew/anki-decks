@@ -1,0 +1,9 @@
+# Key:face-time
+## Response
+### English Sentences
+E-1: I want to have some <u>face-time</u> with my boss to discuss my performance.
+E-2: It's important to have <u>face-time</u> with clients to build rapport.
+
+### Japanese Translation
+J-1: 私は私のパフォーマンスについて話すために上司と<u>面談</u>したいと思っています。
+J-2: 顧客と<u>対面時間</u>を持つことは関係を築くために重要です。

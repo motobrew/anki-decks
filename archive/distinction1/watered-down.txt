@@ -1,0 +1,9 @@
+# Key:watered-down
+## Response
+### English Sentences
+E-1: The novel's message was lost in the <u>watered-down</u> movie adaptation.
+E-2: The company's commitment to sustainability feels <u>watered-down</u> in their latest product release.
+
+### Japanese Translation
+J-1: 小説のメッセージは、映画化されたものでは<u>骨抜きにされました</u>。
+J-2: その企業が持つ持続可能性への取り組みは、最新製品リリースにおいて<u>水っぽく感じます</u>。

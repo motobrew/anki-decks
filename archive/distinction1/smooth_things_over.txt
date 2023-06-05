@@ -1,0 +1,9 @@
+# Key:smooth things over
+## Response
+### English Sentences
+E-1: There was a misunderstanding between us, but we were able to <u>smooth things over</u> with a sincere apology.
+E-2: The company needed to <u>smooth things over</u> with their customers after a product recall.
+
+### Japanese Translation
+J-1: 私たちの間には誤解があったが、謝罪の言葉で<u>誤解を解いて</u>和解できた。
+J-2: 商品リコールの後、会社は顧客との関係を<u>修復する</u>必要があった。

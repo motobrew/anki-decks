@@ -1,0 +1,9 @@
+# Key:show one's hand
+## Response
+### English Sentences
+E-1: I don't want to <u>show my hand</u> too early in the negotiation.
+E-2: He accidentally <u>showed his hand</u> by revealing his true intentions.
+
+### Japanese Translation
+J-1: 交渉においては早めに<u>手のひらを見せる</u>ことはしたくない。
+J-2: 彼は本当の意図を明かすことによって、うっかり<u>手をさらしてしまった</u>。

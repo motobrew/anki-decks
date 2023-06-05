@@ -1,0 +1,9 @@
+# Key:lucky break
+## Response
+### English Sentences
+E-1: I didn't think I would get the job, but I got a <u>lucky break</u> when the interviewer mentioned we shared an alma mater.
+E-2: The team was losing until they got a <u>lucky break</u> with a last-minute goal in stoppage time.
+
+### Japanese Translation
+J-1: 私はその仕事がもらえるとは思っていなかったが、面接官が私たちが同じ出身校であることを口にした時、<u>ラッキーブレイク</u>があった。
+J-2: チームは最後の追加時間にラストゴールを決めて<u>幸運な瞬間</u>が訪れるまで負けていた。

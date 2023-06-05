@@ -1,0 +1,9 @@
+# Key:fiddly
+## Response
+### English Sentences
+E-1: The small buttons on this shirt are so <u>fiddly</u>, I can barely button them.
+E-2: This model airplane is quite <u>fiddly</u> to assemble, requiring patience and precision.
+
+### Japanese Translation
+J-1: このシャツの小さいボタンはとても<u>小さくて取り扱いにくい</u>ので、ほとんど留めることができません。
+J-2: この飛行機の模型は、忍耐と正確さが必要で<u>手間がかかる</u>。

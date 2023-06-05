@@ -1,0 +1,9 @@
+# Key:fly on the wall
+## Response
+### English Sentences
+E-1: I wish I could be a <u>fly on the wall</u> during their meeting.
+E-2: I felt like a <u>fly on the wall</u> listening to their private conversation.
+
+### Japanese Translation
+J-1: 彼らのミーティング中に<u>壁の虫</u>になれたらいいのにと思います。
+J-2: 彼らのプライベートな会話を聞いていると<u>覗き見しているような気分</u>になりました。

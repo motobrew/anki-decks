@@ -1,0 +1,9 @@
+# Key:on second thought
+## Response
+### English Sentences
+E-1: <u>On second thought</u>, I don't think I want to go out tonight.
+E-2: I was going to buy the expensive shoes, but <u>on second thought</u>, I'll go for the cheaper ones.
+
+### Japanese Translation
+J-1: <u>考え直してみると</u>、今夜は出かけたくないと思います。
+J-2: 高い靴を買おうと思っていましたが、<u>改めて考えてみると</u>、安い方にしようと思います。

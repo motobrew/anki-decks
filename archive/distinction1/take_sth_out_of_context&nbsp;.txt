@@ -1,0 +1,9 @@
+# Key:take sth out of context&nbsp;
+## Response
+### English Sentences
+E-1: The journalist <u>took the politician's words out of context</u> in their article.
+E-2: Please don't <u>take my joke out of context</u>, it won't be funny anymore.
+
+### Japanese Translation
+J-1: ジャーナリストは記事でその政治家の言葉を<u>文脈から切り離して報じた</u>。
+J-2: 私の冗談を<u>文脈から切り離さないで</u>、面白くなくなるよ。

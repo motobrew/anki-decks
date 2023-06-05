@@ -1,0 +1,9 @@
+# Key:cut to the chase
+## Response
+### English Sentences
+E-1: Let's <u>cut to the chase</u> and get straight to the point.
+E-2: I don't have time for small talk, can we <u>cut to the chase</u>?
+
+### Japanese Translation
+J-1: 話を端折って本題に<u>入りましょう</u>。
+J-2: 雑談する時間がありません、本題に<u>入っていただけますか</u>？

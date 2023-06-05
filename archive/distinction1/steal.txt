@@ -1,0 +1,9 @@
+# Key:steal
+## Response
+### English Sentences
+E-1: He always <u>steals the show</u> with his amazing performances.
+E-2: The new employee <u>stole my thunder</u> by presenting my project.
+
+### Japanese Translation
+J-1: 彼はいつも素晴らしいパフォーマンスでショーを<u>盗みます</u>。
+J-2: 新しい社員が私のプロジェクトを発表して<u>私の威光を奪いました</u>。

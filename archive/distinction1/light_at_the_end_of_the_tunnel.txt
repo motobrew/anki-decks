@@ -1,0 +1,9 @@
+# Key:light at the end of the tunnel
+## Response
+### English Sentences
+E-1: After months of hard work, I finally see <u>light at the end of the tunnel</u> in my project.
+E-2: The pandemic has been tough, but vaccines offer a <u>light at the end of the tunnel</u>.
+
+### Japanese Translation
+J-1: 数か月間の熱心な取り組みの結果、私はついにプロジェクトに<u>光明が見えてきた</u>。
+J-2: パンデミックは大変でしたが、ワクチンによって<u>明るい未来が見えてきた</u>。

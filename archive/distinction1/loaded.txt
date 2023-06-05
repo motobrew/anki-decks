@@ -1,0 +1,9 @@
+# Key:loaded
+## Response
+### English Sentences
+E-1: John is <u>loaded</u> with money after winning the lottery.
+E-2: The car was <u>loaded</u> with supplies for the camping trip.
+
+### Japanese Translation
+J-1: ジョンは宝くじに当たったのでお金に<u>あふれています</u>。
+J-2: 車はキャンプ旅行のために物資で<u>満載でした</u>。

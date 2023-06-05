@@ -1,0 +1,9 @@
+# Key:spot sth/sb
+## Response
+### English Sentences
+E-1: I can <u>spot</u> my friend in the crowd because of her bright red jacket.
+E-2: The detective was able to <u>spot</u> the clue that led to the murderer's identity.
+
+### Japanese Translation
+J-1: 彼女の明るい赤のジャケットのおかげで、私は人混みの中で彼女を<u>見つけることができます</u>。
+J-2: 刑事は、犯人の正体を明らかにする<u>手掛かりを見つけることができました</u>。

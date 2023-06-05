@@ -1,0 +1,9 @@
+# Key:wrap sth up
+## Response
+### English Sentences
+E-1: Let's <u>wrap up</u> this meeting and go home.
+E-2: I need to <u>wrap up</u> this gift before the party.
+
+### Japanese Translation
+J-1: このミーティングを<u>終わらせて</u>家に帰りましょう。
+J-2: パーティー前にこのプレゼントを<u>包まなければなりません</u>。

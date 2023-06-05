@@ -1,0 +1,9 @@
+# Key:attention to detail
+## Response
+### English Sentences
+E-1: As a graphic designer, she pays <u>attention to detail</u> in every project.
+E-2: The surgeon's success rate is high because of his <u>attention to detail</u>.
+
+### Japanese Translation
+J-1: グラフィックデザイナーとして、彼女はすべてのプロジェクトに<u>細部に注意</u>しています。
+J-2: 外科医の成功率は、彼の<u>細かい注意力</u>のおかげです。

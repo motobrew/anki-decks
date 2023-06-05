@@ -1,0 +1,9 @@
+# Key:get into sth
+## Response
+### English Sentences
+E-1: I want to <u>get into</u> a good college when I graduate.
+E-2: He decided to <u>get into</u> shape by going to the gym regularly.
+
+### Japanese Translation
+J-1: 卒業したらいい大学に<u>進学したい</u>と思っています。
+J-2: 彼は定期的にジムに行くことで体を<u>健康にするつもり</u>です。

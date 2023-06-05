@@ -1,0 +1,9 @@
+# Key:sugarcoat sth
+## Response
+### English Sentences
+E-1: I'm not going to <u>sugarcoat</u> it - the test results were disappointing.
+E-2: Don't <u>sugarcoat</u> your words - be honest with me.
+
+### Japanese Translation
+J-1: 遠慮なく言いますが、試験の結果はがっかりでした。
+J-2: 甘言を弄するな - 正直であれ。

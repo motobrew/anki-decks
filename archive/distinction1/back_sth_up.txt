@@ -1,0 +1,9 @@
+# Key:back sth up
+## Response
+### English Sentences
+E-1: Don't forget to <u>back up</u> your important files on an external hard drive.
+E-2: Can you <u>back up</u> your argument with some evidence?
+
+### Japanese Translation
+J-1: 大切なファイルは外付けハードドライブに<u>バックアップ</u>するのを忘れないでください。
+J-2: 証拠を提示して、あなたの主張を<u>支持して</u>もらえますか？

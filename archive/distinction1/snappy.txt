@@ -1,0 +1,9 @@
+# Key:snappy
+## Response
+### English Sentences
+E-1: Her snappy response shut down the argument quickly.
+E-2: Don't be snappy with me, I'm just trying to help.
+
+### Japanese Translation
+J-1: 彼女の<u>辛辣な</u>返事が論争を早く終わらせました。
+J-2: 私を無神経に扱わないで、単に手伝っているだけです。

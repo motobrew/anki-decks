@@ -1,0 +1,9 @@
+# Key:needle in a haystack
+## Response
+### English Sentences
+E-1: Searching for my lost keys in this mess of a room is like looking for a <u>needle in a haystack</u>.
+E-2: Trying to find a reliable source in the age of fake news is like finding a <u>needle in a haystack</u>.
+
+### Japanese Translation
+J-1: 部屋の散らかり具合で、失くした鍵を探すのはまるで<u>ロバの耳</u>。
+J-2: フェイクニュースの時代に信頼できる情報源を見つけるのは、まるで<u>針の穴を見つける</u>ようだ。

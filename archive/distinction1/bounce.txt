@@ -1,0 +1,9 @@
+# Key:bounce
+## Response
+### English Sentences
+E-1: I'm sorry, but your check <u>bounced</u> due to insufficient funds.
+E-2: She tried to impress the boss, but her idea <u>bounced</u> off.
+
+### Japanese Translation
+J-1: 申し訳ありませんが、あなたの小切手は不足しているため<u>不渡りになりました</u>。
+J-2: 彼女は上司にアイデアをアピールしようとしましたが、<u>受け入れられませんでした</u>。

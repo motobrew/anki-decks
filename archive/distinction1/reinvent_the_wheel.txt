@@ -1,0 +1,9 @@
+# Key:reinvent the wheel
+## Response
+### English Sentences
+E-1: There's no need to <u>reinvent the wheel</u> - just use the existing solution.
+E-2: Don't waste time trying to <u>reinvent the wheel</u> - follow the established method.
+
+### Japanese Translation
+J-1: 既存のソリューションを使えば、<u>車輪の再発明</u>は必要ありません。
+J-2: 確立された方法に従うことで、時間を<u>無駄にして車輪の再発明</u>する必要はありません。

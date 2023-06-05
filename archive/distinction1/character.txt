@@ -1,0 +1,9 @@
+# Key:character
+## Response
+### English Sentences
+E-1: She has a strong <u>character</u> and never gives up easily.
+E-2: The new employee's <u>character</u> seems unreliable based on his previous work history.
+
+### Japanese Translation
+J-1: 彼女は強い<u>性格</u>を持っており、簡単には諦めません。
+J-2: 新入社員は、前職の履歴から信頼できなさそうな<u>性格</u>です。

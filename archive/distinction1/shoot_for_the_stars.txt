@@ -1,0 +1,9 @@
+# Key:shoot for the stars
+## Response
+### English Sentences
+E-1: Don't be afraid to <u>shoot for the stars</u> in your career aspirations.
+E-2: The team may not win the championship, but they are <u>shooting for the stars</u> this season.
+
+### Japanese Translation
+J-1: キャリアの夢に<u>大きな野心を持って</u>取り組んでください。
+J-2: チームが優勝するかは分からないが、今シーズンは<u>大志を抱いて戦っている</u>。

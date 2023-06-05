@@ -1,0 +1,9 @@
+# Key:ramp up sth
+## Response
+### English Sentences
+E-1: The company plans to <u>ramp up</u> production to meet the high demand.
+E-2: The politician promised to <u>ramp up</u> security measures in the city.
+
+### Japanese Translation
+J-1: 企業は高い需要に対応するために、生産を<u>拡大する</u>予定です。
+J-2: 政治家は都市のセキュリティ対策を<u>強化する</u>と約束しました。

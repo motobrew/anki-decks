@@ -1,0 +1,9 @@
+# Key:bells and whistles
+## Response
+### English Sentences
+E-1: I don't need all the <u>bells and whistles</u>, just a basic phone.
+E-2: The company added <u>bells and whistles</u> to the product, making it more expensive.
+
+### Japanese Translation
+J-1: 基本的な携帯電話が必要で、<u>余計なもの</u>は必要ありません。
+J-2: 会社は製品に<u>付加機能</u>を追加して、より高価にしました。

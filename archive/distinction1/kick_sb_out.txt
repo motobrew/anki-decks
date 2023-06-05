@@ -1,0 +1,9 @@
+# Key:kick sb out
+## Response
+### English Sentences
+E-1: The bouncer <u>kicked me out</u> of the club for being too drunk.
+E-2: The landlord <u>kicked the tenants out</u> for not paying rent on time.
+
+### Japanese Translation
+J-1: バウンサーが私をクラブから<u>立ち退かせました</u>。酔いすぎていたからです。
+J-2: 大家が家賃を滞納したため、<u>テナントを追い出しました</u>。

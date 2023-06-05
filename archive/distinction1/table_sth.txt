@@ -1,0 +1,9 @@
+# Key:table sth
+## Response
+### English Sentences
+E-1: The team <u>tabled</u> the proposal for further discussion.
+E-2: Let's <u>table</u> this topic and move on to the next agenda.
+
+### Japanese Translation
+J-1: チームは提案を<u>保留にする</u>ことにし、さらに議論することにしました。
+J-2: このトピックを<u>次の議題に移して</u>進みましょう。

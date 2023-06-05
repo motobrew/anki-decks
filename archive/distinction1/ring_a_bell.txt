@@ -1,0 +1,9 @@
+# Key:ring a bell
+## Response
+### English Sentences
+E-1: I heard that name before, but it doesn't <u>ring a bell</u>.
+E-2: The old building at the corner of the street <u>ring a bell</u> now.
+
+### Japanese Translation
+J-1: あの名前は聞いたことがあるけど、ピンときません。
+J-2: 通りの角の古い建物が今は記憶に<u>残っている</u>。

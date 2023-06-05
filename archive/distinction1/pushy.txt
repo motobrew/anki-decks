@@ -1,0 +1,9 @@
+# Key:pushy
+## Response
+### English Sentences
+E-1: Don't be too <u>pushy</u> with your sales pitch, it might turn customers off.
+E-2: I don't like working with him, he's always so <u>pushy</u> and aggressive.
+
+### Japanese Translation
+J-1: 営業トークであまり<u>強引</u>にならないでください、それは顧客を嫌がらせます。
+J-2: 彼と一緒に仕事をするのは嫌だ、彼はいつも<u>押しの強い</u>態度をとる。

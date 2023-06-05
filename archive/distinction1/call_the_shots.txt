@@ -1,0 +1,9 @@
+# Key:call the shots
+## Response
+### English Sentences
+E-1: As the CEO, she <u>calls the shots</u> in this company.
+E-2: The coach lets the captain <u>call the shots</u> on the field.
+
+### Japanese Translation
+J-1: CEOとして、彼女がこの会社で<u>決定権を持っています</u>。
+J-2: コーチはキャプテンに<u>指示を任せています</u>。

@@ -1,0 +1,9 @@
+# Key:make a move
+## Response
+### English Sentences
+E-1: It's time to <u>make a move</u> and start applying for jobs.
+E-2: The company needs to <u>make a move</u> if they want to stay competitive.
+
+### Japanese Translation
+J-1: 就職活動を始める時が<u>やってきた</u>。
+J-2: 競争力を維持したいなら、企業は<u>行動する</u>必要があります。

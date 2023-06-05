@@ -1,0 +1,9 @@
+# Key:packed
+## Response
+### English Sentences
+E-1: The concert was completely <u>packed</u>, there wasn't even standing room.
+E-2: She <u>packed</u> her bags and left without saying goodbye.
+
+### Japanese Translation
+J-1: コンサートは完全に<u>満員</u>で、立っている場所すらありませんでした。
+J-2: 彼女はバッグに荷物を<u>詰め込んで</u>、別れも言わずに去りました。

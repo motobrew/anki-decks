@@ -1,0 +1,9 @@
+# Key:have the final say
+## Response
+### English Sentences
+E-1: The judge <u>has the final say</u> in the courtroom.
+E-2: The CEO's opinion <u>has the final say</u> on company decisions.
+
+### Japanese Translation
+J-1: 裁判所での最終決定は<u>裁判官によるもの</u>です。
+J-2: CEOの意見が<u>企業の決定における最終的な決定権を握る</u>。

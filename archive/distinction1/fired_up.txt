@@ -1,0 +1,9 @@
+# Key:fired up
+## Response
+### English Sentences
+E-1: After watching an inspiring speech, I felt <u>fired up</u> to pursue my dreams.
+E-2: The coach's halftime speech really <u>fired up</u> the team to win the game.
+
+### Japanese Translation
+J-1: インスピレーションを受けるスピーチを聞いた後、自分の夢に向かって<u>やる気</u>が湧きました。
+J-2: コーチのハーフタイムのスピーチはチームを勝利に導くために<u>やる気</u>を与えました。

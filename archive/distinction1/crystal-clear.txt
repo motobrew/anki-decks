@@ -1,0 +1,9 @@
+# Key:crystal-clear
+## Response
+### English Sentences
+E-1: The instructions were crystal-clear and easy to follow.
+E-2: His intention was crystal-clear from the beginning.
+
+### Japanese Translation
+J-1: 指示は<u>明確で分かりやすく</u>、それに従うのは簡単でした。
+J-2: 彼の意図は最初から<u>明確に</u>分かっていました。

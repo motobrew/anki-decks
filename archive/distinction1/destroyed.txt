@@ -1,0 +1,9 @@
+# Key:destroyed
+## Response
+### English Sentences
+E-1: The hurricane <u>destroyed</u> the small town, leaving behind only rubble.
+E-2: The gossip <u>destroyed</u> her reputation and she was never able to fully recover.
+
+### Japanese Translation
+J-1: ハリケーンが小さな町を<u>壊滅させ</u>、瓦礫しか残りませんでした。
+J-2: その噂は彼女の評判を<u>破滅させ</u>、彼女は完全に回復することができませんでした。

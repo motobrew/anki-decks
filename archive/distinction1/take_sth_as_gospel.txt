@@ -1,0 +1,9 @@
+# Key:take sth as gospel
+## Response
+### English Sentences
+E-1: Don't <u>take his word as gospel</u>, he's known to exaggerate.
+E-2: Just because it's on the internet doesn't mean you should <u>take it as gospel</u>.
+
+### Japanese Translation
+J-1: 彼の言葉を<u>鵜呑みにしないで</u>、彼は大げさに言うことがある。
+J-2: インターネットに載っているからといって、<u>必ずしも正しいと思わないで</u>。

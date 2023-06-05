@@ -1,0 +1,9 @@
+# Key:rock the boat
+## Response
+### English Sentences
+E-1: He didn't want to <u>rock the boat</u> and kept quiet about the issue.
+E-2: The new manager came in and started to <u>rock the boat</u> by changing everything.
+
+### Japanese Translation
+J-1: 彼は問題について黙っていて<u>波風を立てたくなかった</u>。
+J-2: 新しいマネージャーが入ってきて、すべてを変えて<u>混乱を引き起こし始めた</u>。

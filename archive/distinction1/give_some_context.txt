@@ -1,0 +1,9 @@
+# Key:give some context
+## Response
+### English Sentences
+E-1: Can you <u>give some context</u> to this text message? I don't understand.
+E-2: Before you ask for help, <u>give some context</u> so I know what you need.
+
+### Japanese Translation
+J-1: このテキストメッセージに<u>文脈を教えて</u>もらえますか？理解できません。
+J-2: 助けを求める前に、何が必要か<u>文脈を教えて</u>ください。

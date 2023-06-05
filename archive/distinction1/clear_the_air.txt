@@ -1,0 +1,9 @@
+# Key:clear the air
+## Response
+### English Sentences
+E-1: We need to have a meeting to <u>clear the air</u> between us.
+E-2: John apologized to <u>clear the air</u> and move forward.
+
+### Japanese Translation
+J-1: 私達の間にある問題を<u>解決するために</u>ミーティングを開かなければならない。
+J-2: ジョンは<u>誤解を解いて</u>前に進むために謝りました。

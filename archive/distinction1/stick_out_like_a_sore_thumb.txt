@@ -1,0 +1,9 @@
+# Key:stick out like a sore thumb
+## Response
+### English Sentences
+E-1: With his bright red hair, he <u>sticks out like a sore thumb</u> in a crowd.
+E-2: My fancy dress made me <u>stick out like a sore thumb</u> at the casual party.
+
+### Japanese Translation
+J-1: 彼の赤毛で、彼は群衆の中で<u>目立ってしまいます</u>。
+J-2: カジュアルなパーティーでは、私のファンシードレスが<u>浮いてしまいました</u>。

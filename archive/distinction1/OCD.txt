@@ -1,0 +1,9 @@
+# Key:OCD
+## Response
+### English Sentences
+E-1: She has <u>OCD</u> and can't stand any mess in the house.
+E-2: His <u>OCD</u> makes him check the locks on the door many times.
+
+### Japanese Translation
+J-1: 彼女は<u>強迫性障害</u>で、家の中にちょっとした乱雑を許せません。
+J-2: 彼の<u>強迫性障害</u>はドアの鍵を何度も確認させます。

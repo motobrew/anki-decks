@@ -1,0 +1,9 @@
+# Key:FYI
+## Response
+### English Sentences
+E-1: <u>FYI</u>, the meeting has been rescheduled to next week.
+E-2: <u>FYI</u>, I already sent the report to your email.
+
+### Japanese Translation
+J-1: <u>参考までに</u>、会議は来週に延期されました。
+J-2: <u>ご承知ください</u>、レポートは既にメールで送信しました。

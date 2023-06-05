@@ -1,0 +1,9 @@
+# Key:meet sb halfway
+## Response
+### English Sentences
+E-1: I know we have different opinions, but let's <u>meet halfway</u> and find a solution.
+E-2: Can you <u>meet me halfway</u> between our houses for our morning run?
+
+### Japanese Translation
+J-1: 意見が違うけれど、<u>妥協</u>して解決策を見つけましょう。
+J-2: 朝のランニングのために、家と家の<u>中間地点</u>で会えますか？

@@ -1,0 +1,9 @@
+# Key:night and day
+## Response
+### English Sentences
+E-1: The contrast between her old and new photos is like <u>night and day</u>.
+E-2: The company's performance has improved <u>night and day</u> since the new CEO took charge.
+
+### Japanese Translation
+J-1: 彼女の古い写真と新しい写真の対比は、<u>天と地ほどの違い</u>です。
+J-2: 新しいCEOが就任してから、会社の業績は<u>驚くほど改善しました</u>。

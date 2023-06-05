@@ -1,0 +1,9 @@
+# Key:101
+## Response
+### English Sentences
+E-1: The teacher gave us a <u>101</u> on how to write a good essay.
+E-2: Before you start cooking, make sure you have the <u>101</u> tools in your kitchen.
+
+### Japanese Translation
+J-1: 先生は良いエッセイを書く<u>基礎</u>について教えてくれました。
+J-2: 料理を始める前に、キッチンに<u>基本的な</u>道具があることを確認してください。

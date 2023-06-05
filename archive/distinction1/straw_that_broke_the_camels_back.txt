@@ -1,0 +1,9 @@
+# Key:straw that broke the camel's back
+## Response
+### English Sentences
+E-1: The extra workload was the <u>straw that broke the camel's back</u> and made him quit.
+E-2: The traffic jam was the <u>straw that broke the camel's back</u>; I arrived late for the interview.
+
+### Japanese Translation
+J-1: 追加の仕事量が彼をやめさせた<u>最後の一石</u>でした。
+J-2: 交通渋滞が<u>最後の一石</u>で、面接に遅れてしまいました。

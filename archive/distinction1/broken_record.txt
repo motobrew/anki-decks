@@ -1,0 +1,9 @@
+# Key:broken record
+## Response
+### English Sentences
+E-1: Every time we talk about politics, he sounds like a <u>broken record</u>.
+E-2: My boss keeps reminding me of the deadline like a <u>broken record</u>.
+
+### Japanese Translation
+J-1: 政治に関して話すたびに、彼は<u>おちょくられたレコード</u>のように聞こえます。
+J-2: 私の上司は、<u>壊れたレコード</u>のように締め切りを私に思い出させます。

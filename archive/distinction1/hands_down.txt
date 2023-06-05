@@ -1,0 +1,9 @@
+# Key:hands down
+## Response
+### English Sentences
+E-1: That restaurant is <u>hands down</u> the best in town.
+E-2: She won the race <u>hands down</u> without any competition.
+
+### Japanese Translation
+J-1: あのレストランは間違いなくこの街で一番です。
+J-2: 彼女は競争相手なしで<u>楽に</u>レースに勝ちました。

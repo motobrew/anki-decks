@@ -1,0 +1,9 @@
+# Key:circle back to sth/sb
+## Response
+### English Sentences
+E-1: Let's <u>circle back to</u> that agenda item after lunch.
+E-2: I need to <u>circle back to</u> my previous point before we move on.
+
+### Japanese Translation
+J-1: 昼食後にその議題に<u>戻りましょう</u>。
+J-2: 次に進む前に、<u>前置きに戻る</u>必要があります。

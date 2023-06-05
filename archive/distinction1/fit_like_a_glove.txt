@@ -1,0 +1,9 @@
+# Key:fit like a glove
+## Response
+### English Sentences
+E-1: The new dress <u>fits like a glove</u>, it's perfect for me.
+E-2: The team's strategy <u>fits like a glove</u>, all members agree to it.
+
+### Japanese Translation
+J-1: 新しいドレスは私に<u>ぴったり</u>合っています、完璧です。
+J-2: チームの戦略は<u>バッチリ</u>合っていて、全員が同意しています。

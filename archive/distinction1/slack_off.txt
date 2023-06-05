@@ -1,0 +1,9 @@
+# Key:slack off
+## Response
+### English Sentences
+E-1: Don't <u>slack off</u> on your duties or you will be reprimanded.
+E-2: The team lost the game because they decided to <u>slack off</u> in the second half.
+
+### Japanese Translation
+J-1: 職務を<u>怠けては</u>いけません、さもないと叱責されます。
+J-2: チームは後半に<u>怠けた</u>ので、試合に負けました。

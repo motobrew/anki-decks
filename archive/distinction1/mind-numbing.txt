@@ -1,0 +1,9 @@
+# Key:mind-numbing
+## Response
+### English Sentences
+E-1: This task is so boring that it's <u>mind-numbing</u>.
+E-2: The meeting went on for hours and was <u>mind-numbing</u>.
+
+### Japanese Translation
+J-1: このタスクはつまらなくて<u>退屈極まりない</u>。
+J-2: 会議が何時間も続き、<u>退屈な</u>ものでした。

@@ -1,0 +1,9 @@
+# Key:kudos
+## Response
+### English Sentences
+E-1: <u>Kudos</u> to you for finishing the project ahead of schedule.
+E-2: The CEO gave <u>kudos</u> to the team for exceeding their sales targets.
+
+### Japanese Translation
+J-1: スケジュールよりも早くプロジェクトを終えたあなたに<u>エール</u>を送ります。
+J-2: CEOは売り上げ目標を超えたチームに<u>称賛</u>を与えました。

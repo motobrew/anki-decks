@@ -1,0 +1,9 @@
+# Key:cut corners
+## Response
+### English Sentences
+E-1: I know we're behind schedule, but we can't <u>cut corners</u> on safety.
+E-2: His work is always sloppy because he tries to <u>cut corners</u> too often.
+
+### Japanese Translation
+J-1: スケジュールが遅れていることはわかっていますが、安全に<u>手を抜く</u>わけにはいかないんです。
+J-2: 彼の仕事はいつも手抜きで、結果が悪くなるのは<u>安易なやり方</u>が原因です。

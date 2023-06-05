@@ -1,0 +1,9 @@
+# Key:go down well
+## Response
+### English Sentences
+E-1: The boss's joke didn't <u>go down well</u> with the employees.
+E-2: Serving meat at a vegan party won't <u>go down well</u> with the guests.
+
+### Japanese Translation
+J-1: 上司のジョークは社員たちに<u>ウケなかった</u>。
+J-2: ヴィーガンパーティで肉を出すと、<u>ゲストに不評</u>になります。

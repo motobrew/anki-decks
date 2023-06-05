@@ -1,0 +1,9 @@
+# Key:full steam ahead
+## Response
+### English Sentences
+E-1: The company is moving <u>full steam ahead</u> with its plans for expansion.
+E-2: Despite the challenges, the construction project is moving <u>full steam ahead</u>.
+
+### Japanese Translation
+J-1: その会社は拡大計画に<u>全力で進んでいます</u>。
+J-2: 困難があるにもかかわらず、建設プロジェクトは<u>全力で進んでいます</u>。

@@ -1,0 +1,9 @@
+# Key:with a clean slate
+## Response
+### English Sentences
+E-1: After the divorce, she moved to a new city to start over <u>with a clean slate</u>.
+E-2: The company decided to fire all the employees and begin <u>with a clean slate</u>.
+
+### Japanese Translation
+J-1: 離婚後、彼女は新しい都市に引っ越して、<u>新たな出発を切る</u>ことにしました。
+J-2: 会社は全従業員を解雇して、<u>スタートを切り直す</u>ことに決めました。

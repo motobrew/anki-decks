@@ -1,0 +1,9 @@
+# Key:go all-out
+## Response
+### English Sentences
+E-1: She's ready to <u>go all-out</u> for the audition.
+E-2: The team decided to <u>go all-out</u> to win the championship.
+
+### Japanese Translation
+J-1: 彼女はオーディションで<u>全力を尽くす</u>準備ができています。
+J-2: チームは優勝するために<u>全力を尽くす</u>決意をしました。

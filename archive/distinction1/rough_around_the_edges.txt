@@ -1,0 +1,9 @@
+# Key:rough around the edges
+## Response
+### English Sentences
+E-1: He's not perfect, but he's a good guy, just <u>rough around the edges</u>.
+E-2: The house needs some work, it's a bit <u>rough around the edges</u>.
+
+### Japanese Translation
+J-1: 彼は完璧ではないが、いい人で、ちょっとだけ<u>荒っぽい</u>ところがある。
+J-2: 家には少し<u>手を加える必要があります</u>。

@@ -1,0 +1,9 @@
+# Key:play it by ear
+## Response
+### English Sentences
+E-1: Let's just <u>play it by ear</u> and decide on the restaurant when we get there.
+E-2: I don't have a plan yet, I'll just have to <u>play it by ear</u> for the weekend.
+
+### Japanese Translation
+J-1: そこへ着いてからレストランを決めることにしましょう。
+J-2: まだ計画がないので、週末は臨機応変にします。

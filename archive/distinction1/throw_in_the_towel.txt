@@ -1,0 +1,9 @@
+# Key:throw in the towel
+## Response
+### English Sentences
+E-1: After struggling to keep up with the competition, he finally decided to <u>throw in the towel</u>.
+E-2: Don't <u>throw in the towel</u> just yet, there's still time to turn things around.
+
+### Japanese Translation
+J-1: 競争についていくのに苦戦した後、ついに彼は<u>降参する</u>ことに決めました。
+J-2: まだ希望がある、もう少し頑張ってみて、すぐに<u>投げ出す</u>のはやめましょう。

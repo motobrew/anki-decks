@@ -1,0 +1,9 @@
+# Key:up in the air
+## Response
+### English Sentences
+E-1: The deadline for the project is <u>up in the air</u>, we don't know when it is.
+E-2: The decision about the new CEO is still <u>up in the air</u>, no one knows who will get the job.
+
+### Japanese Translation
+J-1: そのプロジェクトの締切日は<u>不確定なまま</u>です、いつかは分かりません。
+J-2: 新しいCEOの決定はまだ<u>曖昧なまま</u>です、誰がその仕事を得るか誰も知りません。

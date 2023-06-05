@@ -1,0 +1,9 @@
+# Key:sketchy
+## Response
+### English Sentences
+E-1: I don't trust that guy, he seems a bit <u>sketchy</u>.
+E-2: The instructions for this DIY project are a bit <u>sketchy</u>, I'm not sure I understand.
+
+### Japanese Translation
+J-1: あの人、どこか怪しい。信用しない。
+J-2: このDIYプロジェクトの説明書は分かりにくい。よくわからない。

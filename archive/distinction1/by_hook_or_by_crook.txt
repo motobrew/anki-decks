@@ -1,0 +1,9 @@
+# Key:by hook or by crook
+## Response
+### English Sentences
+E-1: We have to finish this project, <u>by hook or by crook</u>.
+E-2: He is determined to win the race, <u>by hook or by crook</u>.
+
+### Japanese Translation
+J-1: このプロジェクトを<u>どうにかしてでも</u>終わらないといけない。
+J-2: 彼は<u>何としてでも</u>レースに勝つ決意をしている。

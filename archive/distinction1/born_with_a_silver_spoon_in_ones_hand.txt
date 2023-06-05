@@ -1,0 +1,9 @@
+# Key:born with a silver spoon in one's hand
+## Response
+### English Sentences
+E-1: He was <u>born with a silver spoon in his hand</u>, never knew poverty.
+E-2: I can't relate to her struggles, she was <u>born with a silver spoon in her hand</u>.
+
+### Japanese Translation
+J-1: 彼は生まれたときから富裕層の家庭に生まれ、貧困を知らなかった。
+J-2: 彼女が抱える問題に共感できない、生まれつき<u>裕福な家庭に生まれた</u>から。

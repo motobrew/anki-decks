@@ -1,0 +1,9 @@
+# Key:sloppy
+## Response
+### English Sentences
+E-1: The term paper you handed in was sloppy and full of errors.
+E-2: She always looks sloppy in those baggy clothes.
+
+### Japanese Translation
+J-1: 提出された卒論はだらしなく、エラーだらけでした。
+J-2: 彼女はいつもあのゆるい服装でだらしなく見えます。

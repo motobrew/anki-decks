@@ -1,0 +1,9 @@
+# Key:roughly
+## Response
+### English Sentences
+E-1: I can give you a <u>roughly</u> estimated cost for the project.
+E-2: The distance between the two cities is <u>roughly</u> 200 miles.
+
+### Japanese Translation
+J-1: 私はプロジェクトの大体の見積もりを提供できます。
+J-2: 2つの都市間の距離はおよそ200マイルです。

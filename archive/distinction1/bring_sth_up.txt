@@ -1,0 +1,9 @@
+# Key:bring sth up
+## Response
+### English Sentences
+E-1: She always <u>brings up</u> her ex-boyfriends in conversation.
+E-2: Don't <u>bring up</u> sensitive topics at the dinner table.
+
+### Japanese Translation
+J-1: 彼女はいつも話題に<u>前の彼氏</u>を持ち出します。
+J-2: 大事な話題は食事中に<u>持ち出さないで</u>ください。

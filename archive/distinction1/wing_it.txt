@@ -1,0 +1,9 @@
+# Key:wing it
+## Response
+### English Sentences
+E-1: I didn't have time to prepare a speech, so I just had to <u>wing it</u>.
+E-2: I've never cooked this before, I'll just have to <u>wing it</u>.
+
+### Japanese Translation
+J-1: スピーチの準備する時間がなかったので、その場で対応するしかなかった。
+J-2: これまでに料理したことがないので、勘でやってみるしかない。

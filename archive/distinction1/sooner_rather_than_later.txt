@@ -1,0 +1,9 @@
+# Key:sooner rather than later
+## Response
+### English Sentences
+E-1: I need to fix my car <u>sooner rather than later</u> before it breaks down completely.
+E-2: You should apologize to her <u>sooner rather than later</u> to avoid making the situation worse.
+
+### Japanese Translation
+J-1: 車が完全に故障する前に<u>できるだけ早く</u>車を修理する必要があります。
+J-2: 状況を悪化させないように、彼女に<u>できるだけ早く</u>謝るべきです。

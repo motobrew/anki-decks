@@ -1,0 +1,9 @@
+# Key:put two and two together
+## Response
+### English Sentences
+E-1: After hearing about the missing jewelry and seeing her fingerprints on the safe, the police <u>put two and two together</u>.
+E-2: When he didn't show up to work for a week and was spotted at the beach, his boss <u>put two and two together</u>.
+
+### Japanese Translation
+J-1:宝石の紛失について聞いて、金庫に指紋があるのを見た警察は<u>結論を出した</u>。
+J-2:彼が1週間仕事に現れず、ビーチで目撃されたとき、上司は<u>事情を理解した</u>。

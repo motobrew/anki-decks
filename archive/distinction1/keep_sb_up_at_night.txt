@@ -1,0 +1,9 @@
+# Key:keep sb up at night
+## Response
+### English Sentences
+E-1: The thought of public speaking always <u>keeps me up at night</u>.
+E-2: The financial problems of my business <u>keep me up at night</u>.
+
+### Japanese Translation
+J-1: 公の場で話すことの思いはいつも私を<u>眠れなくさせます</u>。
+J-2: 私のビジネスの財政問題はいつも私を<u>心配させます</u>。

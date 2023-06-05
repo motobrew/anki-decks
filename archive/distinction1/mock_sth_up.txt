@@ -1,0 +1,9 @@
+# Key:mock sth up
+## Response
+### English Sentences
+E-1: Can you <u>mock up</u> a design for the new website?
+E-2: The team <u>mocked up</u> a prototype for the new product.
+
+### Japanese Translation
+J-1: 新しいウェブサイトのデザインを<u>試作</u>してくれますか？
+J-2: チームは新しい製品のためにプロトタイプを<u>模型化</u>しました。

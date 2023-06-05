@@ -1,0 +1,9 @@
+# Key:soften the blow
+## Response
+### English Sentences
+E-1: The company gave all employees a small bonus to <u>soften the blow</u> of the layoffs.
+E-2: The teacher praised Johnny's effort but also suggested areas for improvement to <u>soften the blow</u>.
+
+### Japanese Translation
+J-1: 会社は全従業員に少額のボーナスを与え、解雇の<u>ダメージを和らげました</u>。
+J-2: 先生はジョニーの努力を褒め、改善するべき点も指摘して<u>批判を和らげました</u>。

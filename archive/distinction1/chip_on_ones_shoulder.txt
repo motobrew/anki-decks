@@ -1,0 +1,9 @@
+# Key:chip on one's shoulder
+## Response
+### English Sentences
+E-1: She always carries a <u>chip on her shoulder</u> about her height.
+E-2: Don't approach him, he has a <u>chip on his shoulder</u> and may start a fight.
+
+### Japanese Translation
+J-1: 彼女はいつも身長について<u>不満を抱えています</u>。
+J-2: 近づかないで、彼は<u>もめ事を起こす可能性がある</u>。

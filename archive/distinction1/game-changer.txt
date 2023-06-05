@@ -1,0 +1,9 @@
+# Key:game-changer
+## Response
+### English Sentences
+E-1: The new technology was a <u>game-changer</u> for the entire industry.
+E-2: The arrival of the superstar was a <u>game-changer</u> for the struggling team.
+
+### Japanese Translation
+J-1: その新しい技術は業界全体にとって<u>革新的な変化をもたらすもの</u>でした。
+J-2: スーパースターの到来は苦戦していたチームにとって<u>大きな変化をもたらすもの</u>でした。

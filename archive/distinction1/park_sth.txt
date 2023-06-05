@@ -1,0 +1,9 @@
+# Key:park sth
+## Response
+### English Sentences
+E-1: I need to <u>park</u> my car in a safe spot before I leave.
+E-2: He always finds a way to <u>park</u> his responsibilities onto someone else.
+
+### Japanese Translation
+J-1: 出かける前に、車を安全な場所に<u>駐車</u>しなければいけません。
+J-2: 彼はいつも自分の責任を他の誰かに<u>押し付ける</u>方法を見つけます。

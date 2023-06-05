@@ -1,0 +1,9 @@
+# Key:downtime
+## Response
+### English Sentences
+E-1: I like to use my downtime to read books and relax.
+E-2: Our website experienced downtime due to technical issues.
+
+### Japanese Translation
+J-1: 私は暇な時間を使って本を読んだりリラックスしたりするのが好きです。
+J-2: 技術的な問題が原因で、私たちのウェブサイトにはダウンタイムが発生しました。

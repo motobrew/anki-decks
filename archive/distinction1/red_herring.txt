@@ -1,0 +1,9 @@
+# Key:red herring
+## Response
+### English Sentences
+E-1: His argument was a <u>red herring</u> to divert attention from the main issue.
+E-2: The suspect's alibi turned out to be a <u>red herring</u> in the investigation.
+
+### Japanese Translation
+J-1: 彼の主張は本来の問題から注意をそらすための<u>散々な言い訳</u>だった。
+J-2:容疑者のアリバイは捜査において<u>真っ赤なウソ</u>だった。

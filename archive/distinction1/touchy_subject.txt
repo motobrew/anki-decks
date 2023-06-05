@@ -1,0 +1,9 @@
+# Key:touchy subject
+## Response
+### English Sentences
+E-1: We avoid discussing politics at family gatherings, it's a <u>touchy subject</u>.
+E-2: Bringing up their recent breakup is a <u>touchy subject</u> for her.
+
+### Japanese Translation
+J-1: 家族の集まりで政治について話すのを避けます。それは<u>敏感な問題</u>です。
+J-2: 最近別れたことを話題に出すと彼女が<u>傷つく</u>ので避けます。

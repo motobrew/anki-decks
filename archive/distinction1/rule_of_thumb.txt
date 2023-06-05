@@ -1,0 +1,9 @@
+# Key:rule of thumb
+## Response
+### English Sentences
+E-1: As a <u>rule of thumb</u>, you should save 20% of your income.
+E-2: A <u>rule of thumb</u> for cooking pasta is to use 4-6 quarts of water.
+
+### Japanese Translation
+J-1: 一般的に言える<u>おおよその原則</u>として、収入の20%を貯蓄すべきです。
+J-2: パスタを茹でる<u>目安</u>として、4〜6クォートの水を使うことです。

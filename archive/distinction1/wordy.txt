@@ -1,0 +1,9 @@
+# Key:wordy
+## Response
+### English Sentences
+E-1: He is a good writer, but his report is too <u>wordy</u>.
+E-2: I don't like to read <u>wordy</u> emails, just get to the point.
+
+### Japanese Translation
+J-1: 彼は上手な作家ですが、彼の報告書はあまりにも<u>冗長</u>すぎます。
+J-2: 私は<u>冗長な</u>メールを読むのは好きではありません。肝心なことにすぐに触れてください。

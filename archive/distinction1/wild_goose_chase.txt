@@ -1,0 +1,9 @@
+# Key:wild goose chase
+## Response
+### English Sentences
+E-1: We searched for the lost keys for hours, but it was just a <u>wild goose chase</u>.
+E-2: Trying to find a decent parking spot during rush hour feels like a <u>wild goose chase</u>.
+
+### Japanese Translation
+J-1: 私たちは何時間も失くした鍵を探しましたが、ただの<u虚しい努力</u>でした。
+J-2: ラッシュアワーに良い駐車場を見つけようとするのは、<u>無駄な努力</u>のようです。

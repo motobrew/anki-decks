@@ -1,0 +1,9 @@
+# Key:keep one's head
+## Response
+### English Sentences
+E-1: In a crisis, it's important to <u>keep your head</u> and think rationally.
+E-2: Despite the pressure, the quarterback managed to <u>keep his head</u> and make a successful pass.
+
+### Japanese Translation
+J-1: 危機に陥った時は、冷静に<u>落ち着いて考える</u>ことが重要です。
+J-2: プレッシャーにもかかわらず、クウォーターバックは<u>冷静さを保って</u>成功的なパスをしました。

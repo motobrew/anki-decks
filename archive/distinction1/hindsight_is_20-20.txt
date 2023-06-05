@@ -1,0 +1,9 @@
+# Key:hindsight is 20/20
+## Response
+### English Sentences
+E-1: In <u>hindsight is 20/20</u>, I shouldn't have invested in that company.
+E-2: <u>Hindsight is 20/20</u>, but I should have studied harder in school.
+
+### Japanese Translation
+J-1: <u>後知恵は非常によく効く</u>から、あの会社に投資するべきではなかった。
+J-2: <u>後になって気づくのは遅すぎる</u>けど、もっと勉強すれば良かった。

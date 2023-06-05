@@ -1,0 +1,9 @@
+# Key:strike while the iron's hot
+## Response
+### English Sentences
+E-1: Don't wait too long, <u>strike while the iron's hot</u> and ask her out.
+E-2: The company should <u>strike while the iron's hot</u> and release the new product now.
+
+### Japanese Translation
+J-1: 長く待たずに、思い切って彼女にデートのお誘いをするべきです。
+J-2: 会社は今すぐ新商品をリリースして<u>勢いをつけるべきです</u>。

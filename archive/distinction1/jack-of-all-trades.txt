@@ -1,0 +1,9 @@
+# Key:jack-of-all-trades
+## Response
+### English Sentences
+E-1: He can fix the car, paint the house, and cook a meal, he's a <u>jack-of-all-trades</u>.
+E-2: Although he didn't have any specific skills, he became the company's go-to <u>jack-of-all-trades</u>.
+
+### Japanese Translation
+J-1: 彼は車を修理し、家を塗り、料理も作れる、彼は<u>何でも屋</u>だ。
+J-2: 彼には特定のスキルがなかったが、彼は会社の何でも屋になった。

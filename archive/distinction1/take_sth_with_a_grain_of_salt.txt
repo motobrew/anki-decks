@@ -1,0 +1,9 @@
+# Key:take sth with a grain of salt
+## Response
+### English Sentences
+E-1: Don't believe everything he says, <u>take it with a grain of salt</u>.
+E-2: The news article seems biased, you should <u>take it with a grain of salt</u>.
+
+### Japanese Translation
+J-1: 彼が言うことにすべてを信じないで、<u>疑ってみる</u>べきです。
+J-2: そのニュース記事は偏っているように見えます。 <u>疑ってみる</u>べきです。

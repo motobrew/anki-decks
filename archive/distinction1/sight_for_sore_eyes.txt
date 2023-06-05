@@ -1,0 +1,9 @@
+# Key:sight for sore eyes
+## Response
+### English Sentences
+E-1: Seeing my old friend at the party was a <u>sight for sore eyes</u>.
+E-2: After a long day of work, a hot shower is a <u>sight for sore eyes</u>.
+
+### Japanese Translation
+J-1: パーティーで古い友達に会ったことは<u>ひさびさの嬉しい出来事</u>でした。
+J-2: 長い一日の後に、熱いシャワーは<u>ほっとするもの</u>です。

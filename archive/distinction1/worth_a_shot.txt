@@ -1,0 +1,9 @@
+# Key:worth a shot
+## Response
+### English Sentences
+E-1: I don't know if I can win, but it's <u>worth a shot</u>.
+E-2: The job interview is difficult, but it's <u>worth a shot</u> to try.
+
+### Japanese Translation
+J-1: 勝てるかどうか分からないけど、一度挑戦する価値がある。
+J-2: バイトの面接は難しいけど、チャレンジしてみる価値はある。

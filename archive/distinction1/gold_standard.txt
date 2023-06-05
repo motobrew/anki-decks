@@ -1,0 +1,9 @@
+# Key:gold standard
+## Response
+### English Sentences
+E-1: The company aims to achieve the <u>gold standard</u> of customer service.
+E-2: Her research methods are considered the <u>gold standard</u> in the industry.
+
+### Japanese Translation
+J-1: その会社は、顧客サービスの<u>最高基準</u>を目指しています。
+J-2: 彼女の研究手法は、業界の<u>最高水準</u>と考えられています。

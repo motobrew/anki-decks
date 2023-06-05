@@ -1,0 +1,9 @@
+# Key:put sb's name in the hat
+## Response
+### English Sentences
+E-1: I heard that they are looking for a new project manager and I'm thinking of <u>putting my name in the hat</u>.
+E-2: The company is accepting applications for the training program, so I'm going to <u>put my name in the hat</u>.
+
+### Japanese Translation
+J-1: 彼らが新しいプロジェクトマネージャーを探していると聞いたので、私も<u>手を挙げてみようかな</u>と思っています。
+J-2: その会社は研修プログラムの申し込みを受け付けているので、私も<u>エントリーしようと思っています</u>。

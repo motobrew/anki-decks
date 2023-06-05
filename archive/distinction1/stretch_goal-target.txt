@@ -1,0 +1,9 @@
+# Key:stretch goal/target
+## Response
+### English Sentences
+E-1: Our company's <u>stretch goal</u> is to increase sales by 50% this year.
+E-2: She set a <u>stretch target</u> of running a half marathon in under 2 hours.
+
+### Japanese Translation
+J-1: 当社の<u>目標の上積み</u>は、今年の売上を50％増やすことです。
+J-2: 彼女は2時間以内にハーフマラソンを走るという<u>達成目標</u>を設定しました。

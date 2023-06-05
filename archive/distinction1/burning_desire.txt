@@ -1,0 +1,9 @@
+# Key:burning desire
+## Response
+### English Sentences
+E-1: He had a <u>burning desire</u> to become a professional musician.
+E-2: Her <u>burning desire</u> to travel the world never faded away.
+
+### Japanese Translation
+J-1: 彼はプロのミュージシャンになる<u>強い願望</u>を持っていました。
+J-2: 彼女の世界中を旅する<u>熱い思い</u>は決して消えることはありませんでした。

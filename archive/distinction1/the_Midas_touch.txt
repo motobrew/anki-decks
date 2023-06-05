@@ -1,0 +1,9 @@
+# Key:the Midas touch
+## Response
+### English Sentences
+E-1: Whenever she invests in a new startup, it seems to turn to gold. She truly has <u>the Midas touch</u>.
+E-2: After his successful restaurant chain, everyone thought he had <u>the Midas touch</u> in the food industry.
+
+### Japanese Translation
+J-1: 彼女が新しいスタートアップに投資する時、それは金に変わる。彼女は本当に<u>黄金のタッチ</u>を持っています。
+J-2: 彼の成功したレストランチェーンの後、誰もが彼が食品産業で<u>黄金のタッチ</u>を持っていると思いました。

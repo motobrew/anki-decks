@@ -1,0 +1,9 @@
+# Key:bite one's (own) tongue
+## Response
+### English Sentences
+E-1: I had to <u>bite my tongue</u> when my boss said something offensive.
+E-2: She always <u>bites her own tongue</u> when she's nervous.
+
+### Japanese Translation
+J-1: 上司が不快な発言をした時、私は<u>黙って我慢</u>しなければならなかった。
+J-2: 彼女は緊張するといつも<u>自分自身の舌を噛む</u>。

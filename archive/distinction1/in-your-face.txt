@@ -1,0 +1,9 @@
+# Key:in-your-face
+## Response
+### English Sentences
+E-1: He was really <u>in-your-face</u> about his political views at the party.
+E-2: The new boss is very <u>in-your-face</u> with criticism.
+
+### Japanese Translation
+J-1: パーティーで彼は自分の政治的見解について本当に<u>あからさまに</u>話しました。
+J-2: 新しい上司は、批判に対して非常に<u>前面に出て</u>います。

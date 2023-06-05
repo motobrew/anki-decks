@@ -1,0 +1,9 @@
+# Key:break for lunch
+## Response
+### English Sentences
+E-1: Let's take a <u>break for lunch</u> and continue the meeting afterwards.
+E-2: I usually take a short <u>break for lunch</u> around noon.
+
+### Japanese Translation
+J-1: 昼食のために休憩を取り、その後ミーティングを続けましょう。
+J-2: 私は通常、正午前後に短い<u>ランチ休憩</u>をとります。

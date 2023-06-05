@@ -1,0 +1,9 @@
+# Key:keep one's cool
+## Response
+### English Sentences
+E-1: When dealing with difficult customers, it's important to <u>keep one's cool</u>.
+E-2: Despite the chaos around her, she managed to <u>keep her cool</u> and make a clear decision.
+
+### Japanese Translation
+J-1: 難しい顧客と取引する時は、冷静でいることが重要です。
+J-2: 彼女は自分の周りが混沌とした中でも冷静な判断をしました。

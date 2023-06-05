@@ -1,0 +1,9 @@
+# Key:more art than science
+## Response
+### English Sentences
+E-1: Designing user experience is <u>more art than science</u>.
+E-2: Cooking is <u>more art than science</u>, you have to feel it.
+
+### Japanese Translation
+J-1: ユーザーエクスペリエンスの設計は、科学より<u>むしろ芸術的</u>です。
+J-2: 料理は<u>科学よりも芸術的</u>で、感覚を必要とする。

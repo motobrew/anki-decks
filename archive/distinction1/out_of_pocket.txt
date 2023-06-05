@@ -1,0 +1,9 @@
+# Key:out of pocket
+## Response
+### English Sentences
+E-1: I had to pay for the repairs <u>out of pocket</u> because my insurance didn't cover it.
+E-2: The company reimbursed me for the hotel expenses so I wasn't <u>out of pocket</u> for the business trip.
+
+### Japanese Translation
+J-1: 保険が適用されなかったので、修理代を<u>自己負担で</u>払わなければなりませんでした。
+J-2: 会社がホテルの費用を<u>自己負担にはさせなかった</u>ので、出張でお金を払う必要はありませんでした。

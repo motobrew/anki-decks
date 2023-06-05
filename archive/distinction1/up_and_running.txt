@@ -1,0 +1,9 @@
+# Key:up and running
+## Response
+### English Sentences
+E-1: After a long break, the factory is finally <u>up and running</u> again.
+E-2: The new software was installed and now our system is <u>up and running</u>.
+
+### Japanese Translation
+J-1: 長い休みの後、工場がやっと<u>再開されました</u>。
+J-2: 新しいソフトウェアがインストールされ、システムが<u>稼働しています</u>。

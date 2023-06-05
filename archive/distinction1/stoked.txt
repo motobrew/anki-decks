@@ -1,0 +1,9 @@
+# Key:stoked
+## Response
+### English Sentences
+E-1: I'm so <u>stoked</u> for the concert tonight!
+E-2: She was <u>stoked</u> to finally get the job offer.
+
+### Japanese Translation
+J-1: 今晩のコンサートがめっちゃ<u>楽しみ</u>！
+J-2: 彼女はついに就職の提案をもらって<u>興奮していた</u>。

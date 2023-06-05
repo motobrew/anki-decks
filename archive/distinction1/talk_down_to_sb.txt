@@ -1,0 +1,9 @@
+# Key:talk down to sb
+## Response
+### English Sentences
+E-1: I don't appreciate it when you <u>talk down to me</u> like I'm a child.
+E-2: The professor tends to <u>talk down to his students</u> instead of treating them as equals.
+
+### Japanese Translation
+J-1: 私が子供のように扱われているかのようにあなたが私に<u>偉そうな口調で話しかける</u>のは好きではありません。
+J-2: その教授は、学生たちが平等であるべきというよりも、<u>学生たちを見下して話す</u>傾向があります。

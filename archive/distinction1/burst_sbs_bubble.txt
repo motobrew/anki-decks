@@ -1,0 +1,9 @@
+# Key:burst sb's bubble
+## Response
+### English Sentences
+E-1: I hate to <u>burst your bubble</u>, but the concert is sold out.
+E-2: Don't let anyone <u>burst your bubble</u> - follow your dreams.
+
+### Japanese Translation
+J-1: あなたの期待を<u>くじくことになるとは申し訳ありませんが</u>、コンサートは完売しています。
+J-2: 誰にも夢を<u>潰させてはいけません</u> - あなたの夢について進み続けてください。

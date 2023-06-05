@@ -1,0 +1,9 @@
+# Key:time-sensitive
+## Response
+### English Sentences
+E-1: This project is very <u>time-sensitive</u>; we need to complete it by next week.
+E-2: The shipment is <u>time-sensitive</u>; it needs to be delivered within 24 hours.
+
+### Japanese Translation
+J-1: このプロジェクトは非常に<u>時間的に制約のある</u>もので、来週までに完了させる必要があります。
+J-2: この荷物は<u>時間に制約のある</u>もので、24時間以内に配達される必要があります。

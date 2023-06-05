@@ -1,0 +1,9 @@
+# Key:married to the idea
+## Response
+### English Sentences
+E-1: She is <u>married to the idea</u> of starting her own business.
+E-2: Despite all the criticism, he is still <u>married to the idea</u> of becoming a musician.
+
+### Japanese Translation
+J-1: 彼女は自分のビジネスを始めるという考えに熱心です。<u>固執しています</u>。
+J-2: 批評にもかかわらず、彼は今でもミュージシャンになるという考えに熱心です。<u>執着しています</u>。

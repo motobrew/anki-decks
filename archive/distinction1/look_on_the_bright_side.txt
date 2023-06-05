@@ -1,0 +1,9 @@
+# Key:look on the bright side
+## Response
+### English Sentences
+E-1: It's raining, but let's <u>look on the bright side</u>, at least we don't have to water the plants.
+E-2: You lost your job, but <u>look on the bright side</u>, you can now pursue other opportunities.
+
+### Japanese Translation
+J-1: 雨が降っているけど、<u>明るい面を見てみよう</u>、せめて植物に水をやる必要がない。
+J-2: 仕事を失ったけど、<u>明るい面を見てみよう</u>、他の機会を追求できるようになった。

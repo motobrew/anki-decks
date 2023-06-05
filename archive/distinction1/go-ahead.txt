@@ -1,0 +1,9 @@
+# Key:go-ahead
+## Response
+### English Sentences
+E-1: The project manager gave us the <u>go-ahead</u> to launch the new product.
+E-2: Before you start the experiment, make sure you have the <u>go-ahead</u> from your supervisor.
+
+### Japanese Translation
+J-1: プロジェクトマネージャーから新製品の発売の<u>許可</u>をもらいました。
+J-2: 実験を始める前に、上司から<u>許可</u>を得てください。

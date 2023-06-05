@@ -1,0 +1,9 @@
+# Key:wasted
+## Response
+### English Sentences
+E-1: He <u>wasted</u> his talent by not pursuing his passion.
+E-2: Don't <u>waste</u> your time worrying about things you can't control.
+
+### Japanese Translation
+J-1: 彼は自分の才能を追求しないことで<u>無駄にした</u>。
+J-2: 自分がコントロールできないことを心配することは<i><u>時間の無駄</u></i>だからやめよう。

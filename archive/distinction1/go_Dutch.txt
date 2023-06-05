@@ -1,0 +1,9 @@
+# Key:go Dutch
+## Response
+### English Sentences
+E-1: Let's <u>go Dutch</u> and split the bill.
+E-2: They agreed to <u>go Dutch</u> on the date and pay for themselves.
+
+### Japanese Translation
+J-1: 割り勘にして<u>払い分けよう</u>。
+J-2: デートのときは、<u>割り勘にしよう</u>と合意した。

@@ -1,0 +1,9 @@
+# Key:sick of
+## Response
+### English Sentences
+E-1: I'm <u>sick of</u> eating the same thing every day.
+E-2: She's <u>sick of</u> her roommate always leaving the kitchen a mess.
+
+### Japanese Translation
+J-1: 毎日同じものを食べるのに<u>うんざりしている</u>。
+J-2: 彼女はルームメイトがいつもキッチンを散らかすのに<u>うんざりしている</u>。

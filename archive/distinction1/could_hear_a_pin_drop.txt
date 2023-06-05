@@ -1,0 +1,9 @@
+# Key:could hear a pin drop
+## Response
+### English Sentences
+E-1: The audience was so quiet during the performance, you could hear a <u>pin drop</u>.
+E-2: When the teacher entered the room, the students went silent and you could have heard a <u>pin drop</u>.
+
+### Japanese Translation
+J-1: 演技中、観客が抜け殻のような静けさで、針の落ちる音が聞こえた。
+J-2: 先生が教室に入って来た時、生徒たちは静かになり、誰かがつま先で床に立つ音さえ聞こえた。

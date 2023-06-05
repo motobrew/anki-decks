@@ -1,0 +1,9 @@
+# Key:get one's hopes up
+## Response
+### English Sentences
+E-1: Don't <u>get your hopes up</u>, it might not work out.
+E-2: She didn't want to <u>get her hopes up</u> in case she was disappointed.
+
+### Japanese Translation
+J-1: 期待しすぎないで、うまく行かないかもしれないよ。
+J-2: 失望したくないので、期待はほどほどにしておこうと思っていた。

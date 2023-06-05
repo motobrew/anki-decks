@@ -1,0 +1,9 @@
+# Key:old-school
+## Response
+### English Sentences
+E-1: He prefers to listen to old-school rap instead of modern hip-hop.
+E-2: My grandfather still writes letters with a pen and paper, he's so old-school.
+
+### Japanese Translation
+J-1: 彼は現代のヒップホップよりも古風なラップを聴くことを好む。
+J-2: 私の祖父はまだ手紙をペンと紙で書いています。彼はとても昭和です。

@@ -1,0 +1,9 @@
+# Key:drag sb's name through the mud
+## Response
+### English Sentences
+E-1: She spread lies about her former colleague, <u>dragging her name through the mud</u>.
+E-2: Don't <u>drag my name through the mud</u> just because you're upset with me.
+
+### Japanese Translation
+J-1: 彼女は以前の同僚について嘘を流し、<u>彼女の名誉を傷つけた</u>。
+J-2: 怒っているからといって、<u>私の名前を貶めないで</u>。

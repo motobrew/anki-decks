@@ -1,0 +1,9 @@
+# Key:check sth out
+## Response
+### English Sentences
+E-1: Can you <u>check out</u> the new sushi restaurant around the corner?
+E-2: I need to <u>check out</u> these books from the library before they close.
+
+### Japanese Translation
+J-1: すぐ角にできた新しい寿司屋を<u>チェックして</u>くれますか？
+J-2: 図書館が閉まる前に、これらの本を<u>借りて</u>おかなければなりません。

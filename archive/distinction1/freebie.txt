@@ -1,0 +1,9 @@
+# Key:freebie
+## Response
+### English Sentences
+E-1: The conference gave out <u>freebies</u> to the attendees as a token of appreciation.
+E-2: The store was offering a <u>freebie</u> with a purchase of $50 or more.
+
+### Japanese Translation
+J-1: カンファレンスは参加者に感謝の印として<u>無料配布品</u>を与えました。
+J-2: その店は$50以上の購入で<u>無料品</u>を提供していました。

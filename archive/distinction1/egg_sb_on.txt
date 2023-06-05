@@ -1,0 +1,9 @@
+# Key:egg sb on
+## Response
+### English Sentences
+E-1: He kept <u>egging me on</u> to try the spicy food, even though he knew I couldn't handle it.
+E-2: Don't <u>egg him on</u> to fight, it will only make the situation worse.
+
+### Japanese Translation
+J-1: 彼は私が辛い食べ物を食べられないことを知りながら、私をうまく<u>唆しました</u>。
+J-2: 彼を喧嘩に<u>誘うようなことは</u>しないで、状況は悪化するだけです。

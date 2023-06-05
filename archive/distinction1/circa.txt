@@ -1,0 +1,9 @@
+# Key:circa
+## Response
+### English Sentences
+E-1: The painting was created <u>circa</u> 1900 and is worth millions today.
+E-2: <u>Circa</u> 50 people attended the conference last year.
+
+### Japanese Translation
+J-1: その絵画は<u>およそ</u>1900年に制作され、今日では何百万ドルもの価値があります。
+J-2: 去年の会議には<u>およそ</u>50人が参加しました。

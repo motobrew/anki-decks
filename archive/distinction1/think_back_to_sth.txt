@@ -1,0 +1,9 @@
+# Key:think back to sth
+## Response
+### English Sentences
+E-1: <u>Think back to</u> when we first met and how it all started.
+E-2: <u>Think back to</u> your childhood and your happiest memories.
+
+### Japanese Translation
+J-1: 私たちが初めて出会ったとき、そして全てが始まったころを<u>振り返って</u>みて。
+J-2: 自分の子供時代と幸せな思い出を<u>思い出して</u>みて。

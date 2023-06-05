@@ -1,0 +1,9 @@
+# Key:ship-shape
+## Response
+### English Sentences
+E-1: I need to clean my room and make sure everything is <u>ship-shape</u>.
+E-2: The captain made sure the crew kept the ship <u>ship-shape</u> at all times.
+
+### Japanese Translation
+J-1: 部屋を掃除して、すべてが<u>整然と</u>する必要があります。
+J-2: キャプテンは、乗組員が常に船を<u>まとめて</u>いることを確認しました。

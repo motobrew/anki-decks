@@ -1,0 +1,9 @@
+# Key:get sth over the line
+## Response
+### English Sentences
+E-1: It was a tough negotiation, but we finally <u>got the deal over the line</u>.
+E-2: The project was behind schedule, but we worked overtime to <u>get it over the line</u>.
+
+### Japanese Translation
+J-1: 交渉は厳しかったが、最終的には成立させることができた。
+J-2: プロジェクトはスケジュール遅れになっていたが、残業して完了させた。

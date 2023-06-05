@@ -1,0 +1,9 @@
+# Key:pizzazz
+## Response
+### English Sentences
+E-1: Her presentation lacked <u>pizzazz</u> and failed to capture the audience's attention.
+E-2: Adding some colorful decorations to the party will give it some <u>pizzazz</u>.
+
+### Japanese Translation
+J-1: 彼女のプレゼンテーションは<u>華やかさ</u>に欠け、聴衆の注意を引くことに失敗しました。
+J-2: パーティーにカラフルな装飾を加えると、<u>華やかさ</u>が出て楽しくなります。

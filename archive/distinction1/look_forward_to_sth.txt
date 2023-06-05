@@ -1,0 +1,9 @@
+# Key:look forward to sth
+## Response
+### English Sentences
+E-1: I <u>look forward to</u> meeting my friends this weekend.
+E-2: She <u>looks forward to</u> trying out the new restaurant in town.
+
+### Japanese Translation
+J-1: 今週末友達に会えるのが楽しみで<u>待ち遠しい</u>です。
+J-2: 彼女は町に新しくオープンしたレストランを試すのが<u>楽しみである</u>。

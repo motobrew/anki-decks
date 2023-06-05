@@ -1,0 +1,9 @@
+# Key:chill out
+## Response
+### English Sentences
+E-1: I'm feeling stressed, I need to <u>chill out</u> and relax.
+E-2: Let's <u>chill out</u> at the beach this weekend.
+
+### Japanese Translation
+J-1: ストレスを感じているので、<u>リラックス</u>する必要があります。
+J-2: 今週末は海で<u>くつろぎましょう</u>。

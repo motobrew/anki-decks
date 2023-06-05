@@ -1,0 +1,9 @@
+# Key:crash course
+## Response
+### English Sentences
+E-1: I need to take a <u>crash course</u> in coding to prepare for the job interview.
+E-2: With only two weeks left until the exam, he took a <u>crash course</u> in biology.
+
+### Japanese Translation
+J-1: 就職面接の準備のために、私はコーディングの<u>クラッシュコース</u>を受ける必要があります。
+J-2: 試験まであと2週間しかなかったので、彼は生物学の<u>集中講義</u>を受けました。

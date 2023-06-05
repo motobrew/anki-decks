@@ -1,0 +1,9 @@
+# Key:chop-chop
+## Response
+### English Sentences
+E-1: Hurry up and finish your homework, we need to leave <u>chop-chop</u>.
+E-2: You better get ready <u>chop-chop</u> if you don't want to be late.
+
+### Japanese Translation
+J-1: 宿題を早く終わらせて、急いで出かけないと。<u>さっさと</u>やって。
+J-2: 遅れたくなかったら、<u>急いで</u>準備しなさい。

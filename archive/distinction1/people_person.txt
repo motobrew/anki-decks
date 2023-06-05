@@ -1,0 +1,9 @@
+# Key:people person
+## Response
+### English Sentences
+E-1: He is a real <u>people person</u>, always making friends wherever he goes.
+E-2: Her success in sales is due to her being a natural <u>people person</u>.
+
+### Japanese Translation
+J-1: 彼は本当の<u>人を好きになる人</u>で、どこに行っても友達を作っています。
+J-2: 彼女の営業での成功は、彼女が天性の<u>社交的な人</u>であるためです。

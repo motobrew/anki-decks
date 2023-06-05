@@ -1,0 +1,9 @@
+# Key:not an exact science
+## Response
+### English Sentences
+E-1: Forecasting the stock market is <u>not an exact science</u>.
+E-2: Cooking is <u>not an exact science</u>; it takes practice to perfect.
+
+### Japanese Translation
+J-1: 株式市場の予測は<u>厳密な科学ではない</u>。
+J-2: 料理は<u>厳密な科学ではない</u>。熟練するには練習が必要です。

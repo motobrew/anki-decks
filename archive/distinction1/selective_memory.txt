@@ -1,0 +1,9 @@
+# Key:selective memory
+## Response
+### English Sentences
+E-1: He tends to have a <u>selective memory</u> about his mistakes.
+E-2: I think my grandmother has a <u>selective memory</u> for her youth.
+
+### Japanese Translation
+J-1: 彼は自分の間違いを<u>記憶しない傾向がある</u>ようです。
+J-2: 私のおばあちゃんは自分の若い頃に<u>偏った記憶</u>を持っていると思います。

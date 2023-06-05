@@ -1,0 +1,9 @@
+# Key:get a kick out of sth
+## Response
+### English Sentences
+E-1: I <u>get a kick out of</u> watching comedy movies with my friends.
+E-2: She <u>gets a kick out of</u> solving difficult puzzles.
+
+### Japanese Translation
+J-1: 友達と一緒にコメディ映画を見ると、私はとても<u>楽しい気分になる</u>。
+J-2: 彼女は難しいパズルを解くことで<u>大いに刺激を受ける</u>。

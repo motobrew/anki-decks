@@ -1,0 +1,9 @@
+# Key:branch out
+## Response
+### English Sentences
+E-1: The company is planning to <u>branch out</u> into new markets to increase their revenue.
+E-2: I need to <u>branch out</u> and try new hobbies to expand my interests.
+
+### Japanese Translation
+J-1: その会社は、収益を増やすために新しい市場への<u>進出</u>を計画しています。
+J-2: 趣味を<u>広げる</u>ために、新しいことに挑戦しなければなりません。

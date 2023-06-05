@@ -1,0 +1,9 @@
+# Key:give or take
+## Response
+### English Sentences
+E-1: The meeting will start at 3 PM <u>give or take</u> a few minutes.
+E-2: He weighs around 70 kilos, <u>give or take</u> a couple of pounds.
+
+### Japanese Translation
+J-1: 会議は、数分の誤差を<u>許容して</u>3時に始まります。
+J-2: 彼は約70キロくらいで、<u>数ポンドの誤差を許容して</u>います。

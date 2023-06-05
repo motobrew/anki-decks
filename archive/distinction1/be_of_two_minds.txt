@@ -1,0 +1,9 @@
+# Key:be of two minds
+## Response
+### English Sentences
+E-1: I'm <u>of two minds</u> about whether to accept the job offer or not.
+E-2: She's <u>of two minds</u> about which dress to wear for the party.
+
+### Japanese Translation
+J-1: その仕事のオファーを受け入れるかどうか<u>迷っています</u>。
+J-2: パーティーに何を着ていくか<u>悩んでいます</u>。

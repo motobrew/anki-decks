@@ -1,0 +1,9 @@
+# Key:sb's cup of tea
+## Response
+### English Sentences
+E-1: Horror movies aren't <u>her cup of tea</u>, she prefers romantic comedies.
+E-2: He loves spicy food, but it's not <u>my cup of tea</u>.
+
+### Japanese Translation
+J-1: ホラー映画は<u>彼女の好みではない</u>、彼女はロマンチックなコメディが好きです。
+J-2: 彼は辛い食べ物が好きだが、<u>私には合わない</u>。

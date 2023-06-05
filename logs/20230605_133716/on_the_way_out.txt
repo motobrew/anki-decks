@@ -1,0 +1,9 @@
+# Key:on the way out
+## Response
+### English Sentences
+E-1: The popularity of CDs is on the way out.
+E-2: My boss is on the way out of the company.
+
+### Japanese Translation
+J-1: CDの人気は<u>下降気味</u>です。
+J-2: 私の上司は会社を<u>辞めようとしています</u>。

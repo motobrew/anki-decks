@@ -1,0 +1,9 @@
+# Key:over the hill
+## Response
+### English Sentences
+E-1: My grandparents are <u>over the hill</u> and retired.
+E-2: He thinks he's <u>over the hill</u> because he turned 40.
+
+### Japanese Translation
+J-1: 私の祖父母はもう<u>高齢者</u>で引退しています。
+J-2: 彼は40歳になったから<u>もう歳をとった</u>と思っています。

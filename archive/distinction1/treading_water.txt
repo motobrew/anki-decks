@@ -1,0 +1,9 @@
+# Key:treading water
+## Response
+### English Sentences
+E-1: I haven't made any progress in my career, I feel like I'm just <u>treading water</u>.
+E-2: The company is struggling to stay afloat and is only <u>treading water</u> financially.
+
+### Japanese Translation
+J-1: キャリアで何の進展もない。ただ<u>足踏み</u>しているような気がする。
+J-2: 会社は経済的に苦しんでおり、財政的には<u>停滞</u>している。

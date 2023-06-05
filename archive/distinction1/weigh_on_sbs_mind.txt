@@ -1,0 +1,9 @@
+# Key:weigh on sb's mind
+## Response
+### English Sentences
+E-1: The deadline for the project is really <u>weighing on my mind</u>.
+E-2: The fear of failure was <u>weighing on her mind</u> before the test.
+
+### Japanese Translation
+J-1: プロジェクトの締め切りが私の心に本当に<u>重くのしかかっている</u>。
+J-2: テスト前に失敗することへの恐怖が、彼女の心に<u>重荷となっていた</u>。

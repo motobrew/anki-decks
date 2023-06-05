@@ -1,0 +1,9 @@
+# Key:big fan of sth
+## Response
+### English Sentences
+E-1: I am a <u>big fan of</u> Taylor Swift's music.
+E-2: My friend is a <u>big fan of</u> spicy food.
+
+### Japanese Translation
+J-1: 私はテイラー・スウィフトの音楽の<u>大ファン</u>です。
+J-2: 私の友達は辛い食べ物の<u>大ファン</u>です。

@@ -1,0 +1,9 @@
+# Key:put one's money where one's mouth is
+## Response
+### English Sentences
+E-1: If you really believe in this project, you should <u>put your money where your mouth is</u> and invest.
+E-2: The politician promised to help the homeless, but has yet to <u>put her money where her mouth is</u>.
+
+### Japanese Translation
+J-1: 本当にこのプロジェクトを信じているなら、<u>言葉に責任を持って資金を投入</u>すべきです。
+J-2: 政治家はホームレスを助けると約束しましたが、<u>言葉だけで行動に移していません</u>。

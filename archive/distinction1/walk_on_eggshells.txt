@@ -1,0 +1,9 @@
+# Key:walk on eggshells
+## Response
+### English Sentences
+E-1: I have to <u>walk on eggshells</u> around my boss to avoid getting fired.
+E-2: After their fight, she had to <u>walk on eggshells</u> around him for days.
+
+### Japanese Translation
+J-1: ボスの周りで<u>慎重に言動を選ぶ</u>必要があります。
+J-2: 彼らの喧嘩の後、彼女は数日間<u>用心深く接する</u>必要がありました。

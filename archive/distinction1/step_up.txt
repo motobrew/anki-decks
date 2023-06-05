@@ -1,0 +1,9 @@
+# Key:step up
+## Response
+### English Sentences
+E-1: We need to <u>step up</u> our game if we want to win the championship.
+E-2: The company needs to <u>step up</u> and take responsibility for the environmental damage.
+
+### Japanese Translation
+J-1: 私たちが優勝したいなら、もっと努力して<u>レベルアップ</u>しなければなりません。
+J-2: 会社は環境破壊の責任をとって、<u>責任を果たす</u>必要があります。

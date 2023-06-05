@@ -1,0 +1,9 @@
+# Key:put sb on the spot
+## Response
+### English Sentences
+E-1: During the meeting, the boss <u>put me on the spot</u> and asked me a difficult question.
+E-2: I didn't want to <u>put her on the spot</u>, so I didn't ask her about her finances.
+
+### Japanese Translation
+J-1: ミーティング中に、上司が難しい質問を<u>ぶつけてきて</u>困らせました。
+J-2: 彼女を<u>追い込むつもりはなかったので</u>、彼女の財務状況については尋ねませんでした。

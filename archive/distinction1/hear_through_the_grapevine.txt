@@ -1,0 +1,9 @@
+# Key:hear through the grapevine
+## Response
+### English Sentences
+E-1: I heard <u>through the grapevine</u> that she got a promotion.
+E-2: Don't believe everything you <u>hear through the grapevine</u>.
+
+### Japanese Translation
+J-1: 彼女が昇進したという<u>噂</u>を聞きました。
+J-2: <u>噂を聞いただけで</u>信じないでください。

@@ -1,0 +1,9 @@
+# Key:scratch the surface
+## Response
+### English Sentences
+E-1: After conducting a quick survey, we realized that we had only <u>scratched the surface</u> of the issue.
+E-2: The new employee seemed promising, but we need to work with them further to <u>scratch the surface</u> of their potential.
+
+### Japanese Translation
+J-1: 短時間の調査を行った後、問題に<u>表面的にしか触れていない</u>ことがわかりました。
+J-2: 新入社員は有望だったが、彼らの可能性に<u>十分に触れる</u>必要があります。

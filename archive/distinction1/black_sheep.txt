@@ -1,0 +1,9 @@
+# Key:black sheep
+## Response
+### English Sentences
+E-1: She's always been the <u>black sheep</u> of the family, never doing what anyone expects.
+E-2: I don't want to be the <u>black sheep</u> at work, so I always try to follow the rules.
+
+### Japanese Translation
+J-1: 彼女は家族の中で<u>浮いた存在</u>で、何をしても誰も期待していない。
+J-2: 職場で<u>浮いた存在</u>になりたくないので、いつもルールに従うようにしています。

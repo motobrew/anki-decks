@@ -1,0 +1,9 @@
+# Key:help sb out
+## Response
+### English Sentences
+E-1: Can you <u>help me out</u> with this heavy box?
+E-2: My friend always <u>helps me out</u> when I'm feeling down.
+
+### Japanese Translation
+J-1: この重い箱を<u>手伝ってもらえますか</u>？
+J-2: 私が落ち込んでいる時はいつも友達が<u>助けてくれます</u>。

@@ -1,0 +1,9 @@
+# Key:give credit
+## Response
+### English Sentences
+E-1: It's important to <u>give credit</u> to the author of the article.
+E-2: Don't forget to <u>give credit</u> to your team members for their contributions.
+
+### Japanese Translation
+J-1: 記事の著者に<u>クレジットを与える</u>ことが重要です。
+J-2: チームメンバーの貢献に対して<u>クレジットを与える</u>ことを忘れないでください。

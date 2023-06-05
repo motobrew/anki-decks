@@ -1,0 +1,9 @@
+# Key:by the book
+## Response
+### English Sentences
+E-1: The new employee always follows the rules <u>by the book</u>.
+E-2: The police officer conducted the investigation <u>by the book</u>.
+
+### Japanese Translation
+J-1: 新しい社員は常に規則に<u>厳密に</u>従います。
+J-2: 警察官は調査を<u>正式に</u>実施しました。

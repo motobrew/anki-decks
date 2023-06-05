@@ -1,0 +1,9 @@
+# Key:shell-shocked
+## Response
+### English Sentences
+E-1: After witnessing the car accident, the driver was <u>shell-shocked</u> for days.
+E-2: The soldiers coming back from the war were all <u>shell-shocked</u> and traumatized.
+
+### Japanese Translation
+J-1: 車の事故を目撃して以降、運転手は何日も<u>ショックを受けて</u>いました。
+J-2: 戦争から帰ってきた兵士たちはみんな<u>ショックを受けていて</u>トラウマを抱えていました。

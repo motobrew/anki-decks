@@ -1,0 +1,9 @@
+# Key:dumb sth down
+## Response
+### English Sentences
+E-1: The professor had to <u>dumb down</u> the lecture for the new students.
+E-2: The movie studio wanted to <u>dumb down</u> the script to appeal to a wider audience.
+
+### Japanese Translation
+J-1: 新しい学生のために教授は講義を<u>易しくした</u>。
+J-2: 映画スタジオはより広い観客に訴求するために脚本を<u>簡単にしたい</u>と思っていました。

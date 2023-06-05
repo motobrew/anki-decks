@@ -1,0 +1,9 @@
+# Key:party animal
+## Response
+### English Sentences
+E-1: My friend is a <u>party animal</u> and always stays out late.
+E-2: I used to be a <u>party animal</u> in college, but now I prefer quiet nights at home.
+
+### Japanese Translation
+J-1: 私の友達は夜更かしする<u>お祭り好きの人</u>で、いつも遅くまで外出しています。
+J-2: 大学のころは<u>夜遊び大好き人間</u>でしたが、今は静かな家での夜が好きです。

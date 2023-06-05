@@ -1,0 +1,9 @@
+# Key:sell oneself short
+## Response
+### English Sentences
+E-1: Don't <u>sell yourself short</u>, you have a lot of talent.
+E-2: I'm not going to <u>sell myself short</u> by settling for this job.
+
+### Japanese Translation
+J-1: 自分の才能を<u>過小評価しないで</u>、たくさん持っています。
+J-2: この仕事で妥協して<u>自己評価を下げたりは</u>しない。

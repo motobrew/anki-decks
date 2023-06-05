@@ -1,0 +1,9 @@
+# Key:bread and butter
+## Response
+### English Sentences
+E-1: Making sandwiches is the <u>bread and butter</u> of this deli.
+E-2: Writing articles is the <u>bread and butter</u> of her freelance career.
+
+### Japanese Translation
+J-1: サンドイッチ作りはこのデリの<u>主力商品</u>です。
+J-2: 記事執筆は彼女のフリーランスの<u>主な収入源</u>です。

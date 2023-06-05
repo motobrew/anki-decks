@@ -1,0 +1,9 @@
+# Key:gonna do
+## Response
+### English Sentences
+E-1: I'm <u>gonna do</u> my best to study for the exam.
+E-2: He said he's <u>gonna do</u> the dishes after dinner.
+
+### Japanese Translation
+J-1: 私は試験のために最善を尽くす<u>つもりです</u>。
+J-2: 彼は夕食後に食器を洗う<u>つもりだと言いました</u>。

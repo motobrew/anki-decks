@@ -1,0 +1,9 @@
+# Key:straight and narrow
+## Response
+### English Sentences
+E-1: After serving time in prison, he was determined to stay on the <u>straight and narrow</u>.
+E-2: She always followed the <u>straight and narrow</u> in her business dealings.
+
+### Japanese Translation
+J-1: 刑務所で服役した後、彼は正しい道を歩むことを決意しました。
+J-2: 彼女は常に商取引で正しい方法を選びました。

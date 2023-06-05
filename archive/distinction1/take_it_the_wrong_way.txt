@@ -1,0 +1,9 @@
+# Key:take it the wrong way
+## Response
+### English Sentences
+E-1: I hope you don't <u>take it the wrong way</u>, but your outfit doesn't match.
+E-2: Don't <u>take it the wrong way</u>, but I think you need to improve your communication skills.
+
+### Japanese Translation
+J-1: 悪い気を起こさないでほしいんだけど、あなたの服装が合っていないと思うよ。
+J-2: 誤解しないでほしいんだけど、コミュニケーション能力を向上する必要があると思う。

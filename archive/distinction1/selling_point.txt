@@ -1,0 +1,9 @@
+# Key:selling point
+## Response
+### English Sentences
+E-1: The location of the apartment is its <u>selling point</u>; it's close to the beach.
+E-2: The variety of flavors is the <u>selling point</u> of this ice-cream shop.
+
+### Japanese Translation
+J-1: アパートのロケーションがそれの<u>売りのポイント</u>です。ビーチに近いんです。
+J-2: このアイスクリーム屋の<u>売りのポイント</u>はフレーバーの多様性です。

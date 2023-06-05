@@ -1,0 +1,9 @@
+# Key:one-off
+## Response
+### English Sentences
+E-1: The limited edition vinyl is a <u>one-off</u>, so make sure to grab it before it's gone.
+E-2: The company's donation to charity was a <u>one-off</u> event, they don't usually give money away.
+
+### Japanese Translation
+J-1: 限定版のレコードは<u>1点もの</u>なので、なくなる前に手に入れてください。
+J-2: その会社のチャリティ寄付は<u>一度限りの</u>もので、普段はお金を寄付していません。

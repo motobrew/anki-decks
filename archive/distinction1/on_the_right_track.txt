@@ -1,0 +1,9 @@
+# Key:on the right track
+## Response
+### English Sentences
+E-1: After months of hard work, I finally feel like I'm <u>on the right track</u> to achieving my goals.
+E-2: The new manager has implemented some great changes, and the company is <u>on the right track</u> to success.
+
+### Japanese Translation
+J-1: 数ヶ月の努力の末、ようやく自分の目標達成への<u>正しい方向に進んでいる</u>と感じます。
+J-2: 新しいマネージャーが素晴らしい変化を導入し、会社は成功への<u>正しい軌道にある</u>。

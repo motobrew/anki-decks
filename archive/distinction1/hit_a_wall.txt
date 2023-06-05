@@ -1,0 +1,9 @@
+# Key:hit a wall
+## Response
+### English Sentences
+E-1: I've been studying for hours, but I've <u>hit a wall</u> and can't focus anymore.
+E-2: The company's growth has <u>hit a wall</u> due to the economic downturn.
+
+### Japanese Translation
+J-1: 数時間勉強していますが、もう<u>限界に達して</u>集中できません。
+J-2: 経済の低迷により、その企業の成長は<u>壁にぶつかった</u>。

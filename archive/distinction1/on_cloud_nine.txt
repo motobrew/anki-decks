@@ -1,0 +1,9 @@
+# Key:on cloud nine
+## Response
+### English Sentences
+E-1: After winning the championship, the team was <u>on cloud nine</u>.
+E-2: She was <u>on cloud nine</u> when she got accepted to her dream university.
+
+### Japanese Translation
+J-1: チャンピオンシップで優勝した後、チームは<u>大喜びでした</u>。
+J-2: 彼女は夢の大学に<u>合格したとき、大喜びでした</u>。

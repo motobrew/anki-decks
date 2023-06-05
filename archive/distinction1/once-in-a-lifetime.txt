@@ -1,0 +1,9 @@
+# Key:once-in-a-lifetime
+## Response
+### English Sentences
+E-1: Winning the lottery is a <u>once-in-a-lifetime</u> opportunity.
+E-2: Traveling to space is a <u>once-in-a-lifetime</u> experience.
+
+### Japanese Translation
+J-1: 宝くじに当たることは<u>一生に一度の</u>チャンスです。
+J-2: 宇宙旅行は<u>一生に一度の</u>体験です。

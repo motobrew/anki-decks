@@ -1,0 +1,9 @@
+# Key:leave it there
+## Response
+### English Sentences
+E-1: I don't want to argue anymore, let's just <u>leave it there</u>.
+E-2: You've made your point, we can <u>leave it there</u>.
+
+### Japanese Translation
+J-1: もう議論しないで、とりあえず<u>そこで置いておこう</u>。
+J-2: あなたのポイントはわかったから、<u>そこで打ち切り</u>にしましょう。

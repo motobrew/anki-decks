@@ -1,0 +1,9 @@
+# Key:cut sb off
+## Response
+### English Sentences
+E-1: I had to <u>cut my friend off</u> because they were being toxic.
+E-2: The phone call got disconnected and I accidentally <u>cut off</u> my boss.
+
+### Japanese Translation
+J-1: 私は友達が毒を持っていたので、<u>関係を断つ</u>必要がありました。
+J-2: 電話が切れて、誤って上司を<u>切断してしまった</u>。

@@ -1,0 +1,9 @@
+# Key:drama queen
+## Response
+### English Sentences
+E-1: She's always overreacting and making a big deal out of nothing, such a <u>drama queen</u>.
+E-2: Don't be such a <u>drama queen</u>, it's just a small cut.
+
+### Japanese Translation
+J-1: 彼女はいつも過剰反応して何でも大げさに言うから、本当に<u>ドラマチックな女</u>だ。
+J-2: 小さい傷だから、<u>大げさにしないで</u>。

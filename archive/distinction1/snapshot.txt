@@ -1,0 +1,9 @@
+# Key:snapshot
+## Response
+### English Sentences
+E-1: I took a <u>snapshot</u> of the beautiful sunset before it disappeared.
+E-2: The report gave a <u>snapshot</u> of the company's financial performance last year.
+
+### Japanese Translation
+J-1: 美しい夕日が消える前に、私は<u>スナップショット</u>を撮りました。
+J-2: その報告書は、昨年の会社の財務パフォーマンスの<u>スナップショット</u>を提示していました。

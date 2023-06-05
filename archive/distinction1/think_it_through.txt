@@ -1,0 +1,9 @@
+# Key:think it through
+## Response
+### English Sentences
+E-1: Before you make a decision, take a moment to <u>think it through</u>.
+E-2: She didn't <u>think it through</u> before quitting her job.
+
+### Japanese Translation
+J-1: 決定する前に、思い切って<u>よく考えてから</u>行動してください。
+J-2: 彼女は辞める前に<u>きちんと考えていなかった</u>。

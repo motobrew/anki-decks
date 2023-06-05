@@ -1,0 +1,9 @@
+# Key:not too far off (sth)
+## Response
+### English Sentences
+E-1: The deadline for the project is <u>not too far off</u>, we need to work harder.
+E-2: His prediction about the economy was <u>not too far off</u> from reality.
+
+### Japanese Translation
+J-1: プロジェクトの締切が<u>近づいて</u>いるので、もっと頑張らないといけません。
+J-2: 彼の経済予測は現実に<u>かなり近い</u>ものでした。

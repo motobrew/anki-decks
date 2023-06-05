@@ -1,0 +1,9 @@
+# Key:down-to-earth
+## Response
+### English Sentences
+E-1: She may be a famous actress, but she's still very <u>down-to-earth</u>.
+E-2: He doesn't act like a CEO, he's very <u>down-to-earth</u>.
+
+### Japanese Translation
+J-1: 彼女は有名な女優かもしれませんが、まだとても<u>謙虚</u>です。
+J-2: 社長らしく振る舞いません、彼はとても<u>地に足の着いた</u>人です。

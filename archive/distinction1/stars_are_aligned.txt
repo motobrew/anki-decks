@@ -1,0 +1,9 @@
+# Key:stars are aligned
+## Response
+### English Sentences
+E-1: After months of hard work, finally the <u>stars are aligned</u> for my promotion.
+E-2: The team worked perfectly together and as a result, the <u>stars were aligned</u> for their victory.
+
+### Japanese Translation
+J-1: 数か月間の努力の結果、ついに私の昇進の<u>運命の星がそろいました</u>。
+J-2: チームは完璧に協力して作業をしたので、彼らの勝利の<u>星がそろいました</u>。

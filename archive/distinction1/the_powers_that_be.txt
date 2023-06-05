@@ -1,0 +1,9 @@
+# Key:the powers that be
+## Response
+### English Sentences
+E-1: I don't know if we can change the policy, it's up to <u>the powers that be</u>.
+E-2: The decision to close the factory was made by <u>the powers that be</u>.
+
+### Japanese Translation
+J-1: 政策を変えられるかどうかわからない、それは<u>上層部の人々</u>次第だ。
+J-2: 工場を閉鎖する決定は、<u>重要人物たち</u>によって下されました。

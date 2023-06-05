@@ -1,0 +1,9 @@
+# Key:in a rush
+## Response
+### English Sentences
+E-1: I can't talk now, I'm <u>in a rush</u> to catch my train.
+E-2: She made some mistakes on the project because she was <u>in a rush</u> to finish it.
+
+### Japanese Translation
+J-1: 今話せない、電車に乗るのに<u>急いでいる</u>。
+J-2: 彼女はプロジェクトを終えるのに<u>急いでいた</u>ため、いくつかのミスをした。

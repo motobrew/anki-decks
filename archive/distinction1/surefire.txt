@@ -1,0 +1,9 @@
+# Key:surefire
+## Response
+### English Sentences
+E-1: The new recipe I found online is a <u>surefire</u> way to impress my guests.
+E-2: Investing in real estate can be a <u>surefire</u> path to financial success.
+
+### Japanese Translation
+J-1: オンラインで見つけた新しいレシピは、私のゲストを感動させる<u>確実な</u>方法です。
+J-2: 不動産への投資は、財政的成功への<u>確実な</u>道かもしれません。

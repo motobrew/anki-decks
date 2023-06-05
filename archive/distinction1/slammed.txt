@@ -1,0 +1,9 @@
+# Key:slammed
+## Response
+### English Sentences
+E-1: The politician <u>slammed</u> his opponent's policies during the debate.
+E-2: The CEO <u>slammed</u> the decision made by the board of directors.
+
+### Japanese Translation
+J-1: 政治家は討論中に相手の政策を<u>激しく非難しました</u>。
+J-2: CEOは取締役会の決定を<u>厳しく批判しました</u>。

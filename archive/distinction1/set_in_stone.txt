@@ -1,0 +1,9 @@
+# Key:set in stone
+## Response
+### English Sentences
+E-1: The project timeline is not <u>set in stone</u> and can be adjusted.
+E-2: Don't worry, these plans are not <u>set in stone</u>, we can change them.
+
+### Japanese Translation
+J-1: プロジェクトのタイムラインは<u>一定ではなく</u>、調整できます。
+J-2: 心配しないで、この計画は<u>固定されているわけではありません</u>、変更できます。

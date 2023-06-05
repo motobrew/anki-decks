@@ -1,0 +1,9 @@
+# Key:bright and early
+## Response
+### English Sentences
+E-1: I wake up <u>bright and early</u> every morning to go for a run.
+E-2: The store opens <u>bright and early</u> at 6am.
+
+### Japanese Translation
+J-1: 私は毎朝早く起きてランニングに行きます。<u>朝早く</u>
+J-2: その店は6時に<u>一番早く</u>開きます。

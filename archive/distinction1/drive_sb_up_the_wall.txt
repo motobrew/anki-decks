@@ -1,0 +1,9 @@
+# Key:drive sb up the wall
+## Response
+### English Sentences
+E-1: Her constant complaining about the traffic is starting to <u>drive me up the wall</u>.
+E-2: The sound of the neighbor's dog barking all night <u>drives me up the wall</u>.
+
+### Japanese Translation
+J-1: 彼女が交通渋滞について絶え間なく不平を言うのは、私を<u>イライラさせる</u>始めています。
+J-2: 近所の犬の一晩中の吠え声は、私を<u>カッとさせる</u>。

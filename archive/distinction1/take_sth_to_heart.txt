@@ -1,0 +1,9 @@
+# Key:take sth to heart
+## Response
+### English Sentences
+E-1: When I apologized, he said he didn't <u>take it to heart</u>.
+E-2: She tends to <u>take criticism to heart</u> and get upset.
+
+### Japanese Translation
+J-1: 謝ったら、彼はそれを<u>深く気にしない</u>と言いました。
+J-2: 彼女は批判を<u>真に受けて</u>怒ってしまう傾向があります。

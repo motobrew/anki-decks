@@ -1,0 +1,9 @@
+# Key:dirty laundry
+## Response
+### English Sentences
+E-1: I don't want to discuss his <u>dirty laundry</u> with others.
+E-2: Keep your <u>dirty laundry</u> to yourself.
+
+### Japanese Translation
+J-1: 私は彼の<u>汚い秘密</u>を他人と話したくありません。
+J-2: 自分の<u>恥ずかしい過去</u>は自分で抱えておいてください。

@@ -1,0 +1,9 @@
+# Key:on one's last legs
+## Response
+### English Sentences
+E-1: After running a marathon, I was <u>on my last legs</u>.
+E-2: The old car is <u>on its last legs</u> and needs to be replaced.
+
+### Japanese Translation
+J-1: マラソンを走った後、私は<u>へとへとに疲れ果てた</u>。
+J-2: 古い車は<u>寿命が尽きかけている</u>ので、交換する必要があります。

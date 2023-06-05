@@ -1,0 +1,9 @@
+# Key:touch-and-go
+## Response
+### English Sentences
+E-1: The plane landing was <u>touch-and-go</u> due to strong winds.
+E-2: His chances of getting the job are <u>touch-and-go</u> after the interview.
+
+### Japanese Translation
+J-1: 強い風のため、飛行機の着陸は<u>危険な状態での着陸</u>でした。
+J-2: 面接後、彼がその仕事を得る可能性は<u>微妙な状態にある</u>。

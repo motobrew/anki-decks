@@ -1,0 +1,9 @@
+# Key:wordsmith sth
+## Response
+### English Sentences
+E-1: The author is known for <u>wordsmithing</u> his stories into works of art.
+E-2: She was hired as a <u>wordsmith</u> to write catchy headlines for the newspaper.
+
+### Japanese Translation
+J-1: その作家は、彼の物語を美術作品に<u>巧みに表現すること</u>で知られています。
+J-2: 彼女は新聞のキャッチーな見出しを書くために<u>巧妙に用語を操る人</u>として雇われました。

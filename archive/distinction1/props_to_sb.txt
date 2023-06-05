@@ -1,0 +1,9 @@
+# Key:props to sb
+## Response
+### English Sentences
+E-1: <u>Props to you</u> for finishing the project ahead of schedule.
+E-2: The new employee deserves <u>props</u> for coming up with a great idea.
+
+### Japanese Translation
+J-1: スケジュールよりも早くプロジェクトを終えたので、<u>おめでとう</u>。
+J-2: 新入社員は素晴らしいアイデアを出したので、<u>称賛</u>がふさわしい。

@@ -1,0 +1,9 @@
+# Key:sing sb's praises
+## Response
+### English Sentences
+E-1: After Mary won the competition, her coach couldn't stop <u>singing her praises</u>.
+E-2: Despite his flaws, his mother always <u>sings his praises</u> to everyone.
+
+### Japanese Translation
+J-1: メアリーが競技に勝った後、コーチは彼女のことを<u>絶賛</u>し続けました。
+J-2: 彼に欠点はあるが、彼の母親はいつも誰にでも<u>称賛</u>しています。

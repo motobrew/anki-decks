@@ -16,15 +16,17 @@ export async function ask(question: string, model = "gpt-3.5-turbo-0301") {
   And then, put them into 2 sections: English sentences and Japanese translation,
   In addition to that, enclose in <u> tags both the keyword and corresponding translation.
   Your response must be complied to the following format.
+  
+  Sentences are just example if the keyword was "pop up".
 
   ## Response
   ### English Sentences
-  E-1: The advertisement <u>pop up</u> on my computer screen while I was browsing.
-  E-2: We decided to have a picnic if the weather <u>pop up</u> clear tomorrow.
+  E-1: A <u>pop-up</u> alerted me of a new message on my phone.
+  E-2: Unexpected obstacles often <u>pop up</u> at the worst times.
   
   ### Japanese Translation
-  J-1: 私がウェブを閲覧している間に広告が画面に<u>ポップアップ</u>しました。
-  J-2: もし明日天気が<u>急によくなる</u>なら、ピクニックをすることにしました。
+  J-1: 携帯に<u>ポップアップ</u>が表示され、新しいメッセージがあることがわかりました。
+  J-2: 思いもよらない障害が最悪の時に<u>現れること</u>がよくあります。
   `;
 
   const response = await openai.createChatCompletion({

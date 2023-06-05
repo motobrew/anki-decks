@@ -1,0 +1,9 @@
+# Key:weed out sth/sb
+## Response
+### English Sentences
+E-1: The HR department aims to <u>weed out</u> unqualified job applicants.
+E-2: The coach will <u>weed out</u> the weak players from the team.
+
+### Japanese Translation
+J-1: 人事部は、資格のない求職者を<u>除外する</u>ことを目指しています。
+J-2: コーチは、弱い選手をチームから<u>排除する</u>つもりです。

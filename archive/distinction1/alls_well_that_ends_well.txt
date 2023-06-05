@@ -1,0 +1,9 @@
+# Key:all's well that ends well
+## Response
+### English Sentences
+E-1: We had a lot of issues during the project, but <u>all's well that ends well</u>.
+E-2: They had a big fight, but they made up and <u>all's well that ends well</u>.
+
+### Japanese Translation
+J-1: プロジェクト中にたくさんの問題がありましたが、最後には<u>すべてうまくいった</u>。
+J-2: 彼らは大きな喧嘩をしたが、仲直りして<u>すべてうまくいった</u>。

@@ -1,0 +1,9 @@
+# Key:show sb the ropes
+## Response
+### English Sentences
+E-1: Can you <u>show me the ropes</u> on how to use this new software?
+E-2: I'm new to this company. Can you <u>show me the ropes</u> around here?
+
+### Japanese Translation
+J-1: この新しいソフトの使い方を教えてくれて<u>初めての人にわかるようにして</u>くれませんか？
+J-2: この会社には初めてなので、ここでの<u>やり方を教えてくれませんか？</u>

@@ -1,0 +1,9 @@
+# Key:get back to sb
+## Response
+### English Sentences
+E-1: I'm sorry for the delay, let me <u>get back to you</u> on that tomorrow.
+E-2: Can I <u>get back to you</u> later? I need to check my schedule first.
+
+### Japanese Translation
+J-1: 遅れてすみません、明日あなたにその件について<u>後で連絡します</u>。
+J-2: 後で<u>返信させていただけますか</u>？スケジュールを確認してからにします。

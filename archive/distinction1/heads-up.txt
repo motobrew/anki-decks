@@ -1,0 +1,9 @@
+# Key:heads-up
+## Response
+### English Sentences
+E-1: I just wanted to give you a <u>heads-up</u> that the meeting has been rescheduled.
+E-2: Hey, <u>heads-up</u>! The ice on the road is making it slippery.
+
+### Japanese Translation
+J-1: ミーティングが延期になったことを<u>事前にお知らせ</u>したかっただけです。
+J-2: ねえ、<u>ちょっと聞いて</u>！道路の氷で滑りやすくなっているよ。

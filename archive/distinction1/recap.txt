@@ -1,0 +1,9 @@
+# Key:recap
+## Response
+### English Sentences
+E-1: Let me <u>recap</u> what we talked about in the meeting.
+E-2: Can you <u>recap</u> the plot of the movie for me?
+
+### Japanese Translation
+J-1: ミーティングで話したことを<u>要約して</u>みましょう。
+J-2: 映画のプロットを<u>あらためて説明して</u>もらえますか？

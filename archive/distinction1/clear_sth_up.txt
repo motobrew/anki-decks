@@ -1,0 +1,9 @@
+# Key:clear sth up
+## Response
+### English Sentences
+E-1: I called my bank to <u>clear up</u> the mistake on my account.
+E-2: Let me <u>clear up</u> any confusion about the schedule for tomorrow.
+
+### Japanese Translation
+J-1: 私は口座の誤りを<u>解決するために</u>銀行に電話をしました。
+J-2: 明日のスケジュールに<u>混乱がないように</u>説明しましょう。

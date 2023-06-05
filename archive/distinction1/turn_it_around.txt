@@ -1,0 +1,9 @@
+# Key:turn it around
+## Response
+### English Sentences
+E-1: After a rough start, the new manager was able to <u>turn it around</u> and improve the team's performance.
+E-2: The company had been losing money, but the new CEO was able to <u>turn it around</u> and make it profitable again.
+
+### Japanese Translation
+J-1: 難しい始まりでしたが、新しいマネージャーは<u>好転させることができました</u>、そのチームのパフォーマンスを向上させることができました。
+J-2: その会社は損失を出していましたが、新しいCEOは<u>好転させることができました</u>、再び利益をもたらすようにしました。

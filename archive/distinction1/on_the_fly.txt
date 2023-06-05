@@ -1,0 +1,9 @@
+# Key:on the fly
+## Response
+### English Sentences
+E-1: I had to come up with a speech <u>on the fly</u> when the keynote speaker didn't show up.
+E-2: The chef improvised a new dish <u>on the fly</u> to accommodate the special request.
+
+### Japanese Translation
+J-1: 基調講演者が現れないため、私は即興でスピーチを<u>作らなければならなかった</u>。
+J-2: シェフは特別なリクエストに対応するために、<u>即座に新しい料理をアドリブで作りました</u>。

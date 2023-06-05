@@ -1,0 +1,9 @@
+# Key:white noise
+## Response
+### English Sentences
+E-1: The baby fell asleep to the sound of <u>white noise</u>.
+E-2: I can't concentrate with all the <u>white noise</u> in this coffee shop.
+
+### Japanese Translation
+J-1: 赤ちゃんは<u>ホワイトノイズ</u>の音で眠りについた。
+J-2: このカフェには<u>ざわざわとした雑音</u>があるので、集中できない。

@@ -1,0 +1,9 @@
+# Key:call it (a day)
+## Response
+### English Sentences
+E-1: We've been working hard all day, why don't we <u>call it a day</u>?
+E-2: I'm too tired to continue studying, let's <u>call it</u> for tonight.
+
+### Japanese Translation
+J-1: 私たちは一日中頑張って働いたので、<u>今日はおしまいに</u>しましょうか？
+J-2: もう疲れたので、今夜は勉強を<u>やめることにしましょう</u>。

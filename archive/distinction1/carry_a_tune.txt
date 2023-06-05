@@ -1,0 +1,9 @@
+# Key:carry a tune
+## Response
+### English Sentences
+E-1: I love my grandma, but she can't <u>carry a tune</u> to save her life.
+E-2: Even though he can't sing, he always tries to <u>carry a tune</u> at karaoke.
+
+### Japanese Translation
+J-1: 私は祖母が大好きですが、彼女は全く歌が<u>上手くありません</u>。
+J-2: 歌が全く上手じゃないけど、彼はいつもカラオケで<u>歌を歌おうとします</u>。

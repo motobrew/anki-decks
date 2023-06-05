@@ -1,0 +1,9 @@
+# Key:black and white
+## Response
+### English Sentences
+E-1: It's not always <u>black and white</u>; there are gray areas in life.
+E-2: I had to choose between two job offers, but it wasn't <u>black and white</u>.
+
+### Japanese Translation
+J-1: 人生にはグレーな部分もあるので、必ずしも<u>白黒つけられない</u>ことがあります。
+J-2: 私は2つの仕事のオファーの間で選ばなければならなかったが、それが<u>単純明快なものではなかった</u>。

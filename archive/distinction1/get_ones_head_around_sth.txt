@@ -1,0 +1,9 @@
+# Key:get one's head around sth
+## Response
+### English Sentences
+E-1: It took me a while to <u>get my head around</u> the new software.
+E-2: I still can't <u>get my head around</u> the concept of time travel.
+
+### Japanese Translation
+J-1: 新しいソフトウェアに<u>理解するのに時間がかかりました。</u>
+J-2: 時間旅行のコンセプトにはまだ<u>頭がついていきません。</u>

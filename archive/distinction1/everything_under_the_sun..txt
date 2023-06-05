@@ -1,0 +1,9 @@
+# Key:everything under the sun.
+## Response
+### English Sentences
+E-1: She knows <u>everything under the sun</u> about gardening.
+E-2: The market sells <u>everything under the sun</u> from spices to souvenirs.
+
+### Japanese Translation
+J-1: 彼女は園芸に関する<u>ありとあらゆることを知っています</u>。
+J-2: その市場では、スパイスからお土産まで<u>多種多様なものが売られています</u>。

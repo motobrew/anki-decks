@@ -1,0 +1,9 @@
+# Key:nag (sb)
+## Response
+### English Sentences
+E-1: She always <u>nags</u> me to clean up my room.
+E-2: Don't <u>nag</u> him about the project, he's already working on it.
+
+### Japanese Translation
+J-1: 彼女はいつも私に私の部屋を掃除するよう<u>しつこく言います</u>。
+J-2: 彼にプロジェクトのことで<u>しつこくうるさいことは言わないで</u>、もう取り組んでいるから。

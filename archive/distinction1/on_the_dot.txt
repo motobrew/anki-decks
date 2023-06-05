@@ -1,0 +1,9 @@
+# Key:on the dot
+## Response
+### English Sentences
+E-1: I'll meet you at the cafe at 3 <u>on the dot</u>.
+E-2: The train always arrives at the station <u>on the dot</u>.
+
+### Japanese Translation
+J-1: 3時<u>ピッタリに</u>カフェで会いましょう。
+J-2: 電車はいつも<u>時間通りに</u>駅に到着します。

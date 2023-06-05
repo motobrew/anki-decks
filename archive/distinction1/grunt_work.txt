@@ -1,0 +1,9 @@
+# Key:grunt work
+## Response
+### English Sentences
+E-1: I had to do all the <u>grunt work</u> like cleaning and organizing.
+E-2: The new interns were given the <u>grunt work</u> of making copies and filing.
+
+### Japanese Translation
+J-1: 掃除や整理などの<u>退屈な仕事</u>を私がやらなければなりませんでした。
+J-2: 新入社員たちはコピーを取ったりファイルを整理する<u>雑用</u>を与えられました。

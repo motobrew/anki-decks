@@ -1,0 +1,9 @@
+# Key:collecting dust
+## Response
+### English Sentences
+E-1: I haven't played that CD in years, it's just <u>collecting dust</u> on my shelf.
+E-2: The old furniture has been <u>collecting dust</u> in the attic for ages.
+
+### Japanese Translation
+J-1: あのCDは何年も聞いてない、棚の上でただ<u>ほこりをかぶっている</u>だけだ。
+J-2: 古い家具は何年も屋根裏で<u>ほこりをかぶっている</u>。

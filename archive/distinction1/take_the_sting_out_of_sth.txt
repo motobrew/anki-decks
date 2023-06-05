@@ -1,0 +1,9 @@
+# Key:take the sting out of sth
+## Response
+### English Sentences
+E-1: Putting some ointment on the burn will <u>take the sting out of it</u>.
+E-2: The apology letter <u>took the sting out of</u> the previous argument.
+
+### Japanese Translation
+J-1: 焼けた場所に軟膏を塗れば、痛みが<u>和らぎます</u>。
+J-2: 謝罪の手紙は、前の口論の<u>辛さを取り除いてくれました</u>。

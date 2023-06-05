@@ -1,0 +1,9 @@
+# Key:iffy
+## Response
+### English Sentences
+E-1: The deal seems <u>iffy</u>, I wouldn't invest my money just yet.
+E-2: His excuse for missing work this morning sounds <u>iffy</u> to me.
+
+### Japanese Translation
+J-1: その取引は不確かなようで、今すぐ投資するつもりはありません。
+J-2: 彼の今朝の欠勤の理由は私には<u>信用できない</u>ように聞こえます。

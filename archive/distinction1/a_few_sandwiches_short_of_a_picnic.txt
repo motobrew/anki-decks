@@ -1,0 +1,9 @@
+# Key:a few sandwiches short of a picnic
+## Response
+### English Sentences
+E-1: He might be nice, but he's definitely <u>a few sandwiches short of a picnic</u>.
+E-2: I don't think she understands the rules. She's <u>a few sandwiches short of a picnic</u>.
+
+### Japanese Translation
+J-1: 彼は優しいかもしれませんが、絶対に<u>物足りない</u>と思います。
+J-2: 彼女はルールを理解していないと思います。彼女は<u>少しおかしい</u>と思います。

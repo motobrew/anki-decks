@@ -1,0 +1,9 @@
+# Key:deal-breaker
+## Response
+### English Sentences
+E-1: Smoking is a <u>deal-breaker</u> for me when it comes to dating.
+E-2: The lack of flexible working hours is a <u>deal-breaker</u> for many job seekers.
+
+### Japanese Translation
+J-1: デートにおいて、私にとっての<u>決定的な欠陥</u>は喫煙です。
+J-2: 柔軟な勤務時間がないことは多くの求職者にとっての<u>致命的な欠点</u>です。

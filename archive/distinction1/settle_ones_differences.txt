@@ -1,0 +1,9 @@
+# Key:settle one's differences
+## Response
+### English Sentences
+E-1: After their argument, they decided to sit down and <u>settle their differences</u>.
+E-2: The two companies finally came to an agreement to <u>settle their differences</u> out of court.
+
+### Japanese Translation
+J-1: 彼らの口論の後、彼らは座って<u>意見の相違を解消</u>することに決めた。
+J-2: 2つの会社はついに和解し、裁判で<u>意見の相違を解決</u>することになりました。

@@ -1,0 +1,9 @@
+# Key:takeaway
+## Response
+### English Sentences
+E-1: The <u>takeaway</u> from this meeting is that we need to work more efficiently.
+E-2: After reading the article, the <u>takeaway</u> was that the author had a unique perspective.
+
+### Japanese Translation
+J-1: 今回のミーティングの<u>まとめ</u>は、より効率的に仕事をする必要があるということです。
+J-2: 記事を読んだ後、その著者が独自の見方をしていたという<u>結論</u>に達しました。

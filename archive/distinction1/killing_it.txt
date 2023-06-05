@@ -1,0 +1,9 @@
+# Key:killing it
+## Response
+### English Sentences
+E-1: She's been <u>killing it</u> on the basketball court lately.
+E-2: I heard John's presentation at the conference was <u>killing it</u>.
+
+### Japanese Translation
+J-1: 彼女は最近バスケットコートで<u>すごく活躍している</u>らしい。
+J-2: ジョンのカンファレンスでのプレゼンが<u>大成功だった</u>そうだ。

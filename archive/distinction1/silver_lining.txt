@@ -1,0 +1,9 @@
+# Key:silver lining
+## Response
+### English Sentences
+E-1: The pandemic forced us to stay at home, but the <u>silver lining</u> was that we could spend more time with our family.
+E-2: Losing my job was difficult, but the <u>silver lining</u> was that I found a better opportunity.
+
+### Japanese Translation
+J-1: パンデミックのせいで家にいなければならなかったが、<u>うれしいことに</u>家族とたくさん時間を過ごせた。
+J-2: 仕事を失うのは辛かったが、<u>幸いなことに</u>、より良い機会を見つけた。

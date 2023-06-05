@@ -1,0 +1,9 @@
+# Key:walk in sb's shoes
+## Response
+### English Sentences
+E-1: It's important to <u>walk in your client's shoes</u> to understand their needs.
+E-2: Before criticizing someone, try to <u>walk in their shoes</u> and see things from their perspective.
+
+### Japanese Translation
+J-1: 顧客のニーズを理解するために、<u>顧客の立場を理解する</u>ことが重要です。
+J-2: 批判する前に、相手の立場に<u>入り込み</u>自分の目線から物事を見てみてください。

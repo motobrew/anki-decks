@@ -1,0 +1,9 @@
+# Key:put in the hard yards
+## Response
+### English Sentences
+E-1: He <u>put in the hard yards</u> to become a successful businessman.
+E-2: If you want to pass the exam, you need to <u>put in the hard yards</u> and study consistently.
+
+### Japanese Translation
+J-1: 彼は成功したビジネスマンになるために<u>大変努力しました</u>。
+J-2: 試験に合格したいなら、<u>一生懸命勉強する</u>必要があります。

@@ -1,0 +1,9 @@
+# Key:drip-feed sth
+## Response
+### English Sentences
+E-1: The company <u>drip-fed</u> information about the new product to create buzz.
+E-2: I need to <u>drip-feed</u> water to the plants daily for better growth.
+
+### Japanese Translation
+J-1: その新製品についての興味を高めるために、会社は情報を<u>少しずつ提供しました</u>。
+J-2: より良い成長のために、私は毎日植物に<u>少しずつ水を与えなければなりません</u>。

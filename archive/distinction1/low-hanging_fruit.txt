@@ -1,0 +1,9 @@
+# Key:low-hanging fruit
+## Response
+### English Sentences
+E-1: The company focused on the <u>low-hanging fruit</u>, tackling the easiest problems first.
+E-2: The politician promised to target the <u>low-hanging fruit</u> in his first hundred days.
+
+### Japanese Translation
+J-1: その会社は<u>手っ取り早い問題</u>に集中し、先に取り組みました。
+J-2: その政治家は最初の百日間に<u>簡単な問題</u>を目標にすると約束しました。

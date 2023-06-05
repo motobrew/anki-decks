@@ -1,0 +1,9 @@
+# Key:clear-cut
+## Response
+### English Sentences
+E-1: The boundaries between the two properties were not <u>clear-cut</u>.
+E-2: The issue is not <u>clear-cut</u>, we need to consider more factors.
+
+### Japanese Translation
+J-1: 二つの敷地の境界線は<u>明確ではなかった</u>。
+J-2: この問題は<u>単純なものではない</u>ので、もっと考慮する必要があります。

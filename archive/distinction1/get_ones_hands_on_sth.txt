@@ -1,0 +1,9 @@
+# Key:get one's hands on sth
+## Response
+### English Sentences
+E-1: I finally <u>got my hands on</u> a copy of that rare book.
+E-2: He'll do whatever it takes to <u>get his hands on</u> the latest tech gadget.
+
+### Japanese Translation
+J-1: ようやくあの珍しい本のコピーを<u>手に入れた</u>。
+J-2: 彼は最新のテックガジェットを<u>手に入れるために</u>何でもするだろう。

@@ -1,0 +1,9 @@
+# Key:pretty much
+## Response
+### English Sentences
+E-1: She <u>pretty much</u> eats the same thing for lunch every day.
+E-2: The concert was <u>pretty much</u> sold out in a matter of hours.
+
+### Japanese Translation
+J-1: 彼女は昼食に<u>ほぼ同じもの</u>を食べます。
+J-2: コンサートは<u>ほぼ完売</u>になりました。

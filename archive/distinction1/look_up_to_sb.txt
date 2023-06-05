@@ -1,0 +1,9 @@
+# Key:look up to sb
+## Response
+### English Sentences
+E-1: I <u>look up to</u> my parents for their hard work and dedication.
+E-2: She has always <u>looked up to</u> her older sister as a role model.
+
+### Japanese Translation
+J-1: 私は両親を尊敬しています。彼らの努力と献身に<u>敬意を表します</u>。
+J-2: 彼女はいつも姉を目標として<u>尊敬していました</u>。

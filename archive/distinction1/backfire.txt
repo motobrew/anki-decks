@@ -1,0 +1,9 @@
+# Key:backfire
+## Response
+### English Sentences
+E-1: They thought their joke would be funny, but it ended up <u>backfiring</u>.
+E-2: The company's attempt to cut costs ended up <u>backfiring</u> and losing them money in the long run.
+
+### Japanese Translation
+J-1: 彼らは冗談が面白いだろうと考えていましたが、結果的には<u>裏目に出ました</u>。
+J-2: 会社がコスト削減を試みた結果、長期的には<u>裏目に出て</u>彼らのお金を失いました。

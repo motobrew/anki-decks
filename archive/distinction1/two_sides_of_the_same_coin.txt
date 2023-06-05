@@ -1,0 +1,9 @@
+# Key:two sides of the same coin
+## Response
+### English Sentences
+E-1: Working hard and taking breaks are <u>two sides of the same coin</u> when it comes to productivity.
+E-2: Success and failure are often considered <u>two sides of the same coin</u> in the business world.
+
+### Japanese Translation
+J-1: 生産性に関しては、努力と休憩は同じ<u>メダルの裏表</u>です。
+J-2: ビジネス界では、成功と失敗は<u>同じコインの両面</u>と考えられることが多いです。

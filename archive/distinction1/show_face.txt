@@ -1,0 +1,9 @@
+# Key:show face
+## Response
+### English Sentences
+E-1: I don't think he's really interested in the project, he just wants to <u>show face</u>.
+E-2: She only comes to the meetings to <u>show face</u>, she never contributes anything.
+
+### Japanese Translation
+J-1: 彼はそのプロジェクトに本当に興味があるとは思わない、単に<u>顔を出す</u>ためだと思う。
+J-2: 彼女は会議に<u>出席すること</u>だけで、何も貢献しない。

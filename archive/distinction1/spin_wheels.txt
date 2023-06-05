@@ -1,0 +1,9 @@
+# Key:spin wheels
+## Response
+### English Sentences
+E-1: The project is not progressing, we're just <u>spinning wheels</u>.
+E-2: He kept talking in circles, just <u>spinning his wheels</u>.
+
+### Japanese Translation
+J-1: プロジェクトが進まなくて、ただ<u>時間ばかり浪費している</u>。
+J-2: 彼は話がとっ散らかって、<u>効果的に何もしていない</u>。

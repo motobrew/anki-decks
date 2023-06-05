@@ -1,0 +1,9 @@
+# Key:throw sb a bone
+## Response
+### English Sentences
+E-1: I know you don't have experience, but I'll <u>throw you a bone</u> and let you try.
+E-2: Can you <u>throw me a bone</u> and at least give me a hint on the answer?
+
+### Japanese Translation
+J-1: 経験がないことは分かっているけど、今回は<u>チャンスをあげる</u>よ。やってみたら？
+J-2: 少なくとも<u>ちょっとだけ手助け</u>くれない？答えのヒントでも教えてくれない？

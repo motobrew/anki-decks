@@ -1,0 +1,9 @@
+# Key:get it
+## Response
+### English Sentences
+E-1: I tried to explain the joke to her, but she just didn't <u>get it</u>.
+E-2: After a few more practice sessions, I think I finally <u>get it</u>.
+
+### Japanese Translation
+J-1: 私は彼女にジョークを説明しようとしましたが、彼女は理解<u>できませんでした</u>。
+J-2: もう少し練習を重ねた後、私はようやく<u>理解できた</u>ようです。

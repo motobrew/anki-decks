@@ -1,0 +1,9 @@
+# Key:all-in on sth
+## Response
+### English Sentences
+E-1: The company is <u>all-in on</u> their new marketing strategy.
+E-2: I'm going to go <u>all-in on</u> this project to ensure its success.
+
+### Japanese Translation
+J-1: その会社は新しいマーケティング戦略に<u>全力投球</u>しています。
+J-2: このプロジェクトに<u>全力を注いで</u>成功させようと思います。

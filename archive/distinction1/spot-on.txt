@@ -1,0 +1,9 @@
+# Key:spot-on
+## Response
+### English Sentences
+E-1: The weather forecast was spot-on, it didn't rain as predicted.
+E-2: Her analysis of the situation was spot-on, we followed her advice.
+
+### Japanese Translation
+J-1: 天気予報は的確でした、予報通り雨が降りませんでした。
+J-2: 彼女の状況分析は的確でした、私たちは彼女のアドバイスに従いました。

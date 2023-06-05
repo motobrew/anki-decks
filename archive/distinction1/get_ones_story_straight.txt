@@ -1,0 +1,9 @@
+# Key:get one's story straight
+## Response
+### English Sentences
+E-1: Before the police arrived, they needed to <u>get their story straight</u> to avoid suspicion.
+E-2: Let's go over the details again to <u>get our story straight</u> before the meeting.
+
+### Japanese Translation
+J-1: 警察が到着する前に、不審な目を避けるために<u>物語を一致させる必要が</u>ありました。
+J-2: ミーティング前に、詳細をもう一度<u>確認して物語を一致させましょう</u>。

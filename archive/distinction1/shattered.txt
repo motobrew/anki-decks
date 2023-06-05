@@ -1,0 +1,9 @@
+# Key:shattered
+## Response
+### English Sentences
+E-1: His dreams of becoming a professional athlete were <u>shattered</u> when he injured his knee.
+E-2: The news of her mother's death <u>shattered</u> her world.
+
+### Japanese Translation
+J-1: 彼のプロのアスリートになる夢は、膝を怪我して<u>打ち砕かれました</u>。
+J-2: 彼女の母親の死の知らせが彼女の世界を<u>壊滅させました</u>。

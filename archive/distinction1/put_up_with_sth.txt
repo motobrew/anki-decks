@@ -1,0 +1,9 @@
+# Key:put up with sth
+## Response
+### English Sentences
+E-1: I can't <u>put up with</u> the noise from my neighbor's party anymore.
+E-2: She had to <u>put up with</u> her boss's unreasonable demands to keep her job.
+
+### Japanese Translation
+J-1: もう隣人のパーティからの騒音には<u>我慢できない</u>。
+J-2: 彼女は仕事を続けるために上司の不合理な要求に<u>耐えなければならなかった</u>。

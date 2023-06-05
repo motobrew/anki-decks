@@ -1,0 +1,9 @@
+# Key:pump iron
+## Response
+### English Sentences
+E-1: He likes to <u>pump iron</u> at the gym every morning.
+E-2: The bodybuilders were <u>pumping iron</u> before the big competition.
+
+### Japanese Translation
+J-1: 彼は毎朝ジムで<u>筋トレをする</u>のが好きです。
+J-2: 大会前にボディビルダーたちは<u>重量を上げてトレーニングをしていました</u>。

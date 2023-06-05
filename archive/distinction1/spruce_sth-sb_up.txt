@@ -1,0 +1,9 @@
+# Key:spruce sth/sb up
+## Response
+### English Sentences
+E-1: I'm going to <u>spruce up</u> my wardrobe before the new school year.
+E-2: They hired an interior designer to <u>spruce up</u> their office space.
+
+### Japanese Translation
+J-1: 新学期が始まる前に私は衣装を<u>改装するつもり</u>です。
+J-2: 彼らはオフィススペースを<u>模様替えするために</u>インテリアデザイナーを雇いました。

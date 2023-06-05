@@ -1,0 +1,9 @@
+# Key:jump the gun
+## Response
+### English Sentences
+E-1: Don't <u>jump the gun</u>. Wait for the official announcement.
+E-2: He <u>jumped the gun</u> and started celebrating before he won.
+
+### Japanese Translation
+J-1: 公式発表を待ちましょう。<u>予想を先走らせる</u>な。
+J-2: 彼は勝っていないのに<u>早まった行動をとった</u>。

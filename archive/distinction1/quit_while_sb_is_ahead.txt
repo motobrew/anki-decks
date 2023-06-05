@@ -1,0 +1,9 @@
+# Key:quit while sb is ahead
+## Response
+### English Sentences
+E-1: It's better to <u>quit while you're ahead</u> and take the profits.
+E-2: She won the first two sets, but decided to <u>quit while she was ahead</u> and withdraw from the tournament.
+
+### Japanese Translation
+J-1: 利益を得たうちにやめた方がいい。(<u>不意をつかれる前に</u>)
+J-2: 彼女は最初の2セットに勝ったが、<u>余裕のうちに</u>大会を棄権することに決めた。

@@ -1,0 +1,9 @@
+# Key:hyped
+## Response
+### English Sentences
+E-1: The new artist's debut album has been <u>hyped</u> up for weeks.
+E-2: Don't get too <u>hyped</u> up about your expectations for the party.
+
+### Japanese Translation
+J-1: 新しいアーティストのデビューアルバムは数週間も<u>宣伝されています</u>。
+J-2: パーティーの期待にあまり<u>浮かれすぎないように</u>しましょう。

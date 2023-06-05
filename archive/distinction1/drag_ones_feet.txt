@@ -1,0 +1,9 @@
+# Key:drag one's feet
+## Response
+### English Sentences
+E-1: The employee was <u>dragging his feet</u> on finishing the project.
+E-2: I wish my friend would stop <u>dragging her feet</u> about making plans.
+
+### Japanese Translation
+J-1: 従業員はプロジェクトを終えるのに<u>ぐずぐずしていた</u>。
+J-2: 友達が話し合いの計画に<u>躊躇している</u>のをやめてほしい。

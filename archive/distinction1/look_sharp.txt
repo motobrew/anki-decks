@@ -1,0 +1,9 @@
+# Key:look sharp
+## Response
+### English Sentences
+E-1: You need to <u>look sharp</u> if you want to catch the train.
+E-2: The boss told us to <u>look sharp</u> for the important meeting.
+
+### Japanese Translation
+J-1: 電車に乗りたいなら、<u>しっかり準備して</u>いかないと。
+J-2: 上司が大事な会議に出るには<u>身なりをきちんと整えて</u>こいと言った。

@@ -1,0 +1,9 @@
+# Key:unheard of
+## Response
+### English Sentences
+E-1: The fact that she's a princess and I'm just a commoner is <u>unheard of</u>.
+E-2: Having a wedding ceremony without exchanging vows is <u>unheard of</u>.
+
+### Japanese Translation
+J-1: 彼女がお姫様で私がただの庶民だというのは<u>前代未聞</u>です。
+J-2: 誓いを交わさずに結婚式を行うなんて<u>あり得ないこと</u>です。

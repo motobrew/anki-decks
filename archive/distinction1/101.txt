@@ -1,0 +1,9 @@
+# Key:101
+## Response
+### English Sentences
+E-1: I need to take <u>Psychology 101</u> before I can enroll in advanced courses.
+E-2: When you start a new job, you have to learn <u>Company 101</u> first.
+
+### Japanese Translation
+J-1: 私は上級コースに登録する前に<u>心理学 101</u>を履修する必要があります。
+J-2: 新しい仕事を始めるときは、まず<u>企業研修 / 社会入門</u>から始めます。

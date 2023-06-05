@@ -1,0 +1,9 @@
+# Key:hard taskmaster
+## Response
+### English Sentences
+E-1: My boss is a <u>hard taskmaster</u>, he expects perfection from us.
+E-2: The coach is a <u>hard taskmaster</u>, he pushes us to our limits.
+
+### Japanese Translation
+J-1: 私の上司は要求が厳しく、完璧を求めてくる<u>厳格な指導者</u>です。
+J-2: コーチは限界まで追い込む<u>手厳しい指導者</u>である。

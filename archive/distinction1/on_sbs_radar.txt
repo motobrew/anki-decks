@@ -1,0 +1,9 @@
+# Key:on sb's radar
+## Response
+### English Sentences
+E-1: The new startup company is definitely <u>on my radar</u> for potential investment.
+E-2: With the recent increase in crime, safety has become <u>on everyone's radar</u> in this neighborhood. 
+
+### Japanese Translation
+J-1: 新しいスタートアップ企業は、将来的に投資の対象に<u>私の目にとまっています</u>。
+J-2: 最近の犯罪の増加で、この地域の安全性が<u>誰もが気にかかっています</u>。

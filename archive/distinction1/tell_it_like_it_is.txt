@@ -1,0 +1,9 @@
+# Key:tell it like it is
+## Response
+### English Sentences
+E-1: John is known for always <u>telling it like it is</u>, even if it's not popular.
+E-2: I appreciate your honesty, please <u>tell it like it is</u>.
+
+### Japanese Translation
+J-1: ジョンはいつも人気がなくても、<u>ありのままを言い</u>知られています。
+J-2: 正直に話してください、<u>本当のことを言って</u>くれてありがとう。

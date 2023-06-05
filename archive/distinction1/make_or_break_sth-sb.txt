@@ -1,0 +1,9 @@
+# Key:make or break sth/sb
+## Response
+  ### English Sentences
+  E-1: The final exam will <u>make or break</u> my chances of getting into college.
+  E-2: A good first impression can <u>make or break</u> a job interview.
+
+  ### Japanese Translation
+  J-1: 最終試験は、大学に入る可能性を<u>左右する</u>でしょう。
+  J-2: 良い第一印象は、面接の<u>成否を左右する</u>ことがあります。

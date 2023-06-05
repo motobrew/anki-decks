@@ -1,0 +1,9 @@
+# Key:tricky
+## Response
+### English Sentences
+E-1: Understanding the new tax law can be a bit <u>tricky</u>.
+E-2: He's a <u>tricky</u> salesman who knows how to twist your arm.
+
+### Japanese Translation
+J-1: 新しい税法を理解するのは少し<u>難しい</u>場合があります。
+J-2: 彼は肘を捻る方法を知っている<u>巧妙な</u>セールスマンです。

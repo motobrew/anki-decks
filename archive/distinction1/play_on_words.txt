@@ -1,0 +1,9 @@
+# Key:play on words
+## Response
+### English Sentences
+E-1: The comedian's joke was a clever <u>play on words</u> that made the audience laugh.
+E-2: The newspaper headline was a <u>play on words</u> that used a pun to grab attention.
+
+### Japanese Translation
+J-1: そのコメディアンのジョークは、巧妙な<u>言葉遊び</u>で、観客を笑わせた。
+J-2: 新聞の見出しは、パンダを利用したダジャレの<u>言葉遊び</u>で、注意を引いた。

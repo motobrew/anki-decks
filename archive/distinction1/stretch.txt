@@ -1,0 +1,9 @@
+# Key:stretch
+## Response
+### English Sentences
+E-1: I know we're on a tight deadline, but let's not <u>stretch</u> ourselves too thin.
+E-2: His story is so unbelievable, he really <u>stretched</u> the truth.
+
+### Japanese Translation
+J-1: 締め切りが厳しいことはわかっているけど、自分たちを無理しないようにしよう。
+J-2: 彼の話は信じがたいほどで、本当のことを<u>大げさに言った</u>。

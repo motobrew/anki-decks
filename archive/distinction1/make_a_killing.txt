@@ -1,0 +1,9 @@
+# Key:make a killing
+## Response
+### English Sentences
+E-1: After investing in cryptocurrency early on, he was able to <u>make a killing</u>. 
+E-2: She <u>made a killing</u> at the garage sale by selling her old clothes for high prices.
+
+### Japanese Translation
+J-1: 仮想通貨への初期投資をした後、彼は大儲けすることができました。
+J-2: 彼女は古着を高値で販売してガレージセールで<u>大儲けしました</u>。

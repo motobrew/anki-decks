@@ -1,0 +1,9 @@
+# Key:diamond in the rough
+## Response
+### English Sentences
+E-1: The new employee seemed unimpressive at first, but turned out to be a <u>diamond in the rough</u>.
+E-2: This old car might be a <u>diamond in the rough</u> with the right repairs.
+
+### Japanese Translation
+J-1: 新入社員は最初ほとんど印象がなかったけれど、実は隠れた才能がある人でした。
+J-2: この古い車も、適切な修理で<u>オリジナルの価値</u>を取り戻すかもしれません。

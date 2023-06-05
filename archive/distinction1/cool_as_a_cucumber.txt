@@ -1,0 +1,9 @@
+# Key:cool as a cucumber
+## Response
+### English Sentences
+E-1: Despite the pressure, she remained <u>cool as a cucumber</u> during the presentation.
+E-2: The athlete was <u>cool as a cucumber</u> while waiting for his turn to compete.
+
+### Japanese Translation
+J-1: プレゼン中のプレッシャーにもかかわらず、彼女は<u>落ち着いていました</u>。
+J-2: アスリートは、自分の番が回ってくるのを待っている間、<u>落ち着いていました</u>。

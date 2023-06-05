@@ -1,0 +1,9 @@
+# Key:cutting-edge
+## Response
+### English Sentences
+E-1: The new smartphone is equipped with <u>cutting-edge</u> technology.
+E-2: The research team is working on <u>cutting-edge</u> developments in AI.
+
+### Japanese Translation
+J-1: その新しいスマートフォンは、<u>最先端</u>の技術が搭載されています。
+J-2: 研究チームは、AIの<u>最先端</u>の開発に取り組んでいます。

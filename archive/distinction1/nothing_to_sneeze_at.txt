@@ -1,0 +1,9 @@
+# Key:nothing to sneeze at
+## Response
+### English Sentences
+E-1: The salary offer is <u>nothing to sneeze at</u>, I think I will take the job.
+E-2: Her new car is <u>nothing to sneeze at</u>, it's really luxurious.
+
+### Japanese Translation
+J-1: 給与のオファーは決して<u>見過ごせない</u>、私はその仕事を受けるつもりです。
+J-2: 彼女の新しい車は気にならないわけではなく、とても高級だ。

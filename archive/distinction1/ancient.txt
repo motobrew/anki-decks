@@ -1,0 +1,9 @@
+# Key:ancient
+## Response
+### English Sentences
+E-1: The history books are full of tales of <u>ancient</u> civilizations.
+E-2: The ruins of an <u>ancient</u> temple were discovered in the jungle.
+
+### Japanese Translation
+J-1: 歴史書は<u>古代の</u>文明の物語でいっぱいです。
+J-2: ジャングルで<u>古代の</u>寺院の遺跡が発見されました。

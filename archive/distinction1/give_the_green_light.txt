@@ -1,0 +1,9 @@
+# Key:give the green light
+## Response
+### English Sentences
+E-1: The CEO finally <u>gave the green light</u> for the new project.
+E-2: My parents won't <u>give the green light</u> for me to take a year off from school.
+
+### Japanese Translation
+J-1: CEOがついに新しいプロジェクトに<u>OK</u>を出しました。
+J-2: 私の両親は学校を休学することに<u>承認</u>してくれません。

@@ -1,0 +1,9 @@
+# Key:come clean
+## Response
+### English Sentences
+E-1: I know you lied, it's time to <u>come clean</u>.
+E-2: The politician finally <u>came clean</u> about the bribery scandal.
+
+### Japanese Translation
+J-1: 嘘をついたことを知っている、<u>正直になる</u>時が来た。
+J-2: 政治家はついに賄賂スキャンダルについて<u>打ち明けた</u>。

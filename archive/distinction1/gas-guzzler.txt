@@ -1,0 +1,9 @@
+# Key:gas-guzzler
+## Response
+### English Sentences
+E-1: I can't afford to drive a <u>gas-guzzler</u> with today's high gas prices.
+E-2: The new SUV we bought is a real <u>gas-guzzler</u>, we need to fill up the tank every few days.
+
+### Japanese Translation
+J-1: 今日の高いガソリン価格で<u>燃費の悪い車</u>を運転する余裕はありません。
+J-2: 買った新しいSUVは本当に<u>ガソリンを多く消費する車</u>で、数日ごとに給油が必要です。

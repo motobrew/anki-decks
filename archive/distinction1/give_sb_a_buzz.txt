@@ -1,0 +1,9 @@
+# Key:give sb a buzz
+## Response
+### English Sentences
+E-1: I haven't talked to Sarah in a while, I should <u>give her a buzz</u> and catch up.
+E-2: If you're lost, <u>give me a buzz</u> and I'll help you find your way.
+
+### Japanese Translation
+J-1: 私はしばらくサラと話していないので、彼女に<u>電話して近況を尋ねる</u>べきです。
+J-2: もし迷ったら、<u>私に電話して</u>、道を見つけるのを手伝います。

@@ -1,0 +1,9 @@
+# Key:unwritten rule
+## Response
+### English Sentences
+E-1: It's an <u>unwritten rule</u> to always wear a helmet when riding a bike.
+E-2: In the office, there's an <u>unwritten rule</u> to never take the last cup of coffee without making a fresh pot.
+
+### Japanese Translation
+J-1: 自転車に乗る時は常にヘルメット着用が<u>暗黙の了解</u>です。
+J-2: オフィスでは、誰かが新しいコーヒーを入れるまで最後の一杯を取らない<u>非書面化のルール</u>があります。

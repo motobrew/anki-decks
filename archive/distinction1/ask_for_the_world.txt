@@ -1,0 +1,9 @@
+# Key:ask for the world
+## Response
+### English Sentences
+E-1: She's always asking for the world, but never seems satisfied.
+E-2: I can't just ask for the world, I need to be realistic.
+
+### Japanese Translation
+J-1: 彼女はいつも<u>空気を読まずにぜんぶもらおうとする</u>けど、決して満足しているわけではない。
+J-2: リアリティを忘れずに、<u>現実的なものを要求</u>する必要がある。

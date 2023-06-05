@@ -1,0 +1,9 @@
+# Key:long shot!
+## Response
+### English Sentences
+E-1: Winning the lottery is a <u>long shot</u> but still worth a try.
+E-2: Convincing him to change his mind is a <u>long shot</u> at this point.
+
+### Japanese Translation
+J-1: 宝くじに当たるのは<u>望み薄</u>だけれど、やってみる価値はある。
+J-2: 彼に考えを変えさせるのは今のところ<u>無謀なことだ</u>。

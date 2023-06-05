@@ -1,0 +1,9 @@
+# Key:neck and neck
+## Response
+### English Sentences
+E-1: The two runners were <u>neck and neck</u> as they approached the finish line.
+E-2: The two companies are <u>neck and neck</u> in the race for best sales this quarter.
+
+### Japanese Translation
+J-1: ゴールに近づくにつれ、2人のランナーは<u>首が首をつっていた</u>。
+J-2: 今四半期の最高売上レースで、2社は<u>あいまいな勝負</u>をしています。

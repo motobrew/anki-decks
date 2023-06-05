@@ -1,0 +1,9 @@
+# Key:lock sth down
+## Response
+### English Sentences
+E-1: The company needs to <u>lock down</u> their security protocols to prevent data breaches.
+E-2: The contract negotiations are almost finished, we just need to <u>lock down</u> the final details.
+
+### Japanese Translation
+J-1: データ侵害を防ぐために、企業はセキュリティプロトコルを<u>固定化</u>する必要があります。
+J-2: 契約交渉はほぼ終わりました、最終詳細を<u>確定</u>する必要があります。

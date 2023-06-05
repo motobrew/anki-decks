@@ -1,0 +1,9 @@
+# Key:take it easy
+## Response
+### English Sentences
+E-1: I know the exam is tomorrow, but <u>take it easy</u> and get some sleep.
+E-2: Don't worry about finishing the project today, <u>take it easy</u> and pace yourself.
+
+### Japanese Translation
+J-1: 試験は明日だけど、<u>ゆっくり</u>寝てね。
+J-2: 今日プロジェクトを終わらせることに<u>焦らずゆっくりと</u>取り組んでね。

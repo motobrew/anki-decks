@@ -1,0 +1,9 @@
+# Key:in a roundabout way
+## Response
+### English Sentences
+E-1: She didn't answer my question directly, but <u>in a roundabout way</u> she implied that she wasn't interested.
+E-2: He reached his goal <u>in a roundabout way</u> by taking a detour and learning new skills.
+
+### Japanese Translation
+J-1: 彼女は私の質問に直接答えませんでしたが、<u>あいまいな言い回しで</u>彼女は興味がないことをほのめかしました。
+J-2: 彼は回り道をして新しいスキルを身に付けることで、<u>遠回りながらも</u>目標に到達しました。

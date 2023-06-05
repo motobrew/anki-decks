@@ -1,0 +1,9 @@
+# Key:turn sth/sb down
+## Response
+### English Sentences
+E-1: I asked him out but he <u>turned me down</u>.
+E-2: The company <u>turned down</u> my job application.
+
+### Japanese Translation
+J-1: 彼に誘ってみたけど断られた。
+J-2: 会社は私の応募書類を<u>不採用</u>にした。

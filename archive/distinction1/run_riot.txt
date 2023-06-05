@@ -1,0 +1,9 @@
+# Key:run riot
+## Response
+### English Sentences
+E-1: After the team won the championship, the fans <u>ran riot</u> in the streets.
+E-2: Without supervision, the kids may <u>run riot</u> and cause chaos.
+
+### Japanese Translation
+J-1: チームが優勝した後、ファンたちは街中で<u>騒ぎ出しました</u>。
+J-2: 監視がないと、子供たちは<u>暴れまくって</u>混乱を引き起こすかもしれません。

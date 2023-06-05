@@ -1,0 +1,9 @@
+# Key:settle in
+## Response
+### English Sentences
+E-1: It takes time to <u>settle in</u> to a new job and get to know your colleagues.
+E-2: After a few months of moving to a new city, I finally feel like I've <u>settled in</u> to my new home.
+
+### Japanese Translation
+J-1: 新しい仕事に慣れて同僚を知るには時間がかかります。
+J-2: 新しい街に引っ越してから数ヶ月後、やっと新しい家に<u>落ち着いた</u>気がします。

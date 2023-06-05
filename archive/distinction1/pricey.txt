@@ -1,0 +1,9 @@
+# Key:pricey
+## Response
+### English Sentences
+E-1: The restaurant's menu is great, but the prices are <u>pricey</u>.
+E-2: I love that brand, but their products are a bit <u>pricey</u>.
+
+### Japanese Translation
+J-1: そのレストランのメニューは素晴らしいですが、価格が<u>高め</u>です。
+J-2: あのブランドが好きですが、製品が少し<u>高価</u>です。

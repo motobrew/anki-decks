@@ -1,0 +1,9 @@
+# Key:firing on all cylinders
+## Response
+### English Sentences
+E-1: The team is finally <u>firing on all cylinders</u> after their new coach took over.
+E-2: I can't wait to get started on this project now that my creativity is <u>firing on all cylinders</u>.
+
+### Japanese Translation
+J-1: 新しいコーチが就任してから、チームはついに<u>全力疾走</u>しています。
+J-2: 創造性が<u>最高潮に達した</u>ので、このプロジェクトを始めるのが待ちきれません。

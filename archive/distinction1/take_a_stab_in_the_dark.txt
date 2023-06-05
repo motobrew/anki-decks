@@ -1,0 +1,9 @@
+# Key:take a stab in the dark
+## Response
+### English Sentences
+E-1: I'm not sure about the answer, but I'll <u>take a stab in the dark</u>.
+E-2: Without any information, it's foolish to <u>take a stab in the dark</u>.
+
+### Japanese Translation
+J-1: 答えが分からないけど、<u>推測してみる</u>よ。
+J-2: 情報がないのに、<u>見当を付けるのは愚かだ</u>。

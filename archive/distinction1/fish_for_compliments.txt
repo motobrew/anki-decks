@@ -1,0 +1,9 @@
+# Key:fish for compliments
+## Response
+### English Sentences
+E-1: She was clearly <u>fishing for compliments</u> when she showed off her new dress.
+E-2: I don't want to sound like I'm <u>fishing for compliments</u>, but how did I do on my presentation?
+
+### Japanese Translation
+J-1: 彼女が新しいドレスを自慢したとき、明らかに自分に対する褒め言葉を<u>ほしがっていました</u>。
+J-2: 自分に対する褒め言葉を<u>引き出そうとしているわけではない</u>けど、プレゼンテーションはどうだったかな？

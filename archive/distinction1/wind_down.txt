@@ -1,0 +1,9 @@
+# Key:wind down
+## Response
+### English Sentences
+E-1: After a long day at work, I like to <u>wind down</u> with some calming music.
+E-2: Let's <u>wind down</u> with a glass of wine and watch a movie.
+
+### Japanese Translation
+J-1: 仕事の長い一日の後、私は落ち着く音楽で<u>くつろぎます</u>。
+J-2: ワインを飲みながら映画を見て、<u>リラックスしましょう</u>。

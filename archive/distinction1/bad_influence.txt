@@ -1,0 +1,9 @@
+# Key:bad influence
+## Response
+### English Sentences
+E-1: Hanging out with those kids is a <u>bad influence</u> on your behavior.
+E-2: Don't watch that TV show, it's a <u>bad influence</u> on your mindset.
+
+### Japanese Translation
+J-1: あの子達と遊ぶのはあなたの行動に<u>悪影響</u>を与えるよ。
+J-2: あのテレビ番組を見るのはやめて、気持ちに<u>悪影響</u>を及ぼすから。

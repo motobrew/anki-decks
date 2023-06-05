@@ -1,0 +1,9 @@
+# Key:picture this
+## Response
+### English Sentences
+E-1: <u>Picture this</u>: You are walking on a beach, feeling the sand between your toes.
+E-2: <u>Picture this</u>: You are on stage, receiving a standing ovation.
+
+### Japanese Translation
+J-1: <u>想像してください</u>：あなたは砂浜を歩いて、足の指で砂を感じています。
+J-2: <u>想像してください</u>：あなたが舞台に立って、スタンディングオベーションを受けている姿を思い描いてください。

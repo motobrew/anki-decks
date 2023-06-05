@@ -1,0 +1,9 @@
+# Key:pluck sth out of thin air
+## Response
+### English Sentences
+E-1: I didn't expect him to be able to <u>pluck that answer out of thin air</u>.
+E-2: The comedian was able to <u>pluck a joke out of thin air</u> that had everyone laughing.
+
+### Japanese Translation
+J-1: 私は彼があの答えを<u>空中から引っ張り出す</u>ことができるとは思っていませんでした。
+J-2: そのお笑い芸人は空気を読んで、みんなを笑わせるジョークを<u>即興で思いつきました</u>。

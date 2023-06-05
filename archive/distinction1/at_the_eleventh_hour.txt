@@ -1,0 +1,9 @@
+# Key:at the eleventh hour
+## Response
+### English Sentences
+E-1: He finished his project <u>at the eleventh hour</u> and barely made the deadline.
+E-2: The team managed to score the winning goal <u>at the eleventh hour</u> of the match.
+
+### Japanese Translation
+J-1: 彼はプロジェクトを<u>死にギリギリで</u>終え、ぎりぎり期限に間に合いました。
+J-2: チームは試合<u>終了間際</u>に決勝点を取りました。

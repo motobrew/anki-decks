@@ -1,0 +1,9 @@
+# Key:speaks for itself
+## Response
+### English Sentences
+E-1: The evidence <u>speaks for itself</u>, he is clearly guilty. 
+E-2: The success of the company <u>speaks for itself</u>, they have tripled their profits.
+
+### Japanese Translation
+J-1: 証拠は<u>明確</u>、彼は明らかに有罪だ。 
+J-2: その企業の成功は<u>自明のことである</u>、彼らは利益を3倍に増やした。

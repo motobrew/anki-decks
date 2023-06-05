@@ -1,0 +1,9 @@
+# Key:take stock of sth
+## Response
+### English Sentences
+E-1: It's important to <u>take stock of</u> your finances before making a big purchase.
+E-2: After the project was completed, we took some time to <u>take stock of</u> what we had learned.
+
+### Japanese Translation
+J-1: 大きな買い物をする前に、自分の財務状況を<u>把握する</u>ことが重要です。
+J-2: プロジェクトが完了した後、私たちは何を学んだかを<u>振り返る</u>時間をとりました。

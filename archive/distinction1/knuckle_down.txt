@@ -1,0 +1,9 @@
+# Key:knuckle down
+## Response
+### English Sentences
+E-1: I need to <u>knuckle down</u> and study for my final exams.
+E-2: Our team needs to <u>knuckle down</u> and work harder if we want to win the championship.
+
+### Japanese Translation
+J-1: 最終試験の勉強を<u>本腰入れて</u>しなければなりません。
+J-2: 私たちのチームは、優勝したいならもっと<u>本腰入れて</u>働く必要があります。

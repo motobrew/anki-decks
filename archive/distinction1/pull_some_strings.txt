@@ -1,0 +1,9 @@
+# Key:pull some strings
+## Response
+### English Sentences
+E-1: My friend was able to get me a job interview by <u>pulling some strings</u> with her boss.
+E-2: The politician was accused of <u>pulling strings</u> to get his son a high-ranking government position.
+
+### Japanese Translation
+J-1: 私の友達は彼女の上司に<u>後ろ盾を頼んで</u>私に就職面接を取ってくれました。
+J-2: 政治家は息子を高い役職に就けるために<u>取引をした</u>として非難されました。

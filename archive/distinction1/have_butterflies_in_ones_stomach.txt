@@ -1,0 +1,9 @@
+# Key:have butterflies in one's stomach
+## Response
+### English Sentences
+E-1: Before a big presentation, I always <u>have butterflies in my stomach</u>.
+E-2: She <u>had butterflies in her stomach</u> before going on her first date.
+
+### Japanese Translation
+J-1: 大切なプレゼンの前はいつも緊張して<u>胃が痛くなる</u>。
+J-2: 彼女は初めてのデートの前に<u>ドキドキしていた</u>。

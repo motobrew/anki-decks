@@ -1,0 +1,9 @@
+# Key:low-key
+## Response
+### English Sentences
+E-1: Let's keep the party <u>low-key</u>, just invite a few close friends.
+E-2: He's a <u>low-key</u> artist, but he has a loyal following.
+
+### Japanese Translation
+J-1: パーティーは<u>大々的に</u>やらず、親しい友人だけを招待しましょう。
+J-2: 彼は<u>地味な</u>アーティストですが、熱心なファンがいます。

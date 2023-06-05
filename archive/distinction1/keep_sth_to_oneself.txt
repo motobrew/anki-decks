@@ -1,0 +1,9 @@
+# Key:keep sth to oneself
+## Response
+### English Sentences
+E-1: I have a secret, but I'll <u>keep it to myself</u>.
+E-2: It's better to <u>keep your opinions to yourself</u> in some situations.
+
+### Japanese Translation
+J-1: 秘密があるけど、<u>自分の中だけにしておくよ</u>。
+J-2: ある場面では、<u>自分の意見は言わない方がいい</u>こともある。

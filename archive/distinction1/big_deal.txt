@@ -1,0 +1,9 @@
+# Key:big deal
+## Response
+### English Sentences
+E-1: Don't worry, it's not a <u>big deal</u>. 
+E-2: Winning the championship is a <u>big deal</u> for the team.
+
+### Japanese Translation
+J-1: 心配しないで、それは<u>大したことではない</u>。
+J-2: チャンピオンシップを勝つことは、チームにとって<u>大切なこと</u>です。

@@ -1,0 +1,9 @@
+# Key:carry the team
+## Response
+### English Sentences
+E-1: John <u>carried the team</u> to victory with his amazing performance.
+E-2: The CEO relied on Jane to <u>carry the team</u> through the difficult project.
+
+### Japanese Translation
+J-1: ジョンはすばらしい演技でチームを<u>勝利に導きました</u>。
+J-2: CEOはジェーンに頼り、難しいプロジェクトを<u>乗り越えるよう頼みました</u>。

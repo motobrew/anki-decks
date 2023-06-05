@@ -1,0 +1,9 @@
+# Key:on the same page
+## Response
+### English Sentences
+E-1: We need to make sure we're all <u>on the same page</u> before starting the project.
+E-2: The manager and employees should be <u>on the same page</u> regarding the company's goals.
+
+### Japanese Translation
+J-1: プロジェクトを始める前に、私たちはすべて<u>同じ立場で</u>あることを確認する必要があります。
+J-2: マネージャーと従業員は、企業の目標について<u>同じ方向を向いて</u>いる必要があります。

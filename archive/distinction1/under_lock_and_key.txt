@@ -1,0 +1,9 @@
+# Key:under lock and key
+## Response
+### English Sentences
+E-1: The sensitive documents are kept <u>under lock and key</u> in the safe.
+E-2: The medicine should be stored <u>under lock and key</u> away from children.
+
+### Japanese Translation
+J-1: 機密書類は金庫に<u>鍵をかけて</u>安全に保管されています。
+J-2: その薬は子供の手の届かない所に<u>ロックされた状態で</u>保管するべきです。

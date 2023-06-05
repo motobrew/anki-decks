@@ -1,0 +1,9 @@
+# Key:hit pause
+## Response
+### English Sentences
+E-1: I need to <u>hit pause</u> and take a break from work.
+E-2: When the argument got too heated, I knew it was time to <u>hit pause</u>.
+
+### Japanese Translation
+J-1: 仕事から<u>一時中断</u>して休憩をとらなければならない。
+J-2: 言い争いが激しくなりすぎた時、<u>中断し</u>る時間だとわかりました。

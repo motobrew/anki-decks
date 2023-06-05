@@ -1,0 +1,9 @@
+# Key:fill in for sb
+## Response
+### English Sentences
+E-1: I had to <u>fill in for</u> my coworker who called in sick.
+E-2: Can you <u>fill in for</u> me at the meeting tomorrow?
+
+### Japanese Translation
+J-1: 体調不良で休んだ同僚の代わりに仕事を<u>こなす</u>必要がありました。
+J-2: 明日の会議で私の<u>代理</u>をしてもらえますか？

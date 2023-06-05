@@ -1,0 +1,9 @@
+# Key:so on and so forth
+## Response
+### English Sentences
+E-1: He did some gardening, laundry, cleaning, <u>so on and so forth</u>.
+E-2: The store sells clothes, shoes, accessories, <u>so on and so forth</u>.
+
+### Japanese Translation
+J-1: 彼は園芸、洗濯、掃除、<u>その他諸々</u>をしました。
+J-2: その店は洋服、靴、アクセサリー、<u>その他いろいろ</u>を販売しています。

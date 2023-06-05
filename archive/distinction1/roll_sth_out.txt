@@ -1,0 +1,9 @@
+# Key:roll sth out
+## Response
+### English Sentences
+E-1: The company plans to <u>roll out</u> the new software next month.
+E-2: The restaurant will <u>roll out</u> a new menu for the summer season.
+
+### Japanese Translation
+J-1: その企業は来月新しいソフトウェアを<u>導入する予定です</u>。
+J-2: そのレストランは夏季のための新しいメニューを<u>発表します</u>。

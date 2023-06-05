@@ -1,0 +1,9 @@
+# Key:freak (sb) out
+## Response
+### English Sentences
+E-1: The spider crawling on her arm <u>freaked her out</u>.
+E-2: Don't tell him about the bugs, it will <u>freak him out</u>.
+
+### Japanese Translation
+J-1: 彼女の腕に這っていたクモが彼女を<u>ぞっとさせました</u>。
+J-2: 虫のことを彼に話さないで、<u>ビビらせちゃうよ</u>。

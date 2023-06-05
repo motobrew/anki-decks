@@ -1,0 +1,9 @@
+# Key:razor-thin
+## Response
+### English Sentences
+E-1: The margin of victory in the election was <u>razor-thin</u>, with only a few votes separating the candidates.
+E-2: The company's profit margin was <u>razor-thin</u>, barely enough to cover expenses.
+
+### Japanese Translation
+J-1: 選挙の勝利の差は<u>僅差</u>で、候補者たちをわずかな票数で分けました。
+J-2: その会社の利益率は<u>かろうじて採算がとれる</u>ほど細かく、ほとんどが経費に消えてしまいました。

@@ -1,0 +1,9 @@
+# Key:under the table
+## Response
+### English Sentences
+E-1: They paid him <u>under the table</u> to avoid taxes.
+E-2: The company conducted business <u>under the table</u> to avoid regulations.
+
+### Japanese Translation
+J-1: 彼らは税金を回避するために彼に<u>裏金</u>を支払いました。
+J-2: その企業は規制を回避するために<u>裏取引</u>を行いました。

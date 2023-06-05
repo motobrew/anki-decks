@@ -1,0 +1,9 @@
+# Key:cover all bases
+## Response
+### English Sentences
+E-1: Before the presentation, make sure to <u>cover all bases</u> to avoid mistakes.
+E-2: The detective interviewed every witness to <u>cover all bases</u> in the investigation.
+
+### Japanese Translation
+J-1: プレゼンテーション前に、ミスを避けるために<u>全ての手順を徹底する</u>ことが大切です。
+J-2: 探偵は調査を<u>徹底するために</u>全ての証人に聞き取り調査を行いました。

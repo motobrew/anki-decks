@@ -1,0 +1,9 @@
+# Key:double-check sth/(that)
+## Response
+### English Sentences
+E-1: Before submitting the report, <u>double-check</u> all the numbers and figures.
+E-2: After packing, make sure to <u>double-check</u> that you have your passport.
+
+### Japanese Translation
+J-1: レポートを提出する前に、数字や図表を<u>再度確認</u>してください。
+J-2: 荷物を詰めた後は、パスポートを持っているか<u>もう一度確認</u>してください。

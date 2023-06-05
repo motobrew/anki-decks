@@ -1,0 +1,9 @@
+# Key:move heaven and earth
+## Response
+### English Sentences
+E-1: She will <u>move heaven and earth</u> to get that job.  
+E-2: They are ready to <u>move heaven and earth</u> to save their business.
+
+### Japanese Translation
+J-1: その仕事を手に入れるために、彼女は何でもします。
+J-2: 彼らは自分たちのビジネスを救うために手段を選ばないつもりです。

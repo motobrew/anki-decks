@@ -1,0 +1,9 @@
+# Key:out of sb's league
+## Response
+### English Sentences
+E-1: I'm afraid she's <u>out of my league</u>, she's a famous actress.
+E-2: That job is <u>out of your league</u>, you don't have enough experience.
+
+### Japanese Translation
+J-1: 彼女は有名な女優だから、私には彼女は<u>手が届かない</u>かもしれません。
+J-2: あの仕事はあなたに<u>経験不足</u>で無理かもしれません。

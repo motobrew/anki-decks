@@ -1,0 +1,9 @@
+# Key:make sure (that)
+## Response
+### English Sentences
+E-1: Before you leave, <u>make sure</u> you turn off all the lights.
+E-2: <u>Make sure</u> to double-check your work before submitting it.
+
+### Japanese Translation
+J-1: 出かける前に、すべての電気を<u>消したことを確認しておいてください</u>。
+J-2: 提出する前に作業を<u>もう一度確認するように</u>してください。

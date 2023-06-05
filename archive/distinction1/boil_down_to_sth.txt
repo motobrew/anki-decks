@@ -1,0 +1,9 @@
+# Key:boil down to sth
+## Response
+### English Sentences
+E-1: The issue <u>boils down to</u> a lack of communication between departments.
+E-2: In the end, it all <u>boils down to</u> personal preference.
+
+### Japanese Translation
+J-1: 問題は部門間のコミュニケーション不足に<u>帰結する</u>。
+J-2: 結局、すべては個人の好みに<u>帰着する</u>。

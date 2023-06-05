@@ -1,0 +1,9 @@
+# Key:walk on sunshine
+## Response
+### English Sentences
+E-1: She is always smiling and seems to <u>walk on sunshine</u> every day.
+E-2: His first successful business deal made him feel like he was <u>walking on sunshine</u>.
+
+### Japanese Translation
+J-1: 彼女はいつも笑っており、毎日<u>幸福感に包まれているよう</u>に見える。
+J-2: 彼の最初の成功したビジネス取引で、彼は<u>天にも昇る気分</u>になった。

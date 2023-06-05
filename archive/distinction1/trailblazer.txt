@@ -1,0 +1,9 @@
+# Key:trailblazer
+## Response
+### English Sentences
+E-1: She was a <u>trailblazer</u> for women's rights in the workplace.
+E-2: His innovative ideas made him a <u>trailblazer</u> in the technology industry.
+
+### Japanese Translation
+J-1: 彼女は職場での女性の権利のための<u>先駆者</u>でした。
+J-2: 彼の革新的なアイデアは、彼を技術産業の<u>草分け</u>にしました。

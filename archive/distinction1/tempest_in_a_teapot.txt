@@ -1,0 +1,9 @@
+# Key:tempest in a teapot
+## Response
+### English Sentences
+E-1: The argument over where to eat for dinner was just a <u>tempest in a teapot</u>.
+E-2: Don't worry about that small mistake, it's just a <u>tempest in a teapot</u>.
+
+### Japanese Translation
+J-1: 夕食をどこで食べるかの論争は単なる<u>取るに足らないもの</u>だった。
+J-2: あの小さなミスは心配いらない、それは単なる<u>騒ぎ立てる程のものではない</u>。

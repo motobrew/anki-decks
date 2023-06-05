@@ -1,0 +1,9 @@
+# Key:attention-seeking
+## Response
+### English Sentences
+E-1: She's always posting pictures of herself online, she's so <u>attention-seeking</u>.
+E-2: Stop interrupting the class with your <u>attention-seeking</u> behavior.
+
+### Japanese Translation
+J-1: 彼女はオンラインでいつも自分の写真を投稿していて、彼女はとても<u>注目を集めたがっている</u>。
+J-2: 授業を中断して<u>注目を集めようとする</u>行動をやめてください。

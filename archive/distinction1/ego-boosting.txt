@@ -1,0 +1,9 @@
+# Key:ego-boosting
+## Response
+### English Sentences
+E-1: Compliments from her boss were quite <u>ego-boosting</u>.
+E-2: Winning the championship was a great <u>ego-boosting</u> moment for the team.
+
+### Japanese Translation
+J-1: 上司から褒め言葉をもらったのは、かなり自己肯定感が高まることでした。
+J-2: チャンピオンシップを勝ち取ることは、チームにとって素晴らしい自信を与える瞬間でした。

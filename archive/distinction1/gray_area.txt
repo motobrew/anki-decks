@@ -1,0 +1,11 @@
+# Key:gray area
+Since the keyword "gray area" has a single meaning, there is no need for different interpretations. 
+
+## Response
+### English Sentences
+E-1: The legality of the situation is in a <u>gray area</u>, so we should consult a lawyer. 
+E-2: His behavior falls into a <u>gray area</u>, not clearly right or wrong.
+
+### Japanese Translation
+J-1: その状況の合法性は<u>曖昧な状況</u>にあるため、弁護士に相談すべきです。
+J-2: 彼の行動は明確には<u>正しいでもなく、間違っているでもない</u>曖昧な状況にある。

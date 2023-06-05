@@ -1,0 +1,9 @@
+# Key:inch-perfect
+## Response
+### English Sentences
+E-1: The striker's <u>inch-perfect</u> shot found the back of the net.
+E-2: The actress's performance was <u>inch-perfect</u> and received rave reviews.
+
+### Japanese Translation
+J-1: ストライカーの<u>完璧な</u>シュートがゴールに入りました。
+J-2: 女優の演技は<u>完璧そのもの</u>で、絶賛されました。

@@ -1,0 +1,9 @@
+# Key:make it up as one goes along
+## Response
+### English Sentences
+E-1: I didn't prepare for the speech, so I'll just <u>make it up as I go along</u>.
+E-2: The chef didn't follow the recipe and just <u>made it up as he went along</u>.
+
+### Japanese Translation
+J-1: 私はスピーチの準備をしていないので、<u>その場で考えながら話す</u>ことになります。
+J-2: シェフはレシピに従わず、単に<u>その場で考えながら調理した</u>。

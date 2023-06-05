@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
-target_dir=./logs/JUKUGO-A
+target_dir=../logs/distinction1
 
-ls $target_dir | while read file
+ls -tr $target_dir | while read file
 do
     E1=$(cat $target_dir/$file | grep "E-1:" | sed 's/E-1://g')
     E2=$(cat $target_dir/$file | grep "E-2:" | sed 's/E-2://g')

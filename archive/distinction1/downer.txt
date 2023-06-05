@@ -1,0 +1,9 @@
+# Key:downer
+## Response
+### English Sentences
+E-1: The news about the layoffs was a real <u>downer</u> for the employees.
+E-2: Don't be such a <u>downer</u>, let's try to have a good time.
+
+### Japanese Translation
+J-1: レイオフのニュースは従業員にとって本当に<u>がっかりする出来事</u>でした。
+J-2: そんなに<u>がっかりしないで</u>、楽しんでみましょう。

@@ -1,0 +1,9 @@
+# Key:tell me about it
+## Response
+### English Sentences
+E-1: A: "My boss is making me work overtime again." B: "<u>Tell me about it</u>, mine too."
+E-2: A: "I'm so tired of online classes." B: "<u>Tell me about it</u>, I can't wait to go back to in-person classes."
+
+### Japanese Translation
+J-1: A「またボスに残業をさせられるんだ。」B「<u>まったく同じことを言われた</u>よ。」
+J-2: A「オンライン授業には本当にうんざりだ。」B「<u>同感だよ</u>、対面の授業に戻りたくて仕方ない。」

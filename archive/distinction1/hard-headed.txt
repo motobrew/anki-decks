@@ -1,0 +1,9 @@
+# Key:hard-headed
+## Response
+### English Sentences
+E-1: He is too <u>hard-headed</u> to listen to anyone else's opinion.
+E-2: The negotiations won't go anywhere if both sides remain <u>hard-headed</u>.
+
+### Japanese Translation
+J-1: 彼は他の誰の意見にも耳を貸さないくらい<u>頑固</u>だ。
+J-2: もし両方が<u>頑固</u>なままだと、交渉は進まない。

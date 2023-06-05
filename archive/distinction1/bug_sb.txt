@@ -1,0 +1,9 @@
+# Key:bug sb
+## Response
+### English Sentences
+E-1: Don't <u>bug me</u> while I'm studying or I won't finish on time.
+E-2: She always <u>bugs me</u> with her constant complaining.
+
+### Japanese Translation
+J-1: 勉強している時には<u>邪魔しないで</u>。そうじゃないと時間内に終われないよ。
+J-2: 彼女はいつも<u>不平不満を言って</u>私をうるさくさせる。

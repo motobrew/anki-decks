@@ -1,0 +1,9 @@
+# Key:bail sb out
+## Response
+### English Sentences
+E-1: My parents had to <u>bail me out</u> of jail when I got arrested.
+E-2: The government had to <u>bail out</u> the failing company to prevent job losses.
+
+### Japanese Translation
+J-1: 私が逮捕された時、両親が私を救い出すために保釈金を払わなければならなかった。
+J-2: 失敗した企業の倒産を防ぐために、政府が支援する必要がありました。

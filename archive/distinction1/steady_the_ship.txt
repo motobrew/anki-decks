@@ -1,0 +1,9 @@
+# Key:steady the ship
+## Response
+### English Sentences
+E-1: The CEO had to <u>steady the ship</u> after the company's financial crisis.
+E-2: The coach tried to <u>steady the ship</u> by motivating the team during halftime.
+
+### Japanese Translation
+J-1: その企業が財政危機に陥った後、CEOは船を<u>安定させる</u>必要がありました。
+J-2: ハーフタイム中にチームをモチベーションを高めて<u>軌道修正</u>しようとコーチは試みました。

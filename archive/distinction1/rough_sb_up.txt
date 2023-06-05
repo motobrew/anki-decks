@@ -1,0 +1,9 @@
+# Key:rough sb up
+## Response
+### English Sentences
+E-1: The bully threatened to <u>rough me up</u> if I didn't give him money.
+E-2: The police had to <u>rough the suspect up</u> to get him to comply.
+
+### Japanese Translation
+J-1: お金をくれなければ、いじめっこに<u>暴力を振るわれる</u>と脅されました。
+J-2: 逮捕された容疑者が従わなかったため、警察は<u>肉体的に手荒くあしらう</u>必要がありました。

@@ -1,0 +1,9 @@
+# Key:gibberish
+## Response
+### English Sentences
+E-1: I can't understand anything he says, it's all <u>gibberish</u>.
+E-2: The document was so poorly translated, it was filled with <u>gibberish</u>.
+
+### Japanese Translation
+J-1: 彼が何を言っているのか全く分からなくて、すべてが<u>支離滅裂</u>です。
+J-2: その文書は翻訳が非常に不完全で、支離滅裂な文章で満ちていました。

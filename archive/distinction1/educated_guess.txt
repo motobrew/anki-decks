@@ -1,0 +1,9 @@
+# Key:educated guess
+## Response
+### English Sentences
+E-1: I don't know the exact answer, but my <u>educated guess</u> is that the project will take two weeks.
+E-2: Based on my <u>educated guess</u>, the traffic will be heavy during rush hour.
+
+### Japanese Translation
+J-1: 正確な答えはわからないけど、私の<u>推測</u>では、そのプロジェクトは2週間かかるでしょう。
+J-2: 私の<u>推測</u>によると、ラッシュアワー中は交通が混んでいるはずです。

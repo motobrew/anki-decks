@@ -1,0 +1,9 @@
+# Key:blow it
+## Response
+### English Sentences
+E-1: I had one chance to impress the boss and I totally <u>blew it</u>.
+E-2: If you don't study for the exam, you'll definitely <u>blow it</u>.
+
+### Japanese Translation
+J-1: ボスに感心を与えるチャンスが一度あって、完全に<u>つぶしてしまった</u>。
+J-2: 試験の勉強をしなければ、必ず<u>失敗する</u>。

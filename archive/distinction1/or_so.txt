@@ -1,0 +1,9 @@
+# Key:or so
+## Response
+### English Sentences
+E-1: I need to buy about 10 <u>or so</u> apples for the recipe.
+E-2: The meeting will start at 3 o'clock <u>or so</u>.
+
+### Japanese Translation
+J-1: レシピに必要なリンゴは、10個<u>程度</u>買う必要があります。
+J-2: 会議は3時<u>頃に</u>始まります。

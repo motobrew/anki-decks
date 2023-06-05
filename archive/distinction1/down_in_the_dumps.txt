@@ -1,0 +1,9 @@
+# Key:down in the dumps
+## Response
+### English Sentences
+E-1: After failing her test, she was <u>down in the dumps</u> for days.
+E-2: He's been <u>down in the dumps</u> ever since his grandpa passed away.
+
+### Japanese Translation
+J-1: テストに落ちた後、彼女は数日間<u>ふさぎ込んでいました</u>。
+J-2: 彼のおじいちゃんが亡くなって以来、彼は<u>気が滅入っています</u>。

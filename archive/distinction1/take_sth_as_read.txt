@@ -1,0 +1,9 @@
+# Key:take sth as read
+## Response
+### English Sentences
+E-1: You can <u>take it as read</u> that he'll be late again.
+E-2: Based on your experience, you can <u>take it as read</u> that the project won't be finished on time.
+
+### Japanese Translation
+J-1: 彼は再び遅れるだろうと<u>想定して</u>大丈夫です。
+J-2: あなたの経験に基づいて、プロジェクトは<u>時間通りに終わるはずがない</u>ことがわかります。

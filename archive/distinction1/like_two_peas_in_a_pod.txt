@@ -1,0 +1,9 @@
+# Key:like two peas in a pod
+## Response
+### English Sentences
+E-1: Sarah and Emma are <u>like two peas in a pod</u>, they do everything together.
+E-2: The twins look nothing alike, but they are <u>like two peas in a pod</u> when it comes to personalities.
+
+### Japanese Translation
+J-1: サラとエマは<u>似たようなもの同士</u>で、いつも一緒にいます。
+J-2: 双子は見かけが全く違いますが、性格は<u>瓜二つ</u>です。

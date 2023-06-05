@@ -1,0 +1,9 @@
+# Key:better off
+## Response
+### English Sentences
+E-1: She inherited a lot of money and now she's <u>better off</u> financially.
+E-2: If you study hard, you'll be <u>better off</u> in the long run.
+
+### Japanese Translation
+J-1: 彼女は多額のお金を相続し、今では財政的には<u>かなり恵まれている</u>。
+J-2: 熱心に勉強すれば、将来的には<u>恩恵を受けることができる</u>。

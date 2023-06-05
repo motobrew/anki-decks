@@ -1,0 +1,9 @@
+# Key:at the end of one's rope
+## Response
+### English Sentences
+E-1: She's been working overtime every day this week and she's <u>at the end of her rope</u>.
+E-2: After searching for hours, I'm <u>at the end of my rope</u> and still can't find my keys.
+
+### Japanese Translation
+J-1: 彼女は今週毎日残業しており、もう<u>限界</u>にきている。
+J-2: 数時間探し続けたが、もう<u>限界</u>で鍵が見つからない。

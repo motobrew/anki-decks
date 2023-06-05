@@ -1,0 +1,9 @@
+# Key:heart and soul
+## Response
+### English Sentences
+E-1: She put her <u>heart and soul</u> into the art project and it turned out amazing.
+E-2: He worked on the song with <u>heart and soul</u> to make it perfect.
+
+### Japanese Translation
+J-1: 彼女はその美術プロジェクトに<u>心を込めました</u>、そして素晴らしい結果になりました。
+J-2: 彼は曲に<u>全力で取り組みました</u>、完璧に仕上げるために。

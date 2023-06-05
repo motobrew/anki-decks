@@ -1,0 +1,9 @@
+# Key:worked up
+## Response
+### English Sentences
+E-1: Don't get <u>worked up</u> about the small mistakes. 
+E-2: She was <u>worked up</u> over the news of her friend's illness.
+
+### Japanese Translation
+J-1: 小さなミスに<u>イライラして</u>はいけません。
+J-2: 彼女は友人の病気のニュースで<u>心配になっていました</u>。

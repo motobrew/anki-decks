@@ -1,0 +1,9 @@
+# Key:right under sb's nose
+## Response
+### English Sentences
+E-1: The missing keys were <u>right under my nose</u> the whole time.
+E-2: He searched for his glasses for hours not realizing they were <u>right under his nose</u>.
+
+### Japanese Translation
+J-1: 行方不明だった鍵は、ずっと<u>私の鼻の下</u>にあった。
+J-2: 彼は眼鏡を探して何時間も過ごしたが、<u>自分の鼻の下</u>にあることに気づかなかった。

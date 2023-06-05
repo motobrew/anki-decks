@@ -1,0 +1,9 @@
+# Key:sounds like a plan
+## Response
+### English Sentences
+E-1: Let's meet up at the park tomorrow. Sounds like a plan!
+E-2: We need to finish this project by Friday. Sounds like a plan?
+
+### Japanese Translation
+J-1: 明日公園で会いましょう。計画通りだね！
+J-2: このプロジェクトを金曜日までに完成させる必要がある。いい？

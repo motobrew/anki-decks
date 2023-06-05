@@ -1,0 +1,9 @@
+# Key:vanilla
+## Response
+### English Sentences
+E-1: The project was too <u>vanilla</u> and needed more creative ideas.
+E-2: He's a <u>vanilla</u> boyfriend - nothing exciting ever happens.
+
+### Japanese Translation
+J-1: そのプロジェクトはあまりにも<u>平凡</u>すぎて、より創造的なアイデアが必要でした。
+J-2: 彼は<u>普通すぎる</u>彼氏で、何もエキサイティングなことが起こりません。

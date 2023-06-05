@@ -1,0 +1,9 @@
+# Key:flag sth
+## Response
+### English Sentences
+E-1: The referee <u>flagged</u> the player for offside.
+E-2: The teacher <u>flagged</u> the student's paper for plagiarism.
+
+### Japanese Translation
+J-1: 審判が選手にオフサイドの<u>旗</u>を上げました。
+J-2: 先生が学生の論文に対して盗作の<u>印</u>をつけました。

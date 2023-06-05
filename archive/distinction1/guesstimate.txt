@@ -1,0 +1,9 @@
+# Key:guesstimate
+## Response
+### English Sentences
+E-1: I can't give you an exact cost, but I can <u>guesstimate</u> it will be around $100.
+E-2: I'll <u>guesstimate</u> that we'll arrive at the airport around 6 pm.
+
+### Japanese Translation
+J-1: 正確な費用をお伝えできませんが、およそ100ドルぐらいの<u>概算見積もり</u>になります。
+J-2: 空港に着くのはおよそ午後6時と<u>推測されます</u>。

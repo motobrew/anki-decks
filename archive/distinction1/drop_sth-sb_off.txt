@@ -1,0 +1,9 @@
+# Key:drop sth/sb off
+## Response
+### English Sentences
+E-1: I can <u>drop you off</u> at the train station on my way to work.
+E-2: Don't forget to <u>drop off</u> the keys at the front desk before you leave.
+
+### Japanese Translation
+J-1: 仕事に行く途中であなたを電車の駅に<u>降ろして</u>あげます。
+J-2: 帰る前に鍵をフロントデスクに<u>置いていく</u>ことを忘れないでください。

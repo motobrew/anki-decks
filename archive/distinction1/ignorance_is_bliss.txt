@@ -1,0 +1,9 @@
+# Key:ignorance is bliss
+## Response
+### English Sentences
+E-1: Sometimes, <u>ignorance is bliss</u> when it comes to politics.
+E-2: I wish I hadn't read the news today, <u>ignorance is bliss</u>.
+
+### Japanese Translation
+J-1: 政治については、時に<u>無知が幸せ</u>です。
+J-2: 今日のニュースを読まなかったらよかった、<u>無知は幸せ</u>だった。

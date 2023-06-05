@@ -1,0 +1,9 @@
+# Key:bits and pieces
+## Response
+### English Sentences
+E-1: I can't find my notes, they're just <u>bits and pieces</u> scattered around.
+E-2: She has a main idea, but her presentation is just a collection of <u>bits and pieces</u> of information.
+
+### Japanese Translation
+J-1: メモがどこにあるのか見つからない、ただ<u>バラバラになっている</u>。
+J-2: 彼女にはメインのアイデアはあるが、プレゼンテーションは情報の<u>断片やちょっとしたパーツだけ</u>のように見える。

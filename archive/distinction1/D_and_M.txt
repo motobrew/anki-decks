@@ -1,0 +1,9 @@
+# Key:D and M
+## Response
+### English Sentences
+E-1: The website is not loading because of a <u>D&amp;M</u> issue.
+E-2: They had a <u>D&amp;M</u> to resolve their relationship problems.
+
+### Japanese Translation
+J-1: ウェブサイトが<u>機械のトラブル</u>で読み込めません。
+J-2: 彼らは関係の問題を解決するための<u>真剣な話し合い</u>をしました。

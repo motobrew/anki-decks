@@ -1,0 +1,9 @@
+# Key:put one's best foot forward
+## Response
+### English Sentences
+E-1: She has an important job interview today, so she wants to <u>put her best foot forward</u>.
+E-2: We need to <u>put our best foot forward</u> if we want to win this competition.
+
+### Japanese Translation
+J-1: 今日、彼女は重要な仕事の面接があるので、<u>自分の最高のパフォーマンスを発揮したい</u>と思っています。
+J-2: このコンペティションに勝ちたければ、<u>最高の力を尽くさなければなりません</u>。

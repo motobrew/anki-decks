@@ -1,0 +1,9 @@
+# Key:on the way out
+## Response
+### English Sentences
+E-1: Printed magazines may be <u>on the way out</u> as digital versions become more popular.
+E-2: His rude behavior at work is a sign that he's <u>on the way out</u> of the company.
+
+### Japanese Translation
+J-1: デジタル版がより人気を博するにつれ、印刷された雑誌が<u>廃れる</u>かもしれません。
+J-2: 彼の職場での素行不良は会社を<u>去る</u>兆候です。

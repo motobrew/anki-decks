@@ -7,7 +7,7 @@ const configuration = new Configuration({
 });
 const openai = new OpenAIApi(configuration);
 
-export async function ask(question: string, model = "gpt-3.5-turbo-0301") {
+export async function ask(question: string, model = "gpt-3.5-turbo-0613") {
 
   const content = `
   Hi, I'm an English learner.

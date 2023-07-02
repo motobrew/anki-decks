@@ -1,8 +1,9 @@
 #!/usr/bin/env bash
 
 input_file=../data/eiken-ex/unit-01.txt
-log_base=../logs
-log_dir=$log_base/$(date +%Y%m%d_%H%M%S)
+log_base=./logs
+now_ts=$(date +%Y%m%d_%H%M%S)
+log_dir=$log_base/$now_ts
 test -d $log_dir || mkdir -p $log_dir
 
 main () {

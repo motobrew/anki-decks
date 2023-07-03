@@ -1,0 +1,8 @@
+# Key:orchestrate
+### English Sentences
+E-1: She <u>orchestrated</u> a successful marketing campaign for the company.
+E-2: The coach <u>orchestrated</u> the team's victory with a strategic game plan.
+
+### Japanese Translation
+J-1: 彼女は会社のために成功したマーケティングキャンペーンを<u>計画しました</u>。
+J-2: コーチは戦略的なゲームプランでチームの勝利を<u>演出しました</u>。

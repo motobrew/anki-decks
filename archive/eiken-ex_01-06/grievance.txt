@@ -1,0 +1,8 @@
+# Key:grievance
+### English Sentences
+E-1: She filed a <u>grievance</u> against her employer for discrimination.
+E-2: The student union raised a <u>grievance</u> over the lack of study space.
+
+### Japanese Translation
+J-1: 彼女は雇用主に対して差別の<u>申し立て</u>を行いました。
+J-2: 学生会は勉強スペースの不足に<u>抗議</u>をしました。

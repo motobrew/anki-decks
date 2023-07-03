@@ -1,0 +1,8 @@
+# Key:ponder
+### English Sentences
+E-1: I need some time to <u>ponder</u> over your offer before making a decision.
+E-2: The philosopher spent years <u>pondering</u> the meaning of life.
+
+### Japanese Translation
+J-1: 私は決断する前に、あなたのオファーに対して<u>じっくり考える</u>時間が必要です。
+J-2: その哲学者は何年も人生の意味を<u>熟考していました</u>。

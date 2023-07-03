@@ -1,0 +1,8 @@
+# Key:retroactively
+### English Sentences
+E-1: The new tax laws were implemented <u>retroactively</u>, affecting previous years.
+E-2: The company decided to give employees a <u>retroactive</u> pay raise for the past three months.
+
+### Japanese Translation
+J-1: 新しい税法は<u>遡及して</u>適用され、過去の年度に影響しました。
+J-2: 会社は過去3ヶ月間の給料を<u>遡及して</u>増額することに決めました。

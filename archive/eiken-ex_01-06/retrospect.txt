@@ -1,0 +1,8 @@
+# Key:retrospect
+### English Sentences
+E-1: In <u>retrospect</u>, I realize I made a big mistake.
+E-2: <u>In retrospect</u>, we should have listened to their advice.
+
+### Japanese Translation
+J-1: <u>振り返ってみると</u>、大きな間違いをしたと気付きます。
+J-2: <u>振り返ると</u>、彼らのアドバイスに耳を傾けるべきだったとわかります。

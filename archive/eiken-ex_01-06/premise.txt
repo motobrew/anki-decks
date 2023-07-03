@@ -1,0 +1,8 @@
+# Key:premise
+### English Sentences
+E-1: The <u>premise</u> of the movie was intriguing but the execution fell flat.
+E-2: The argument was built upon a false <u>premise</u>, leading to an incorrect conclusion.
+
+### Japanese Translation
+J-1: その映画の<u>前提</u>は興味深かったが、実行はうまくいかなかった。
+J-2: 議論は偽りの<u>前提</u>に基づいて構築されており、誤った結論に至ってしまった。

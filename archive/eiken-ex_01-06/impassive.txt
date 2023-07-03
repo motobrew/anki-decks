@@ -1,0 +1,8 @@
+# Key:impassive
+### English Sentences
+E-1: His <u>impassive</u> expression gave no indication of his true emotions.
+E-2: Despite the criticism, she remained <u>impassive</u> and didn't react.
+
+### Japanese Translation
+J-1: 彼の<u>無表情</u>は彼の本当の感情を示していませんでした。
+J-2: 批判にもかかわらず、彼女は<u>無感動</u>で反応しませんでした。

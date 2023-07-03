@@ -1,0 +1,8 @@
+# Key:haggle
+### English Sentences
+E-1: I tried to <u>haggle</u> with the street vendor to get a lower price.
+E-2: They spent hours <u>haggling</u> over the terms of the contract.
+
+### Japanese Translation
+J-1: 私は路上の売り手と<u>値段を交渉しました</u>。
+J-2: 彼らは契約条件について数時間<u>折り合いをつけました</u>。

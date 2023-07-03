@@ -1,0 +1,8 @@
+# Key:oblivious
+### English Sentences
+E-1: I was completely <u>oblivious</u> to the fact that it was his birthday.
+E-2: She walked past me, <u>oblivious</u> to my presence.
+
+### Japanese Translation
+J-1: 彼が誕生日だということに、まったく<u>気付いていませんでした</u>。
+J-2: 彼女は私の存在に<u>全く気づかず</u>私の横を通り過ぎました。

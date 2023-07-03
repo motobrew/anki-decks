@@ -1,0 +1,8 @@
+# Key:assail
+### English Sentences
+E-1: The media <u>assailed</u> the politician with critical questions during the press conference.
+E-2: The storm <u>assailed</u> the coastal town, causing significant damage.
+
+### Japanese Translation
+J-1: メディアは記者会見で政治家に批判的な質問を<u>浴びせました</u>。
+J-2: 嵐は沿岸の町を襲い、大きな被害をもたらしました。

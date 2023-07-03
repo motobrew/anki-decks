@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-input_file=../data/eiken-ex/unit-06.txt
+input_file=../logs/missing
 log_base=../logs
 now_ts=$(date +%Y%m%d_%H%M%S)
 log_dir=$log_base/$now_ts

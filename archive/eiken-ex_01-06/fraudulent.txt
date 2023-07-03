@@ -1,0 +1,8 @@
+# Key:fraudulent
+### English Sentences
+E-1: The company was involved in a <u>fraudulent</u> scheme to deceive investors.
+E-2: She was caught selling <u>fraudulent</u> tickets to the concert.
+
+### Japanese Translation
+J-1: その企業は投資家を騙すための<u>詐欺的な</u>計画に関与していました。
+J-2: 彼女は<u>偽の</u>コンサートチケットを売っているところを捕まえられました。

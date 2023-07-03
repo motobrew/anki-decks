@@ -1,0 +1,8 @@
+# Key:mosaic
+### English Sentences
+E-1: The museum had a beautiful <u>mosaic</u> display made of colored tiles.
+E-2: My friend's personality is like a <u>mosaic</u>, made up of many different qualities.
+
+### Japanese Translation
+J-1: その美術館には、色とりどりのタイルで作られた美しい<u>モザイク</u>の展示がありました。
+J-2: 私の友人の性格は<u>モザイク</u>のようで、さまざまな要素で構成されています。

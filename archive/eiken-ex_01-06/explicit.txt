@@ -1,0 +1,8 @@
+# Key:explicit
+### English Sentences
+E-1: The teacher provided explicit instructions on how to solve the math problem.
+E-2: The movie contained explicit content, not suitable for children.
+
+### Japanese Translation
+J-1: 先生は数学の問題の解き方を<u>明確な指示</u>として示しました。
+J-2: その映画には<u>過激な内容</u>が含まれており、子供には適していません。

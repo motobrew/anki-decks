@@ -1,0 +1,8 @@
+# Key:protocol
+### English Sentences
+E-1: The company follows a strict <u>protocol</u> for data security.
+E-2: The ambassador received the diplomats according to diplomatic <u>protocol</u>.
+
+### Japanese Translation
+J-1: 会社はデータセキュリティのために厳格な<u>手順</u>を守っています。
+J-2: 大使は外交的な<u>儀礼</u>に基づいて外交官を迎えました。

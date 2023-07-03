@@ -1,0 +1,8 @@
+# Key:woo
+### English Sentences
+E-1: I saw her <u>woo</u> him with her charming smile.
+E-2: The sales team used various strategies to <u>woo</u> potential customers.
+
+### Japanese Translation
+J-1: 彼女が魅力的な笑顔で彼を<u>魅了している</u>のを見ました。
+J-2: 販売チームは潜在顧客を<u>魅了するために</u>さまざまな戦略を使いました。

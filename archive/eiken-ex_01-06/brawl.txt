@@ -1,0 +1,8 @@
+# Key:brawl
+### English Sentences
+E-1: A <u>brawl</u> broke out between two rival gangs in the street.
+E-2: The politicians engaged in a heated <u>brawl</u> during the debate.
+
+### Japanese Translation
+J-1: 2つのライバルのギャング間で路上で<u>乱闘</u>が勃発しました。
+J-2: 政治家たちは討論中に激しい<u>言い争い</u>になりました。

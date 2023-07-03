@@ -1,0 +1,8 @@
+# Key:cordon
+### English Sentences
+E-1: The police set up a <u>cordon</u> around the crime scene.
+E-2: Due to the COVID-19 outbreak, a <u>cordon</u> was placed around the affected area.
+
+### Japanese Translation
+J-1: 警察は犯行現場に<u>封鎖線</u>を設置しました。
+J-2: COVID-19の発生により、影響を受けた地域に<u>封鎖線</u>が設けられました。

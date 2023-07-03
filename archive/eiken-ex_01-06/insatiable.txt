@@ -1,0 +1,8 @@
+# Key:insatiable
+### English Sentences
+E-1: His <u>insatiable</u> appetite for knowledge led him to constantly seek new information.
+E-2: She has an <u>insatiable</u> desire for success and will stop at nothing to achieve her goals.
+
+### Japanese Translation
+J-1: 彼は知識に対する<u>飽くことのない</u>食欲があり、常に新しい情報を求めます。
+J-2: 彼女は<u>満たされない</u>成功への欲望を持ち、目標達成のために何も手段を惜しまない。

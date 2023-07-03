@@ -1,0 +1,8 @@
+# Key:distraught
+### English Sentences
+E-1: She was <u>distraught</u> when she found out her dog was missing.
+E-2: He became <u>distraught</u> after receiving the devastating news.
+
+### Japanese Translation
+J-1: 彼女は犬がいなくなっていることを知った時、<u>悲痛な気持ち</u>になった。
+J-2: 彼は壊滅的なニュースを受けて<u>動揺しました</u>。

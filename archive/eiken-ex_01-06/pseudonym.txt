@@ -1,0 +1,8 @@
+# Key:pseudonym
+### English Sentences
+E-1: She chose to write under a <u>pseudonym</u> to protect her privacy.
+E-2: The author used a <u>pseudonym</u> to publish his controversial novel.
+
+### Japanese Translation
+J-1: 彼女はプライバシーを守るために<u>偽名</u>で執筆することを選びました。
+J-2: その作家は物議を醸す小説を出版するために<u>ペンネーム</u>を使いました。

@@ -1,0 +1,8 @@
+# Key:infringe
+### English Sentences
+E-1: The company was sued for <u>infringing</u> on a patent.
+E-2: I don't want to <u>infringe</u> on your privacy, so I'll keep my distance.
+
+### Japanese Translation
+J-1: その会社は特許侵害で訴えられました。
+J-2: 私はあなたのプライバシーを侵害したくないので、距離を置きます。

@@ -1,0 +1,8 @@
+# Key:plummet
+### English Sentences
+E-1: The stock prices <u>plummeted</u> after the company announced its bankruptcy.
+E-2: The temperature <u>plummeted</u> to below freezing overnight, causing icy road conditions.
+
+### Japanese Translation
+J-1: その会社が倒産を発表した後、株価は<u>急落しました</u>。
+J-2: 一晩で気温が氷点下まで<u>急落し、凍結した道路状況を引き起こしました</u>。

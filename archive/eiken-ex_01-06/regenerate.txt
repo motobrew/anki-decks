@@ -1,0 +1,8 @@
+# Key:regenerate
+### English Sentences
+E-1: The forest needs time to <u>regenerate</u> after a wildfire.
+E-2: Exercise helps the body <u>regenerate</u> and heal itself.
+
+### Japanese Translation
+J-1: 山火事後は、森林が<u>再生する</u>ための時間が必要です。
+J-2: 運動は体を<u>再生</u>させ、自己治癒を助けます。

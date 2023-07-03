@@ -1,0 +1,8 @@
+# Key:laudable
+### English Sentences
+E-1: Her dedication to her studies is <u>laudable</u>.
+E-2: The team's effort to help the community is <u>laudable</u>.
+  
+### Japanese Translation
+J-1: 彼女の学業への献身は<u>称賛に値する</u>。
+J-2: チームの地域への支援の取り組みは<u>称賛に値する</u>。

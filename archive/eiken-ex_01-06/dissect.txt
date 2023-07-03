@@ -1,0 +1,8 @@
+# Key:dissect
+### English Sentences
+E-1: It's important to <u>dissect</u> the problem to find the root cause.
+E-2: They plan to <u>dissect</u> the speech to analyze its structure.
+
+### Japanese Translation
+J-1: 問題の根本原因を見つけるために<u>分析する</u>ことが重要です。
+J-2: 彼らは演説の構造を分析するために<u>詳しく調べること</u>を計画しています。

@@ -1,0 +1,8 @@
+# Key:stipulation
+### English Sentences
+E-1: There was a <u>stipulation</u> in the contract regarding payment terms.
+E-2: The job offer came with a <u>stipulation</u> that I had to relocate.
+
+### Japanese Translation
+J-1: 支払条件に関する契約書には<u>規定</u>がありました。
+J-2: その仕事のオファーには、引っ越しを<u>条件とすること</u>が付いていました。

@@ -1,0 +1,8 @@
+# Key:affable
+### English Sentences
+E-1: He greeted everyone with an <u>affable</u> smile and a warm handshake.
+E-2: Despite all the pressure, he remained <u>affable</u> and calm during the meeting.
+
+### Japanese Translation
+J-1: 彼は皆に<u>愛想の良い</u>笑顔と温かい握手で挨拶をした。
+J-2: すべてのプレッシャーにもかかわらず、彼は会議中も<u>愛想の良く</u>落ち着いていました。

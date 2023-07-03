@@ -1,0 +1,8 @@
+# Key:meekly
+### English Sentences
+E-1: The shy boy <u>meekly</u> raised his hand to answer the question.
+E-2: She <u>meekly</u> accepted her boss's criticism without arguing.
+
+### Japanese Translation
+J-1: 内気な少年が手を<u>控えめに</u>上げて質問に答えた。
+J-2: 彼女は上司の批判を<u>素直に</u>受け入れ、反論しなかった。

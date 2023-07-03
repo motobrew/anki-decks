@@ -1,0 +1,8 @@
+# Key:misnomer
+### English Sentences
+E-1: It's a <u>misnomer</u> to call him a genius; he's just average.
+E-2: The name "fun size" is a <u>misnomer</u>; the candy is not that small.
+
+### Japanese Translation
+J-1: 彼を天才と呼ぶのは<u>誤称</u>であり、彼は普通です。
+J-2: 「フンサイズ」という名前は<u>誤称</u>です；そのキャンディはそんなに小さくありません。

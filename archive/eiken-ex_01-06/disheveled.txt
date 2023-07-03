@@ -1,0 +1,8 @@
+# Key:disheveled
+### English Sentences
+E-1: Her hair was <u>disheveled</u> after a long day of work.
+E-2: The room was in a <u>disheveled</u> state after the party.
+
+### Japanese Translation
+J-1: 彼女の髪は長い仕事の後で<u>乱れていた</u>。
+J-2: パーティーの後、部屋は<u>乱れた状態</u>だった。

@@ -1,0 +1,8 @@
+# Key:moratorium
+### English Sentences
+E-1: The government imposed a <u>moratorium</u> on coal mining to protect the environment.
+E-2: The company declared a one-year <u>moratorium</u> on new product development.
+
+### Japanese Translation
+J-1: 政府は環境保護のために石炭採掘に<u>一時停止令</u>を発令しました。
+J-2: 会社は新製品開発に<u>1年間の停止</u>を宣言しました。

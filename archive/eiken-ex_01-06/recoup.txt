@@ -1,0 +1,8 @@
+# Key:recoup
+### English Sentences
+E-1: To <u>recoup</u> my losses, I decided to sell my car.
+E-2: It will take years to <u>recoup</u> the money we spent on the new house.
+
+### Japanese Translation
+J-1: 損失を<u>取り戻すために</u>、私は車を売ることにしました。
+J-2: 新しい家に使ったお金を<u>回収する</u>には、数年かかるでしょう。

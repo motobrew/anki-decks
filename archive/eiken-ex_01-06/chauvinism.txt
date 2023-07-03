@@ -1,0 +1,8 @@
+# Key:chauvinism
+### English Sentences
+E-1: He showed signs of <u>chauvinism</u> when he insisted on doing all the work himself.
+E-2: Her comments were filled with <u>chauvinism</u> and disregard for others' opinions.
+
+### Japanese Translation
+J-1: 彼はすべての仕事を自分でやると言い張った時、 <u>独善的な思考</u>の兆候を見せました。
+J-2: 彼女の発言は<u>独善的な態度</u>や他人の意見を無視していることに満ちていました。

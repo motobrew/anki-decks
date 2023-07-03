@@ -1,0 +1,8 @@
+# Key:demoralize
+### English Sentences
+E-1: The constant criticism from her boss started to <u>demoralize</u> her.
+E-2: Losing the game by such a wide margin really <u>demoralized</u> the team.
+
+### Japanese Translation
+J-1: 上司からの絶え間ない批判は彼女を<u>やる気を失わせていきました</u>。
+J-2: その試合で大差で負けることはチームを<u>やる気を喪失させました</u>。

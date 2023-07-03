@@ -1,0 +1,8 @@
+# Key:liable
+### English Sentences
+E-1: She is <u>liable</u> to forget important dates unless reminded.
+E-2: The company is <u>liable</u> for any damage caused by their product.
+
+### Japanese Translation
+J-1: 彼女はリマインドされない限り、重要な日付を忘れがちです。
+J-2: その会社は、自社製品が原因で発生したいかなる損害にも責任を負います。

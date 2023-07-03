@@ -1,0 +1,8 @@
+# Key:destitute
+### English Sentences
+E-1: She devoted her life to helping the <u>destitute</u> in the community.
+E-2: Losing his job left him <u>destitute</u> and homeless.
+
+### Japanese Translation
+J-1: 彼女は地域の<u>困窮者</u>を助けるために一生を捧げました。
+J-2: 仕事を失ったことで彼は貧困状態となり、家も失いました。

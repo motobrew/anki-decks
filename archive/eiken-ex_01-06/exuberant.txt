@@ -1,1 +1,8 @@
 # Key:exuberant
+### English Sentences
+E-1: She greeted me with an <u>exuberant</u> hug and a wide smile.
+E-2: The children's laughter filled the room, creating an <u>exuberant</u> atmosphere.
+
+### Japanese Translation
+J-1: 彼女は大きな笑顔と<u>元気いっぱいの</u>ハグで私を迎えた。
+J-2: 子供たちの笑い声で部屋は満ち溢れ、<u>活気に満ちた</u>雰囲気が広がった。

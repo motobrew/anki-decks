@@ -1,0 +1,8 @@
+# Key:incremental
+### English Sentences
+E-1: The project was completed in <u>incremental</u> stages, each building upon the last.
+E-2: She made <u>incremental</u> improvements to her artwork over time.
+
+### Japanese Translation
+J-1: プロジェクトは<u>段階的な</u>進行で完了しました。それぞれのステージは前のものに基づいています。
+J-2: 彼女は時間をかけて自分の作品を<u>少しずつ改善</u>していきました。

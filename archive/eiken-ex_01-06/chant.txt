@@ -1,0 +1,8 @@
+# Key:chant
+### English Sentences
+E-1: The fans started to <u>chant</u> the team's name at the stadium.
+E-2: Protesters gathered outside the government building and began to <u>chant</u> slogans.
+
+### Japanese Translation
+J-1: スタジアムでファンたちはチームの名前を<u>唱え始めました</u>。
+J-2: 抗議者たちは政府建物の外で集まり、スローガンを<u>唱え始めました</u>。

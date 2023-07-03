@@ -1,0 +1,8 @@
+# Key:ordinance
+### English Sentences:
+E-1: The city council passed a new <u>ordinance</u> banning plastic bags.
+E-2: Violating the noise <u>ordinance</u> can result in a hefty fine.
+
+### Japanese Translation:
+J-1: 市議会は新しい<u>規則</u>を可決し、プラスチック袋の使用を禁止しました。
+J-2: 騒音の<u>条例</u>に違反すると、高額な罰金が課せられることがあります。

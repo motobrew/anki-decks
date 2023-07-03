@@ -1,0 +1,8 @@
+# Key:arduous
+### English Sentences
+E-1: The hike to the summit was an <u>arduous</u> journey, but the view was worth it.
+E-2: The team endured an <u>arduous</u> training session to prepare for the competition.
+
+### Japanese Translation
+J-1: 頂上へのハイキングは<u>過酷な</u>旅でしたが、景色はそれに値しました。
+J-2: チームは競技のための<u>過酷な</u>トレーニングを耐えました。

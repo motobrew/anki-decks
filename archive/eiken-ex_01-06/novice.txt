@@ -1,0 +1,8 @@
+# Key:novice
+### English Sentences
+E-1: As a <u>novice</u>, I am still learning the basics of playing the guitar.
+E-2: The <u>novice</u> driver struggled to park the car in the narrow space.
+
+### Japanese Translation
+J-1: ギターを弾く<u>初心者</u>として、まだ基礎を学んでいます。
+J-2: 初心者の運転手が狭いスペースに車を駐車するのに苦労しました。

@@ -1,0 +1,8 @@
+# Key:protrude
+### English Sentences
+E-1: A <u>protruding</u> nail in the floor caused a trip and fall accident.
+E-2: The snake had its tongue <u>protruding</u> as a sign of aggression.
+
+### Japanese Translation
+J-1: 床に飛び出た釘が転倒事故の原因となりました。
+J-2: ヘビは舌を<u>突き出して</u>威嚇のサインを出していました。

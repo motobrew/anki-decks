@@ -1,0 +1,8 @@
+# Key:deadlock
+### English Sentences
+E-1: The negotiation reached a <u>deadlock</u> as neither side would compromise.
+E-2: The vote ended in a <u>deadlock</u> with an equal number of supporters and opponents.
+
+### Japanese Translation
+J-1: 交渉は<u>行き詰まり</u>に陥り、どちらの側も妥協しなかった。
+J-2: 投票は賛成と反対が同数で<u>行き詰まり</u>となった。

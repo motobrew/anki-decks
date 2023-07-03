@@ -1,0 +1,8 @@
+# Key:ailing
+### English Sentences
+E-1: The company is <u>ailing</u> due to poor management and declining sales.
+E-2: The doctor is trying to diagnose the <u>ailing</u> patient's illness.
+
+### Japanese Translation
+J-1: その会社は経営の悪化と売り上げの減少によって<u>苦境に立たされています</u>。
+J-2: 医師は<u>病気のある</u>患者の病状を診断しようとしています。

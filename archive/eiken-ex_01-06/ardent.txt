@@ -1,0 +1,8 @@
+# Key:ardent
+### English Sentences
+E-1: She is an <u>ardent</u> supporter of environmental conservation.
+E-2: The company's CEO has an <u>ardent</u> passion for innovation.
+
+### Japanese Translation
+J-1: 彼女は環境保護の<u>熱心な</u>支持者です。
+J-2: その会社のCEOはイノベーションに対して<u>情熱的な</u>熱意を持っています。

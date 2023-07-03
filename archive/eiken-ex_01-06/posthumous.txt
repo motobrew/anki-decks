@@ -1,0 +1,8 @@
+# Key:posthumous
+### English Sentences
+E-1: The author's <u>posthumous</u> novel was published after his death.
+E-2: The artist became famous only after his <u>posthumous</u> exhibition.
+
+### Japanese Translation
+J-1: その作家の<u>死後の</u>小説は彼の死後に出版されました。
+J-2: その芸術家は<u>死後の</u>展覧会の後に名声を得ました。

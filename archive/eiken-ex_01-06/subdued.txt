@@ -1,0 +1,8 @@
+# Key:subdued
+### English Sentences
+E-1: The party atmosphere was subdued after the unexpected news.
+E-2: The team's performance was subdued in their defeat.
+
+### Japanese Translation
+J-1: 思いがけないニュースの後、パーティーの雰囲気はうっとうしくなりました。
+J-2: チームは敗北したことで控えめなパフォーマンスを見せました。

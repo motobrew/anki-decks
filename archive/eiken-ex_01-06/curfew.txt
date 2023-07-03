@@ -1,0 +1,8 @@
+# Key:curfew
+### English Sentences
+E-1: The government imposed a strict <u>curfew</u> in order to control the spread of the virus.
+E-2: The teenager broke the <u>curfew</u> and got in trouble with their parents.
+
+### Japanese Translation
+J-1: 政府はウイルスの感染を抑えるために厳しい<u>外出禁止令</u>を課しました。
+J-2: その青年は<u>外出禁止令</u>を破って親に叱られました。

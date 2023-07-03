@@ -1,0 +1,9 @@
+# Key:amnesty
+## Response
+### English Sentences
+E-1: He was granted <u>amnesty</u> for his involvement in the protest.
+E-2: The government announced an <u>amnesty</u> program for tax evaders.
+
+### Japanese Translation
+J-1: 彼は抗議活動への関与に対して<u>特赦</u>を与えられました。
+J-2: 政府は税金逃れのための<u>大赦</u>プログラムを発表しました。

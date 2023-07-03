@@ -1,0 +1,8 @@
+# Key:contrition
+### English Sentences
+E-1: He showed sincere <u>contrition</u> for his mistakes and apologized.
+E-2: Her <u>contrition</u> was evident as she tearfully asked for forgiveness.
+
+### Japanese Translation
+J-1: 彼は誠実な<u>悔い</u>を示し、謝罪しました。
+J-2: 彼女の<u>悔い</u>は涙ながらに許しを請いながら明らかでした。

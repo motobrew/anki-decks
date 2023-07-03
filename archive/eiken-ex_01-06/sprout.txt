@@ -1,0 +1,8 @@
+# Key:sprout
+### English Sentences
+E-1: A <u>sprout</u> of an idea grew into a successful business venture.
+E-2: The seeds that were planted <u>sprouted</u> into beautiful flowers.
+
+### Japanese Translation
+J-1: アイデアの<u>芽</u>が成功したビジネスに成長しました。
+J-2: 植えられた種が美しい花に<u>芽吹きました</u>。

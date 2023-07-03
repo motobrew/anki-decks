@@ -1,0 +1,8 @@
+# Key:austerity
+### English Sentences
+E-1: The government implemented strict <u>austerity</u> measures to reduce the national debt.
+E-2: The economic recession led to a period of severe <u>austerity</u> for many citizens.
+
+### Japanese Translation
+J-1: 政府は厳しい<u>緊縮財政</u>策を実施し、国債を削減しました。
+J-2: 経済の不況により、多くの市民が厳しい<u>緊縮</u>期を経験しました。

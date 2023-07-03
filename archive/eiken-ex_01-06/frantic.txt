@@ -1,0 +1,8 @@
+# Key:frantic
+### English Sentences
+E-1: She was in a <u>frantic</u> search for her lost keys.
+E-2: The firefighters arrived and started a <u>frantic</u> effort to extinguish the fire.
+
+### Japanese Translation
+J-1: 彼女は紛失した鍵を<u>必死で</u>探しました。
+J-2: 消防士たちは到着し、火を消すために<u>バタバタとした</u>活動を始めました。

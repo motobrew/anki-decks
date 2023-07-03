@@ -1,0 +1,8 @@
+# Key:stunt
+### English Sentences
+E-1: He pulled a dangerous <u>stunt</u> on his skateboard, impressing everyone.
+E-2: The illusionist performed an incredible <u>stunt</u> that left the audience in awe.
+
+### Japanese Translation
+J-1: 彼はスケートボードで危険な<u>芸当</u>をやってのけて、みんなを感動させました。
+J-2: そのイリュージョニストは、驚嘆させる素晴らしい<u>トリック</u>を披露しました。

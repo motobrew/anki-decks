@@ -1,0 +1,8 @@
+# Key:depreciate
+### English Sentences
+E-1: The value of my car <u>depreciated</u> significantly after a few years.
+E-2: The company's stock price has been steadily <u>depreciating</u> over the past month.
+
+### Japanese Translation
+J-1: 数年後、私の車の価値は大幅に<u>下落しました</u>。
+J-2: その会社の株価は過去の1ヶ月間、着実に<u>減価しています</u>。

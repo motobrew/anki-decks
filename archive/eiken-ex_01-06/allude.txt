@@ -1,0 +1,8 @@
+# Key:allude
+### English Sentences
+E-1: She subtly <u>alluded</u> to her ex-husband during the conversation.
+E-2: The politician strategically <u>alluded</u> to his opponent's scandals.
+
+### Japanese Translation
+J-1: 会話中、彼女は巧妙に<u>元夫について触れました</u>。
+J-2: その政治家は戦略的に<u>相手のスキャンダルにほのめかしました</u>。

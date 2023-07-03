@@ -1,0 +1,8 @@
+# Key:squalid
+### English Sentences
+E-1: The abandoned building was <u>squalid</u> and filled with trash.
+E-2: The living conditions in the slums were <u>squalid</u> and unsanitary.
+
+### Japanese Translation
+J-1: 放棄された建物は<u>汚い</u>状態でゴミでいっぱいだった。
+J-2: スラム地域の生活環境は<u>不潔で貧弱</u>だった。

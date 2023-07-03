@@ -1,0 +1,8 @@
+# Key:temper
+### English Sentences
+E-1: He has a <u>temper</u> like a raging bull, always quick to anger.
+E-2: She lost her <u>temper</u> and yelled at her co-worker in frustration.
+
+### Japanese Translation
+J-1: 彼は荒れ狂う雄牛のような<u>気性</u>を持っており、いつも怒りっぽいです。
+J-2: 彼女は<u>かんしゃく</u>して同僚に向かって叫びました。

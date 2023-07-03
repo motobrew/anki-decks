@@ -1,0 +1,8 @@
+# Key:rapport
+### English Sentences
+E-1: We quickly established a strong <u>rapport</u> with our new neighbors.
+E-2: The salesman tried to build a <u>rapport</u> with the customer to make the sale.
+
+### Japanese Translation
+J-1: 私たちは素早く新しい隣人との<strong><u>良好な関係</u></strong>を築きました。
+J-2: セールスマンは販売のために顧客と<strong><u>信頼関係</u></strong>を築こうとしました。

@@ -1,0 +1,8 @@
+# Key:spate
+### English Sentences
+E-1: A <u>spate</u> of new restaurants has opened in the city.
+E-2: The recent heavy rainfall has caused a <u>spate</u> of flooding in the area.
+
+### Japanese Translation
+J-1: その都市には新しいレストランが<u>相次いで</u>オープンしました。
+J-2: 最近の大雨でその地域では洪水が<u>相次いで</u>発生しています。

@@ -1,0 +1,8 @@
+# Key:endemic
+### English Sentences
+E-1: Mosquito-borne diseases are <u>endemic</u> in tropical regions.
+E-2: Corruption is <u>endemic</u> in many developing countries.
+
+### Japanese Translation
+J-1: 熱帯地域では、蚊による病気が<u>地方病として流行しています</u>。
+J-2: 多くの途上国では、腐敗が<u>横行しています</u>。

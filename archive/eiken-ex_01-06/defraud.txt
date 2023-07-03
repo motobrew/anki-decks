@@ -1,0 +1,8 @@
+# Key:defraud
+### English Sentences
+E-1: She was arrested for using a fake credit card to <u>defraud</u> customers.
+E-2: The company was found guilty of <u>defrauding</u> investors out of millions of dollars.
+
+### Japanese Translation
+J-1: 彼女は偽のクレジットカードを使って顧客を<u>だまし取るために</u>逮捕された。
+J-2: その企業は数百万ドルを投資家から<u>だまし取ることで</u>有罪とされた。

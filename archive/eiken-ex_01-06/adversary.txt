@@ -1,0 +1,8 @@
+# Key:adversary
+### English Sentences
+E-1: My biggest <u>adversary</u> in life is my own self-doubt.
+E-2: The team faced a formidable <u>adversary</u> in the championship game.
+
+### Japanese Translation
+J-1: 人生で最大の<u>敵</u>は自身の自信のなさです。
+J-2: チームはチャンピオンシップゲームで手ごわい<u>相手</u>と対峙しました。

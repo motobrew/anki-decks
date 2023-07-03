@@ -1,0 +1,8 @@
+# Key:autonomously
+### English Sentences
+E-1: The self-driving car is designed to operate <u>autonomously</u> without human intervention.
+E-2: The robot is programmed to perform tasks <u>autonomously</u> within a specific environment.
+
+### Japanese Translation
+J-1: 自律型の車は人間の介入なしで<u>自律的に</u>操作するように設計されています。
+J-2: ロボットは特定の環境内で<u>自律的に</u>タスクを実行するようにプログラムされています。

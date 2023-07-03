@@ -1,0 +1,8 @@
+# Key:insulate
+### English Sentences
+E-1: The blanket helps <u>insulate</u> me from the cold winter air.
+E-2: The soundproof walls <u>insulate</u> the room from outside noise.
+
+### Japanese Translation
+J-1: 毛布は冷たい冬の空気から私を<u>保温してくれます</u>。
+J-2: 防音壁は外部の騒音から部屋を<u>遮断してくれます</u>。

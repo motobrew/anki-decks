@@ -1,0 +1,8 @@
+# Key:chiseled
+### English Sentences
+E-1: His <u>chiseled</u> abs were the result of strict diet and exercise.
+E-2: The statue had a <u>chiseled</u> face, with defined features.
+
+### Japanese Translation
+J-1: 彼の<u>鍛え抜かれた</u>腹筋は厳しい食事制限と運動の結果でした。
+J-2: その像は<u>彫りの深い</u>顔をしており、はっきりとした特徴がありました。

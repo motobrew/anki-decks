@@ -1,0 +1,8 @@
+# Key:testament
+### English Sentences
+E-1: It was a <u>testament</u> to their hard work when they won the championship.
+E-2: The old man's longevity is a <u>testament</u> to his healthy lifestyle.
+
+### Japanese Translation
+J-1: 彼らが優勝したことは、彼らの努力の<u>証拠</u>でした。
+J-2: その老人の長寿は、彼の健康的な生活様式の<u>証明</u>です。

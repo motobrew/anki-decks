@@ -1,0 +1,8 @@
+# Key:confederation
+### English Sentences
+E-1: The <u>Confederation</u> Cup is an international football tournament.
+E-2: Canada joined the <u>confederation</u> in 1867, becoming a country.
+
+### Japanese Translation
+J-1: <u>コンフェデレーション</u>カップは国際サッカートーナメントです。
+J-2: カナダは1867年に<u>連邦に加盟</u>し、国家となりました。

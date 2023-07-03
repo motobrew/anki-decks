@@ -1,1 +1,8 @@
 # Key:vent
+### English Sentences
+E-1: She went for a long run to <u>vent</u> her frustration.
+E-2: He called his friend to <u>vent</u> about his difficult day.
+
+### Japanese Translation
+J-1: 彼女はストレスを<u>解消するために</u>長いランをしました。
+J-2: 彼は大変な一日について<u>不満を言うために</u>友達に電話しました。

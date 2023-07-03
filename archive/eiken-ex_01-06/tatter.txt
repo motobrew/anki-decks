@@ -1,0 +1,8 @@
+# Key:tatter
+### English Sentences
+E-1: The old flag was in tatters after being left out in the rain.
+E-2: The dress was torn and tattered after a wild night of dancing.
+
+### Japanese Translation
+J-1: 古い旗は雨にさらされた後、ぼろぼろになっていました。
+J-2: ワイルドな夜の踊りの後、ドレスはずたずたになっていました。

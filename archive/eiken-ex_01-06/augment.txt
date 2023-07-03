@@ -1,0 +1,8 @@
+# Key:augment
+### English Sentences
+E-1: The use of technology can <u>augment</u> our productivity at work.
+E-2: The new evidence <u>augmented</u> the strength of the argument.
+
+### Japanese Translation
+J-1: テクノロジーの使用は、職場での生産性を<u>向上させる</u>ことができます。
+J-2: 新しい証拠は、論拠の強さを<u>増加させました</u>。

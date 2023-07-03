@@ -1,1 +1,8 @@
 # Key:stake
+### English Sentences
+E-1: He had a lot at <u>stake</u> when he made that risky investment.
+E-2: The team is playing with a lot on the <u>stake</u> in this championship match.
+
+### Japanese Translation
+J-1: 彼はその危険な投資を行う際に多くを<u>リスクにさらしました</u>。
+J-2: この選手権試合では、チームは多くを<u>賭けて</u>プレーしています。

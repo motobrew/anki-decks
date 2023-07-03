@@ -1,0 +1,8 @@
+# Key:arcane
+### English Sentences
+E-1: The writings of ancient civilizations are often considered <u>arcane</u>.
+E-2: The professor's lectures on quantum physics were filled with <u>arcane</u> terminology.
+
+### Japanese Translation
+J-1: 古代文明の著作はしばしば<u>難解</u>と見なされます。
+J-2: その教授の量子物理学の講義は<u>難解な</u>専門用語で満ちていました。

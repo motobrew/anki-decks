@@ -1,0 +1,8 @@
+# Key:careen
+### English Sentences
+E-1: The car <u>careened</u> off the road and crashed into a tree.
+E-2: The skateboarder lost control and <u>careened</u> down the hill, narrowly avoiding a collision.
+
+### Japanese Translation
+J-1: 車が道から逸れて木に<u>激突しました</u>。
+J-2: スケートボーダーが制御を失い、急坂を<u>暴走しました</u>。ぎりぎり事故を回避しました。

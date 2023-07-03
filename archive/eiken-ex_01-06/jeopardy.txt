@@ -1,0 +1,8 @@
+# Key:jeopardy
+### English Sentences
+E-1: The athlete's injury put his career in <u>jeopardy</u>.
+E-2: The company's financial crisis has placed many jobs in <u>jeopardy</u>.
+
+### Japanese Translation
+J-1: その選手の怪我は彼のキャリアを<u>危険に</u>さらした。
+J-2: その会社の財政危機は多くの仕事を<u>危険に</u>さらしている。

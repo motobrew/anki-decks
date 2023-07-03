@@ -1,0 +1,8 @@
+# Key:extenuating
+### English Sentences
+E-1: The defendant claimed there were <u>extenuating circumstances</u> that led to his actions.
+E-2: Despite the <u>extenuating factors</u>, she managed to complete the project on time.
+
+### Japanese Translation
+J-1: 被告は自分の行動に<u>情状酌量の余地がある事情</u>があったと主張しました。
+J-2: <u>状況を和らげる要因</u>にもかかわらず、彼女はプロジェクトを予定通りに完了させることができました。

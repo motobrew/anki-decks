@@ -1,0 +1,8 @@
+# Key:impunity
+### English Sentences
+E-1: The criminals committed their crimes with <u>impunity</u>, knowing they would not be punished.
+E-2: The powerful politician abused his position of authority with complete <u>impunity</u>.
+
+### Japanese Translation
+J-1: 犯罪者たちは罰せられないと分かって、<u>無罪放免</u>で犯罪を犯しました。
+J-2: 権力を乱用する強力な政治家が完全な<u>無縁</u>のまま権力を行使しました。

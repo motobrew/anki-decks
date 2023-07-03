@@ -1,0 +1,8 @@
+# Key:chronic
+### English Sentences
+E-1: He has been suffering from <u>chronic</u> back pain for years.
+E-2: The country is facing a <u>chronic</u> shortage of affordable housing.
+
+### Japanese Translation
+J-1: 彼は何年も<u>慢性的な</u>腰痛に苦しんでいます。
+J-2: その国は手頃な住宅の<u>慢性的な</u>不足に直面しています。

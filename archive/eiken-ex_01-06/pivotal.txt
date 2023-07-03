@@ -1,0 +1,8 @@
+# Key:pivotal
+### English Sentences
+E-1: The discovery of penicillin was a <u>pivotal</u> moment in medical history.
+E-2: The CEO's decision to expand into international markets was <u>pivotal</u> for the company's success.
+
+### Japanese Translation
+J-1: ペニシリンの発見は医学史において<u>画期的な</u>瞬間でした。
+J-2: CEOの国際市場への拡大の決断は、会社の成功にとって<u>重要な</u>ものでした。

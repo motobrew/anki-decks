@@ -1,0 +1,8 @@
+# Key:demolition
+### English Sentences
+E-1: The building was scheduled for <u>demolition</u> to make way for a new park.
+E-2: The company decided to <u>demolish</u> the outdated website and build a new one.
+
+### Japanese Translation
+J-1: 新しい公園を建設するため、その建物は<u>解体</u>予定でした。
+J-2: 会社は旧式のウェブサイトを<u>取り壊し</u>、新しいものを作ることにしました。

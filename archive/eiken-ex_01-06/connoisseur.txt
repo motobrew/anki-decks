@@ -1,0 +1,8 @@
+# Key:connoisseur
+### English Sentences
+E-1: She is a <u>connoisseur</u> of fine wines, with a vast knowledge of different varieties. 
+E-2: As a <u>connoisseur</u> of literature, he could analyze the symbolism and themes in great depth.
+
+### Japanese Translation
+J-1: 彼女は、様々な種類の洗練されたワインについて幅広い知識を持つ<u>鑑定家</u>です。
+J-2: 彼は文学の<u>鑑定家</u>として、象徴やテーマを深く分析することができました。

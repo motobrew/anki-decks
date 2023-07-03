@@ -1,0 +1,8 @@
+# Key:underscore
+### English Sentences
+E-1: The teacher used the whiteboard to <u>underscore</u> key points during the lecture.
+E-2: The data analysis <u>underscored</u> the need for further research in the area.
+
+### Japanese Translation
+J-1: 先生は講義中に重要なポイントを<u>下線</u>するためにホワイトボードを使用しました。
+J-2: データ分析は、その分野でのさらなる研究の必要性を<u>強調</u>しました。

@@ -1,0 +1,8 @@
+# Key:afflict
+### English Sentences
+E-1: The disease can <u>afflict</u> people of all ages and backgrounds.
+E-2: Poverty continues to <u>afflict</u> many communities around the world.
+
+### Japanese Translation
+J-1: この病気は、あらゆる年齢や背景の人々に<u>影響を及ぼす</u>ことがあります。
+J-2: 貧困は、世界中の多くの地域に<u>苦しめられ続けています</u>。

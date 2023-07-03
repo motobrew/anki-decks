@@ -1,0 +1,8 @@
+# Key:disintegration
+### English Sentences
+E-1: Their marriage is on the brink of <u>disintegration</u> after years of conflict.
+E-2: The scandal caused the company's reputation to <u>disintegrate</u> overnight.
+
+### Japanese Translation
+J-1: 長年の争いの末、彼らの結婚は<u>崩壊の瀬戸際</u>にあります。
+J-2: スキャンダルのせいで、企業の評判は一夜にして<u>崩れ去りました</u>。

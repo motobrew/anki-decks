@@ -1,0 +1,8 @@
+# Key:ablaze
+### English Sentences
+E-1: The nightclub was set <u>ablaze</u> with colorful lights and music.
+E-2: The forest was <u>ablaze</u> with the raging wildfire.
+
+### Japanese Translation
+J-1: 夜のクラブはカラフルなライトと音楽で<u>華やかに彩られていました</u>。
+J-2: 森は猛烈な山火事で<u>炎に包まれていました</u>。

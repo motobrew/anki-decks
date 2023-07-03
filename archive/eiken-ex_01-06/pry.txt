@@ -1,0 +1,8 @@
+# Key:pry
+### English Sentences
+E-1: He tried to <u>pry</u> into her personal life, but she refused to divulge any information.
+E-2: The detective used all his skills to <u>pry</u> the truth out of the suspect.
+
+### Japanese Translation
+J-1: 彼は彼女のプライベートな生活を<u>探ろう</u>としたが、彼女は一切情報を明かそうとしなかった。
+J-2: 刑事は容疑者から真実を引き出すために全ての技術を<u>駆使した</u>。

@@ -1,1 +1,8 @@
 # Key:gloat
+### English Sentences
+E-1: She couldn't help but <u>gloat</u> when she won the competition.
+E-2: He's always <u>gloating</u> about his accomplishments, it gets annoying.
+
+### Japanese Translation
+J-1: 彼女は競技に勝った時に<u>自慢げになってしまった</u>。
+J-2: 彼は自分の成果についていつも<u>自慢していて、それがうざい</u>。

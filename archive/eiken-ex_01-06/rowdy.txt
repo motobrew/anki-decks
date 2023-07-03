@@ -1,0 +1,8 @@
+# Key:rowdy
+### English Sentences
+E-1: The party got rowdy after everyone started drinking heavily.
+E-2: The rowdy crowd at the concert was singing and jumping around.
+
+### Japanese Translation
+J-1: みんなが大量に飲み始めた後、パーティーが<u>乱暴</u>になりました。
+J-2: コンサートで<u>乱暴な</u>群衆が歌って飛び跳ねていました。

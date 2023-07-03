@@ -1,0 +1,8 @@
+# Key:relentless
+### English Sentences
+E-1: The <u>relentless</u> rain kept pouring for days without stopping.
+E-2: Despite facing numerous setbacks, she remained <u>relentless</u> in pursuing her dreams.
+
+### Japanese Translation
+J-1: 絶え間ない雨が何日も降り続けました。
+J-2: 多くの逆境に直面しても、彼女は夢を追い求めることに<u>容赦のなさ</u>を持ち続けました。

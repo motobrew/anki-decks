@@ -1,0 +1,8 @@
+# Key:dissident
+### English Sentences
+E-1: The government cracked down on any <u>dissident</u> voices.
+E-2: The writer was known for his <u>dissident</u> views and writings.
+
+### Japanese Translation
+J-1: 政府は<u>異議を唱える</u>声に取り締まりを加えた。
+J-2: その作家は、彼の<u>異議を唱える</u>意見と文章で知られていた。

@@ -1,0 +1,8 @@
+# Key:abort
+### English Sentences
+E-1: We had to <u>abort</u> the mission due to bad weather conditions.
+E-2: She decided to <u>abort</u> her plans to study abroad.
+
+### Japanese Translation
+J-1: 悪天候のため、我々はミッションを<u>中止</u>しなければなりませんでした。
+J-2: 彼女は留学の計画を<u>中止</u>することに決めました。

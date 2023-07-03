@@ -1,0 +1,8 @@
+# Key:flex
+### English Sentences
+E-1: He loves to <u>flex</u> his muscles at the gym.
+E-2: She always <u>flexes</u> her artistic skills during creative projects.
+
+### Japanese Translation
+J-1: 彼はジムでいつも筋肉を<u>見せびらかす</u>のが好きです。
+J-2: 彼女はクリエイティブなプロジェクトの間はいつも自分の芸術スキルを<u>披露します</u>。

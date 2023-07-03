@@ -1,0 +1,10 @@
+# Key:terrain
+### English Sentences
+E-1: The hiker struggled to navigate the treacherous <u>terrain</u> of the mountain.
+
+E-2: The team faced a challenging <u>terrain</u> during the off-road race.
+
+### Japanese Translation
+J-1: ハイカーは山の危険な<u>地形</u>を進むのに苦労しました。
+
+J-2: チームはオフロードレース中に難しい<u>地形</u>に直面しました。

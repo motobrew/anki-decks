@@ -1,0 +1,8 @@
+# Key:pitfall
+### English Sentences
+E-1: Falling into the trap of online scams is a common <u>pitfall</u>.
+E-2: In any negotiation, not being prepared can be a major <u>pitfall</u>.
+
+### Japanese Translation
+J-1: オンライン詐欺の罠に陥ることはよくある<u>落とし穴</u>です。
+J-2: どんな交渉においても準備不足は大きな<u>落とし穴</u>となり得ます。

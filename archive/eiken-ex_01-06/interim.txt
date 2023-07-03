@@ -1,0 +1,8 @@
+# Key:interim
+### English Sentences
+E-1: The team appointed an <u>interim</u> CEO while they searched for a permanent one.
+E-2: The company implemented new policies as an <u>interim</u> measure to address the current crisis.
+
+### Japanese Translation
+J-1: チームは恒久的なCEOを探す間、<u>臨時の</u>CEOを任命しました。
+J-2: その企業は現在の危機に対処する<u>仮の</u>手段として新しい方針を実施しました。

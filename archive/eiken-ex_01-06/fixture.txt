@@ -1,0 +1,8 @@
+# Key:fixture
+### English Sentences
+E-1: The old clock on the wall has become a <u>fixture</u> in our home.
+E-2: Going to the local coffee shop has become a <u>fixture</u> of my morning routine.
+
+### Japanese Translation
+J-1: 壁に掛かっている古い時計は、我が家の<u>定番アイテム</u>となっています。
+J-2: 地元の喫茶店へ行くことは、私の朝の日課となっています。<u>お約束事項</u>のような存在です。

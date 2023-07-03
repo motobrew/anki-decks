@@ -1,0 +1,8 @@
+# Key:adjacent
+### English Sentences
+E-1: The bakery is <u>adjacent</u> to the coffee shop.
+E-2: The hotel has an <u>adjacent</u> parking lot for guests.
+
+### Japanese Translation
+J-1: パン屋はコーヒーショップに<u>隣接</u>しています。
+J-2: そのホテルには、ゲスト専用の<u>隣接</u>駐車場があります。

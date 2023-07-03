@@ -1,0 +1,8 @@
+# Key:commune
+### English Sentences
+E-1: I feel a sense of <u>commune</u> with nature when I go hiking.
+E-2: They have formed a close-knit <u>commune</u> in the countryside.
+
+### Japanese Translation
+J-1: ハイキングに行くと、自然との<u>共感</u>を感じます。
+J-2: 彼らは田舎で密接な<u>共同体</u>を形成しています。

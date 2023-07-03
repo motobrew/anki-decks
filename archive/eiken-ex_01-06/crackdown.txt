@@ -1,0 +1,8 @@
+# Key:crackdown
+### English Sentences
+E-1: The government launched a <u>crackdown</u> on illegal drug trafficking.
+E-2: The company initiated a <u>crackdown</u> on employee misconduct.
+
+### Japanese Translation
+J-1: 政府が違法な薬物取引に対する<u>取り締まり</u>を開始しました。
+J-2: 会社は従業員の不正行為に対する<u>取り締まり</u>を始めました。

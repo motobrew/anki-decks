@@ -1,0 +1,8 @@
+# Key:stump
+### English Sentences
+E-1: That riddle really <u>stumped</u> me. I couldn't figure it out.
+E-2: The math problem was so difficult that it <u>stumped</u> all the students.
+
+### Japanese Translation
+J-1: そのなぞなぞは本当に私を<u>困らせました</u>。私はそれが分からなかった。
+J-2: その数学の問題はとても難しくて、全ての生徒を<u>困らせました</u>。

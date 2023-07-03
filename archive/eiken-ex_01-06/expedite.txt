@@ -1,0 +1,8 @@
+# Key:expedite
+### English Sentences
+E-1: The company hired more staff to <u>expedite</u> the production process.
+E-2: We need to <u>expedite</u> the approval process for this project.
+
+### Japanese Translation
+J-1: その会社は製造プロセスを<u>迅速化</u>するためにスタッフを増やしました。
+J-2: このプロジェクトの承認プロセスを<u>加速する</u>必要があります。

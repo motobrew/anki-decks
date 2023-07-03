@@ -1,0 +1,8 @@
+# Key:reminiscent
+### English Sentences
+E-1: The old photograph was <u>reminiscent</u> of my childhood memories.
+E-2: The music was <u>reminiscent</u> of a song I heard years ago.
+
+### Japanese Translation
+J-1: その古い写真は私の子供時代の思い出を<u>彷彿させました</u>。
+J-2: その音楽は数年前に聞いた歌を<u>思い起こさせる</u>ものでした。

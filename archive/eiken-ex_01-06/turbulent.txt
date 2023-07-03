@@ -1,0 +1,8 @@
+# Key:turbulent
+### English Sentences
+E-1: The stock market experienced a <u>turbulent</u> day with large price fluctuations.
+E-2: Their relationship has been <u>turbulent</u> with constant arguments and disagreements.
+
+### Japanese Translation
+J-1: 株式市場は大きな価格変動がある<u>荒れ模様の</u>日を経験しました。
+J-2: 彼らの関係は絶え間ない口論や意見の不一致で<u>荒れ続けています</u>。

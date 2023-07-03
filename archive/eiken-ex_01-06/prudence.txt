@@ -1,0 +1,8 @@
+# Key:prudence
+### English Sentences
+E-1: It's important to exercise <u>prudence</u> when making financial decisions.
+E-2: Due to the uncertain weather forecast, we decided to pack an extra umbrella as a <u>prudence</u> measure.
+
+### Japanese Translation
+J-1: 財務上の決定をする際に、<u>慎重さ</u>を持つことが重要です。
+J-2: 不確実な天気予報のため、予防策として予備の傘を持参する<u>用心</u>をしました。

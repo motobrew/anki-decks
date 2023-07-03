@@ -1,0 +1,8 @@
+# Key:perplexed
+### English Sentences
+E-1: She was <u>perplexed</u> by his sudden change in behavior.
+E-2: The complex math problem left him <u>perplexed</u> for hours.
+
+### Japanese Translation
+J-1: 彼の突然の行動の変化に彼女は<u>困惑しました</u>。
+J-2:その難しい数学の問題は彼を数時間<u>困惑させました</u>。

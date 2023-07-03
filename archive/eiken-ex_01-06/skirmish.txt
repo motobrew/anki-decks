@@ -1,0 +1,8 @@
+# Key:skirmish
+### English Sentences
+E-1: The political leaders are engaged in a heated <u>skirmish</u> over the new policy.
+E-2: The two rival gangs had a violent <u>skirmish</u> on the streets.
+
+### Japanese Translation
+J-1: 政治指導者たちは新しい政策に関して激しい<u>論争をしています</u>。
+J-2: 2つのライバルのギャングが街で激しい<u>戦闘を繰り広げました</u>。

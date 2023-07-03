@@ -1,0 +1,8 @@
+# Key:antithesis
+### English Sentences
+E-1: He is the complete <u>antithesis</u> of his twin brother's personality.
+E-2: The extravagant party was the <u>antithesis</u> of her usual low-key gatherings.
+
+### Japanese Translation
+J-1: 彼は双子の兄弟の性格とは真逆の<u>存在</u>です。
+J-2: 贅沢なパーティーは彼女の普段の地味な集まりの<u>反対</u>でした。

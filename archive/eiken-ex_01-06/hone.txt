@@ -1,0 +1,8 @@
+# Key:hone
+### English Sentences
+E-1: I need to <u>hone</u> my skills before applying for the job.
+E-2: He has been working hard to <u>hone</u> his public speaking abilities.
+
+### Japanese Translation
+J-1: その仕事に応募する前に、私は自分のスキルを<u>磨く必要があります</u>。
+J-2: 彼は公の場で話す能力を<u>磨く</u>ために一生懸命取り組んでいます。

@@ -1,0 +1,8 @@
+# Key:brew
+### English Sentences
+E-1: The brewery makes their own delicious craft beer.
+E-2: Trouble is brewing between the two rival gangs in town.
+
+### Japanese Translation
+J-1: その醸造所は独自のおいしいクラフトビールを作っています。
+J-2: 町の二つのライバルギャングの間でトラブルが巻き起こっています。

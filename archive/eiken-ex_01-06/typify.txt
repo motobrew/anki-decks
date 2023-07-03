@@ -1,0 +1,8 @@
+# Key:typify
+### English Sentences
+E-1: The city skyline <u>typifies</u> modern architecture and design.
+E-2: His behavior <u>typifies</u> the saying "actions speak louder than words".
+
+### Japanese Translation
+J-1: 都市の景観は現代建築やデザインを<u>象徴しています</u>。
+J-2: 彼の行動は「言葉よりも行動が大事」という言葉を<u>具体化しています</u>。

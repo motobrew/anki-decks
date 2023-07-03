@@ -1,0 +1,8 @@
+# Key:allot
+### English Sentences
+E-1: I had to <u>allot</u> extra time to finish the project on time.
+E-2: The teacher <u>allotted</u> each student a specific role in the play.
+
+### Japanese Translation
+J-1: 私はプロジェクトを時間通りに終わらせるために追加の時間を<u>割り当てなければ</u>なりませんでした。
+J-2: 先生は各生徒に演劇で特定の役割を<u>割り当てました</u>。

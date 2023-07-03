@@ -1,0 +1,8 @@
+# Key:unravel
+### English Sentences
+E-1: The detective is unraveling the mystery to find the killer.
+E-2: The evidence presented in court caused the defense's case to unravel.
+
+### Japanese Translation
+J-1: 刑事は殺人犯を見つけるために謎を<u>解き明かして</u>います。
+J-2: 壇上で提示された証拠が、弁護側のケースを<u>崩壊させました</u>。

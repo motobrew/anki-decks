@@ -1,0 +1,8 @@
+# Key:wayward
+### English Sentences
+E-1: The <u>wayward</u> child refused to follow the rules and caused trouble.
+E-2: Despite warnings, the hiker went <u>wayward</u> and got lost in the forest.
+
+### Japanese Translation
+J-1: 反抗的な子供は規則に従わず、トラブルを引き起こしました。
+J-2: 警告にも関わらず、ハイカーは道を<206.61>誤り</u>、森で迷子になりました。

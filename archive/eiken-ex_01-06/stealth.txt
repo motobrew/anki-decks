@@ -1,0 +1,8 @@
+# Key:stealth
+### English Sentences
+E-1: The spy used <u>stealth</u> to silently sneak into the enemy's base.
+E-2: The burglar entered the house with <u>stealth</u>, leaving no trace behind.
+
+### Japanese Translation
+J-1: スパイは<u>ステルス</u>を使って敵の基地に静かに忍び込んだ。
+J-2: 泥棒は<u>ステルス</u>で家に入り、何の痕跡も残さなかった。

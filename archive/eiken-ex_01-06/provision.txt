@@ -1,0 +1,8 @@
+# Key:provision
+### English Sentences
+E-1: The company has made a <u>provision</u> for future expenses.
+E-2: They have a <u>provision</u> in their will for their children's education.
+
+### Japanese Translation
+J-1: 会社は将来の経費のために<u>予算</u>を組んでいる。
+J-2: 彼らの遺言書には、子供の教育のための<u>取り決め</u>がある。

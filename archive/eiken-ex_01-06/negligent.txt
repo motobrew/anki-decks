@@ -1,1 +1,8 @@
 # Key:negligent
+### English Sentences
+E-1: The company was found <u>negligent</u> in its safety procedures.
+E-2: She accused her neighbor of <u>negligent</u> behavior for leaving the door unlocked.
+
+### Japanese Translation
+J-1: その会社は安全手順に<u>不注意である</u>とされました。
+J-2: 彼女は隣人がドアを施錠していない<u>不注意な</u>行動だと非難しました。

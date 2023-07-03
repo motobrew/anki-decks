@@ -1,0 +1,8 @@
+# Key:capitalize
+### English Sentences
+E-1: The company's new marketing strategy will help <u>capitalize</u> on current trends.
+E-2: She wanted to <u>capitalize</u> on her success by launching her own business.
+
+### Japanese Translation
+J-1: その会社の新しいマーケティング戦略は現在のトレンドを<u>利用する</u>ことになるでしょう。
+J-2: 彼女は成功を<u>活かすこと</u>によって独自のビジネスを始めたかった。

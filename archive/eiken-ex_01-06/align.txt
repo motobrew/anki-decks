@@ -1,0 +1,8 @@
+# Key:align
+### English Sentences
+E-1: The stars <u>align</u> perfectly as I make a wish.
+E-2: Their goals and values <u>align</u> with each other.
+
+### Japanese Translation
+J-1: 願い事をするとき、星々が<u>ぴったりと並ぶ</u>。
+J-2: 彼らの目標と価値観が<u>一致する</u>。

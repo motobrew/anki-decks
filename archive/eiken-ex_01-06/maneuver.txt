@@ -1,0 +1,8 @@
+# Key:maneuver
+### English Sentences
+E-1: I had to <u>maneuver</u> through the crowded street to reach the destination.
+E-2: The politician used clever tactics to <u>maneuver</u> his way into power.
+
+### Japanese Translation
+J-1: 目的地に到達するために、混雑した道路を<u>うまく進む</u>必要がありました。
+J-2: 政治家は巧妙な戦術を使って、権力に<u>進出する</u>方法を見出しました。

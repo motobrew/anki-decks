@@ -1,0 +1,8 @@
+# Key:defiance
+### English Sentences
+E-1: He showed <u>defiance</u> by refusing to follow the rules.
+E-2: The protesters gathered in the streets to express their <u>defiance</u>.
+
+### Japanese Translation
+J-1: 彼は規則に従うことを拒否することで<u>抵抗の意思</u>を示しました。
+J-2: 抗議者たちは道路で集まり、自らの<u>抵抗心</u>を表現しました。

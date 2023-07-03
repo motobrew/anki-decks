@@ -1,0 +1,8 @@
+# Key:placate
+### English Sentences
+E-1: He brought her flowers to <u>placate</u> her after their argument.
+E-2: The company offered free vouchers as a way to <u>placate</u> unhappy customers.
+
+### Japanese Translation
+J-1: 彼は口論の後、彼女を<uなだめるために</u>花を持ってきた。
+J-2: 会社は不満な顧客を<uなだめるために</u>無料のクーポン券を提供した。

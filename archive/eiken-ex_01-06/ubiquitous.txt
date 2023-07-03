@@ -1,0 +1,8 @@
+# Key:ubiquitous
+### English Sentences
+E-1: The <u>ubiquitous</u> presence of smartphones has changed the way we communicate.
+E-2: Wi-fi connections have become <u>ubiquitous</u> in public spaces like cafes and airports.
+
+### Japanese Translation
+J-1: スマートフォンの<u>至る所にある</u>存在感は、私たちのコミュニケーションの仕方を変えました。
+J-2: Wi-fi接続は、カフェや空港などの公共の場所で<u>あちこちで見られる</u>ようになりました。

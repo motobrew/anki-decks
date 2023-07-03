@@ -1,0 +1,8 @@
+# Key:contingency
+### English Sentences
+E-1: In case of a power outage, we have a <u>contingency</u> plan in place.
+E-2: The company has set aside a budget as a <u>contingency</u> for unexpected expenses.
+
+### Japanese Translation
+J-1: 電力供給が止まった場合、<u>予備計画</u>があります。
+J-2: 会社は<u>予期しない出費</u>のための予算を確保しています。

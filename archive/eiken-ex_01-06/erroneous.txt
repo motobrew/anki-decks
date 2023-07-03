@@ -1,0 +1,8 @@
+# Key:erroneous
+### English Sentences
+E-1: The article contained several <u>erroneous</u> facts that needed correction.
+E-2: His <u>erroneous</u> assumptions led to the failure of the project.
+
+### Japanese Translation
+J-1: その記事には修正が必要な<u>誤った</u>事実がいくつか含まれていました。
+J-2: 彼の<u>間違った</u>仮定がプロジェクトの失敗につながりました。

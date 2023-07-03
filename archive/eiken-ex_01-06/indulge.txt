@@ -1,0 +1,8 @@
+# Key:indulge
+### English Sentences
+E-1: She likes to <u>indulge</u> in a bubble bath to relax after a long day.
+E-2: I couldn't resist <u>indulging</u> in a piece of chocolate cake for dessert.
+
+### Japanese Translation
+J-1: 彼女は長い一日の後、リラックスするためにバブルバスに浸かることが好きです。
+J-2: デザートとして一切れのチョコレートケーキを甘やかすことができませんでした。

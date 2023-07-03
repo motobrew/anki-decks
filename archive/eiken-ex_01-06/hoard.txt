@@ -1,0 +1,8 @@
+# Key:hoard
+### English Sentences
+E-1: She has a <u>hoard</u> of old magazines in her attic.
+E-2: The dragon guarded its <u>hoard</u> of gold in the cave.
+
+### Japanese Translation
+J-1: 彼女は屋根裏部屋に古い雑誌の<u>ため息をつく</u>持っています。
+J-2: ドラゴンは洞窟で金貨の<u>寄せ集め</u>を守っていました。

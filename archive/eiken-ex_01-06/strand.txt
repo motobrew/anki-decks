@@ -1,0 +1,8 @@
+# Key:strand
+### English Sentences
+E-1: She was left stranded at the airport due to a flight cancellation.
+E-2: The hiker was stranded on the mountain when the weather turned bad.
+
+### Japanese Translation
+J-1: 彼女はフライトキャンセルのため、空港に<u>取り残されました</u>。
+J-2: ハイカーは天候が悪化したときに山で<u>孤立してしまいました</u>。

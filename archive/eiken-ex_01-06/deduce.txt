@@ -1,0 +1,8 @@
+# Key:deduce
+### English Sentences
+E-1: I was able to <u>deduce</u> the answer from the clues given.
+E-2: By looking at the footprints, the detective was able to <u>deduce</u> who the criminal was.
+
+### Japanese Translation
+J-1: 私は与えられた手がかりから答えを<u>推測することが</u>できました。
+J-2: 足跡を見て、探偵は犯人が<u>誰であるかを推し量る</u>ことができました。

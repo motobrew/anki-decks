@@ -1,0 +1,8 @@
+# Key:concession
+### English Sentences
+E-1: He made a <u>concession</u> and agreed to lower the price.
+E-2: The government had to make <u>concessions</u> to reach a compromise.
+
+### Japanese Translation
+J-1: 彼は<u>譲歩</u>し、値段を下げることに同意しました。
+J-2: 政府は合意に至るために<u>譲歩</u>しなければなりませんでした。

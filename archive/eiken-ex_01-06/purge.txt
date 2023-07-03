@@ -1,0 +1,8 @@
+# Key:purge
+### English Sentences
+E-1: The company decided to <u>purge</u> all outdated files from their database.
+E-2: She went on a cleaning spree and <u>purged</u> her closet of old clothes.
+
+### Japanese Translation
+J-1: 会社はデータベースから古いファイルを<u>一掃する</u>ことを決めました。
+J-2: 彼女は大掃除をして、クローゼットから古い服を<u>処分しました</u>。

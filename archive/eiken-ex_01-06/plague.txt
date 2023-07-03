@@ -1,0 +1,8 @@
+# Key:plague
+### English Sentences
+E-1: A <u>plague</u> of mosquitoes descended upon the campsite.
+E-2: The city was hit by a <u>plague</u> of rats, causing panic among the residents.
+
+### Japanese Translation
+J-1: 蚊の<u>大群</u>がキャンプ場に降りかかりました。
+J-2: その街はネズミの<u>大発生</u>に見舞われ、住民たちにパニックを引き起こしました。

@@ -1,0 +1,8 @@
+# Key:accomplice
+### English Sentences
+E-1: The detective's <u>accomplice</u> helped him plan the perfect crime.
+E-2: The robbers made their escape with the help of their <u>accomplice</u>.
+
+### Japanese Translation
+J-1: 刑事の<u>共犯者</u>が彼を手助けして完璧な犯罪を計画しました。
+J-2: 強盗犯は<u>共犯者</u>の助けを借りて逃走しました。

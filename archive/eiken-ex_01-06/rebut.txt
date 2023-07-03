@@ -1,0 +1,8 @@
+# Key:rebut
+### English Sentences
+E-1: He presented a strong argument to <u>rebut</u> the opposition's claims.
+E-2: The lawyer will attempt to <u>rebut</u> the witness's testimony.
+
+### Japanese Translation
+J-1: 彼は反対意見の主張を<u>反論するために</u>強力な論拠を提示しました。
+J-2: 弁護士は証人の証言に<u>反駁しようとする</u>でしょう。

@@ -1,0 +1,9 @@
+# Key:zenith
+## Response
+### English Sentences
+E-1: He reached the <u>zenith</u> of his career when he won the Nobel Prize.
+E-2: The team's performance reached its <u>zenith</u> during the championship game.
+
+### Japanese Translation
+J-1: ノーベル賞を受賞した時、彼は自身のキャリアの<u絶頂点</u>に達しました。
+J-2: チームのパフォーマンスは、チャンピオンシップの試合中に<u>最高潮</u>に達しました。

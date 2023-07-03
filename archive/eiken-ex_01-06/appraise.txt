@@ -1,0 +1,8 @@
+# Key:appraise
+### English Sentences
+E-1: I asked a professional to <u>appraise</u> the value of my house.
+E-2: The teacher will <u>appraise</u> our performance after the presentation.
+
+### Japanese Translation
+J-1: 私は専門家に家の価値を<u>査定してもらいました</u>。
+J-2: 先生は発表後に私たちのパフォーマンスを<u>評価する予定です</u>。

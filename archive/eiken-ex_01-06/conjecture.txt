@@ -1,0 +1,8 @@
+# Key:conjecture
+### English Sentences
+E-1: The detectives could only rely on <u>conjecture</u> to solve the case.
+E-2: The teacher asked the students to provide evidence instead of <u>conjecture</u>.
+
+### Japanese Translation
+J-1: 刑事たちは事件を解決するために<u>推測</u>に頼らざるを得なかった。
+J-2: 先生は生徒に<u>推測</u>ではなく、証拠を提供するように求めた。

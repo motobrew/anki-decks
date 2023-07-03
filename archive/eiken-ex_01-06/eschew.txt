@@ -1,0 +1,8 @@
+# Key:eschew
+### English Sentences
+E-1: I try to <u>eschew</u> processed foods and focus on whole, natural foods.
+E-2: She made a conscious effort to <u>eschew</u> negative thoughts and focus on positivity.
+
+### Japanese Translation
+J-1: 私は加工食品を避け、自然食品に焦点を当てるようにしています。
+J-2: 彼女は意識的にネガティブな考えを避け、ポジティブに集中する努力をしました。

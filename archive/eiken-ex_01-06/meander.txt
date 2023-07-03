@@ -1,0 +1,8 @@
+# Key:meander
+### English Sentences
+E-1: We decided to <u>meander</u> through the park and enjoy the scenery.
+E-2: The river <u>meandered</u> lazily through the countryside.
+
+### Japanese Translation
+J-1: 私たちは公園を<u>ぶらついて</u>、風景を楽しむことにしました。
+J-2: 川はのんびりと<u>蛇行しながら</u>田舎を流れていました。

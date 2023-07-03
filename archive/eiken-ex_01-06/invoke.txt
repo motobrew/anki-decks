@@ -1,0 +1,8 @@
+# Key:invoke
+### English Sentences
+E-1: He <u>invoked</u> the name of his favorite author during the conversation.
+E-2: The actor <u>invoked</u> a deep sense of emotion with his performance.
+
+### Japanese Translation
+J-1: 彼は会話の中で、彼の好きな作家の名前を<u>引き合いに出しました</u>。
+J-2: その俳優は演技で<u>深い感情を呼び起こしました</u>。

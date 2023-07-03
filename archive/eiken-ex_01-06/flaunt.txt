@@ -1,0 +1,8 @@
+# Key:flaunt
+### English Sentences
+E-1: She loved to <u>flaunt</u> her wealth by wearing expensive designer clothes.
+E-2: He constantly <u>flaunted</u> his academic achievements to impress his colleagues.
+
+### Japanese Translation
+J-1: 彼女は高価なデザイナーの服を着ることで、自分の裕福さを<u>自慢する</u>ことが好きでした。
+J-2: 彼は同僚を感心させるために、絶えず自分の学歴成果を<u>ひけらかしました。</u>

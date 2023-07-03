@@ -1,0 +1,8 @@
+# Key:burgeon
+### English Sentences
+E-1: The number of tourists visiting the city began to <u>burgeon</u> after the new airport was built.
+E-2: The popularity of the singer continued to <u>burgeon</u> as more people discovered their music.
+
+### Japanese Translation
+J-1: 新しい空港が建設された後、その都市を訪れる観光客の数が<u>急増し始めました</u>。
+J-2: シンガーの人気は、より多くの人々が彼らの音楽に出会うにつれて<u>ますます高まりました</u>。

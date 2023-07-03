@@ -1,0 +1,8 @@
+# Key:aversion
+### English Sentences
+E-1: I have a strong <u>aversion</u> to spicy food.
+E-2: She has an <u>aversion</u> to public speaking.
+
+### Japanese Translation
+J-1: 私は辛い食べ物に<u>強い嫌悪感</u>を持っています。
+J-2: 彼女は公の場で話すことに<u>抵抗があります</u>。

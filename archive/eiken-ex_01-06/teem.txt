@@ -1,0 +1,8 @@
+# Key:teem
+### English Sentences
+E-1: The streets <u>teem</u> with people during the summer festival.
+E-2: The garden <u>teems</u> with birds chirping in the morning.
+
+### Japanese Translation
+J-1: 夏祭りの時、通りは人々で<u>あふれて</u>います。
+J-2: 朝、庭は鳥のさえずりで<u>いっぱいです</u>。

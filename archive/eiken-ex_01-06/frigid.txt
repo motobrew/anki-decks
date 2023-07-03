@@ -1,0 +1,8 @@
+# Key:frigid
+### English Sentences
+E-1: The wind was so strong that I felt <u>frigid</u> in my coat.
+E-2: Their relationship turned <u>frigid</u> after the argument.
+
+### Japanese Translation
+J-1: 風がとても強くて、コートを着ていても<u>寒い</u>と感じました。
+J-2: 彼らの関係は、口論の後<u>冷え切ってしまいました</u>。

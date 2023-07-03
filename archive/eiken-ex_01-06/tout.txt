@@ -1,0 +1,8 @@
+# Key:tout
+### English Sentences
+E-1: I <u>tout</u> the new restaurant as the best in town.
+E-2: She is always <u>touting</u> her own accomplishments.
+
+### Japanese Translation
+J-1: 私はその新しいレストランを町で一番だと<u>宣伝しています</u>。
+J-2: 彼女はいつも自分の功績を<u>自慢しています</u>。

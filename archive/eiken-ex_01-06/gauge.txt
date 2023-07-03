@@ -1,0 +1,8 @@
+# Key:gauge
+### English Sentences
+E-1: I need to <u>gauge</u> the audience's reaction to the new product. 
+E-2: We can <u>gauge</u> the quality of this restaurant by reading online reviews. 
+
+### Japanese Translation
+J-1: 新製品に対する観客の反応を<u>判断</u>する必要があります。
+J-2: オンラインの口コミを読むことで、このレストランの<u>評価</u>がわかります。

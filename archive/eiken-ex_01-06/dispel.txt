@@ -1,0 +1,8 @@
+# Key:dispel
+### English Sentences
+E-1: The magician tried to <u>dispel</u> the illusion with his explanation.
+E-2: Reading books can help <u>dispel</u> ignorance and expand knowledge.
+
+### Japanese Translation
+J-1: 魔術師は説明で幻想を<u>払いのけようとしました</u>。
+J-2: 本を読むことは、無知を<u>晴らす</u>とともに知識を広げるのに役立ちます。

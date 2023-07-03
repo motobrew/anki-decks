@@ -1,0 +1,8 @@
+# Key:covert
+### English Sentences
+E-1: The agents conducted a <u>covert</u> operation to gather intelligence.
+E-2: He tried to have a <u>covert</u> conversation with his friend at the party.
+
+### Japanese Translation
+J-1: エージェントたちは情報収集のために<u>秘密の</u>作戦を行いました。
+J-2: 彼はパーティーで友達と<u>内密に</u>会話しようとしました。

@@ -1,0 +1,8 @@
+# Key:momentum
+### English Sentences
+E-1: The team's winning streak has gained <u>momentum</u> in the playoffs.
+E-2: The train gradually gained <u>momentum</u> as it sped down the tracks.
+
+### Japanese Translation
+J-1: チームの連勝記録はプレーオフで<u>勢いを増しています</u>。
+J-2: 列車は線路を疾走するにつれて<u>徐々に速度を増していきました</u>。

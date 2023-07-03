@@ -1,0 +1,8 @@
+# Key:infraction
+### English Sentences
+E-1: The police officer gave him a ticket for the <u>infraction</u> of speeding.
+E-2: Failing to wear a seatbelt is considered an <u>infraction</u> of the law.
+
+### Japanese Translation
+J-1: 警察官はスピード違反の<u>違反行為</u>で彼に切符を渡しました。
+J-2: シートベルトを着用しないことは法律の<u>違反行為</u>とされています。

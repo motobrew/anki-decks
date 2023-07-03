@@ -1,0 +1,8 @@
+# Key:plagiarize
+### English Sentences
+E-1: He was accused of <u>plagiarizing</u> the entire essay from another student.
+E-2: The artist was found to have <u>plagiarized</u> the famous painting.
+
+### Japanese Translation
+J-1: 彼は他の生徒からエッセイを<u>盗用すること</u>で非難された。
+J-2: そのアーティストは有名な絵を<u>盗用した</u>と判明した。

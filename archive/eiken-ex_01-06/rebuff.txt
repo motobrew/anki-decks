@@ -1,0 +1,8 @@
+# Key:rebuff
+### English Sentences
+E-1: He tried to start a conversation with her, but she <u>rebuffed</u> his advances.
+E-2: The company <u>rebuffed</u> the offer for a merger with their competitors.
+
+### Japanese Translation
+J-1: 彼は彼女と会話を始めようとしましたが、彼女は彼の進展を<u>はねつけました</u>。
+J-2: その企業は競合他社との合併の申し出を<u>拒絶しました</u>。

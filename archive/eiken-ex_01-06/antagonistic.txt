@@ -1,0 +1,8 @@
+# Key:antagonistic
+### English Sentences
+E-1: He has an <u>antagonistic</u> relationship with his neighbor.
+E-2: The team members often have <u>antagonistic</u> opinions about the project.
+
+### Japanese Translation
+J-1: 彼は隣人と<u>対立的な</u>関係を持っています。
+J-2: チームメンバーはプロジェクトについて<u>対立する</u>意見を持つことがよくあります。

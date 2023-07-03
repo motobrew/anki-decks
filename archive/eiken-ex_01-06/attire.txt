@@ -1,0 +1,8 @@
+# Key:attire
+### English Sentences
+E-1: I was not expecting him to show up in such formal <u>attire</u>.
+E-2: She always dresses in casual <u>attire</u> for the weekend.
+
+### Japanese Translation
+J-1: 彼がそのような正式な<u>服装</u>で現れるとは思っていませんでした。
+J-2: 彼女は週末にはいつもカジュアルな<u>服装</u>をしています。

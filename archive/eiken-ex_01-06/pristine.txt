@@ -1,0 +1,8 @@
+# Key:pristine
+### English Sentences
+E-1: She keeps her house in <u>pristine</u> condition, always spotless and organized.
+E-2: The explorers discovered a <u>pristine</u> beach untouched by human presence.
+
+### Japanese Translation
+J-1: 彼女は自宅を<u>真っ白な状態</u>に保っており、常にきれいで整然としています。
+J-2: 探検家たちは、人の存在の痕跡がない<u>原始的な</u>海岸を発見しました。

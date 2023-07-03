@@ -1,0 +1,8 @@
+# Key:propensity
+### English Sentences
+E-1: He has a <u>propensity</u> for always being late to meetings.
+E-2: My sister has a <u>propensity</u> for eating chocolate after dinner.
+
+### Japanese Translation
+J-1: 彼はいつも会議に遅れる<u>傾向</u>があります。
+J-2: 私の姉は夕食後にいつもチョコレートを食べる<u>癖</u>があります。

@@ -1,0 +1,8 @@
+# Key:dogmatic
+### English Sentences
+E-1: She is so <u>dogmatic</u> in her beliefs that she refuses to consider other perspectives.
+E-2: The professor's <u>dogmatic</u> teaching style leaves no room for discussion or debate.
+
+### Japanese Translation
+J-1: 彼女は自分の信念に<u>独断的</u>すぎるため、他の視点を考慮することを拒みます。
+J-2: その教授の<u>教義主義的</u>な教授スタイルは議論や討論の余地を残しません。

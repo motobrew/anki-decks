@@ -1,0 +1,8 @@
+# Key:pamper
+### English Sentences
+E-1: She loves to <u>pamper</u> herself with a relaxing bubble bath.
+E-2: The hotel offers a luxurious spa where guests can be <u>pampered</u>.
+
+### Japanese Translation
+J-1: 彼女はリラックスできるバブルバスで自分を<u>甘やかす</u>のが大好きです。
+J-2: そのホテルでは贅沢なスパがあり、ゲストが<u>ぜいたくにされる</u>ことができます。

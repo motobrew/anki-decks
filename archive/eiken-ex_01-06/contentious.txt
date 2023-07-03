@@ -1,0 +1,8 @@
+# Key:contentious
+### English Sentences
+E-1: The topic of politics can be quite <u>contentious</u> during family gatherings.
+E-2: The decision to close the local school became a <u>contentious</u> issue for the community.
+
+### Japanese Translation
+J-1: 政治の話題は家族の集まりで非常に<u>物議を醸すことがあります</u>。
+J-2: 地元の学校を閉鎖する決定は、地域の間で<u>論争の的になる問題となりました</u>。

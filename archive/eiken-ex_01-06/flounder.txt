@@ -1,0 +1,8 @@
+# Key:flounder
+### English Sentences
+E-1: She <u>floundered</u> through her presentation, forgetting her main points.
+E-2: I found myself <u>floundering</u> in the kitchen, unsure of what to cook for dinner.
+
+### Japanese Translation
+J-1: 彼女は発表中に<u>右往左往しました</u>、メインポイントを忘れてしまいました。
+J-2: 私はキッチンで<u>迷っていてしまいました</u>、夕食に何を作るか分からずに。

@@ -1,0 +1,8 @@
+# Key:deposition
+### English Sentences
+E-1: In the legal drama, the lawyer used the witness' <u>deposition</u> as evidence. 
+E-2: The politician's <u>deposition</u> revealed shocking information about corruption.
+
+### Japanese Translation
+J-1: 法廷ドラマでは、弁護士は証人の<u>陳述</u>を証拠として使用しました。
+J-2: 政治家の<u>供述</u>は汚職に関する驚くべき情報を明らかにしました。

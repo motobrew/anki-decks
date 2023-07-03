@@ -1,0 +1,8 @@
+# Key:imbue
+### English Sentences
+E-1: The soothing music <u>imbued</u> me with a sense of calm and relaxation.
+E-2: The mentor <u>imbued</u> her students with a passion for learning.
+
+### Japanese Translation
+J-1: 癒しの音楽が私に静けさとリラックス感を<u>注入しました</u>。
+J-2: メンターは彼女の学生たちに学ぶことへの情熱を<u>植え付けました</u>。

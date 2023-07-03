@@ -1,0 +1,8 @@
+# Key:vie
+### English Sentences
+E-1: She has a <u>competitive</u> nature and always wants to win.
+E-2: He is constantly trying to <u>outdo</u> his colleagues to prove his worth.
+
+### Japanese Translation
+J-1: 彼女は競争好きでいつも勝ちたがっています。
+J-2: 彼は自分の価値を証明するために常に同僚たちをしのごうとしています。

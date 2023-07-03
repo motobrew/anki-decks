@@ -1,0 +1,8 @@
+# Key:disdain
+### English Sentences
+E-1: He looked at her with <u>disdain</u> as she walked by.
+E-2: The professor spoke with <u>disdain</u> about the students' lack of effort.
+
+### Japanese Translation
+J-1: 彼は彼女が通り過ぎるのを<u>軽蔑の目で</u>見ました。
+J-2: 教授は学生たちの努力不足について<u>傲慢な態度で</u>話しました。

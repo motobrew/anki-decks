@@ -1,0 +1,8 @@
+# Key:morbid
+### English Sentences
+E-1: The <u>morbid</u> paintings in the museum gave me chills.
+E-2: She has a <u>morbid</u> fascination with crime documentaries.
+
+### Japanese Translation
+J-1: 美術館の<u>病的な</u>絵は私に寒気を与えました。
+J-2: 彼女は犯罪ドキュメンタリーに<u>病的な</u>魅了を抱いています。

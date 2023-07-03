@@ -1,0 +1,8 @@
+# Key:referendum
+### English Sentences
+E-1: The government decided to hold a <u>referendum</u> to let the people vote on the issue.
+E-2: The result of the <u>referendum</u> showed that the majority of the population supported the new law.
+
+### Japanese Translation
+J-1: 政府は、人々に意見を投票させる<u>国民投票</u>を実施することを決定しました。
+J-2: <u>国民投票</u>の結果、多数の人々が新しい法律を支持していることが示されました。

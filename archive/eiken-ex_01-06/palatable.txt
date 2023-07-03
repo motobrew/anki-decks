@@ -1,0 +1,8 @@
+# Key:palatable
+### English Sentences
+E-1: The dessert was so delicious, its taste was <u>palatable</u>.
+E-2: The movie had a difficult topic, but it presented it in a <u>palatable</u> way.
+
+### Japanese Translation
+J-1: デザートはとてもおいしかったです、その味は<u>美味しかったです</u>。
+J-2: その映画は難しいテーマを扱っていましたが、<u>分かりやすく</u>提示されていました。

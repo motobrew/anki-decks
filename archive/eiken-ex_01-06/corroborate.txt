@@ -1,0 +1,8 @@
+# Key:corroborate
+### English Sentences
+E-1: The witness's testimony <u>corroborated</u> the defendant's alibi.
+E-2: The DNA evidence <u>corroborated</u> the suspect's guilt.
+
+### Japanese Translation
+J-1: 目撃者の証言は被告人のアリバイを<u>裏付けた</u>。
+J-2: DNA証拠は容疑者の有罪を<u>証明した</u>。

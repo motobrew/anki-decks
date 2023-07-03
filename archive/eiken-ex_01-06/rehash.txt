@@ -1,0 +1,8 @@
+# Key:rehash
+### English Sentences
+E-1: The team decided to <u>rehash</u> the old marketing strategy.
+E-2: Let's not <u>rehash</u> that argument again. It won't lead us anywhere.
+
+### Japanese Translation
+J-1: チームは古いマーケティング戦略を<u>見直す</u>ことにしました。
+J-2: またあの議論を<u>くり返すこと</u>はしませんようにしましょう。何も進まないだけです。

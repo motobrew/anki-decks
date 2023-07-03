@@ -1,0 +1,8 @@
+# Key:idyllic
+### English Sentences
+E-1: The small town with its charming cottages is truly <u>idyllic</u>.
+E-2: They spent a week in an <u>idyllic</u> beach resort, far away from the city.
+
+### Japanese Translation
+J-1: 可愛らしいコテージがあるその小さな町は本当に<u>田園風景のような</u>場所です。
+J-2: 彼らは都会から遠く離れた<u>理想的な</u>ビーチリゾートで1週間過ごしました。

@@ -1,0 +1,8 @@
+# Key:gall
+### English Sentences
+E-1: It took a lot of <u>gall</u> for him to insult her in front of everyone.
+E-2: She had the <u>gall</u> to ask for a favor after ignoring him for years.
+
+### Japanese Translation
+J-1: 彼が誰の前でも彼女を侮辱するなんて、彼にはかなりの<u厚顔</u>がいりました。
+J-2: 彼女は数年間無視した後で、頼みごとをする<u度胸</u>がありました。

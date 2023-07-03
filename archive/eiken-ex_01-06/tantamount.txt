@@ -1,0 +1,8 @@
+# Key:tantamount
+### English Sentences
+E-1: The mere presence of a security guard is <u>tantamount</u> to deterrence.
+E-2: Ignoring your health can be <u>tantamount</u> to neglecting yourself.
+
+### Japanese Translation
+J-1: セキュリティーガードの存在そのものが、抑止力と同じくらい重要です。
+J-2: 自分自身を無視することは、自己放棄と同等になり得ます。

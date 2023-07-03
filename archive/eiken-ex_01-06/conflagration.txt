@@ -1,0 +1,8 @@
+# Key:conflagration
+### English Sentences
+E-1: The conflict escalated into a <u>conflagration</u> that consumed the entire city.
+E-2: His careless remark ignited a <u>conflagration</u> of controversy among the group.
+
+### Japanese Translation
+J-1: 紛争は拡大し、全市を飲み込む<u>大火事</u>となりました。
+J-2: 彼の軽率な発言がグループ内で<u>論争の火</u>を引き起こしました。

@@ -1,0 +1,8 @@
+# Key:shun
+### English Sentences
+E-1: I try to <u>shun</u> negative people and surround myself with positivity.
+E-2: The teacher advised us to <u>shun</u> cheating and dishonesty.
+
+### Japanese Translation
+J-1: 私はネガティブな人々を<u>避けること</u>し、ポジティブな人々に囲まれるよう心掛けています。
+J-2: 先生は私たちに不正行為や不誠実さを<u>避けるよう</u>忠告しました。

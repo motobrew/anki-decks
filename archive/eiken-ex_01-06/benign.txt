@@ -1,0 +1,8 @@
+# Key:benign
+### English Sentences
+E-1: The doctor assured me that the tumor was <u>benign</u>.
+E-2: The <u>benign</u> weather allowed us to have a pleasant picnic.
+
+### Japanese Translation
+J-1: 医者はその腫瘍が<u>良性</u>であると保証しました。
+J-2: <u>穏やかな</u>天気のおかげで、私たちは楽しいピクニックをすることができました。

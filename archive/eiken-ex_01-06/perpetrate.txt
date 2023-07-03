@@ -1,0 +1,8 @@
+# Key:perpetrate
+### English Sentences
+E-1: The suspect was arrested for trying to <u>perpetrate</u> a bank robbery.
+E-2: The hacker was caught in the act of trying to <u>perpetrate</u> a cyber attack.
+
+### Japanese Translation
+J-1: 犯人は銀行強盗を<u>実行しようとした</u>ことで逮捕されました。
+J-2: ハッカーはサイバー攻撃を<u>行おうとして</u>いるところを捕まえられました。

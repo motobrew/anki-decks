@@ -1,0 +1,8 @@
+# Key:mortify
+### English Sentences
+E-1: It would mortify me if I tripped in front of everyone. 
+E-2: I was mortified when I realized I had sent the email to the wrong person. 
+
+### Japanese Translation
+J-1: もし誰の前でつまずいたら、私は<u>恥ずかしくてたまらない</u>。
+J-2: 間違った相手にメールを送ったことに気づいた時、私は<u>恥ずかしくて仕方がなかった</u>。

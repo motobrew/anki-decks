@@ -1,0 +1,8 @@
+# Key:infer
+### English Sentences
+E-1: I can <u>infer</u> from her body language that she is upset.
+E-2: Based on the evidence, we can <u>infer</u> that the suspect is guilty.
+
+### Japanese Translation
+J-1: 彼女のボディーランゲージから<u>推測できる</u>ことを、彼女は悲しんでいると思われます。
+J-2: 証拠に基づいて、私たちは容疑者が有罪であることを<u>推量できます</u>。

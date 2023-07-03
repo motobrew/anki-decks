@@ -1,0 +1,8 @@
+# Key:revamp
+### English Sentences
+E-1: The company decided to <u>revamp</u> its website to attract more customers.
+E-2: The store is undergoing a <u>revamp</u> to keep up with changing trends.
+
+### Japanese Translation
+J-1: 会社は顧客を引き付けるために、ウェブサイトを<u>改装すること</u>を決定しました。
+J-2: その店舗は、変化するトレンドについていくために<u>リニューアル中です</u>。

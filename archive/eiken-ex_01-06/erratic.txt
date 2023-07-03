@@ -1,0 +1,8 @@
+# Key:erratic
+### English Sentences
+E-1: Her mood can be quite <u>erratic</u>, going from laughter to tears in seconds.
+E-2: The stock market showed <u>erratic</u> behavior, fluctuating wildly throughout the day.
+
+### Japanese Translation
+J-1: 彼女の気分はとても<u>不安定です</u>。笑いから涙へと一瞬で変わります。
+J-2: 株式市場は<u>不規則な動き</u>を見せ、一日中乱高下しました。

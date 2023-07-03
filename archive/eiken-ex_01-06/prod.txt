@@ -1,0 +1,8 @@
+# Key:prod
+### English Sentences
+E-1: The salesman used his charm to <u>prod</u> the customer into making a purchase.
+E-2: The coach continued to <u>prod</u> the team until they gave their best performance.
+
+### Japanese Translation
+J-1: セールスマンは魅力を使い、顧客を買い物に<u>誘い込んだ</u>。
+J-2: コーチはチームが最高のパフォーマンスを発揮するまで<u>駆り立て続けた</u>。

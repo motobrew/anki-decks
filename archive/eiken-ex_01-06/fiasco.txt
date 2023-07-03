@@ -1,0 +1,8 @@
+# Key:fiasco
+### English Sentences
+E-1: The company's rebranding was a complete <u>fiasco</u> and led to its downfall.
+E-2: The team's performance during the match was a total <u>fiasco</u> and they lost by a wide margin.
+
+### Japanese Translation
+J-1: その企業のブランド変更は完全な<u>失敗</u>であり、その後の没落を招いた。
+J-2: チームの試合中のパフォーマンスは全くの<u>大失態</u>であり、大差で負けた。

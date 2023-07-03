@@ -1,0 +1,9 @@
+# Key:brevity
+### English Sentences
+E-1: The comedian's humor is known for its <u>brevity</u> and punch.
+E-2: The CEO's speech was concise and to the point, reflecting <u>brevity</u>.
+
+
+### Japanese Translation
+J-1: そのコメディアンのユーモアは<u>短くて</u>シュッとしていることで知られています。
+J-2: CEOのスピーチは簡潔で要点を押さえており、<u>短さ</u>を反映していました。

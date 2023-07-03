@@ -1,0 +1,8 @@
+# Key:echelon
+### English Sentences
+E-1: She worked hard to climb the <u>echelons</u> of corporate hierarchy.
+E-2: The CEO reserved that luxurious office for his highest <u>echelon</u>.
+
+### Japanese Translation
+J-1: 彼女は会社の階層で上昇しようと努力しました。
+J-2: CEOはその高位の役員のためにその贅沢なオフィスを予約しました。

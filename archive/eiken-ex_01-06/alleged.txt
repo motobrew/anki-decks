@@ -1,0 +1,8 @@
+# Key:alleged
+### English Sentences
+E-1: The <u>alleged</u> thief was caught in the act by a security camera.
+E-2: The <u>alleged</u> UFO sighting turned out to be a weather balloon.
+
+### Japanese Translation
+J-1: <u>容疑者とされる</u>泥棒が防犯カメラによって現行犯で捕まりました。
+J-2: <u>噂されている</u>UFO目撃は最終的に天気気球だと判明しました。

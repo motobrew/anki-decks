@@ -1,0 +1,8 @@
+# Key:salvage
+### English Sentences
+E-1: The firefighters worked to <u>salvage</u> what they could from the burning building.
+E-2: The team managed to <u>salvage</u> a tie in the final minutes of the game.
+
+### Japanese Translation
+J-1: 消防士たちは、燃えている建物からできるだけのものを<u>救出する</u>ために働きました。
+J-2: チームは試合終了間際に引き分けを<u>もぎ取る</u>ことに成功しました。

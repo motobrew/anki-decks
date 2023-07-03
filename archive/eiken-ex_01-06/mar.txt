@@ -1,0 +1,8 @@
+# Key:mar
+### English Sentences
+E-1: The rain <u>marred</u> the outdoor wedding ceremony.
+E-2: His poor behavior <u>marred</u> the reputation of the company.
+
+### Japanese Translation
+J-1: 雨で屋外の結婚式が<u>台無しになった</u>。
+J-2: 彼の悪い行動が会社の評判を<u>損ねた</u>。

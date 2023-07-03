@@ -1,0 +1,8 @@
+# Key:conciliate
+### English Sentences
+E-1: I tried to <u>conciliate</u> my parents after the argument.
+E-2: The mediator was successful in <u>conciliating</u> the two parties involved.
+
+### Japanese Translation
+J-1: 議論の後、私は両親と<u>和解</u>しようとしました。
+J-2: 仲介者は関係する二つの団体を<u>和解</u>させることに成功しました。

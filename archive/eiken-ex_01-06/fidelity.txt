@@ -1,0 +1,8 @@
+# Key:fidelity
+### English Sentences
+E-1: I value <u>fidelity</u> in a committed relationship.
+E-2: The company's financial reports have a high level of <u>fidelity</u>.
+
+### Japanese Translation
+J-1: 私は安定した関係における<u>忠誠心</u>を大切にします。
+J-2: その会社の財務報告書は高い<u>信頼性</u>があります。

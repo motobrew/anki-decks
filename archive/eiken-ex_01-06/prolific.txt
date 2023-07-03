@@ -1,0 +1,8 @@
+# Key:prolific
+### English Sentences
+E-1: The artist has been <u>prolific</u> in producing multiple albums this year.
+E-2: She is known for being a <u>prolific</u> writer, churning out novels regularly.
+
+### Japanese Translation
+J-1: 今年、そのアーティストは複数のアルバムを<u>多作</u>しています。
+J-2: 彼女は定期的に小説を<u>次々と書き続ける</u>ことで知られています。

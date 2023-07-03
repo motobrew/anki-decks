@@ -1,0 +1,8 @@
+# Key:meticulous
+### English Sentences
+E-1: She has a <u>meticulous</u> attention to detail when it comes to her work.
+E-2: The detective conducted a <u>meticulous</u> investigation to solve the case.
+
+### Japanese Translation
+J-1: 彼女は仕事に対して<u>細かい注意力</u>を持っています。
+J-2: 刑事は事件を解決するために<u>入念な</u>捜査を行いました。

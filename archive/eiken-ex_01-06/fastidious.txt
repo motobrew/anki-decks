@@ -1,0 +1,8 @@
+# Key:fastidious
+### English Sentences
+E-1: She has a <u>fastidious</u> attention to detail in her work.
+E-2: Our boss has very <u>fastidious</u> standards when it comes to cleanliness.
+
+### Japanese Translation
+J-1: 彼女は仕事において細部に<u>うるさい</u>注意を払っています。
+J-2: 私たちの上司は清潔さに関して非常に<u>こだわる</u>基準を持っています。

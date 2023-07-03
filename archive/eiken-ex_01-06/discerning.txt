@@ -1,0 +1,8 @@
+# Key:discerning
+### English Sentences
+E-1: The restaurant is known for its <u>discerning</u> taste in ingredients.
+E-2: She has a <u>discerning</u> eye for fashion and can spot trends easily.
+
+### Japanese Translation
+J-1: そのレストランは、食材の<u>良質な</u>センスで知られています。
+J-2: 彼女はファッションに<u>独特の</u>目を持っており、トレンドを簡単に見つけることができます。

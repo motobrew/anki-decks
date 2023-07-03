@@ -1,0 +1,8 @@
+# Key:forfeit
+### English Sentences
+E-1: He <u>forfeited</u> his right to the prize by not following the rules.
+E-2: The team decided to <u>forfeit</u> the game due to multiple injuries.
+
+### Japanese Translation
+J-1: 彼はルールに従わなかったため、賞を<u>放棄しました</u>。
+J-2: チームは複数のケガのため、ゲームを<u>降板すること</u>にしました。

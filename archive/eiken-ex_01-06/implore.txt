@@ -1,0 +1,8 @@
+# Key:implore
+### English Sentences
+E-1: I <u>implore</u> you to reconsider your decision before it's too late.
+E-2: The protesters <u>implored</u> the government to address their concerns.
+
+### Japanese Translation
+J-1: 遅くなる前に、あなたに再考を<u>切にお願いします</u>。
+J-2: 抗議者たちは政府に対して、自分たちの懸念を<u>切に訴えました</u>。

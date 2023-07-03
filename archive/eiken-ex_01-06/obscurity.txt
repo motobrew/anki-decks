@@ -1,0 +1,8 @@
+# Key:obscurity
+### English Sentences
+E-1: The artist decided to embrace <u>obscurity</u> rather than pursue fame.
+E-2: The old book was found in the attic, hidden in <u>obscurity</u> for years.
+
+### Japanese Translation
+J-1: そのアーティストは名声を追求するのではなく、むしろ<u>無名</u>を受け入れることにしました。
+J-2: その古い本は屋根裏部屋で見つかりましたが、数年間<u>忘れ去られていた</u>のです。

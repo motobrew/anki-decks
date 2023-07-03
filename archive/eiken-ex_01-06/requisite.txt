@@ -1,0 +1,8 @@
+# Key:requisite
+### English Sentences
+E-1: The <u>requisite</u> documents must be submitted before the deadline.
+E-2: Meeting the <u>requisite</u> qualifications is necessary for the job.
+
+### Japanese Translation
+J-1: 締切前に<u>必要な</u>書類を提出しなければなりません。
+J-2: 仕事には<u>必要な</u>資格を満たすことが必要です。

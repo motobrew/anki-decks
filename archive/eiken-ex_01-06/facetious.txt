@@ -1,0 +1,8 @@
+# Key:facetious
+### English Sentences
+E-1: He made a <u>facetious</u> comment to lighten the mood.
+E-2: She tends to use <u>facetious</u> remarks as a defense mechanism.
+
+### Japanese Translation
+J-1: 彼は雰囲気を軽くするために<u>ひょうきんな</u>発言をしました。
+J-2: 彼女は防御メカニズムとして<u>ふざけた</u>言葉を使う傾向があります。

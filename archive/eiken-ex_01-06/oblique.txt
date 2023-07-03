@@ -1,0 +1,8 @@
+# Key:oblique
+### English Sentences
+E-1: The detective used <u>oblique</u> questioning techniques to gather information.
+E-2: Her comment was meant to be <u>oblique</u>, but everyone understood her meaning.
+
+### Japanese Translation
+J-1: 刑事は情報を集めるために<u>間接的な</u>尋問技術を使用しました。
+J-2: 彼女のコメントは<u>曖昧</u>でしたが、誰も彼女の意味を理解しました。

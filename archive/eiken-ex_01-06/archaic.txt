@@ -1,0 +1,8 @@
+# Key:archaic
+### English Sentences
+E-1: The use of cursive handwriting has become <u>archaic</u> in this digital age.
+E-2: He still owns an <u>archaic</u> flip phone that doesn't have internet access.
+
+### Japanese Translation
+J-1: このデジタル時代では、筆記体の使用は<u>時代遅れ</u>になっています。
+J-2: 彼はまだインターネットにアクセスできない<u>時代遅れの</u>フリップフォンを持っています。

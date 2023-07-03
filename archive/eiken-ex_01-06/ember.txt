@@ -1,0 +1,8 @@
+# Key:ember
+### English Sentences
+E-1: A spark ignited the <u>ember</u> and the fire started to grow. 
+E-2: He tried to suppress his anger, but his frustration continued to <u>ember</u>.
+
+### Japanese Translation
+J-1: 火花が<u>火の粉</u>を引き起こし、火が広がり始めた。 
+J-2: 彼は怒りを抑えようとしたが、イライラは<u>くすぶり続けた</u>。

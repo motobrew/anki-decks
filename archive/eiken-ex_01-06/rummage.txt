@@ -1,0 +1,8 @@
+# Key:rummage
+### English Sentences
+E-1: I decided to <u>rummage</u> through my closet to find my lost keys.
+E-2: The detective started to <u>rummage</u> through the suspect's drawers to look for evidence.
+
+### Japanese Translation
+J-1: 鍵を探すために、私はクローゼットを<u>くまなく探しました</u>。
+J-2: 刑事は証拠を探すために、容疑者の引き出しを<u>くまなく捜査し始めました</u>。

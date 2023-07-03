@@ -1,0 +1,8 @@
+# Key:repatriate
+### English Sentences
+E-1: The government is working to <u>repatriate</u> its citizens stranded abroad.
+E-2: The company has decided to <u>repatriate</u> its manufacturing operations back home.
+
+### Japanese Translation
+J-1: 政府は海外に取り残された市民を<u>帰国させる</u>ために取り組んでいます。
+J-2: その会社は製造業務を<u>本国に戻す</u>ことを決定しました。

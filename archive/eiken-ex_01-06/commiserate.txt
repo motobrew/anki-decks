@@ -1,0 +1,8 @@
+# Key:commiserate
+### English Sentences
+E-1: She called me to <u>commiserate</u> over her recent breakup.
+E-2: We gathered to <u>commiserate</u> with our friend who lost his job.
+
+### Japanese Translation
+J-1: 彼女は最近の別れについて<u>慰め合う</u>ために私に電話しました。
+J-2: 私たちは友だちが仕事を失ったことに<u>同情し</u>るために集まりました。

@@ -1,0 +1,8 @@
+# Key:avert
+### English Sentences
+E-1: We need to take immediate action to <u>avert</u> a potential disaster.
+E-2: The diplomacy efforts are aimed at <u>averting</u> a full-scale war.
+
+### Japanese Translation
+J-1: 潜在的な災害を<u>回避するために</u>即座の対策が必要です。
+J-2: 外交的な取り組みは<u>全面戦争を回避すること</u>を目指しています。

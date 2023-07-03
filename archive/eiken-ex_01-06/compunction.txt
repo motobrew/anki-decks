@@ -1,0 +1,8 @@
+# Key:compunction
+### English Sentences
+E-1: She stole the money without any <u>compunction</u>.
+E-2: He killed the innocent animal without a trace of <u>compunction</u>.
+
+### Japanese Translation
+J-1: 彼女は一切の<u>良心の呵責</u>もなくお金を盗みました。
+J-2: 彼は罪のない動物を何の<u>内緒もなし</u>に殺しました。

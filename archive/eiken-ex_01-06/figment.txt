@@ -1,0 +1,8 @@
+# Key:figment
+### English Sentences
+E-1: She claimed to have seen a <u>figment</u> of her imagination.
+E-2: The story he told was nothing more than a <u>figment</u> of his imagination.
+
+### Japanese Translation
+J-1: 彼女は自分の想像の<u>産物</u>を見たと主張しました。
+J-2: 彼が語った話は彼の想像の<u>産物</u>に過ぎませんでした。

@@ -1,0 +1,8 @@
+# Key:mayhem
+### English Sentences
+E-1: The party turned into complete <u>mayhem</u> after the music started.
+E-2: When the fire alarm went off, there was <u>mayhem</u> as people rushed to exit the building.
+
+### Japanese Translation
+J-1: 音楽が始まってから、パーティーは完全な<u>大混乱</u>になりました。
+J-2: 火災警報が鳴ると、人々が建物から出るために<u>大混乱</u>が生じました。

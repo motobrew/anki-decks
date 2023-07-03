@@ -1,0 +1,8 @@
+# Key:vigil
+### English Sentences
+E-1: I kept a <u>vigil</u> by his bedside while he was sick.
+E-2: The community organized a <u>vigil</u> to honor the victims of the tragedy.
+
+### Japanese Translation
+J-1: 彼が病気の間、私は彼のベッドのそばで<u見張り</u>を守りました。
+J-2: コミュニティは、悲劇の犠牲者を称える<u>夜通しの祈りの集い</u>を組織しました。

@@ -1,0 +1,8 @@
+# Key:truce
+### English Sentences
+E-1: They decided to call a <u>truce</u> and put an end to the fighting.
+E-2: The two rival companies agreed to a temporary <u>truce</u> in their legal battle.
+
+### Japanese Translation
+J-1: 彼らは和平を呼びかけ、戦闘を終わらせることに決めました。
+J-2: 2つの競合会社は法廷闘争で一時的な<u>休戦</u>に合意しました。

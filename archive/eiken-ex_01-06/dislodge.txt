@@ -1,0 +1,8 @@
+# Key:dislodge
+### English Sentences
+E-1: I tried to clean the gutter, but the leaves were stubborn and wouldn't <u>dislodge</u>.
+E-2: The strong wind was enough to <u>dislodge</u> the loose tiles from the roof.
+
+### Japanese Translation
+J-1: 私は雨どいを掃除しようとしたが、葉っぱは頑固で<u>取れませんでした</u>。
+J-2: 強風はルーフからゆるんだタイルを<u>外すのに十分でした</u>。

@@ -1,0 +1,8 @@
+# Key:hermit
+### English Sentences
+E-1: She prefers to live alone in the mountains like a <u>hermit</u>.
+E-2: After retiring, he chose a <u>hermit</u> life in a small cabin.
+
+### Japanese Translation
+J-1: 彼女は<u>隠者のように</u>山中で一人で暮らすことが好きです。
+J-2: 退職後、彼は小さなキャビンで<u>引きこもりの生活</u>を選びました。

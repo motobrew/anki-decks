@@ -1,0 +1,8 @@
+# Key:stringent
+### English Sentences
+E-1: The company has introduced <u>stringent</u> safety measures to prevent accidents.
+E-2: The school has a <u>stringent</u> dress code policy that students must follow.
+
+### Japanese Translation
+J-1: 会社は事故を防止するために<u>厳格な</u>安全対策を導入しました。
+J-2: 学校は生徒が従わなければならない<u>厳しい</u>服装規定を持っています。

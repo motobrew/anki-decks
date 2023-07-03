@@ -1,0 +1,8 @@
+# Key:rumble
+### English Sentences
+E-1: I could hear the <u>rumble</u> of thunder in the distance.
+E-2: The crowd erupted in a loud <u>rumble</u> of applause.
+
+### Japanese Translation
+J-1: 遠くで雷の<u>轟音</u>が聞こえました。
+J-2: 人々が大きな拍手の<u>ざわめき</u>で沸き起こりました。

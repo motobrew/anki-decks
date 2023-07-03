@@ -1,0 +1,8 @@
+# Key:precocious
+### English Sentences
+E-1: She was a <u>precocious</u> child who started reading at age three.
+E-2: The <u>precocious</u> young pianist performed a complex piece flawlessly.
+
+### Japanese Translation
+J-1: 彼女は<u>早熟な</u>子供で、三歳で読み始めました。
+J-2: その<u>早熟な</u>若いピアニストは、複雑な曲を完璧に演奏しました。

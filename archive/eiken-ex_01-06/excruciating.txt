@@ -1,0 +1,8 @@
+# Key:excruciating
+### English Sentences
+E-1: The pain in my leg was excruciating after I broke it.
+E-2: The wait for my test results was excruciatingly long.
+
+### Japanese Translation
+J-1: 足を骨折して以来、私の足の痛みは<u>ひどく苦痛</u>でした。
+J-2: テスト結果を待つのは<u>非常に長く苦痛</u>でした。

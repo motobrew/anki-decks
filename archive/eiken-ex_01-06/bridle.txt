@@ -1,0 +1,8 @@
+# Key:bridle
+### English Sentences
+E-1: She struggled to <u>bridle</u> her anger when he insulted her.
+E-2: The teacher had to <u>bridle</u> her excitement when the students surprised her.
+
+### Japanese Translation
+J-1: 彼が彼女を侮辱した時に、彼女は怒りを<u>抑えるのに</u>苦労しました。
+J-2: 生徒たちが彼女に驚きを与えた時、先生は彼女の興奮を<u>抑えなければなりませんでした</u>。

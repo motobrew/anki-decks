@@ -1,0 +1,8 @@
+# Key:epitomize
+### English Sentences
+E-1: The painting <u>epitomizes</u> the essence of beauty and grace.
+E-2: His actions <u>epitomize</u> loyalty and selflessness.
+
+### Japanese Translation
+J-1: その絵は美と優雅さの<u>真髄</u>を象徴しています。
+J-2: 彼の行動は忠誠と無私を<u>体現しています</u>。

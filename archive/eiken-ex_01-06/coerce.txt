@@ -1,0 +1,8 @@
+# Key:coerce
+### English Sentences
+E-1: She <u>coerced</u> him into accepting the job offer.
+E-2: The detective used his charm to <u>coerce</u> the suspect into confessing.
+
+### Japanese Translation
+J-1: 彼女は彼を仕事のオファーを受け入れるように<u>強制しました</u>。
+J-2: 刑事は魅力を使って容疑者を<u>強制して</u>自白させました。

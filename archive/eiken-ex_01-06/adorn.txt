@@ -1,0 +1,8 @@
+# Key:adorn
+### English Sentences
+E-1: She <u>adorns</u> herself with beautiful jewelry for special occasions.
+E-2: The garden is <u>adorned</u> with colorful flowers in the spring.
+
+### Japanese Translation
+J-1: 彼女は特別な場に美しい宝石で身を<u>飾ります</u>。
+J-2: 春には庭が色とりどりの花で<u>飾られています</u>。

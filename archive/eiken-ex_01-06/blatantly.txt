@@ -1,0 +1,8 @@
+# Key:blatantly
+### English Sentences
+E-1: She <u>blatantly</u> ignored his request for help. 
+E-2: He <u>blatantly</u> lied about his whereabouts last night.
+
+### Japanese Translation
+J-1: 彼女は彼の助けを求める要請を<u>明らかに無視しました</u>。
+J-2: 彼は昨夜の居場所に関して<u>露骨に嘘をつきました</u>。

@@ -1,0 +1,8 @@
+# Key:impervious
+### English Sentences
+E-1: She was <u>impervious</u> to criticism and never let it bother her.
+E-2: The new car's windshield is <u>impervious</u> to cracks and scratches.
+
+### Japanese Translation
+J-1: 彼女は批判に<u>無感覚だった</u>し、それに動じることはなかった。
+J-2: 新しい車のフロントガラスはクラックや傷に<u>強い</u>です。

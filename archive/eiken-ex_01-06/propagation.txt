@@ -1,0 +1,8 @@
+# Key:propagation
+### English Sentences
+E-1: The <u>propagation</u> of false information can be dangerous.
+E-2: The <u>propagation</u> of rumors often leads to misunderstandings.
+
+### Japanese Translation
+J-1: 偽情報の<u>流布</u>は危険です。
+J-2: うわさの<u>広まり</u>はしばしば誤解を招きます。

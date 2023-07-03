@@ -1,0 +1,8 @@
+# Key:diffident
+### English Sentences
+E-1: She spoke with a <u>diffident</u> voice, lacking confidence in her abilities.
+E-2: The <u>diffident</u> student hesitated to ask the teacher for help.
+
+### Japanese Translation
+J-1: 彼女は自信に欠けて<u>内気な</u>声で話しました。
+J-2: 内気な生徒は先生に助けを求めることにためらいました。

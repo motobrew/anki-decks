@@ -1,0 +1,8 @@
+# Key:contrive
+### English Sentences
+E-1: She always manages to <u>contrive</u> a way to avoid work.
+E-2: He can <u>contrive</u> the most elaborate excuses for being late.
+
+### Japanese Translation
+J-1: 彼女はいつも仕事を回避する方法を<u>工作する</u>ことができます。
+J-2: 彼は遅刻のための最も緻密な言い訳を<u>でっち上げる</u>ことができます。

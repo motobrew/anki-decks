@@ -1,0 +1,9 @@
+# Key:mesmerize
+## Response
+### English Sentences
+E-1: The magician's tricks <u>mesmerized</u> the entire audience.
+E-2: The beautiful sunset <u>mesmerized</u> me with its vibrant colors.
+
+### Japanese Translation
+J-1: 魔術師のトリックは観客全員を<u>魅了しました</u>。
+J-2: 美しい夕日は鮮やかな色彩で私を<u>とりこにしました</u>。

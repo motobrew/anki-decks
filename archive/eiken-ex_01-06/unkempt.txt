@@ -1,0 +1,8 @@
+# Key:unkempt
+### English Sentences
+E-1: Her hair was <u>unkempt</u>, with tangles and knots.
+E-2: The abandoned house had an <u>unkempt</u> yard overrun with weeds.
+
+### Japanese Translation
+J-1: 彼女の髪は<u>手入れされていなくて</u>、絡まりや結び目があった。
+J-2: 放棄された家の庭は、雑草が繁茂し<u>手入れされていない</u>状態だった。

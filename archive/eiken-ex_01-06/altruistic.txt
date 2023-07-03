@@ -1,0 +1,8 @@
+# Key:altruistic
+### English Sentences
+E-1: She devoted her entire life to <u>altruistic</u> acts of charity.
+E-2: The billionaire philanthropist is known for his <u>altruistic</u> donations to various causes.
+
+### Japanese Translation
+J-1: 彼女は一生を<u>利他的</u>な慈善活動に捧げました。
+J-2: その億万長者の慈善家は、様々な目的への<u>利他的</u>な寄付で知られています。

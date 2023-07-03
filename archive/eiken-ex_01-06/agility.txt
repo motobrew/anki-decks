@@ -1,0 +1,8 @@
+# Key:agility
+### English Sentences
+E-1: His <u>agility</u> on the basketball court is impressive, he can move quickly and change direction effortlessly.
+E-2: The dancer showcased their incredible <u>agility</u> as they flawlessly executed a series of difficult moves.
+
+### Japanese Translation
+J-1: 彼のバスケットボールコートでの<u>俊敏さ</u>は素晴らしいです。彼は素早く動き回り、軽々と方向を変えることができます。
+J-2: 踊り手は驚異的な<u>アジリティ</u>を披露しました。彼らは難しい動きを完璧に実行しました。

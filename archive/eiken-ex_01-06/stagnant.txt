@@ -1,0 +1,8 @@
+# Key:stagnant
+### English Sentences
+E-1: The economy has been in a <u>stagnant</u> state for years.
+E-2: Her career progress has been <u>stagnant</u> since she changed jobs.
+
+### Japanese Translation
+J-1: 経済は何年も<u>停滞状態</u>です。
+J-2: 彼女のキャリアは転職後<u>停滞</u>しています。

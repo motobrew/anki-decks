@@ -1,0 +1,8 @@
+# Key:blemish
+### English Sentences
+E-1: Her flawless complexion was marred by a small <u>blemish</u> on her cheek.
+E-2: The actor's controversial behavior was a <u>blemish</u> on his otherwise stellar reputation.
+
+### Japanese Translation
+J-1: 彼女の完璧な肌色が、頬の小さな<u>傷</u>で損なわれていました。
+J-2: その俳優の物議を醸す行動は、彼の立派な評判に<u>汚点</u>となりました。

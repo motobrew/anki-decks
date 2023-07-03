@@ -1,0 +1,8 @@
+# Key:preemptive
+### English Sentences
+E-1: I took a <u>preemptive</u> approach and completed the task ahead of schedule.
+E-2: The company launched a <u>preemptive</u> strike to prevent a competitor from entering the market.
+
+### Japanese Translation
+J-1: 私は<u>先手</u>を打ち、予定よりも早くタスクを完了しました。
+J-2: その会社は、競合他社の市場参入を防ぐために<u>先制攻撃</u>を行いました。

@@ -1,0 +1,8 @@
+# Key:vanity
+### English Sentences
+E-1: Her constant posting on social media is just a <u>vanity</u> project.
+E-2: He spent hours getting ready, but it was all for <u>vanity</u>'s sake.
+
+### Japanese Translation
+J-1: 彼女のSNSでの常連投稿は単なる<u>自己満足の</u>一環です。
+J-2: 彼は時間をかけて準備をしましたが、それはすべて<u>見栄え</u>のためだけでした。

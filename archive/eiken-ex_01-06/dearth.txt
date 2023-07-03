@@ -1,0 +1,8 @@
+# Key:dearth
+### English Sentences
+E-1: There is a <u>dearth</u> of qualified candidates for the job opening.
+E-2: The recent drought has caused a <u>dearth</u> in food supplies.
+
+### Japanese Translation
+J-1: その求人には適格な候補者が<u>不足</u>しています。
+J-2: 最近の干ばつによって食料供給が<u>不足</u>しています。

@@ -1,0 +1,8 @@
+# Key:fruition
+### English Sentences
+E-1: The project is finally coming to <u>fruition</u> after months of hard work.
+E-2: After years of planning, their dream of opening a restaurant is finally coming to <u>fruition</u>.
+
+### Japanese Translation
+J-1: 数か月の努力の末、ついにプロジェクトが<u>実現する</u>予定です。
+J-2: 何年もの計画の末、彼らがレストランを開くという夢がついに<u>実現する</u>ことになりました。

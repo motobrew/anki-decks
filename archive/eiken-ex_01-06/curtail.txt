@@ -1,0 +1,8 @@
+# Key:curtail
+### English Sentences
+E-1: The company <u>curtailed</u> their expenses in order to save money.
+E-2: The government had to <u>curtail</u> the citizens' freedom during the lockdown.
+
+### Japanese Translation
+J-1: 会社は費用を節約するために<u>削減しました</u>。
+J-2: 政府はロックダウン中に市民の自由を<u>制限する</u>必要がありました。

@@ -1,0 +1,8 @@
+# Key:recuperate
+### English Sentences
+E-1: It will take some time for him to <u>recuperate</u> from the surgery.
+E-2: After a long day at work, she enjoys taking a vacation to <u>recuperate</u>.
+
+### Japanese Translation
+J-1: 彼が手術から<u>回復する</u>には時間がかかるでしょう。
+J-2: 仕事の長い一日の後、彼女は休暇をとって<u>回復することを</u>楽しんでいます。

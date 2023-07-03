@@ -1,0 +1,8 @@
+# Key:innuendo
+### English Sentences
+E-1: There was a lot of <u>innuendo</u> in their conversation, hinting at something more.
+E-2: The politician made an <u>innuendo</u> about his opponent's personal life.
+
+### Japanese Translation
+J-1: 彼らの会話には<u>ウインク</u>が多くあり、何かをほのめかしていました。
+J-2: 政治家が相手のプライベートな生活に<u>ほのめかしを</u>しました。

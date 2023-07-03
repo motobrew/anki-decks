@@ -1,0 +1,8 @@
+# Key:omen
+### English Sentences
+E-1: The dark clouds were an <u>omen</u> of an approaching storm.
+E-2: Seeing a black cat crossing your path is considered a bad <u>omen</u>.
+
+### Japanese Translation
+J-1: 暗い雲は近づく嵐の<u>前触れ</u>でした。
+J-2: 黒猫が道を横切るのは悪い<u>前兆</u>とされています。

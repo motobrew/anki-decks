@@ -1,0 +1,8 @@
+# Key:nomadic
+### English Sentences
+E-1: I envy the <u>nomadic</u> lifestyle of those who travel the world.
+E-2: The <u>nomadic</u> tribe wandered the desert in search of water.
+
+### Japanese Translation
+J-1: 世界を旅する人々の<u>放浪的な</u>ライフスタイルに羨望を抱く。
+J-2: <u>遊牧</u>民族は水を求めて砂漠を彷徨った。

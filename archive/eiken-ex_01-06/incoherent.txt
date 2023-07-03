@@ -1,0 +1,8 @@
+# Key:incoherent
+### English Sentences
+E-1: His speech was so <u>incoherent</u> that I couldn't understand anything he said.
+E-2: The teacher's explanation was <u>incoherent</u> and left the students confused.
+
+### Japanese Translation
+J-1: 彼のスピーチはとても<u>不連続な</u>もので、何を言っているのか理解できませんでした。
+J-2: 先生の説明は<u>まとまりのない</u>もので、生徒たちを混乱させました。

@@ -1,0 +1,8 @@
+# Key:cinch
+### English Sentences
+E-1: Finding a parking spot in this area is usually a <u>cinch</u>.
+E-2: With her experience, winning the competition was a <u>cinch</u>.
+
+### Japanese Translation
+J-1: この地域で駐車場を見つけるのは普通は<u>簡単なことです</u>。
+J-2: 彼女の経験を持っていれば、競技に勝つのは<u>手ごろなものです</u>。

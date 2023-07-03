@@ -1,0 +1,8 @@
+# Key:enmity
+### English Sentences
+E-1: There has always been <u>enmity</u> between the two rival gangs.
+E-2: Their <u>enmity</u> towards each other was evident from their hostile exchange.
+
+### Japanese Translation
+J-1: 二つのライバルギャングの間には常に<u>敵意</u>があります。
+J-2: 彼らの相互の<u>敵意</u>は、敵対的なやりとりから明らかでした。

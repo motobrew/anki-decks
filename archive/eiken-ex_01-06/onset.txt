@@ -1,0 +1,8 @@
+# Key:onset
+### English Sentences
+E-1: The <u>onset</u> of winter brings cold weather and snow.
+E-2: The <u>onset</u> of the pandemic led to widespread lockdowns.
+
+### Japanese Translation
+J-1: 冬の<u>到来</u>で寒さと雪がやってきます。
+J-2: パンデミックの<u>始まり</u>により、広範な封鎖が行われました。

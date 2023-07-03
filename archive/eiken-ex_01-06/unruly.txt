@@ -1,0 +1,8 @@
+# Key:unruly
+### English Sentences
+E-1: The <u>unruly</u> crowd at the concert caused chaos and disturbance.
+E-2: The teacher struggled to control the <u>unruly</u> students in the classroom.
+
+### Japanese Translation
+J-1: コンサートでの<u>暴れん坊な</u>観客が混乱と騒乱を引き起こしました。
+J-2: 先生は教室で<u>手に負えない</u>生徒たちを制御するのに苦労しました。

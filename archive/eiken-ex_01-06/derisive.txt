@@ -1,0 +1,8 @@
+# Key:derisive
+### English Sentences
+E-1: The audience responded with <u>derisive</u> laughter when the comedian bombed.
+E-2: Her <u>derisive</u> comments about his outfit hurt his feelings.
+
+### Japanese Translation
+J-1: コメディアンが失敗したとき、観客は嘲笑を浴びせました。
+J-2: 彼女の服についての嘲笑的な発言は、彼の気持ちを傷つけました。

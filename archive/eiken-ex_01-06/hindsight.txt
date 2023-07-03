@@ -1,0 +1,8 @@
+# Key:hindsight
+### English Sentences
+E-1: In <u>hindsight</u>, I should have invested in that company.
+E-2: With <u>hindsight</u>, I realize that I should have studied harder.
+
+### Japanese Translation
+J-1: <u>後知恵</u>で言えば、その会社に投資すべきだったと思います。
+J-2: <u>後知恵</u>として、もっと一生懸命勉強すべきだったと気付きました。

@@ -1,0 +1,8 @@
+# Key:defunct
+### English Sentences
+E-1: The <u>defunct</u> store was once a popular shopping destination.
+E-2: The company went bankrupt, leaving behind a <u>defunct</u> website.
+
+### Japanese Translation
+J-1: その<u>廃業した</u>店舗はかつて人気のある買い物スポットでした。
+J-2: その会社は倒産し、<u>廃業した</u>ウェブサイトが残されました。

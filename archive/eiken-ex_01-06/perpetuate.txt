@@ -1,0 +1,8 @@
+# Key:perpetuate
+### English Sentences
+E-1: The news media can sometimes <u>perpetuate</u> stereotypes and biases.
+E-2: The constant use of social media can <u>perpetuate</u> a sense of comparison and self-doubt.
+
+### Japanese Translation
+J-1: ニュースメディアは時々、ステレオタイプや偏見を<u>固定化</u>させることがあります。
+J-2: ソーシャルメディアの頻繁な使用は、比較や自己疑問を<u>長引かせること</u>があります。

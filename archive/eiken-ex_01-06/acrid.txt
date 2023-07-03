@@ -1,0 +1,8 @@
+# Key:acrid
+### English Sentences
+E-1: The <u>acrid</u> smell of smoke filled the air after the fire.
+E-2: They had an <u>acrid</u> argument that left them not speaking to each other.
+
+### Japanese Translation
+J-1: 火事の後、空気は煙の<u>刺すような</u>臭いで充満しました。
+J-2: 彼らは<u>辛辣な</u>口論をし、互いに話さなくなりました。

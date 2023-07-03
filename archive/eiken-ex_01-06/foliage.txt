@@ -1,0 +1,8 @@
+# Key:foliage
+### English Sentences
+E-1: The autumn trees displayed beautiful <u>foliage</u> in vibrant shades.
+E-2: The hiker was amazed by the lush <u>foliage</u> in the tropical rainforest.
+
+### Japanese Translation
+J-1: 秋の木々は鮮やかな色合いで美しい<u>葉っぱ</u>を見せていました。
+J-2: ハイカーは熱帯雨林の豊かな<u>植物の葉</u>に驚きました。

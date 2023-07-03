@@ -1,0 +1,8 @@
+# Key:infatuated
+### English Sentences
+E-1: She was <u>infatuated</u> with him the moment they met.
+E-2: His <u>infatuation</u> with power led him down a dangerous path.
+
+### Japanese Translation
+J-1: 彼らが出会った瞬間から、彼女は彼に<u>夢中でした</u>。
+J-2: 権力への<u>執着心</u>が彼を危険な道に導きました。

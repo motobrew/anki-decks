@@ -1,0 +1,8 @@
+# Key:encroach
+### English Sentences
+E-1: The construction of the new mall <u>encroached</u> on the neighboring park.
+E-2: The invasive plant species <u>encroached</u> on the native ecosystem.
+
+### Japanese Translation
+J-1: 新しいモールの建設が、隣の公園に<u>侵入した</u>。
+J-2: 侵略的な植物種が、固有の生態系に<u>侵入した</u>。

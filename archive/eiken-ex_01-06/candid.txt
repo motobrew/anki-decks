@@ -1,0 +1,8 @@
+# Key:candid
+### English Sentences
+E-1: She gave a <u>candid</u> response during the interview.
+E-2: The documentary provided a <u>candid</u> glimpse into their personal lives.
+
+### Japanese Translation
+J-1: 彼女はインタビューで<u>率直な</u>回答をした。
+J-2: そのドキュメンタリーは彼らの私生活を<u>包み隠さず</u>見せてくれた。

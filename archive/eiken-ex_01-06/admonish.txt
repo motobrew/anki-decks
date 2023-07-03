@@ -1,0 +1,8 @@
+# Key:admonish
+### English Sentences
+E-1: She <u>admonished</u> her children to finish their homework before dinner.
+E-2: The teacher <u>admonished</u> the students for talking during the test.
+
+### Japanese Translation
+J-1: 彼女は子供たちに夕食前に宿題を終わらせるよう<u>注意した</u>。
+J-2: 教師はテスト中に話をしていた生徒たちに<u>叱責した</u>。

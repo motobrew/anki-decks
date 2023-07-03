@@ -1,0 +1,8 @@
+# Key:tarnish
+### English Sentences
+E-1: This scandal will <u>tarnish</u> his reputation as a politician.
+E-2: The company's unethical practices have <u>tarnished</u> its brand image.
+
+### Japanese Translation
+J-1: このスキャンダルは彼の政治家としての評判を<u>傷つける</u>だろう。
+J-2: その会社の非倫理的な慣行は、ブランドイメージを<u>損なった</u>。

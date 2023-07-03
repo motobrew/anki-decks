@@ -1,0 +1,8 @@
+# Key:accrue
+### English Sentences
+E-1: Interest <u>accrues</u> on the balance of your savings account.
+E-2: Over time, the benefits of regular exercise <u>accrue</u> to your overall health.
+
+### Japanese Translation
+J-1: 貯蓄口座の残高に<u>利子がつきます</u>。
+J-2: 時間の経過とともに、定期的な運動の利点が全体的な健康に<u>加わります</u>。

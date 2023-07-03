@@ -1,0 +1,8 @@
+# Key:lethal
+### English Sentences
+E-1: The <u>lethal</u> dose of the medicine is clearly marked on the bottle.
+E-2: The storm had a <u>lethal</u> impact on the coastal towns.
+
+### Japanese Translation
+J-1: 薬のボトルには、<u>致命的な</u>服用量が明記されています。
+J-2: その嵐は沿岸の町に<u>致命的な</u>影響を与えました。

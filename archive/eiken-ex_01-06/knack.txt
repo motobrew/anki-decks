@@ -1,0 +1,8 @@
+# Key:knack
+### English Sentences
+E-1: She has a <u>knack</u> for solving difficult math problems quickly.
+E-2: He seems to have a <u>knack</u> for making people feel comfortable around him.
+
+### Japanese Translation
+J-1: 彼女は難しい数学の問題を素早く解く<u>才能</u>があります。
+J-2: 彼は人を自分の周りで快適に感じさせる<u>才能</u>を持っているようです。

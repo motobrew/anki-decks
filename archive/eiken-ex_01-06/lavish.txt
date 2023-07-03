@@ -1,0 +1,8 @@
+# Key:lavish
+### English Sentences
+E-1: She threw a <u>lavish</u> party to celebrate her promotion.
+E-2: The couple went on a <u>lavish</u> vacation in the Maldives.
+
+### Japanese Translation
+J-1: 彼女は昇進を祝うために豪華なパーティーを開いた。
+J-2: そのカップルはモルディブで豪華なバケーションに行った。

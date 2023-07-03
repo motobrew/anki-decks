@@ -1,0 +1,8 @@
+# Key:condone
+### English Sentences
+E-1: We do not <u>condone</u> cheating in this school.
+E-2: The company does not <u>condone</u> any form of discrimination.
+
+### Japanese Translation
+J-1: この学校では、不正行為は<u>容認しません</u>。
+J-2: 会社はいかなる形態の差別も<u>許容しません</u>。

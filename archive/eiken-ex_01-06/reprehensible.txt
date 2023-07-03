@@ -1,0 +1,8 @@
+# Key:reprehensible
+### English Sentences
+E-1: The company's <u>reprehensible</u> actions led to their downfall.
+E-2: The politician's <u>reprehensible</u> behavior caused a public outcry.
+
+### Japanese Translation
+J-1: その会社の<u>非難されるべき</u>行動が彼らの没落を引き起こしました。
+J-2: その政治家の<u>非難されるべき</u>行為が大衆の怒りを引き起こしました。

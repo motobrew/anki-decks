@@ -1,0 +1,8 @@
+# Key:squander
+### English Sentences
+E-1: She <u>squandered</u> her inheritance on lavish vacations and shopping sprees.
+E-2: We shouldn't <u>squander</u> this opportunity to make a positive change.
+
+### Japanese Translation
+J-1: 彼女は贅沢なバカンスと買い物漫遊に彼女の相続財産を<u>浪費しました</u>。
+J-2: 私たちはこのポジティブな変化を実現するためにこの機会を<u>無駄にすべきではありません</u>。

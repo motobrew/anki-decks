@@ -1,0 +1,8 @@
+# Key:forge
+### English Sentences
+E-1: He managed to <u>forge</u> a strong bond with his coworkers.
+E-2: The artist was able to <u>forge</u> a successful career in the industry.
+
+### Japanese Translation
+J-1: 彼は同僚との強い絆を<u>築き上げる</u>ことに成功しました。
+J-2: そのアーティストは業界で成功したキャリアを<u>築く</u>ことができました。

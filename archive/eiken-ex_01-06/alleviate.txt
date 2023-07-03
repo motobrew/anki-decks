@@ -1,0 +1,8 @@
+# Key:alleviate
+### English Sentences
+E-1: The new medication helped to <u>alleviate</u> her chronic pain.
+E-2: The donation was able to <u>alleviate</u> some of the financial burden.
+
+### Japanese Translation
+J-1: 新しい薬は、彼女の慢性的な痛みを<u>軽減するのに</u>役立ちました。
+J-2: 寄付金は、一部の負担を<u>軽減することが</u>できました。

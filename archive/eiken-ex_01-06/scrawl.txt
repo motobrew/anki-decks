@@ -1,0 +1,8 @@
+# Key:scrawl
+### English Sentences
+E-1: I tried to read the <u>scrawl</u> on the wall, but it was illegible.
+E-2: His handwriting was messy and resembled a <u>scrawl</u>.
+
+### Japanese Translation
+J-1: 壁の<u>落書き</u>を読もうとしたけど、判読不能でした。
+J-2: 彼の字は汚くて、<u>ごちゃ混ぜの筆跡</u>に似ていました。

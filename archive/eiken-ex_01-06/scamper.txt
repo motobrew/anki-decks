@@ -1,0 +1,8 @@
+# Key:scamper
+### English Sentences
+E-1: The children <u>scampered</u> outside as soon as school was dismissed.
+E-2: I could hear the sound of the squirrel <u>scampering</u> across the roof.
+
+### Japanese Translation
+J-1: 学校が終わるとすぐに子供たちが外に<u駆け出し</u>ました。
+J-2: 私はリスが屋根を<u>素早く走り回る</u>音が聞こえました。

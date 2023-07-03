@@ -1,0 +1,8 @@
+# Key:turmoil
+### English Sentences
+E-1: The country was in <u>turmoil</u> after the sudden announcement of the president's resignation.
+E-2: The company's financials were in <u>turmoil</u> following the bankruptcy of their largest client.
+
+### Japanese Translation
+J-1: 大統領の辞任の突然の発表により、その国は<u>混乱状態</u>に陥った。
+J-2: 最大のクライアントの倒産に伴い、その会社の財務状況は<u>混乱状態</u>になった。

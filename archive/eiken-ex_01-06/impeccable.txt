@@ -1,0 +1,8 @@
+# Key:impeccable
+### English Sentences
+E-1: Her taste in fashion is <u>impeccable</u>; she always looks elegant.
+E-2: The chef's culinary skills are <u>impeccable</u>; every dish is perfection.
+
+### Japanese Translation
+J-1: 彼女のファッションセンスは<u>申し分ない</u>です。彼女はいつもエレガントな服装をしています。
+J-2: そのシェフの料理の腕前は<u>完璧</u>です。どの料理も完璧な出来栄えです。

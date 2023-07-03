@@ -1,0 +1,8 @@
+# Key:exquisite
+### English Sentences
+E-1: The chef prepared an <u>exquisite</u> dish with delicate flavors.
+E-2: The art gallery showcased an <u>exquisite</u> collection of fine paintings.
+
+### Japanese Translation
+J-1: シェフは繊細な味わいのある、<u>極上</u>の料理を用意しました。
+J-2: その美術館は、<u>素晴らしい</u>絵画のコレクションを展示しました。

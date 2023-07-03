@@ -1,0 +1,8 @@
+# Key:relegate
+### English Sentences
+E-1: Many websites <u>relegate</u> their less popular articles to the bottom of the page. 
+E-2: The company decided to <u>relegate</u> the outdated product to the clearance section.
+
+### Japanese Translation
+J-1: 多くのウェブサイトは、人気のない記事をページの一番下に<u>配置しています</u>。
+J-2: その企業は、時代遅れの製品をセール品コーナーに<u>追いやることにしました</u>。

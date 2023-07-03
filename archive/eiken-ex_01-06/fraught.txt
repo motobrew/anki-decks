@@ -1,0 +1,8 @@
+# Key:fraught
+### English Sentences
+E-1: The conversation was <u>fraught</u> with tension and awkwardness.
+E-2: The negotiations were <u>fraught</u> with difficulties and disagreements.
+
+### Japanese Translation
+J-1: その会話は緊張と気まずさで<u>満ち満ちていた</u>。
+J-2: 交渉は困難と意見の相違で<u>満ちた</u>。

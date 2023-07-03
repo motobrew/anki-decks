@@ -1,0 +1,6 @@
+# Key:retention
+E-1: The <u>retention</u> of customers is essential for business growth.
+E-2: Regular practice is important for the <u>retention</u> of information.
+
+J-1: 顧客の<u>維持</u>はビジネスの成長に不可欠です。
+J-2: 情報の<u>保持</u>には定期的な練習が重要です。

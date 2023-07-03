@@ -1,0 +1,8 @@
+# Key:precursor
+### English Sentences
+E-1: The discovery of fire is considered a <u>precursor</u> to modern civilization.
+E-2: The politician's controversial statement was seen as a <u>precursor</u> to his eventual downfall.
+
+### Japanese Translation
+J-1: 火の発見は、現代文明の<u>先駆け</u>と考えられています。
+J-2: その政治家の物議をかもした発言は、彼の最終的な失脚の<u>前触れ</u>と見なされました。

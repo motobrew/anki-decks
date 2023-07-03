@@ -1,0 +1,8 @@
+# Key:perfunctory
+### English Sentences
+E-1: The presentation was rushed and only gave a <u>perfunctory</u> overview.
+E-2: The employee performed the task with a <u>perfunctory</u> attitude.
+
+### Japanese Translation
+J-1: プレゼンテーションは急いでいて、ただの概要の<u>形だけ</u>でした。
+J-2: 社員はおざなりな態度で仕事を行いました。

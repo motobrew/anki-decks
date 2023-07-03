@@ -1,0 +1,8 @@
+# Key:override
+### English Sentences
+E-1: The CEO decided to <u>override</u> the committee's decision.
+E-2: His desire to win was so strong that it <u>overrode</u> his fear of failure.
+
+### Japanese Translation
+J-1: CEOは委員会の決定を<u>覆す</u>ことに決めました。
+J-2: 彼の勝利への欲望は失敗する恐怖を<u>上回りました</u>。

@@ -1,0 +1,8 @@
+# Key:clench
+### English Sentences
+E-1: She couldn't help but <u>clench</u> her fists in anger.
+E-2: The suspense made his jaw <u>clench</u> tightly.
+
+### Japanese Translation
+J-1: 彼女は怒りで拳を<u>握りしめて</u>しまいました。
+J-2: 緊張感で彼の顎が<u>きつくかみ締まりました</u>。

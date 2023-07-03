@@ -1,0 +1,8 @@
+# Key:lurk
+### English Sentences
+E-1: I like to <u>lurk</u> on social media and see what everyone is up to.
+E-2: Online forums are a great place to <u>lurk</u> and gather information.
+
+### Japanese Translation
+J-1: 私はソーシャルメディアで<u>忍び寄る</u>のが好きで、皆が何をしているか見ています。
+J-2: オンラインのフォーラムは、情報を<u>探り出す</u>のに最適な場所です。

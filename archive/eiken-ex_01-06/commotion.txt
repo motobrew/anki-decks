@@ -1,0 +1,8 @@
+# Key:commotion
+### English Sentences
+E-1: There was a <u>commotion</u> when the celebrity arrived at the event.
+E-2: The children were causing a <u>commotion</u> in the classroom.
+
+### Japanese Translation
+J-1: そのイベントに有名人が到着すると<u>騒ぎ</u>が起きた。
+J-2: 子供たちは教室で<u>騒ぎ</u>を起こしていました。

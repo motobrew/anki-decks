@@ -1,0 +1,8 @@
+# Key:glut
+### English Sentences
+E-1: A <u>glut</u> of job applicants made it difficult to find qualified candidates.
+E-2: The holiday sales led to a <u>glut</u> of discounted merchandise.
+
+### Japanese Translation
+J-1: 多くの求職者の<u>殺到</u>により、適任者を見つけるのが困難でした。
+J-2: ホリデーセールにより、割引商品が<u>大量に</u>出回りました。

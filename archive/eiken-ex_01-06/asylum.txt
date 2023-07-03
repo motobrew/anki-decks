@@ -1,0 +1,8 @@
+# Key:asylum
+### English Sentences
+E-1: Seeking <u>asylum</u> in a foreign country, the refugees hoped for safety.
+E-2: The writer found <u>asylum</u> in the peaceful mountains, away from distractions.
+
+### Japanese Translation
+J-1: 外国で<u>亡命</u>を求める難民たちは安全を願っていました。
+J-2: 作家は静かな山々で<u>避難所</u>を見つけ、邪魔されることなく時間を過ごしました。

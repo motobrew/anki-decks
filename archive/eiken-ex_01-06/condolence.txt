@@ -1,0 +1,8 @@
+# Key:condolence
+### English Sentences
+E-1: I sent a card to express my <u>condolences</u> for your loss.
+E-2: The entire community gathered to offer their <u>condolence</u> to the grieving family.
+
+### Japanese Translation
+J-1: 私はあなたの失われた人に対する<u>哀悼の意を表す</u>カードを送りました。
+J-2: 全コミュニティが、悲しむ家族に<u>お悔やみを伝えるために集まりました</u>。

@@ -1,0 +1,8 @@
+# Key:fluctuate
+### English Sentences
+E-1: The prices of stocks <u>fluctuate</u> daily in the stock market.
+E-2: The weather in this region can <u>fluctuate</u> drastically throughout the day.
+
+### Japanese Translation
+J-1: 株式の価格は株式市場で毎日<u>変動します</u>。
+J-2: この地域の天気は一日中<u>急激に変動することがあります</u>。

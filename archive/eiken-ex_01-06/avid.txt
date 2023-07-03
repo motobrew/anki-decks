@@ -1,0 +1,8 @@
+# Key:avid
+### English Sentences
+E-1: I am an <u>avid</u> reader and I finish multiple books every month.
+E-2: She is an <u>avid</u> collector of vintage vinyl records.
+
+### Japanese Translation
+J-1: 私は本を<u>熱心に</u>読むので、毎月複数の本を読み終えます。
+J-2: 彼女はヴィンテージのレコードを<u>熱心に</u>集めています。

@@ -1,0 +1,8 @@
+# Key:cohesive
+### English Sentences
+E-1: The team worked together to create a <u>cohesive</u> presentation.
+E-2: The novel lacked a <u>cohesive</u> plot and was confusing to read.
+
+### Japanese Translation
+J-1: チームは協力して<u>一貫性のある</u>プレゼンテーションを作成しました。
+J-2: その小説には<u>統一感のある</u>プロットがなく、読みにくかったです。

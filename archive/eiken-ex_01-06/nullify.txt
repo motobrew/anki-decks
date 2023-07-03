@@ -1,0 +1,8 @@
+# Key:nullify
+### English Sentences
+E-1: The lawyer's argument managed to <u>nullify</u> the evidence against his client.
+E-2: The cancellation of the event <u>nullified</u> all the preparations that had been made.
+
+### Japanese Translation
+J-1: 弁護士の主張によって、彼のクライアントに対する証拠が<u>無効化</u>されました。
+J-2: イベントの中止によって、準備が<u>無効化</u>されてしまいました。

@@ -1,0 +1,8 @@
+# Key:rift
+### English Sentences
+E-1: There was a <u>rift</u> between the two friends after the argument.
+E-2: The scandal caused a <u>rift</u> in the company's reputation.
+
+### Japanese Translation
+J-1: 友達同士の口論後、彼らの間に<u>亀裂が生じました</u>。
+J-2: スキャンダルが会社の評判に<u>亀裂をもたらしました</u>。

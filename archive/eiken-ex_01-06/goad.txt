@@ -1,0 +1,8 @@
+# Key:goad
+### English Sentences
+E-1: The constant teasing finally goaded him into a fight.
+E-2: Her words were like a goad, pushing him to work harder.
+
+### Japanese Translation
+J-1: 絶え間ないからかいがとうとう彼を喧嘩に駆り立てた。
+J-2: 彼女の言葉は彼にとって駆り立てる鞭のようで、彼を一層頑張らせた。

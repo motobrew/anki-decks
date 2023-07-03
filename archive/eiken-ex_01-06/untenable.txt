@@ -1,0 +1,8 @@
+# Key:untenable
+### English Sentences
+E-1: The company's financial situation became <u>untenable</u> and they had to declare bankruptcy.
+E-2: The constant fighting made their relationship <u>untenable</u> and they decided to break up.
+
+### Japanese Translation
+J-1: 会社の財務状況が<u>持ちこたえられない</u>状態になり、破産を申告せざるを得なくなった。
+J-2: 絶え間ない喧嘩が関係を<u>維持できない</u>状態にし、別れることになった。

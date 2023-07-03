@@ -1,0 +1,8 @@
+# Key:culminate
+### English Sentences
+E-1: The intense training sessions will <u>culminate</u> in a final performance.
+E-2: Years of hard work and dedication <u>culminated</u> in her receiving the prestigious award.
+
+### Japanese Translation
+J-1: 激しいトレーニングが最終的なパフォーマンスで<u>最高潮に達する</u>でしょう。
+J-2: 長年の努力と献身が彼女が名誉ある賞を<u>獲得することに結実しました</u>。

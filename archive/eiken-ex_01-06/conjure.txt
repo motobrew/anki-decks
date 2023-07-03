@@ -1,0 +1,8 @@
+# Key:conjure
+### English Sentences
+E-1: The magician was able to <u>conjure</u> a rabbit out of thin air.
+E-2: The author's words were able to <u>conjure</u> up vivid images in my mind.
+
+### Japanese Translation
+J-1: 魔術師は空中から兎を<u>魔法で出現させる</u>ことができました。
+J-2: その作家の言葉は私の心に生き生きとしたイメージを<u>引き起こす</u>ことができました。

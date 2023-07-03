@@ -1,0 +1,8 @@
+# Key:resurgence
+### English Sentences
+E-1: The city experienced a <u>resurgence</u> in tourism after hosting the Olympics.
+E-2: The band's new album led to a <u>resurgence</u> in their popularity.
+
+### Japanese Translation
+J-1: オリンピックの開催後、その都市は観光業に<u>復活</u>を経験しました。
+J-2: そのバンドの新しいアルバムは、彼らの人気の<u>復活</u>につながりました。

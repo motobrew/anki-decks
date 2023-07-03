@@ -1,0 +1,8 @@
+# Key:fret
+### English Sentences
+E-1: I'm not going to <u>fret</u> about something that is out of my control.
+E-2: She refused to <u>fret</u> over the small mistakes in her presentation.
+
+### Japanese Translation
+J-1: 私は自分のコントロールの外のことに<u>悩まない</u>つもりです。
+J-2: 彼女はプレゼンテーションの小さなミスに<u>こだわらない</u>ことにしました。

@@ -1,0 +1,8 @@
+# Key:nudge
+### English Sentences
+E-1: I gave him a little <u>nudge</u> to remind him about the meeting.
+E-2: The book provides a gentle <u>nudge</u> to start making healthier choices.
+
+### Japanese Translation
+J-1: ミーティングのことを思い出させるために、彼に少し<u>促し</u>をかけました。
+J-2: その本は、より健康的な選択を始めるための軽い<u>きっかけ</u>を提供しています。

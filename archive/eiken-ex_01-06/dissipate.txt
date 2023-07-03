@@ -1,0 +1,8 @@
+# Key:dissipate
+### English Sentences
+E-1: The tension in the room will dissipate once the meeting is over.
+E-2: The anger she felt towards him gradually dissipated over time.
+
+### Japanese Translation
+J-1: 会議が終わると、部屋の緊張感は<u>ほぼ消える</u>でしょう。
+J-2: 彼女が彼に対して感じていた怒りは、時間の経過とともに<u>次第に薄れていきました</u>。

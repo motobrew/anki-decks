@@ -1,0 +1,8 @@
+# Key:consecrate
+### English Sentences
+E-1: The church was <u>consecrated</u> by the bishop during the ceremony.
+E-2: The new park was <u>consecrated</u> with a ribbon-cutting ceremony.
+
+### Japanese Translation
+J-1: 司教が式の間に教会を<コンセクレート></コンセクレート>しました。
+J-2: 新しい公園は、リボンカット式で<コンセクレート></コンセクレート>されました。

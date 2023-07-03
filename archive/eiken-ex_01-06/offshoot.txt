@@ -1,0 +1,8 @@
+# Key:offshoot
+### English Sentences
+E-1: The company was started as an <u>offshoot</u> of a larger corporation.
+E-2: The book is an <u>offshoot</u> of a popular television series.
+
+### Japanese Translation
+J-1: その企業は、大手企業の<u>副産物</u>として設立されました。
+J-2: その本は、人気のあるテレビシリーズの<u>派生物</u>です。

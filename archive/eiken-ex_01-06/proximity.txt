@@ -1,0 +1,8 @@
+# Key:proximity
+### English Sentences
+E-1: The store's <u>proximity</u> to my house makes it convenient for me to shop there.
+E-2: His <u>proximity</u> to power has given him a lot of influence.
+
+### Japanese Translation
+J-1: その店の<u>近さ</u>が私の家に便利で、そこで買い物することができます。
+J-2: 彼の権力への<u>近さ</u>は彼に多くの影響力を与えています。

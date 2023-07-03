@@ -1,0 +1,8 @@
+# Key:botch
+### English Sentences
+E-1: He <u>botched</u> the job by forgetting a crucial step.
+E-2: The surgeon <u>botched</u> the operation, causing complications for the patient.
+
+### Japanese Translation
+J-1: 彼は重要な手順を忘れ、仕事を<u>台無しにしました</u>。
+J-2: 外科医が手術を<u>しくじり</u>、患者に合併症を引き起こしました。

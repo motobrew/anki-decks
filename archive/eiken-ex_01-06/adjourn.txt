@@ -1,0 +1,8 @@
+# Key:adjourn
+### English Sentences
+E-1: The meeting will <u>adjourn</u> until next week due to scheduling conflicts.
+E-2: The judge decided to <u>adjourn</u> the trial until further evidence was presented.
+
+### Japanese Translation
+J-1: スケジュールの都合で、会議は<u>延期</u>されます。
+J-2: 証拠が提示されるまで、裁判は<u>一時中断</u>されることになりました。

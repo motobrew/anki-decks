@@ -1,0 +1,8 @@
+# Key:immaculate
+### English Sentences
+E-1: Her house is always <u>immaculate</u> - not a speck of dust anywhere.
+E-2: The presentation was <u>immaculate</u> - not a single error or mistake.
+
+### Japanese Translation
+J-1: 彼女の家はいつも<u>完璧な状態です</u> - どこにもほこりがない。
+J-2: プレゼンテーションは<u>非の打ちどころのない</u>ものでした - エラーやミスが一つもありませんでした。

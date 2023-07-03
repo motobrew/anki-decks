@@ -1,0 +1,8 @@
+# Key:somber
+### English Sentences
+E-1: The funeral was a somber occasion, filled with sadness and grief.
+E-2: He had a somber expression on his face, reflecting his deep sorrow.
+
+### Japanese Translation
+J-1: 葬式は悲しみと悲嘆に満ちた<u>重い</u>場でした。
+J-2: 彼の顔は<u>深い</u>悲しみを反映して、暗い表情でした。

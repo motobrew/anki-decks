@@ -1,0 +1,8 @@
+# Key:quaint
+### English Sentences
+E-1: The streets of the old town are lined with <u>quaint</u> shops and cafes.
+E-2: We stayed in a <u>quaint</u> little cottage by the sea during our vacation.
+
+### Japanese Translation
+J-1: 古い街の通りには、風変わりな店舗やカフェが並んでいます。
+J-2: 私たちは休暇中、海辺の風変わりな小さなコテージに泊まりました。

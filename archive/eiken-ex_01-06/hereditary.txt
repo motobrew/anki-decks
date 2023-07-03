@@ -1,0 +1,8 @@
+# Key:hereditary
+### English Sentences
+E-1: The color of her eyes is a <u>hereditary</u> trait passed down from her mother.
+E-2: Heart disease is often <u>hereditary</u>, running in families.
+
+### Japanese Translation
+J-1: 彼女の目の色は、母親から受け継がれる<u>遺伝的な</u>特徴です。
+J-2: 心臓病はしばしば家族に<u>遺伝する</u>傾向があります。

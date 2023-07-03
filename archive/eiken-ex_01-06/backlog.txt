@@ -1,0 +1,8 @@
+# Key:backlog
+### English Sentences
+E-1: The company's <u>backlog</u> of orders is causing significant delays.
+E-2: The IT department is struggling to clear the <u>backlog</u> of technical support tickets.
+
+### Japanese Translation
+J-1: 会社の<u>注文の山積み</u>が大幅な遅延を引き起こしています。
+J-2: IT部門は技術サポートのチケットの<u>積み残し</u>を解消するのに苦戦しています。

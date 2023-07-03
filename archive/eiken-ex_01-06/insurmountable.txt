@@ -1,0 +1,8 @@
+# Key:insurmountable
+### English Sentences
+E-1: The mountain peak seemed <u>insurmountable</u> from where we stood.
+E-2: The language barrier can sometimes feel <u>insurmountable</u> when traveling abroad.
+
+### Japanese Translation
+J-1: 私たちが立っている場所から見ると、山の頂上は<u>克服できない</u>ように思えました。
+J-2: 海外旅行の際に、言葉の壁が<u>取り払えない</u>ように感じることもあります。

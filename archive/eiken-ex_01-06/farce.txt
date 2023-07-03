@@ -1,0 +1,8 @@
+# Key:farce
+### English Sentences
+E-1: It was a <u>farce</u> when he tried to convince us he was a millionaire.
+E-2: The whole situation was a <u>farce</u> from start to finish.
+
+### Japanese Translation
+J-1: 彼が自分が大富豪であると説得しようとしたとき、それはまるで<u茶番劇</u>でした。
+J-2: 全体的な状況は最初から最後まで<u>茶番劇</u>だった。

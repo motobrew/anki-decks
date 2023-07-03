@@ -1,0 +1,8 @@
+# Key:petrify
+### English Sentences
+E-1: The horror movie <u>petrified</u> me and gave me nightmares.
+E-2: The thought of public speaking <u>petrifies</u> her and makes her extremely nervous.
+
+### Japanese Translation
+J-1: そのホラー映画は私を<u>こわがらせ</u>、悪夢を見させました。
+J-2: 彼女は公の場で話すことを考えるだけで<u>おびえて</u>、とても緊張します。

@@ -1,0 +1,8 @@
+# Key:traverse
+### English Sentences
+E-1: We had to <u>traverse</u> the treacherous mountain pass to reach our destination.
+E-2: The detective carefully <u>traversed</u> the crime scene for evidence.
+
+### Japanese Translation
+J-1: 私たちは目的地にたどり着くために危険な山道を<u>通らなければなりませんでした</u>。
+J-2: 探偵は証拠を探すために慎重に犯罪現場を<u>捜査しました</u>。

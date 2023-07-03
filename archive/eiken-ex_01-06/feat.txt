@@ -1,0 +1,8 @@
+# Key:feat
+### English Sentences
+E-1: It was a <u>feat</u> for him to climb Mount Everest.
+E-2: She achieved a <u>feat</u> by running a marathon in under 3 hours.
+
+### Japanese Translation
+J-1: 彼がエベレストに登ることは<u>偉業</u>だった。
+J-2: 彼女は3時間以内でマラソンを完走するという<u>快挙</u>を達成した。

@@ -1,0 +1,8 @@
+# Key:grapple
+### English Sentences
+E-1: I had to <u>grapple</u> with a difficult decision that weighed heavily on me.
+E-2: He is trying to <u>grapple</u> with his fear of public speaking.
+
+### Japanese Translation
+J-1: 私は心に重くのしかかる難しい決断に<u>取り組まなければならなかった</u>。
+J-2: 彼は公演で話すことへの恐怖に<u>向き合おうとしています</u>。

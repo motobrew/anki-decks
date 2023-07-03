@@ -1,0 +1,8 @@
+# Key:collateral
+### English Sentences
+E-1: The bank required <u>collateral</u> before approving the loan.
+E-2: He had to put his car as <u>collateral</u> to secure the loan.
+
+### Japanese Translation
+J-1: 銀行は、融資を承認する前に<u>担保</u>を要求しました。
+J-2: 彼は車を<u>差し押える担保</u>に入れなければなりませんでした。

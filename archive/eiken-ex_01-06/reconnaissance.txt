@@ -1,0 +1,8 @@
+# Key:reconnaissance
+### English Sentences
+E-1: The military conducted a <u>reconnaissance</u> mission to gather intelligence.
+E-2: The detective went on a <u>reconnaissance</u> to gather information about the suspect.
+
+### Japanese Translation
+J-1: 軍は情報を収集するために<u>偵察</u>任務を行いました。
+J-2: 刑事は容疑者についての情報を収集するために<u>偵察</u>に出かけました。

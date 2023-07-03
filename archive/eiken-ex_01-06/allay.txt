@@ -1,0 +1,8 @@
+# Key:allay
+### English Sentences
+E-1: I tried to <u>allay</u> her fears by reassuring her that everything would be fine.
+E-2: The doctor prescribed medication to <u>allay</u> the patient's pain and discomfort.
+
+### Japanese Translation
+J-1: 私は彼女の不安を<u>鎮める</u>ために、すべてうまくいくと安心させました。
+J-2: 医師は患者の痛みと不快感を<u>軽減するために</u>薬を処方しました。

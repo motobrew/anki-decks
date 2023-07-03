@@ -1,0 +1,8 @@
+# Key:pallid
+### English Sentences
+E-1: She had a <u>pallid</u> complexion after being sick for days.
+E-2: His face turned <u>pallid</u> when he heard the bad news.
+
+### Japanese Translation
+J-1: 彼女は数日間病気だった後、顔色が<u>青白く</u>なっていました。
+J-2: 彼は悪い知らせを聞いて顔が<u>青ざめ</u>ました。

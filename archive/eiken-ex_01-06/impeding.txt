@@ -1,0 +1,8 @@
+# Key:impeding
+### English Sentences
+E-1: The heavy traffic is <u>impeding</u> our progress on the highway.
+E-2: Lack of funding is <u>impeding</u> the completion of the construction project.
+
+### Japanese Translation
+J-1: 重い交通渋滞が高速道路で<u>進行を妨げています</u>。
+J-2: 資金不足が建設プロジェクトの完成を<u>妨げています</u>。

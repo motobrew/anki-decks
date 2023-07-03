@@ -1,0 +1,8 @@
+# Key:falter
+### English Sentences
+E-1: My confidence began to <u>falter</u> as I stepped on stage.
+E-2: The company's profits <u>falter</u>d due to poor economic conditions.
+
+### Japanese Translation
+J-1: ステージに上がって自信が<u>揺らぎ始めました</u>。
+J-2: 企業の利益は経済状況の悪化によって<u>揺れ動きました</u>。

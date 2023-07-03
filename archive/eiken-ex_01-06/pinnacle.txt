@@ -1,0 +1,8 @@
+# Key:pinnacle
+### English Sentences
+E-1: The new movie that just came out is considered the <u>pinnacle</u> of action films.
+E-2: After years of hard work, she finally reached the <u>pinnacle</u> of her career.
+
+### Japanese Translation
+J-1: たった今公開された新しい映画は、アクション映画の<u>頂点</u>とされています。
+J-2: 長年の努力の末、彼女はついに自身のキャリアの<u>頂点</u>に達しました。

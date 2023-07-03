@@ -1,0 +1,8 @@
+# Key:antiseptic
+### English Sentences
+E-1: The wound was cleaned with <u>antiseptic</u> to prevent infection.
+E-2: The surgeon used <u>antiseptic</u> measures to maintain a sterile environment.
+
+### Japanese Translation
+J-1: 感染を防ぐために、傷は<u>殺菌剤</u>で清潔にされました。
+J-2: 外科医は無菌環境を維持するために<u>消毒対策</u>を取りました。

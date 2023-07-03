@@ -1,0 +1,8 @@
+# Key:penchant
+### English Sentences
+E-1: He has a <u>penchant</u> for playing the guitar.
+E-2: She has a <u>penchant</u> for trying new and adventurous foods.
+
+### Japanese Translation
+J-1: 彼はギターを弾くことに対して<u>こだわり</u>があります。
+J-2: 彼女は新しい冒険的な料理を試す<u>ことを好む傾向</u>があります。

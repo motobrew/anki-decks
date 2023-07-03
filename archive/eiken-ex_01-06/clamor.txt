@@ -1,0 +1,8 @@
+# Key:clamor
+### English Sentences
+E-1: There was a loud <u>clamor</u> in the streets as protesters marched.
+E-2: The announcement caused a <u>clamor</u> of excitement among the crowd.
+
+### Japanese Translation
+J-1: プロテスターが行進すると、道路で大きな<u>騒ぎ</u>が起こりました。
+J-2: アナウンスは群衆の<u>興奮の声</u>を引き起こしました。

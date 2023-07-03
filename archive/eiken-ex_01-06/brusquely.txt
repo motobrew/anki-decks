@@ -1,0 +1,8 @@
+# Key:brusquely
+### English Sentences
+E-1: He <u>brusquely</u> dismissed my ideas without even considering them.
+E-2: The customer service representative spoke <u>brusquely</u> to the upset customer.
+
+### Japanese Translation
+J-1: 彼は私のアイデアを<u>おもむろに</u>拒絶し、考慮することもなくしました。
+J-2: カスタマーサービスの担当者が怒っているお客様に<u>無愛想に</u>話しました。

@@ -1,0 +1,8 @@
+# Key:flagrant
+### English Sentences
+E-1: The referee issued a <u>flagrant</u> foul for the player's dangerous tackle.
+E-2: The company's <u>flagrant</u> disregard for safety regulations led to several accidents.
+
+### Japanese Translation
+J-1: 審判は選手の危険なタックルに対して<u>明白な</u>ファウルを取りました。
+J-2: その会社の安全基準への<u>露骨な</u>無視が数件の事故につながりました。

@@ -1,0 +1,8 @@
+# Key:procure
+### English Sentences
+E-1: I need to <u>procure</u> some office supplies for the new project.
+E-2: The company managed to <u>procure</u> a large contract with a new client.
+
+### Japanese Translation
+J-1: 新しいプロジェクトのためにオフィス用品を<u>調達しなければなりません</u>。
+J-2: その会社は新しいクライアントと<u>大きな契約を獲得すること</u>に成功しました。

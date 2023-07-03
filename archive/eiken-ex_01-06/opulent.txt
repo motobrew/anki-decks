@@ -1,0 +1,8 @@
+# Key:opulent
+### English Sentences
+E-1: The <u>opulent</u> chandelier hanging in the ballroom was breathtakingly beautiful.
+E-2: The billionaire's yacht was an <u>opulent</u> display of luxury and wealth.
+
+### Japanese Translation
+J-1: ボールルームに吊るされている<u>豪華な</u>シャンデリアは息をのむほど美しかったです。
+J-2: その億万長者のヨットは、豪華さと富の象徴として<u>華麗な</u>ディスプレイでした。

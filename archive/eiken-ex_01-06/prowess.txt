@@ -1,0 +1,8 @@
+# Key:prowess
+### English Sentences
+E-1: Her <u>prowess</u> on the soccer field is truly remarkable.
+E-2: The magician's <u>prowess</u> left the audience in awe.
+
+### Japanese Translation
+J-1: 彼女のサッカーの<u>腕前</u>は本当に素晴らしいです。
+J-2: 魔術師の<u>技</u>に観客は感嘆の声を上げました。

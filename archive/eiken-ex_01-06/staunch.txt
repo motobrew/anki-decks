@@ -1,0 +1,9 @@
+# Key:staunch
+## Response
+### English Sentences
+E-1: Her parents were <u>staunch supporters</u> of her dreams and aspirations.
+E-2: Despite the criticism, she remained <u>staunch in her beliefs</u>.
+
+### Japanese Translation
+J-1: 彼女の両親は彼女の夢や抱負を<u>断固として支持していました</u>。
+J-2: 批判にもかかわらず、彼女は自身の信念に<u>断固として固く立っていました</u>。

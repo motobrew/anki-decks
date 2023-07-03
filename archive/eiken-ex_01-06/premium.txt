@@ -1,0 +1,8 @@
+# Key:premium
+### English Sentences
+E-1: The new car model comes with a <u>premium</u> price tag.
+E-2: The airline offers <u>premium</u> seating with extra legroom.
+
+### Japanese Translation
+J-1: 新しい車のモデルは<u>高級な</u>価格設定となっています。
+J-2: その航空会社は、追加の足元の広さを備えた<u>プレミアムな</u>座席を提供しています。

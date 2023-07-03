@@ -1,0 +1,8 @@
+# Key:retaliation
+### English Sentences
+E-1: He insulted me, but I resisted any <u>retaliation</u>.
+E-2: Retaliation only leads to a never-ending cycle of violence.
+
+### Japanese Translation
+J-1: 彼は私を侮辱しましたが、私は<u>報復</u>をせずにいました。
+J-2: <u>報復</u>はただ暴力の無限の連鎖につながるだけです。

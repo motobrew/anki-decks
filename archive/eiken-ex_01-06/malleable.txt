@@ -1,0 +1,8 @@
+# Key:malleable
+### English Sentences
+E-1: The teacher was able to <u>mold the lesson</u> to suit the students' needs.
+E-2: His opinions are <u>malleable</u> and easily influenced by others.
+
+### Japanese Translation
+J-1: 先生は授業を学生のニーズに合わせて<u>形作ることができました</u>。
+J-2: 彼の意見は<u>形容しやすく</u>、他の人の影響を受けやすいです。

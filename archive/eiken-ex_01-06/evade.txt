@@ -1,0 +1,8 @@
+# Key:evade
+### English Sentences
+E-1: She always finds a way to <u>evade</u> answering difficult questions.
+E-2: The suspect managed to <u>evade</u> the police and escape.
+
+### Japanese Translation
+J-1: 彼女は常に難しい質問に<u>回答を避ける</u>方法を見つけます。
+J-2: 犯人は警察を<u>かわして</u>逃げることに成功しました。

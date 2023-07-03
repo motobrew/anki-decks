@@ -1,0 +1,8 @@
+# Key:havoc
+### English Sentences
+E-1: The storm wreaked <u>havoc</u> on the small coastal town.
+E-2: The construction work caused <u>havoc</u> in the traffic flow.
+
+### Japanese Translation
+J-1: その嵐によって小さな沿岸の町は<u>大混乱に陥りました</u>。
+J-2: 工事のために交通流に<u>大混乱が生じました</u>。

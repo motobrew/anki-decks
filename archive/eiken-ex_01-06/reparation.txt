@@ -1,0 +1,8 @@
+# Key:reparation
+### English Sentences
+E-1: The company offered <u>reparation</u> to the victims of the accident.
+E-2: The government provided <u>reparation</u> to the families affected by the disaster.
+
+### Japanese Translation
+J-1: 会社は事故の被害者に<u>賠償金</u>を提供しました。
+J-2: 政府は災害による被災者の家族に<u>補償</u>を行いました。

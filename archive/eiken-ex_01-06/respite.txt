@@ -1,0 +1,8 @@
+# Key:respite
+### English Sentences
+E-1: The family took a <u>respite</u> from their busy lives and went on vacation.
+E-2: After hours of studying, she took a short <u>respite</u> to clear her mind.
+
+### Japanese Translation
+J-1: 家族は忙しい生活から<u>一時の休息</u>を取り、休暇に出かけました。
+J-2: 数時間の勉強の後、彼女は頭を整理するために<u>短い休憩</u>を取りました。

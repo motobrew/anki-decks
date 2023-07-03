@@ -1,0 +1,8 @@
+# Key:grueling
+### English Sentences
+E-1: The marathon was a <u>grueling</u> test of endurance.
+E-2: After a <u>grueling</u> day at work, all I wanted to do was sleep.
+
+### Japanese Translation
+J-1: マラソンは持久力の<u>厳しい</u>テストでした。
+J-2: 過酷な一日の仕事の後、私はただ寝たいと思っていました。

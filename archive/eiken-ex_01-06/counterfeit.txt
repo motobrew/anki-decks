@@ -1,0 +1,8 @@
+# Key:counterfeit
+### English Sentences
+E-1: The police seized a large amount of <u>counterfeit</u> money.
+E-2: She was accused of selling <u>counterfeit</u> designer handbags.
+
+### Japanese Translation
+J-1: 警察は大量の<u>偽造</u>紙幣を押収した。
+J-2: 彼女は<u>偽造</u>のデザイナーハンドバッグを販売したと非難された。

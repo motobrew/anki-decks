@@ -1,0 +1,8 @@
+# Key:onus
+### English Sentences
+E-1: The <u>onus</u> is on you to complete the project by the deadline.
+E-2: The company placed the financial <u>onus</u> on its employees.
+
+### Japanese Translation
+J-1: プロジェクトを締め切りまでに完成させるのは<u>あなたに負うています</u>。
+J-2: その会社は財政の責任を従業員に<u>負わせました</u>。

@@ -1,0 +1,8 @@
+# Key:auspicious
+### English Sentences
+E-1: The dark clouds hovering overhead were not auspicious for the outdoor event.
+E-2: The auspicious wedding ceremony was filled with joy and blessings.
+
+### Japanese Translation
+J-1: 空に浮かぶ暗い雲は、屋外イベントにとっては吉兆ではありませんでした。
+J-2: 縁起の良い結婚式は、喜びと祝福にあふれていました。

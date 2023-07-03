@@ -1,0 +1,8 @@
+# Key:invincible
+### English Sentences
+E-1: He believed that he was <u>invincible</u> and could conquer any challenge.
+E-2: Despite their best efforts, the team proved to be <u>invincible</u> and won every game.
+
+### Japanese Translation
+J-1: 彼は自分が<u>無敵</u>であり、どんな困難でも乗り越えられると信じていました。
+J-2: 最善の努力にもかかわらず、チームは<u>無敵</u>であり、全ての試合に勝利しました。

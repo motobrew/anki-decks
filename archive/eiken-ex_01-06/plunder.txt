@@ -1,0 +1,8 @@
+# Key:plunder
+### English Sentences
+E-1: The pirates sailed the seas to <u>plunder</u> treasure from other ships.
+E-2: The invaders sought to <u>plunder</u> the riches of the conquered city.
+
+### Japanese Translation
+J-1: 海賊たちは他の船から財宝を<u>略奪するため</u>に海を航海しました。
+J-2: 侵略者たちは征服した都市の豊かさを<u>奪うことを</u>目指しました。

@@ -1,0 +1,8 @@
+# Key:snag
+### English Sentences
+E-1: There was a <u>snag</u> in our plans when the flight got canceled.
+E-2: He hit a <u>snag</u> when his car broke down on the way.
+
+### Japanese Translation
+J-1: フライトがキャンセルされて私たちの計画に<u>支障</u>が生じました。
+J-2: 彼は車が途中で故障したときに<u>トラブル</u>に見舞われました。

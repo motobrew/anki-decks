@@ -1,0 +1,8 @@
+# Key:embargo
+### English Sentences
+E-1: The government placed an <u>embargo</u> on trade with that country.
+E-2: The newspaper's reporting was under an <u>embargo</u> until midnight.
+
+### Japanese Translation
+J-1: 政府はその国との貿易に<u>輸出入停止措置</u>を課しました。
+J-2: 新聞の報道は深夜まで<u>取材禁止状態</u>でした。

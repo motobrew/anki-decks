@@ -1,0 +1,8 @@
+# Key:incarcerate
+### English Sentences
+E-1: The judge decided to <u>incarcerate</u> the criminal for his violent crimes.
+E-2: The new law allows authorities to <u>incarcerate</u> individuals suspected of terrorism indefinitely.
+
+### Japanese Translation
+J-1: 判事は暴力犯罪を犯した犯罪者を<u>投獄する</u>ことを決定しました。
+J-2: 新しい法律では、テロの容疑を受けた個人を無期限に<u>拘禁する</u>ことができます。

@@ -1,0 +1,8 @@
+# Key:convoluted
+### English Sentences
+E-1: The professor's explanation was <u>convoluted</u> and hard to follow.
+E-2: The plot of the movie was so <u>convoluted</u> that I got confused.
+
+### Japanese Translation
+J-1: 教授の説明は<u>複雑で</u>理解しづらかったです。
+J-2: その映画の筋書きはとても<u>こじれていて</u>、私は混乱しました。

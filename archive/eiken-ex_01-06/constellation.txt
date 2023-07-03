@@ -1,0 +1,8 @@
+# Key:constellation
+### English Sentences
+E-1: The night sky was filled with <u>constellations</u> of stars.
+E-2: The <u>constellation</u> of events led to his success.
+
+### Japanese Translation
+J-1: 夜空は星の<u>星座</u>でいっぱいでした。
+J-2: その出来事の<u>連鎖</u>が彼の成功につながった。

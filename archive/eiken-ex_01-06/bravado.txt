@@ -1,0 +1,8 @@
+# Key:bravado
+### English Sentences
+E-1: His excessive <u>bravado</u> masked the deep insecurity within him.
+E-2: Despite her fear, she maintained a facade of <u>bravado</u> to impress others.
+
+### Japanese Translation
+J-1: 彼の過剰な<u>勇ましさ</u>は、内面の不安を隠すためのものだった。
+J-2: 彼女は恐怖を感じていたが、他人に感心を与えるために<u>勇ましさ</u>のフリを続けた。

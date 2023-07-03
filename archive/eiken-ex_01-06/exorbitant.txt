@@ -1,0 +1,8 @@
+# Key:exorbitant
+### English Sentences
+E-1: The price of that luxury handbag is <u>exorbitant</u>. 
+E-2: The hotel room rates during peak season are <u>exorbitant</u>.
+
+### Japanese Translation
+J-1: その高級ハンドバッグの値段は<u>法外</u>だ。
+J-2: ピークシーズンのホテルの部屋料金は<u>途方もなく高い</u>。

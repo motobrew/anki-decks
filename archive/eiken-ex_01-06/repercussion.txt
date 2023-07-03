@@ -1,0 +1,8 @@
+# Key:repercussion
+### English Sentences
+E-1: The reckless action had serious <u>repercussions</u> on his career.
+E-2: The company's decision to downsize has had negative <u>repercussions</u> on the economy.
+
+### Japanese Translation
+J-1: その無謀な行動は彼のキャリアに重大な<u>影響</u>を与えました。
+J-2: 会社の縮小の決定は経済に悪い<u>影響</u>を与えました。

@@ -1,0 +1,8 @@
+# Key:hoax
+### English Sentences
+E-1: The news article turned out to be a complete <u>hoax</u>.
+E-2: The rumor spread quickly, but it was just a <u>hoax</u>.
+
+### Japanese Translation
+J-1: そのニュース記事は完全な<u>でっち上げだった</u>ことが分かった。
+J-2: その噂は速く広まったが、ただの<u>デマ</u>だった。

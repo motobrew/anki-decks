@@ -1,0 +1,8 @@
+# Key:astound
+### English Sentences
+E-1: The magician's trick <u>astounded</u> the audience with its complexity.
+E-2: The beautiful scenery of the mountains <u>astounded</u> me with its grandeur.
+
+### Japanese Translation
+J-1: 魔術師のトリックは、その複雑さで観客を<u>驚かせました</u>。
+J-2: 山々の美しい景色には、その壮大さがあり、私を<u>驚かせました</u>。

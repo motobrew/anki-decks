@@ -1,0 +1,8 @@
+# Key:denote
+### English Sentences
+E-1: The red traffic light <u>denotes</u> that you must stop.
+E-2: A frown on her face <u>denotes</u> her displeasure with the situation.
+
+### Japanese Translation
+J-1: 赤い信号は、停止しなければならないことを<u>示しています</u>。
+J-2: 彼女の顔に浮かぶ皺は、状況への不満を<u>示しています</u>。

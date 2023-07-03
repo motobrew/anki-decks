@@ -1,0 +1,8 @@
+# Key:extol
+### English Sentences
+E-1: He was quick to <u>extol</u> the virtues of his new diet plan.
+E-2: The coach <u>extolled</u> the team's hard work and dedication in the press conference.
+
+### Japanese Translation
+J-1: 彼は新しいダイエットプランの利点を即座に<u>称えました</u>。
+J-2: コーチは記者会見でチームの努力と献身を<u>絶賛しました</u>。

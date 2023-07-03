@@ -1,0 +1,8 @@
+# Key:rationale
+### English Sentences
+E-1: The decision was made based on a logical <u>rationale</u>.
+E-2: She explained the <u>rationale</u> behind her innovative idea.
+
+### Japanese Translation
+J-1: その決定は、論理的な<u>理論</u>に基づいて行われました。
+J-2: 彼女は自分の革新的なアイデアの<u>根拠</u>を説明しました。

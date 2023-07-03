@@ -1,0 +1,8 @@
+# Key:wince
+### English Sentences
+E-1: I couldn't help but <u>wince</u> when I saw the graphic injury in the movie.
+E-2: He couldn't help but <u>wince</u> when he tasted the extremely sour lemon.
+
+### Japanese Translation
+J-1: その映画でグロい怪我シーンを見て、つい<u顔をしかめてしまいました。</u>
+J-2: 彼は極めて酸っぱいレモンの味を噛みしめて、つい<u>顔をゆがめてしまいました。</u>

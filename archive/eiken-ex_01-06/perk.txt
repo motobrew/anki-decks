@@ -1,0 +1,8 @@
+# Key:perk
+### English Sentences:
+E-1: Getting free snacks at work is a great <u>perk</u> of the job.
+E-2: Access to the company gym is a <u>perk</u> for employees.
+
+### Japanese Translation:
+J-1: 仕事で無料のおやつをもらえることは、その職の<u>特典</u>です。
+J-2: 社内のジムを使えることは、従業員の<u>特典</u>です。

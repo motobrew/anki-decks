@@ -1,0 +1,8 @@
+# Key:tenacious
+### English Sentences
+E-1: She is a <u>tenacious</u> salesperson who never gives up on closing a deal.
+E-2: Despite facing many setbacks, he remained <u>tenacious</u> in pursuing his dreams.
+
+### Japanese Translation
+J-1: 彼女は、取引を成立させるために決してあきらめない<u>執念深い</u>営業担当者です。
+J-2: 多くの挫折に直面しても、彼は自分の夢を追い続ける<u>執念深さ</u>を持っていました。

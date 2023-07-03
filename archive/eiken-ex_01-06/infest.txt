@@ -1,0 +1,8 @@
+# Key:infest
+### English Sentences
+E-1: My apartment building is <u>infested</u> with cockroaches.
+E-2: The park was <u>infested</u> with mosquitoes on a summer evening.
+
+### Japanese Translation
+J-1: 私のマンションにはゴキブリが<u>大量に発生しています</u>。
+J-2: 夏の夕方、公園は蚊で<u>溢れていました</u>。

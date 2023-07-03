@@ -1,0 +1,8 @@
+# Key:ebb
+### English Sentences
+E-1: The wave began to <u>ebb</u> as the tide receded.
+E-2: His interest in the topic seemed to <u>ebb</u> over time.
+
+### Japanese Translation
+J-1: 潮が引くとともに波が<u>引いていきました</u>。
+J-2: 彼のその話題への関心は時間とともに<u>減退しているように</u>思われました。

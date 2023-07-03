@@ -1,0 +1,8 @@
+# Key:prerequisite
+### English Sentences
+E-1: The ability to read and write is a <u>prerequisite</u> for this job.
+E-2: Taking a basic math course is a <u>prerequisite</u> for advanced calculus.
+
+### Japanese Translation
+J-1: この仕事には読み書きができることが<u>前提条件</u>です。
+J-2: 初級数学のコースを受けることが、高度な微積分の<u>ための前提条件</u>です。

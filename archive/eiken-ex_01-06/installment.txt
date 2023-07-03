@@ -1,0 +1,8 @@
+# Key:installment
+### English Sentences
+E-1: I can pay for the car in <u>installments</u> over a year.
+E-2: The movie will be released in <u>installments</u> every two weeks.
+
+### Japanese Translation
+J-1: 車を1年間で<u>分割払いで</u>購入できます。
+J-2: 映画は<u>分割払いで</u>毎2週間ごとに公開されます。

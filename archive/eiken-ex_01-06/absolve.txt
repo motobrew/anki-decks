@@ -1,0 +1,8 @@
+# Key:absolve
+### English Sentences
+E-1: The evidence absolved him of any wrongdoing in the case.
+E-2: Her confession absolved her of her guilt and brought her peace.
+
+### Japanese Translation
+J-1: その証拠によって彼は事件での悪事から<u>免罪されました</u>。
+J-2: 彼女の告白によって彼女は罪を<u>解かれ、平穏を取り戻しました</u>。

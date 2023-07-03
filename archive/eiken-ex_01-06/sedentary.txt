@@ -1,0 +1,8 @@
+# Key:sedentary
+### English Sentences
+E-1: Sitting for long periods of time can lead to a sedentary lifestyle.
+E-2: He has a sedentary job that requires him to sit at a desk all day.
+
+### Japanese Translation
+J-1: 長時間座っていると、<u>運動不足の生活</u>になります。
+J-2: 彼はデスクに座って一日中仕事をする<u>座りっぱなしの仕事</u>です。

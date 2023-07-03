@@ -1,0 +1,8 @@
+# Key:faction
+### English Sentences
+E-1: There is a <u>faction</u> within the company that advocates for change.
+E-2: The political party is divided into different <u>factions</u> with varying ideologies.
+
+### Japanese Translation
+J-1: 会社内には変革を主張する<u>派閥</u>が存在しています。
+J-2: その政党は、異なるイデオロギーを持つ<u>派閥</u>に分かれています。

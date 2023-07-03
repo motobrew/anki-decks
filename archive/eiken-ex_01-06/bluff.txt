@@ -1,0 +1,8 @@
+# Key:bluff
+### English Sentences
+E-1: He acted confident, but it was just a <u>bluff</u> to hide his fear.
+E-2: She called his <u>bluff</u> and discovered that he was lying.
+
+### Japanese Translation
+J-1: 彼は自信を装っていたが、それは恐怖を隠すための<u>見せかけだった</u>。
+J-2: 彼女は彼の<u>ふざけ</u>に乗らず、彼が嘘をついていることを見破った。

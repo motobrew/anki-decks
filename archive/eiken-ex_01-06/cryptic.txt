@@ -1,0 +1,8 @@
+# Key:cryptic
+### English Sentences
+E-1: The clues in the crossword puzzle were intentionally <u>cryptic</u>.
+E-2: The meaning of her cryptic text message was hard to decipher.
+
+### Japanese Translation
+J-1: クロスワードパズルの手がかりは故意に<u>謎めいた</u>ものでした。
+J-2: 彼女の謎めいたテキストメッセージの意味を解読するのは難しかったです。

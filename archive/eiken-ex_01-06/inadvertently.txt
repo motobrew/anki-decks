@@ -1,0 +1,8 @@
+# Key:inadvertently
+### English Sentences
+E-1: I inadvertently spilled coffee on my laptop while typing.
+E-2: He inadvertently offended his boss by making an inappropriate comment.
+
+### Japanese Translation
+J-1: 打っている最中に<u>うっかり</u>コーヒーをノートパソコンにこぼしました。
+J-2: 彼は不適切な発言をしたことで、うっかり上司を怒らせました。

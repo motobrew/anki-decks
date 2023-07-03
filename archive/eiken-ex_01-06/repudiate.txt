@@ -1,0 +1,8 @@
+# Key:repudiate
+### English Sentences
+E-1: The politician <u>repudiated</u> the controversial statements made by his party.
+E-2: The company <u>repudiated</u> the accusations of unethical business practices.
+
+### Japanese Translation
+J-1: 政治家は、彼の党が行った物議を醸す発言を<u拒否しました</u>。
+J-2: その企業は、非倫理的な業務手法の非難を<u>否定しました</u>。

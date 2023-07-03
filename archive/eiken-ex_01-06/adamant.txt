@@ -1,0 +1,8 @@
+# Key:adamant
+### English Sentences
+E-1: She was <u>adamant</u> about not going to the party.
+E-2: Despite the criticism, he remained <u>adamant</u> in his beliefs.
+
+### Japanese Translation
+J-1: 彼女はそのパーティーに行かないと<u>断固として主張していました</u>。
+J-2: 批判にもかかわらず、彼は信念を<u>しっかりと守り続けました</u>。

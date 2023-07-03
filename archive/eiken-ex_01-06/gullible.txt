@@ -1,0 +1,8 @@
+# Key:gullible
+### English Sentences
+E-1: He fell for the <u>gullible</u> scheme and lost all his money.
+E-2: She is so <u>gullible</u> that she believes everything she hears.
+
+### Japanese Translation
+J-1: 彼はその<u>だまされやすい</u>計画に引っかかって、お金をすべて失いました。
+J-2: 彼女はとても<u>だまされやすい</u>ので、聞いたことを何でも信じてしまいます。

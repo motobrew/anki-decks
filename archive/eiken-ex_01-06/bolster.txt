@@ -1,0 +1,8 @@
+# Key:bolster
+### English Sentences
+E-1: Her promotion <u>bolstered</u> her confidence in her abilities.
+E-2: The new evidence <u>bolstered</u> their case against the suspect.
+
+### Japanese Translation
+J-1: 彼女の昇進は彼女の能力に対する自信を<u>高めました</u>。
+J-2: 新しい証拠は容疑者に対する彼らのケースを<u>補強しました</u>。

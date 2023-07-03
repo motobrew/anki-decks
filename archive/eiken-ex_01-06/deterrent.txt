@@ -1,0 +1,8 @@
+# Key:deterrent
+### English Sentences
+E-1: High fines are a <u>deterrent</u> for speeding on the highway.
+E-2: The presence of security cameras acts as a <u>deterrent</u> for potential thieves.
+
+### Japanese Translation
+J-1: 高額な罰金は、高速道路でのスピード違反の<u抑止力</u>です。
+J-2: セキュリティカメラの存在は、潜在的な泥棒にとって<u>抑止力</u>となります。

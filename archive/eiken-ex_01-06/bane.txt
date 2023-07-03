@@ -1,0 +1,8 @@
+# Key:bane
+### English Sentences
+E-1: The constant noise was the <u>bane</u> of my existence.
+E-2: Procrastination is the <u>bane</u> of productivity.
+
+### Japanese Translation
+J-1: 絶え間ない騒音が私の存在の<u害訳</u>でした。
+J-2: 先延ばしは生産性の<u敵</u>です。

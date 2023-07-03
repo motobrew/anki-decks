@@ -1,0 +1,8 @@
+# Key:culprit
+### English Sentences
+E-1: The police are still searching for the <u>culprit</u> who stole the valuable artwork.
+E-2: After hours of investigation, they finally found the <u>culprit</u> behind the financial fraud.
+
+### Japanese Translation
+J-1: 貴重な芸術作品を盗んだ<u>犯人</u>をまだ警察が捜しています。
+J-2: 長時間の調査の後、ついに財政詐欺の<u>黒幕</u>を発見しました。

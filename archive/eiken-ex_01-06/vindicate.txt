@@ -1,0 +1,8 @@
+# Key:vindicate
+### English Sentences
+E-1: The evidence will <u>vindicate</u> her innocence in the case.
+E-2: His success in the competition <u>vindicated</u> all the hard work he put in.
+
+### Japanese Translation
+J-1: その証拠は彼女の無実を<u>立証する</u>でしょう。
+J-2: 彼の競技での成功は、彼が努力を積んだことを<u>証明しました</u>。

@@ -1,0 +1,8 @@
+# Key:lethargic
+### English Sentences
+E-1: I felt <u>lethargic</u> after staying up all night studying.
+E-2: The hot weather made everyone in the class feel <u>lethargic</u>.
+
+### Japanese Translation
+J-1: 徹夜で勉強した後、私は<u>無気力</u>な気分になりました。
+J-2: 暑い天気のせいで、クラスのみんなが<u>元気がなく</u>感じました。

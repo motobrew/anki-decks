@@ -1,0 +1,8 @@
+# Key:besiege
+### English Sentences
+E-1: The protesters <u>besieged</u> the government building, demanding change.
+E-2: The celebrity was <u>besieged</u> by fans as soon as she walked out.
+
+### Japanese Translation
+J-1: 抗議者たちは政府庁舎を<u>包囲し</u>、変革を求めました。
+J-2: 有名人は出てくるとすぐにファンに<u>取り囲まれました</u>。

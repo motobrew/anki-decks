@@ -1,0 +1,8 @@
+# Key:baffle
+### English Sentences
+E-1: The professor's explanation of quantum physics completely <u>baffled</u> the students.
+E-2: The mysterious disappearance of the valuable artifact continues to <u>baffle</u> investigators.
+
+### Japanese Translation
+J-1: 量子物理学の教授の説明は、生徒たちを完全に<u>困惑させました</u>。
+J-2: 貴重な遺物の謎の消失は、捜査官たちを<u>困惑させ続けています</u>。

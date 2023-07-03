@@ -1,0 +1,8 @@
+# Key:desolate
+### English Sentences
+E-1: The abandoned house stood <u>desolate</u> on top of the hill.
+E-2: After the earthquake, the city streets were <u>desolate</u> and empty.
+
+### Japanese Translation
+J-1: その廃屋は丘の上に<u>荒れ果てて</u>立っていました。
+J-2: 地震の後、街の通りは<u>壮絶な様子で</u>、人気がありませんでした。

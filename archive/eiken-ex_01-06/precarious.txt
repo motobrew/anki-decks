@@ -1,0 +1,8 @@
+# Key:precarious
+### English Sentences
+E-1: The hiker found himself in a <u>precarious</u> situation, dangling from a cliff.
+E-2: The economy is in a <u>precarious</u> state due to the pandemic.
+
+### Japanese Translation
+J-1: ハイカーは断崖からぶら下がる<u>危うい</u>状況に陥った。
+J-2: パンデミックのため、経済は<u>不安定な</u>状態にある。

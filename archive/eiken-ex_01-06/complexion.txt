@@ -1,0 +1,8 @@
+# Key:complexion
+### English Sentences
+E-1: She has a fair <u>complexion</u> with rosy cheeks.
+E-2: The skincare routine improved her <u>complexion</u> significantly.
+
+### Japanese Translation
+J-1: 彼女は薔薇色の頬をした、白い<u>肌の色</u>をしています。
+J-2: スキンケアのルーティンで彼女の<u>肌の色</u>はかなり改善されました。

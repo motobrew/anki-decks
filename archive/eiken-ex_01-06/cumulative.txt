@@ -1,0 +1,8 @@
+# Key:cumulative
+### English Sentences
+E-1: The <u>cumulative</u> effects of smoking can be harmful to your health.
+E-2: The team's <u>cumulative</u> efforts led to their victory in the tournament.
+
+### Japanese Translation
+J-1: 喫煙の<u>累積的な</u>影響は健康に悪影響を与える可能性があります。
+J-2: チームの<u>蓄積された</u>努力がトーナメントでの勝利につながりました。

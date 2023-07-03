@@ -1,0 +1,8 @@
+# Key:accolade
+### English Sentences
+E-1: She received the highest <u>accolade</u> for her outstanding performance.
+E-2: The film was met with critical <u>accolades</u> from audiences and critics alike.
+
+### Japanese Translation
+J-1: 彼女は優れた演技に対して最高の<u>称賛</u>を受けました。
+J-2: その映画は観客や批評家からも高評価の<u>賞賛</u>を受けました。

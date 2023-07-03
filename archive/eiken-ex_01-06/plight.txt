@@ -1,0 +1,8 @@
+# Key:plight
+### English Sentences
+E-1: In the face of economic <u>plight</u>, many people lost their jobs.
+E-2: The charity was founded to help alleviate the <u>plight</u> of the homeless.
+
+### Japanese Translation
+J-1: 経済的な<u>苦境</u>に直面して、多くの人々が仕事を失いました。
+J-2: その慈善団体は、ホームレスの<u>困難な状況</u>を軽減するために設立されました。

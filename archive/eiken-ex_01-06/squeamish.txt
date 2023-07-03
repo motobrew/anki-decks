@@ -1,0 +1,8 @@
+# Key:squeamish
+### English Sentences
+E-1: He's <u>squeamish</u> when it comes to blood and needles.
+E-2: She felt <u>squeamish</u> after watching the horror movie.
+
+### Japanese Translation
+J-1: 彼は血液や注射に<u過敏です</u>。
+J-2: 彼女はホラー映画を見た後、<uイヤな感じが</u>しました。

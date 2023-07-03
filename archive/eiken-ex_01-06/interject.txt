@@ -1,0 +1,8 @@
+# Key:interject
+### English Sentences
+E-1: I just wanted to <u>interject</u> and mention an important point.
+E-2: He tends to <u>interject</u> with his opinion in every conversation.
+
+### Japanese Translation
+J-1: 大切なポイントを<u>差し挟む</u>だけ言いたかったんだけど。
+J-2: 彼はどんな会話でも自分の意見を<u>差し挟む</u>傾向があります。

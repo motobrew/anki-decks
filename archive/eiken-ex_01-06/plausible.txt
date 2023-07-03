@@ -1,0 +1,8 @@
+# Key:plausible
+### English Sentences
+E-1: The detective came up with a <u>plausible</u> explanation for the crime.
+E-2: His story seemed <u>plausible</u> at first, but later turned out to be a lie.
+
+### Japanese Translation
+J-1: 探偵はその犯罪に<u>ありそうな</u>説明を考え出しました。
+J-2: 彼の話は最初は<u>信憑性がある</u>ように思えましたが、後には嘘だと分かりました。

@@ -1,0 +1,8 @@
+# Key:exemplary
+### English Sentences
+E-1: She showed an <u>exemplary</u> dedication to her work, going above and beyond.
+E-2: The team's performance in the championship was <u>exemplary</u>, setting a new record.
+
+### Japanese Translation
+J-1: 彼女は仕事に対する<u>見事な</u>献身心を示し、期待を超えて努力しました。
+J-2: チームのパフォーマンスは<u>模範的</u>であり、新記録を樹立しました。

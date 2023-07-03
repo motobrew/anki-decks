@@ -1,0 +1,8 @@
+# Key:slur
+### English Sentences
+E-1: My boss made a <u>slur</u> about my appearance in front of everyone.
+E-2: His comment was meant as a joke, but it was a racial <u>slur</u>.
+
+### Japanese Translation
+J-1: 上司が皆の前で私の容姿について<u差別的な発言となる</u>しました。
+J-2: 彼のコメントは冗談のつもりでしたが、それは人種差別的な<u言葉</u>でした。

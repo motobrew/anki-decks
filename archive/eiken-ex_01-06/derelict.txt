@@ -1,0 +1,8 @@
+# Key:derelict
+### English Sentences
+E-1: The abandoned building was a <u>derelict</u> in the middle of town.
+E-2: The park had become a <u>derelict</u> after years of neglect.
+
+### Japanese Translation
+J-1: その廃墟の建物は町の中心にある<u>廃墟</u>でした。
+J-2: 何年も放置された結果、公園は<u>廃墟</u>と化していました。

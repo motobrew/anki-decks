@@ -1,0 +1,8 @@
+# Key:encrypt
+### English Sentences
+E-1: I need to <u>encrypt</u> this sensitive data before sending it.
+E-2: The spy was using a sophisticated algorithm to <u>encrypt</u> his messages.
+
+### Japanese Translation
+J-1: 送信する前に、この機密データを<u>暗号化</u>する必要があります。
+J-2: スパイは、メッセージを<u>暗号化</u>するために洗練されたアルゴリズムを使っていました。

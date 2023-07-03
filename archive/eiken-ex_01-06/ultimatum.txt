@@ -1,0 +1,8 @@
+# Key:ultimatum
+### English Sentences
+E-1: She gave him an <u>ultimatum</u> - either quit his job or end the relationship.
+E-2: The company issued an <u>ultimatum</u> to the employees: accept the pay cut or be laid off.
+
+### Japanese Translation
+J-1: 彼女は彼に<u>最後通牒</u>を突きつけました - 彼の仕事を辞めるか、関係を終わらせるかのどちらか。
+J-2: 会社が従業員たちに<u>最後通牒</u>を出しました - 給料カットを受け入れるか、解雇されるかのどちらか。

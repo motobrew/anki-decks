@@ -1,0 +1,8 @@
+# Key:arbitrary
+### English Sentences
+E-1: The rules seemed <u>arbitrary</u>, with no clear rationale behind them.
+E-2: The teacher's grading system felt <u>arbitrary</u>, lacking consistency and fairness.
+
+### Japanese Translation
+J-1: ルールは<u>任意の</u>ようで、その背後には明確な理論がありませんでした。
+J-2: 先生の評価方法は<u>気まぐれな</u>感じがして、一貫性と公平さに欠けていました。

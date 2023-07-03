@@ -1,0 +1,8 @@
+# Key:reprieve
+### English Sentences
+E-1: The defendant was granted a <u>reprieve</u> from his execution.
+E-2: The rainy weather provided a much-needed <u>reprieve</u> from the heat.
+
+### Japanese Translation
+J-1: 被告人は死刑からの<u>猶予</u>を与えられました。
+J-2: 雨の天気は熱からの<u>一時の休息</u>を提供しました。

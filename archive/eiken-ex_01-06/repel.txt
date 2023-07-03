@@ -1,0 +1,8 @@
+# Key:repel
+### English Sentences
+E-1: The strong smell of garlic <u>repelled</u> me from the restaurant.
+E-2: The repellent spray <u>repelled</u> the mosquitoes and kept them away.
+
+### Japanese Translation
+J-1: そのレストランの強いにんにくの匂いが私を<u>遠ざけました</u>。
+J-2: 虫除けスプレーで蚊を<u>寄せ付けませんでした</u>。

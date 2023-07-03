@@ -1,0 +1,8 @@
+# Key:decry
+### English Sentences
+E-1: The politician <u>decry</u> the corruption in the government.
+E-2: Critics <u>decry</u> the violent content of video games.
+
+### Japanese Translation
+J-1: 政治家は政府の腐敗を<u>非難しました</u>。
+J-2: 批評家たちはビデオゲームの暴力的な内容を<u>非難しています</u>。

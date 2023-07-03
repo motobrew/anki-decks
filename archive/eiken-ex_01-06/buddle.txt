@@ -1,0 +1,8 @@
+# Key:buddle
+### English Sentences
+E-1: A <u>buddle</u> of nerves, she stumbled through her speech.
+E-2: I could see a <u>buddle</u> of flowers blooming in the garden.
+
+### Japanese Translation
+J-1: 緊張の<u塊</u>となって、彼女はスピーチをつまずきながら進めた。
+J-2: 庭には咲いている<u>花の束</u>が見えました。

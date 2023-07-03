@@ -1,0 +1,8 @@
+# Key:stifle
+### English Sentences
+E-1: The stifling heat in the room made it difficult to breathe.
+E-2: She tried to stifle her laughter during the serious meeting.
+
+### Japanese Translation
+J-1: 部屋の蒸し暑さで息苦しくなりました。
+J-2: 重大な会議中に笑いを押し殺そうとした。

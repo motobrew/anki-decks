@@ -1,0 +1,8 @@
+# Key:dire
+### English Sentences
+E-1: The company is facing <u>dire</u> financial circumstances and may go bankrupt.
+E-2: The doctor informed us of the <u>dire</u> consequences if the surgery is not successful.
+
+### Japanese Translation
+J-1: 会社は<u>深刻な</u>財務状況に直面し、破産の可能性があります。
+J-2: 医師は手術が成功しない場合の<u>深刻な</u>影響を私たちに教えてくれました。

@@ -1,0 +1,8 @@
+# Key:transpire
+### English Sentences
+E-1: The truth about their relationship finally <u>transpired</u> after years of speculation.
+E-2: Details of the secret meeting began to <u>transpire</u> in the media.
+
+### Japanese Translation
+J-1: 長年の憶測の末、彼らの関係の真実が<u>明るみに出た</u>。
+J-2: 秘密の会議の詳細がメディアで<u>明らかになり始めました</u>。

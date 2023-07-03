@@ -1,0 +1,8 @@
+# Key:pedantic
+### English Sentences
+E-1: He is so <u>pedantic</u> about grammar, he corrects everyone's mistakes.
+E-2: She is known for her <u>pedantic</u> attention to detail in her work.
+
+### Japanese Translation
+J-1: 彼は文法に関してとても<u>厳格</u>で、みんなの間違いを訂正します。
+J-2: 彼女は仕事の細部に対する<u>細かい注意</u>で有名です。

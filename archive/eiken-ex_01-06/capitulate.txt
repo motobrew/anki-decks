@@ -1,0 +1,8 @@
+# Key:capitulate
+### English Sentences
+E-1: The rebels refused to <u>capitulate</u> and continued to fight.
+E-2: After a long negotiation, the country finally had to <u>capitulate</u> to the demands of the international community.
+
+### Japanese Translation
+J-1: 反逆者たちは<u>降伏</u>を拒否し、戦い続けました。
+J-2: 長い交渉の末、その国は国際社会の要求に<u>降伏</u>せざるを得なくなりました。

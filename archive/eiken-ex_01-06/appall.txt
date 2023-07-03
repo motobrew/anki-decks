@@ -1,0 +1,8 @@
+# Key:appall
+### English Sentences
+E-1: The news of the devastating earthquake <u>appalled</u> the nation.
+E-2: The graphic images in the documentary left me feeling <u>appalled</u>.
+
+### Japanese Translation
+J-1: 壊滅的な地震のニュースは国民を<u>驚かせました</u>。
+J-2: ドキュメンタリーのグラフィックな映像には<u>驚愕しました</u>。

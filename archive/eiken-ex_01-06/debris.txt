@@ -1,0 +1,8 @@
+# Key:debris
+### English Sentences
+E-1: The storm left behind a lot of <u>debris</u> in the streets.
+E-2: After the construction, there was <u>debris</u> everywhere.
+
+### Japanese Translation
+J-1: 嵐の後、街の通りにはたくさんの<u>がれき</u>が残っていました。
+J-2: 工事が終わった後、どこにでも<u>残骸</u>がありました。

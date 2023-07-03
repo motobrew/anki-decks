@@ -1,0 +1,8 @@
+# Key:ambivalent
+### English Sentences
+E-1: I have an <u>ambivalent</u> feeling about the upcoming trip.
+E-2: She has an <u>ambivalent</u> attitude towards her job.
+
+### Japanese Translation
+J-1: 私は今度の旅行に<u>相反する感情</u>を抱いています。
+J-2: 彼女は自分の仕事に<u>複雑な態度</u>を持っています。

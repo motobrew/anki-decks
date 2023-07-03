@@ -1,0 +1,8 @@
+# Key:resplendent
+### English Sentences
+E-1: The bride looked <u>resplendent</u> in her stunning wedding gown.
+E-2: The sunset cast a <u>resplendent</u> glow over the ocean.
+
+### Japanese Translation
+J-1: 花嫁は見事なウェディングドレスでとても<u>輝いていました</u>。
+J-2: 夕日が海に<u>豪華な輝きを放っていました</u>。

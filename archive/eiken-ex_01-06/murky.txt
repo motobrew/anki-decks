@@ -1,0 +1,8 @@
+# Key:murky
+### English Sentences
+E-1: The water in the pond looked <u>murky</u> after the heavy rain.
+E-2: The details of the deal were <u>murky</u> and difficult to understand.
+
+### Japanese Translation
+J-1: 大雨の後、池の水は<u>濁った</u>ように見えました。
+J-2: 取引の詳細は<u>不明瞭</u>で理解しにくかったです。

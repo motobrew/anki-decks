@@ -1,0 +1,8 @@
+# Key:lurch
+### English Sentences
+E-1: The car went into a sudden <u>lurch</u> when the driver hit the brakes.
+E-2: The company's profits took a <u>lurch</u> due to a decrease in sales.
+
+### Japanese Translation
+J-1: ドライバーがブレーキを踏んだ時、車が突然<u>急停止</u>しました。
+J-2: 売上の減少により、会社の利益が<u>急激に減少</u>しました。

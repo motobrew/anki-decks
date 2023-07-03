@@ -1,0 +1,8 @@
+# Key:spearhead
+### English Sentences
+E-1: She was the <u>spearhead</u> of the project, leading the team to success.
+E-2: The new marketing campaign was <u>spearheaded</u> by our creative director.
+
+### Japanese Translation
+J-1: 彼女はそのプロジェクトの<u中心となる存在</u>であり、チームを成功に導きました。
+J-2: 新しいマーケティングキャンペーンは、我々のクリエイティブディレクターが<u>先導しました</u>。

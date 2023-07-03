@@ -1,0 +1,8 @@
+# Key:exemplify
+### English Sentences
+E-1: The chef's extraordinary skills <u>exemplify</u> the art of cooking.
+E-2: Her dedication and hard work <u>exemplify</u> what it means to be successful.
+
+### Japanese Translation
+J-1: シェフの非凡な技術は、料理の芸術を実例として示しています。
+J-2: 彼女の献身と努力は、成功するという意味を実例として示しています。

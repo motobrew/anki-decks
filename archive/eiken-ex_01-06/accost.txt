@@ -1,0 +1,8 @@
+# Key:accost
+### English Sentences
+E-1: The stranger suddenly <u>accosted</u> me on the street and asked for money.
+E-2: She was shocked when the famous actor <u>accosted</u> her at the party.
+
+### Japanese Translation
+J-1: 見知らぬ人が急に私に声をかけてきて、お金をたのみました。
+J-2: 彼女はパーティーで有名な俳優に声をかけられて驚きました。

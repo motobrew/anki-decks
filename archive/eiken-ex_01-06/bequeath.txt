@@ -1,0 +1,8 @@
+# Key:bequeath
+### English Sentences
+E-1: The wealthy businessman <u>bequeathed</u> his fortune to charity in his will.
+E-2: She plans to <u>bequeath</u> her family's heirloom to her oldest son.
+
+### Japanese Translation
+J-1: 裕福な実業家は、遺言で富を慈善団体に<u>遺贈しました</u>。
+J-2: 彼女は家族の家宝を長男に<u>引き継ぐ予定です</u>。

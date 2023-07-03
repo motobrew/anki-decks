@@ -1,0 +1,8 @@
+# Key:extrovert
+### English Sentences
+E-1: He's such an <u>extrovert</u>, always the life of the party.
+E-2: I'm more introverted, while my sister is a total <u>extrovert</u>.
+
+### Japanese Translation
+J-1: 彼は本当に社交的で、いつもパーティーの中心です。
+J-2: 私はもっと内向的で、一方私の姉は完全な社交的人間です。

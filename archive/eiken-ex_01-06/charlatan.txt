@@ -1,0 +1,8 @@
+# Key:charlatan
+### English Sentences
+E-1: He claimed to be a talented artist, but he was just a <u>charlatan</u>.
+E-2: The businessman was exposed as a <u>charlatan</u> who lied about his success.
+
+### Japanese Translation
+J-1: 彼は優れた芸術家だと主張していましたが、実は<u>詐欺師</u>でした。
+J-2: そのビジネスマンは成功を偽った<u>詐欺師</u>として暴かれた。

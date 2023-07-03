@@ -1,0 +1,8 @@
+# Key:annotation
+### English Sentences
+E-1: He made helpful <u>annotations</u> in the margins of the textbook.
+E-2: The <u>annotation</u> provided additional information about the historical event.
+
+### Japanese Translation
+J-1: 彼は教科書の余白に役立つ<u>注釈</u>を入れました。
+J-2: その<u>注釈</u>には歴史的な出来事についての追加情報が書かれていました。

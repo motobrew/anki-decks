@@ -1,0 +1,8 @@
+# Key:deportation
+### English Sentences
+E-1: The government plans to <u>deport</u> all illegal immigrants.
+E-2: The court ordered the <u>deportation</u> of the convicted criminal.
+
+### Japanese Translation
+J-1: 政府はすべての不法移民を<u>強制送還</u>する予定です。
+J-2: 裁判所は有罪判決を受けた犯罪者の<u>送還</u>を命じました。

@@ -1,0 +1,8 @@
+# Key:wreak
+### English Sentences
+E-1: The storm ​<u>wreaked havoc</u> on the small coastal town.
+E-2: The careless driver ​<u>wreaked havoc</u> on the busy intersection. 
+
+### Japanese Translation
+J-1: 嵐は小さな沿岸町に<u>大打撃を与えました</u>。
+J-2: 無謀な運転手が混雑した交差点に<u>大混乱を引き起こしました</u>。

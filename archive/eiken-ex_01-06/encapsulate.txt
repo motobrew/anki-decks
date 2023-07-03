@@ -1,0 +1,8 @@
+# Key:encapsulate
+### English Sentences
+E-1: The photograph <u>encapsulates</u> the joy and happiness of the wedding day.
+E-2: The closing paragraph of the article <u>encapsulates</u> the main points discussed.
+
+### Japanese Translation
+J-1: その写真は結婚式の日の喜びと幸せを<u>表現しています</u>。
+J-2: 記事の結論の段落は<u>論じられた主なポイントをまとめています</u>。

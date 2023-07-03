@@ -1,0 +1,8 @@
+# Key:culpable
+### English Sentences
+E-1: The evidence proved him <u>culpable</u> for the crime.
+E-2: She refused to accept that she was <u>culpable</u> for the accident.
+
+### Japanese Translation
+J-1: 証拠は彼がその犯罪に<u>罪を負う</u>ことを証明した。
+J-2: 彼女は事故の<u>責めを押し付けられる</u>ことを受け入れることを拒んだ。

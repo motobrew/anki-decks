@@ -1,0 +1,8 @@
+# Key:wane
+### English Sentences
+E-1: The moon's light began to <u>wane</u> as the night wore on.
+E-2: His interest in the project started to <u>wane</u> after a few weeks.
+
+### Japanese Translation
+J-1: 夜が進むにつれて、月の光が<u>衰え始めました</u>。
+J-2: 数週間経った後、彼のプロジェクトへの関心が<u>減り始めました</u>。

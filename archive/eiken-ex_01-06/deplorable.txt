@@ -1,0 +1,8 @@
+# Key:deplorable
+### English Sentences
+E-1: The condition of the building was <u>deplorable</u> and in need of immediate repairs.
+E-2: His behavior towards his colleagues was <u>deplorable</u> and completely unacceptable.
+
+### Japanese Translation
+J-1: 建物の状態は <u>ひどく悲惨な</u> 状況で、すぐに修理が必要でした。
+J-2: 彼の同僚への態度は <u>大いに非難されるべき</u> ものであり、完全に受け入れられませんでした。

@@ -1,0 +1,8 @@
+# Key:anomaly
+### English Sentences
+E-1: There was an <u>anomaly</u> in the experimental data that couldn't be explained.
+E-2: The sudden change in weather was an <u>anomaly</u> for this time of year.
+
+### Japanese Translation
+J-1: 説明できない<u>異常値</u>が実験データに存在しました。
+J-2: この時期にしては<u>異常な</u>天候の変化が起こりました。

@@ -1,0 +1,8 @@
+# Key:heave
+### English Sentences
+E-1: When he saw the ghost, he felt a heave in his chest.
+E-2: She gave a mighty heave and lifted the heavy box.
+
+### Japanese Translation
+J-1: 彼は幽霊を見て、胸が鳴るような感じを覚えた。
+J-2: 彼女は力強く引っ張って、重い箱を持ち上げた。

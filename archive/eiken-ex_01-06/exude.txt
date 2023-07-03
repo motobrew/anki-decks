@@ -1,0 +1,8 @@
+# Key:exude
+### English Sentences
+E-1: She <u>exudes</u> confidence whenever she walks into a room.
+E-2: The flowers <u>exude</u> a sweet fragrance that fills the air.
+
+### Japanese Translation
+J-1: 彼女は部屋に入る度に自信を<u>漂わせています</u>。
+J-2: 花は空気に満ちる甘い香りを<u>放っています</u>。

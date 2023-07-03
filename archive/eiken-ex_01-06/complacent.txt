@@ -1,0 +1,8 @@
+# Key:complacent
+### English Sentences
+E-1: She was so <u>complacent</u> with her success that she stopped striving for better.
+E-2: Don't become <u>complacent</u> with your achievements; always push yourself forward.
+
+### Japanese Translation
+J-1: 彼女は自分の成功に<u>満足していて</u>、もっと上を目指さなくなった。
+J-2: 自分の成果に<u>甘んじてはいけません</u>。常に自分を前進させてください。

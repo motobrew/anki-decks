@@ -1,0 +1,8 @@
+# Key:deter
+### English Sentences
+E-1: The warning sign did nothing to deter people from swimming.
+E-2: Increased security measures may deter criminals from committing crimes.
+
+### Japanese Translation
+J-1: 警告標識は人々が泳ぐのを<u>抑止する</u>効果がありませんでした。
+J-2: より強化された警備対策は犯罪者が犯罪をしないよう<u>抑止する</u>かもしれません。

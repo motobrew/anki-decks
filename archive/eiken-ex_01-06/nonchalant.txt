@@ -1,0 +1,8 @@
+# Key:nonchalant
+### English Sentences
+E-1: He walked into the room with a <u>nonchalant</u> attitude, as if nothing mattered.
+E-2: Despite the chaos around her, she remained <u>nonchalant</u> and composed.
+
+### Japanese Translation
+J-1: 彼は部屋に入ってきた時、何もかも関係ないような<u>無関心な</u>態度でした。
+J-2: 彼女は周囲が混乱しているにもかかわらず、<u>無関心で</u>冷静なままでした。

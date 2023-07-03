@@ -1,0 +1,10 @@
+# Key:drab
+<u>Drab</u> is the keyword provided. 
+
+### English Sentences
+E-1: The office walls were painted a <u>drab</u> shade of gray.
+E-2: The party was a bit <u>drab</u> with no decorations or music.
+
+### Japanese Translation
+J-1: オフィスの壁は<u>くすんだ</u>グレーの色で塗られていました。
+J-2: パーティーは装飾や音楽がなく、少し<u>地味</u>でした。

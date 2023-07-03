@@ -1,0 +1,8 @@
+# Key:banal
+### English Sentences
+E-1: The conversation was filled with <u>banal</u> small talk and cliches.
+E-2: The movie was disappointing because the plot was so <u>banal</u>.
+
+### Japanese Translation
+J-1: その会話は、くだらない世間話やありきたりの話題で満たされていました。
+J-2: プロットがとてもありふれていたので、その映画はがっかりでした。

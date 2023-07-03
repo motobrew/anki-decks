@@ -1,0 +1,10 @@
+# Key:longevity
+### English Sentences
+E-1: It is important to maintain a healthy lifestyle for <u>longevity</u>.
+
+E-2: The company implemented a new strategy to ensure the <u>longevity</u> of its products.
+
+### Japanese Translation
+J-1: 健康な生活を続けることは<u>長寿</u>にとって重要です。
+
+J-2: 会社は製品の<u>持続性</u>を保証するために新しい戦略を実施しました。

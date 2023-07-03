@@ -1,0 +1,8 @@
+# Key:camaraderie
+### English Sentences
+E-1: <u>Camaraderie</u> among teammates is vital for success in sports.
+E-2: The military fosters a strong sense of <u>camaraderie</u> among soldiers.
+
+### Japanese Translation
+J-1: スポーツでの成功には、チームメイトの<u>仲間意識</u>が不可欠です。
+J-2: 軍隊では、兵士たちの間に強い<u>連帯感</u>を育んでいます。

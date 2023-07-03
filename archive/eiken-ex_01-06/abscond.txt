@@ -1,0 +1,8 @@
+# Key:abscond
+### English Sentences
+E-1: The suspect managed to <u>abscond</u> from the police during the chase.
+E-2: He was caught trying to <u>abscond</u> with valuable documents from the office.
+
+### Japanese Translation
+J-1: 逮捕努力中に、容疑者は警察から<u>逃走</u>に成功しました。
+J-2: 彼はオフィスから貴重な書類を盗もうとしていたところを捕まえられました。

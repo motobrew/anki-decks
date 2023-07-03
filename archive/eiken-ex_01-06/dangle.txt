@@ -1,0 +1,8 @@
+# Key:dangle
+### English Sentences
+E-1: A piece of string was <u>dangling</u> from the ceiling.
+E-2: She nervously <u>dangled</u> her keys from her fingertips.
+
+### Japanese Translation
+J-1: 天井から糸が<u>ぶら下がっていました</u>。
+J-2: 彼女は神経質に鍵を<u>指先からぶら下げていました</u>。

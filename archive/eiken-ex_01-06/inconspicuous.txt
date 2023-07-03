@@ -1,0 +1,8 @@
+# Key:inconspicuous
+### English Sentences
+E-1: The detective dressed in plain clothes to remain inconspicuous.
+E-2: The spy managed to enter the enemy's headquarters unnoticed, staying inconspicuous.
+
+### Japanese Translation
+J-1: 刑事は地味な服装をして変わらぬ様子を保ちました<u>目立たないように</u>。
+J-2: スパイは気付かれず敵の本部に潜入し、<u>目立たずに</u>成功した。

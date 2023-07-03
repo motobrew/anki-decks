@@ -1,0 +1,8 @@
+# Key:enlighten
+### English Sentences
+E-1: The teacher <u>enlightened</u> us with her interesting explanation of the topic.
+E-2: Reading books can <u>enlighten</u> your mind and broaden your knowledge.
+
+### Japanese Translation
+J-1: 先生が興味深い解説で私たちを<u>啓蒙</u>してくれました。
+J-2: 本を読むことで、心を<u>照らし</u>、知識を広げることができます。

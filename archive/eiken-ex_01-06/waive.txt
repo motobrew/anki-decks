@@ -1,0 +1,8 @@
+# Key:waive
+### English Sentences
+E-1: The company decided to <u>waive</u> the late payment fees for customers.
+E-2: He asked the court to <u>waive</u> the parking ticket due to a valid excuse.
+
+### Japanese Translation
+J-1: 会社は顧客に対して延滞料金を<u>免除する</u>ことを決定しました。
+J-2: 彼は有効な言い訳があるため、裁判所に対して駐車違反切符を<u>なかったことにする</u>ように頼んだ。

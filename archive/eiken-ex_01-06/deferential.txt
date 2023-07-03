@@ -1,0 +1,8 @@
+# Key:deferential
+### English Sentences
+E-1: She always spoke to her boss with a <u>deferential</u> tone.
+E-2: The student showed a <u>deferential</u> bow to their teacher.
+
+### Japanese Translation
+J-1: 彼女はいつも上司に<u>敬意を込めた</u>口調で話しました。
+J-2: 生徒は先生に<u>敬意を示す</u>お辞儀をしました。

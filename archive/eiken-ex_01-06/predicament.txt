@@ -1,0 +1,8 @@
+# Key:predicament
+### English Sentences
+E-1: I found myself in a <u>predicament</u> when I missed my flight.
+E-2: He was caught in a <u>predicament</u> when he lost his wallet.
+
+### Japanese Translation
+J-1: 飛行機に乗り遅れて<u>困った状況</u>になりました。
+J-2: 彼は財布を失くしたときに<u>困難な状況</u>に陥りました。

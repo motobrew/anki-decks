@@ -1,0 +1,8 @@
+# Key:catalyst
+### English Sentences
+E-1: Taking a break can serve as a <u>catalyst</u> for creativity.
+E-2: Her success story was the <u>catalyst</u> for other aspiring entrepreneurs.
+
+### Japanese Translation
+J-1: 休憩は創造性の<u>触媒</u>として機能することがあります。
+J-2: 彼女の成功物語は、他の熱望する起業家にとっての<u>契機</u>となりました。

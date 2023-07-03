@@ -1,0 +1,8 @@
+# Key:clique
+### English Sentences
+E-1: She prefers to hang out with her own <u>clique</u> at school. 
+E-2: The band formed a tight <u>clique</u> and rarely interacted with others.
+
+### Japanese Translation
+J-1: 彼女は学校で自分たちの<u>グループ</u>と遊ぶのが好きです。
+J-2: そのバンドは狭い<u>閉じたグループ</u>を作り、他の人とほとんど交流しませんでした。

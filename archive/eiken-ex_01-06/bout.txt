@@ -1,0 +1,8 @@
+# Key:bout
+### English Sentences
+E-1: I'm 'bout to head out, do you need anything from the store?
+E-2: I heard 'bout the party tonight, are you going?
+
+### Japanese Translation
+J-1: ちょっと外出するから、お店で何か買うものある？
+J-2: 今晩のパーティーのことを聞いたんだけど、行くつもり？

@@ -1,0 +1,8 @@
+# Key:eulogy
+### English Sentences
+E-1: The eulogy at the funeral captured the essence of his life.
+E-2: She delivered a heartfelt eulogy for her best friend.
+
+### Japanese Translation
+J-1: 葬式での<u>弔辞</u>は彼の人生の本質を捉えていました。
+J-2: 彼女は親友に対して心からの<u>追悼の言葉</u>を述べました。

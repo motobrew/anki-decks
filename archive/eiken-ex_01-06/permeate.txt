@@ -1,0 +1,8 @@
+# Key:permeate
+### English Sentences
+E-1: The smell of freshly baked bread <u>permeated</u> the air in the bakery.
+E-2: The music from the concert <u>permeated</u> the entire venue.
+
+### Japanese Translation
+J-1: 焼きたてのパンの匂いがベーカリーに<u>広がっていました</u>。
+J-2: コンサートの音楽が会場全体に<u>染み渡りました</u>。

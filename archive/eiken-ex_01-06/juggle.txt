@@ -1,0 +1,8 @@
+# Key:juggle
+### English Sentences
+E-1: I have to <u>juggle</u> multiple tasks at once in order to meet the deadline.
+E-2: She is able to <u>juggle</u> work, school, and a social life.
+
+### Japanese Translation
+J-1: 締め切りを守るために、一度に複数のタスクを<u>こなさなければなりません</u>。
+J-2: 彼女は仕事と学校と社交生活を<u>うまく両立</u>しています。

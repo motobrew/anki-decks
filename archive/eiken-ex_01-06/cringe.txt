@@ -1,0 +1,8 @@
+# Key:cringe
+### English Sentences
+E-1: His awkward dance moves made everyone <u>cringe</u> in embarrassment.
+E-2: I can't watch that horror movie, it always makes me <u>cringe</u>.
+
+### Japanese Translation
+J-1: 彼のぎこちないダンスの動きに、みんなが恥ずかしさで<u>困る</u>。
+J-2: あのホラー映画を見ることができない、いつも私を<u>ぞっとさせる</u>から。

@@ -1,0 +1,8 @@
+# Key:embezzle
+### English Sentences
+E-1: He was caught trying to <u>embezzle</u> money from the company.
+E-2: The politician was charged with <u>embezzling</u> funds from the government.
+
+### Japanese Translation
+J-1: 彼は会社からお金を<u>横領</u>しようとしているところを捕まえられました。
+J-2: その政治家は政府から資金を<u>着服</u>したとして告発されました。

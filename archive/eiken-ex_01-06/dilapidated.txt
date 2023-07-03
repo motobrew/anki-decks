@@ -1,0 +1,8 @@
+# Key:dilapidated
+### English Sentences
+E-1: The abandoned house was <u>dilapidated</u> and falling apart.
+E-2: The old bridge was in a <u>dilapidated</u> state and unsafe to cross.
+
+### Japanese Translation
+J-1: その放棄された家は<u>荒れ果てて</u>おり、崩れかけていました。
+J-2: 古い橋は<u>荒廃</u>しており、渡るのは危険でした。

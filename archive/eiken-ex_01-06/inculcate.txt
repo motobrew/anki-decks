@@ -1,0 +1,8 @@
+# Key:inculcate
+### English Sentences
+E-1: Schools should work to <u>inculcate</u> a love of reading in their students.
+E-2: Parents should try to <u>inculcate</u> good manners and values in their children.
+
+### Japanese Translation
+J-1: 学校は生徒に読書の愛を<u>叩き込む</u>よう努めるべきです。
+J-2: 親は子供に良いマナーや価値観を<u>植えつける</u>よう努めるべきです。

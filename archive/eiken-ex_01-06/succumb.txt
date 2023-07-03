@@ -1,0 +1,8 @@
+# Key:succumb
+### English Sentences
+E-1: He tried hard not to <u>succumb</u> to his cravings for chocolate.
+E-2: Despite her best efforts, she eventually <u>succumbed</u> to exhaustion.
+
+### Japanese Translation
+J-1: 彼はチョコレートへの欲望に<u>屈すること</u>を避けるために努力しました。
+J-2: 最善を尽くしたにもかかわらず、彼女はついに<u>疲労に負けてしまった</u>。

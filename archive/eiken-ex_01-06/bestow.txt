@@ -1,0 +1,8 @@
+# Key:bestow
+### English Sentences
+E-1: He was honored to <u>bestow</u> the prestigious award upon her.
+E-2: The king chose to <u>bestow</u> knighthood upon his loyal advisor.
+
+### Japanese Translation
+J-1: 彼は彼女にその名誉ある賞を<u>授与</u>することを光栄に思っていました。
+J-2: 王は忠実な顧問に騎士の称号を<u>与えること</u>を選びました。

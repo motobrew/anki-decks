@@ -1,0 +1,8 @@
+# Key:ambush
+### English Sentences
+E-1: They set up an <u>ambush</u> to capture the enemy soldiers.
+E-2: The paparazzi <u>ambushed</u> the celebrity as she left the restaurant.
+
+### Japanese Translation
+J-1: 彼らは敵兵を捕らえるために<u>待ち伏せ攻撃</u>を仕掛けた。
+J-2: パパラッチはレストランを出るときに<u>急襲</u>した。

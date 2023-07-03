@@ -1,0 +1,8 @@
+# Key:tepid
+### English Sentences
+E-1: The tea was <u>tepid</u> when I poured it into the cup.
+E-2: The reception to her speech was <u>tepid</u>, with only a few claps.
+
+### Japanese Translation
+J-1: カップに注いだ時、お茶は<u>ぬるい</u>状態でした。
+J-2: 彼女のスピーチに対する反応は<u>冷淡</u>で、わずかな拍手のみでした。

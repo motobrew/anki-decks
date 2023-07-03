@@ -1,0 +1,8 @@
+# Key:opt
+### English Sentences
+E-1: I decided to <u>opt out</u> of the company's retirement plan.
+E-2: The team made an <u>optimal decision</u> for the project's next steps.
+
+### Japanese Translation
+J-1: 会社の退職プランから<u>脱退する</u>ことを決めました。
+J-2: チームはプロジェクトの次のステップのために<u>最適な決定</u>をしました。

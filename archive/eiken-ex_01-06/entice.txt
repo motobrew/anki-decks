@@ -1,0 +1,8 @@
+# Key:entice
+### English Sentences
+E-1: The smell of fresh-baked cookies <u>enticed</u> me into the bakery.
+E-2: The colorful display in the store window <u>enticed</u> shoppers to come inside.
+
+### Japanese Translation
+J-1: 焼きたてのクッキーの香りに私はパン屋に<u>引き寄せられました</u>。
+J-2: 店の窓にあるカラフルなディスプレイが買い物客を店内に<u>誘い込みました</u>。

@@ -1,0 +1,8 @@
+# Key:exhort
+### English Sentences
+E-1: The coach <u>exhorted</u> the team to give their best effort in the game.
+E-2: The speaker <u>exhorted</u> the audience to take action against climate change.
+
+### Japanese Translation
+J-1: コーチはチームに最善の努力をするよう<u>激励しました</u>。
+J-2: スピーカーは聴衆に気候変動への対策を取るよう<u>訴えました</u>。

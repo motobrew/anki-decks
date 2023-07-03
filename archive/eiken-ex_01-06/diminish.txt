@@ -1,0 +1,8 @@
+# Key:diminish
+### English Sentences
+E-1: The impact of the pandemic has <u>diminished</u> the tourism industry.
+E-2: Eating a healthy diet can <u>diminish</u> the risk of certain diseases.
+
+### Japanese Translation
+J-1: パンデミックの影響により、観光業は<u>減少しました</u>。
+J-2: 健康的な食生活は特定の病気のリスクを<u>軽減することができます</u>。

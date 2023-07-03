@@ -1,0 +1,8 @@
+# Key:indoctrinate
+### English Sentences
+E-1: The cult leader tried to <u>indoctrinate</u> his followers with extreme beliefs.
+E-2: The government's propaganda campaign aimed to <u>indoctrinate</u> young minds.
+
+### Japanese Translation
+J-1: カルトのリーダーは極端な信念で彼の信者たちを<u>洗脳しようとしました</u>。
+J-2: 政府の宣伝キャンペーンは若い心に<u>洗脳しようとした</u>。

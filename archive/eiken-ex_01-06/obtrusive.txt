@@ -1,0 +1,8 @@
+# Key:obtrusive
+### English Sentences
+E-1: The bright colors of the billboard were <u>obtrusive</u> and hard to ignore.
+E-2: The loud music coming from the party next door was <u>obtrusive</u> and disrupted my concentration.
+
+### Japanese Translation
+J-1: ビルボードの鮮やかな色は<u>目立ちすぎて</u>、無視するのが難しかった。
+J-2: 隣のパーティーから響く大音量の音楽が<u>じゃまで</u>、私の集中力を乱しました。

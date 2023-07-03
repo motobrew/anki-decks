@@ -1,0 +1,8 @@
+# Key:versatility
+### English Sentences
+E-1: The <u>versatility</u> of coconut oil makes it a popular ingredient in many recipes.
+E-2: The <u>versatility</u> of a Swiss Army knife comes in handy during camping trips.
+
+### Japanese Translation
+J-1: ココナッツオイルの<u>多様性</u>は、多くの料理の材料に人気です。
+J-2: スイスアーミーナイフの<u>多様性</u>はキャンプ旅行で便利です。

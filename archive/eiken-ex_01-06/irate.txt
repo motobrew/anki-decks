@@ -1,0 +1,8 @@
+# Key:irate
+### English Sentences
+E-1: I received an <u>irate</u> email from a customer who was unhappy with our service.
+E-2: The customer became <u>irate</u> when they discovered their order was incorrect.
+
+### Japanese Translation
+J-1: 私は、私たちのサービスに不満を持っていた顧客から<u>激怒した</u>メールを受け取りました。
+J-2: 注文が間違っていることに気付いた顧客は<u>激怒しました</u>。

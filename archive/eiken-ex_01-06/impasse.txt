@@ -1,0 +1,8 @@
+# Key:impasse
+### English Sentences
+E-1: The negotiations have reached an <u>impasse</u> and no agreement can be reached.
+E-2: They have been arguing for hours and are now at a complete <u>impasse</u>.
+
+### Japanese Translation
+J-1: 交渉は<u>行き詰まり</u>に達し、合意が得られません。
+J-2: 彼らは何時間も議論しており、完全な<u>行き詰まり</u>になっています。

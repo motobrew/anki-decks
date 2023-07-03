@@ -1,0 +1,8 @@
+# Key:alienate
+### English Sentences
+E-1: She tried to reach out to her old friends, but instead ended up <u>alienating</u> them.
+E-2: His radical beliefs often <u>alienate</u> him from his family and peers.
+
+### Japanese Translation
+J-1: 彼女は昔の友達に連絡しようとしましたが、逆に彼らを<u>遠ざけ</u>てしまいました。
+J-2: 彼の過激な信念はしばしば彼を家族や仲間から<u>孤立</u>させます。

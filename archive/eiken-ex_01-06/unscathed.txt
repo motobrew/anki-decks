@@ -1,0 +1,8 @@
+# Key:unscathed
+### English Sentences
+E-1: She managed to escape the terrifying ordeal <u>unscathed</u>.
+E-2: Despite the chaotic situation, the valuable artifacts remained <u>unscathed</u>.
+
+### Japanese Translation
+J-1: 彼女は恐ろしい試練から無傷で逃げることに成功しました。
+J-2: 混乱した状況にもかかわらず、貴重な品物は無傷のままでした。

@@ -1,0 +1,8 @@
+# Key:affront
+### English Sentences
+E-1: It was an <u>affront</u> to me when he insulted my intelligence.
+E-2: The professor took it as an <u>affront</u> when a student questioned his expertise.
+
+### Japanese Translation
+J-1: 彼が私の知力を侮辱したときは、それが私にとっての<u侮辱"></u>でした。
+J-2: 学生が彼の専門知識を疑問視した時、教授はそれを<u攻撃"></u>と捉えました。

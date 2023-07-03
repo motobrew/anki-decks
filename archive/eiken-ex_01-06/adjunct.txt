@@ -1,0 +1,8 @@
+# Key:adjunct
+### English Sentences
+E-1: He is just an <u>adjunct</u> professor at the university. 
+E-2: The volunteer work is usually done as an <u>adjunct</u> to their regular job.
+
+### Japanese Translation
+J-1: 彼は大学で<u>非常勤</u>講師です。
+J-2: ボランティア活動は通常、本職の<u>補完として</u>行われます。

@@ -1,0 +1,8 @@
+# Key:blunder
+### English Sentences
+E-1: He made a <u>blunder</u> by accidentally sending the email to the wrong person.
+E-2: The politician's controversial statement was a major <u>blunder</u> in his campaign.
+
+### Japanese Translation
+J-1: 彼は間違えてそのメールを別の人に送るという<u大失態</u>を犯しました。
+J-2: その政治家の物議を醸す発言は、彼の選挙戦における<u大きな失態</u>でした。

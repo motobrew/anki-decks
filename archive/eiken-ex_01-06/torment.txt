@@ -1,0 +1,8 @@
+# Key:torment
+### English Sentences
+E-1: The constant criticism from her parents is a <u>torment</u> to her self-esteem.
+E-2: The haunting memories of war continue to <u>torment</u> the survivor.
+
+### Japanese Translation
+J-1: 彼女の両親からの絶え間ない批判は、彼女の自尊心を<u>苦しめて</u>います。
+J-2: 戦争の忘れられない思い出は、生存者を<u>苦しめ続けています</u>。

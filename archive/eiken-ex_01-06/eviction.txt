@@ -1,0 +1,8 @@
+# Key:eviction
+### English Sentences
+E-1: The <u>eviction</u> notice was posted on the front door.
+E-2: The family was forced to leave their home after the <u>eviction</u>.
+
+### Japanese Translation
+J-1: <u>立ち退き</u>の通知が玄関に貼られていた。
+J-2: <u>立ち退き</u>後、その家族は家を離れなければならなかった。

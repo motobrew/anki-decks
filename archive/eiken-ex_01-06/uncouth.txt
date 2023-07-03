@@ -1,0 +1,8 @@
+# Key:uncouth
+### English Sentences
+E-1: He was known for his <u>uncouth</u> manners and rude behavior.
+E-2: The <u>uncouth</u> comment offended everyone in the room.
+
+### Japanese Translation
+J-1: 彼はその無作法な態度と失礼な振る舞いで知られていました。
+J-2: その無礼な発言は部屋の全員を不快にさせました。

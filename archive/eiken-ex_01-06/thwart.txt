@@ -1,0 +1,8 @@
+# Key:thwart
+### English Sentences
+E-1: The security measures in place helped <u>thwart</u> the attempted robbery.
+E-2: The rainstorm didn't <u>thwart</u> their plans to have a picnic.
+
+### Japanese Translation
+J-1: 安全対策が犯罪を<u>阻止すること</u>に役立ちました。
+J-2: 雨嵐はピクニック計画を<u>台無しにすること</u>はなかった。

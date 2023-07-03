@@ -1,0 +1,8 @@
+# Key:frenetic
+### English Sentences
+E-1: The frenetic pace of the city can be overwhelming at times.
+E-2: She typed away on her computer in a frenetic frenzy.
+
+### Japanese Translation
+J-1: 都市の<u>熱狂的な</u>ペースは時に圧倒的です。
+J-2: 彼女は<u>熱狂的な</u>興奮でパソコンをタイプしました。

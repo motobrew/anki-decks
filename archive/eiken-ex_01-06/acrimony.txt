@@ -1,0 +1,8 @@
+# Key:acrimony
+### English Sentences
+E-1: There was acrimony between the two neighbors over the property line.
+E-2: The meeting ended with acrimony as both sides could not agree.
+
+### Japanese Translation
+J-1: 2人の隣人の間には<u>不和が</u>ありました。
+J-2: 双方が合意できなかったため、会議は<u>不和となりました</u>。

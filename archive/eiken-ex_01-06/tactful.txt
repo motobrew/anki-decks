@@ -1,0 +1,8 @@
+# Key:tactful
+### English Sentences
+E-1: She handled the situation with a <u>tactful</u> response.
+E-2: He gave a <u>tactful</u> answer to avoid hurting anyone's feelings.
+
+### Japanese Translation
+J-1: 彼女は慎重な対応でその状況に対処しました。
+J-2: 彼は誰の気持ちも傷つけずに慎重な回答をしました。

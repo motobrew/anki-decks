@@ -1,0 +1,8 @@
+# Key:fervent
+### English Sentences
+E-1: She was a fervent supporter of the local football team.
+E-2: The crowd erupted into fervent applause after the performance.
+
+### Japanese Translation
+J-1: 彼女は地元のサッカーチームの<u>熱烈な</u>支持者だった。
+J-2: パフォーマンス後、観客は<u>熱狂的な</u>拍手に e した。

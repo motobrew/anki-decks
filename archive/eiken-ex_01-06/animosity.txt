@@ -1,0 +1,8 @@
+# Key:animosity
+### English Sentences
+E-1: There was a deep <u>animosity</u> between the two rival teams.
+E-2: The long-standing rivalry created an <u>animosity</u> that couldn't be easily resolved.
+
+### Japanese Translation
+J-1: 二つのライバルチームの間には深い<u>敵意</u>がありました。
+J-2: 長きに渡る対立が<u>敵意</u>を生み、それは簡単には解決できなかった。

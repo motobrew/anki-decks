@@ -1,0 +1,8 @@
+# Key:litigate
+### English Sentences
+E-1: We may need to <u>litigate</u> the dispute if no settlement is reached.
+E-2: The company hired a lawyer to <u>litigate</u> the case in court.
+
+### Japanese Translation
+J-1: 解決策が見つからない場合、私たちは紛争を<u>訴訟する</u>必要があるかもしれません。
+J-2: その会社は裁判で<u>訴訟を行う</u>ために弁護士を雇いました。

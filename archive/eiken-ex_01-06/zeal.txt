@@ -1,0 +1,8 @@
+# Key:zeal
+### English Sentences
+E-1: She pursued her goals with great <u>zeal</u>.
+E-2: The team played with passion and <u>zeal</u> during the match.
+
+### Japanese Translation
+J-1: 彼女は大いなる<u>情熱</u>を持って目標を追い求めた。
+J-2: チームは試合中に情熱と<u>熱意</u>を持ってプレーした。

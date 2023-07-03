@@ -1,0 +1,8 @@
+# Key:berate
+### English Sentences 
+E-1: She <u>berated</u> him for forgetting their anniversary.
+E-2: The coach constantly <u>berated</u> the players for their mistakes.
+
+### Japanese Translation 
+J-1: 彼女は結婚記念日を忘れたことで彼を<u>叱責しました</u>。
+J-2: コーチは選手たちのミスについて絶えず<u>叱りつけていました</u>。

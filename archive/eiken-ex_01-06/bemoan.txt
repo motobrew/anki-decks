@@ -1,0 +1,8 @@
+# Key:bemoan
+### English Sentences
+E-1: I often <u>bemoan</u> the long and crowded commute to work.
+E-2: She likes to <u>bemoan</u> about her never-ending to-do list.
+
+### Japanese Translation
+J-1: 私はよく通勤の長くて混雑したことを<u>嘆く</u>。
+J-2: 彼女は終わりのないやることリストについて<u>ぼやくことが好きです</u>。

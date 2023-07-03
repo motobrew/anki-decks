@@ -1,0 +1,8 @@
+# Key:momentous
+### English Sentences
+E-1: The birth of a nation is a <u>momentous</u> event in history.
+E-2: Moving to a new country can be a <u>momentous</u> decision.
+
+### Japanese Translation
+J-1: 国家の誕生は歴史上の<u>重大な</u>事件です。
+J-2: 新しい国への引っ越しは<u>重大な</u>決断であることがあります。

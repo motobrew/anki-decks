@@ -1,0 +1,8 @@
+# Key:exacerbate
+### English Sentences
+E-1: The hot weather exacerbated his sunburn, making it even worse.
+E-2: The argument with his friend only served to exacerbate their relationship problems.
+
+### Japanese Translation
+J-1: 暑い天気が彼の日焼けをさらに<u>悪化</u>させました。
+J-2: 彼との口論は、彼らの関係の問題を<u>悪化</u>させるだけでした。

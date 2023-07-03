@@ -1,0 +1,8 @@
+# Key:swerve
+### English Sentences
+E-1: She managed to <u>swerve</u> just in time to avoid the oncoming car.
+E-2: The cyclist had to <u>swerve</u> suddenly to avoid hitting the pedestrian.
+
+### Japanese Translation
+J-1: 彼女は間一髪で迎え撃つ車を避けるため、素早く<u>避けました</u>。
+J-2: 自転車乗りは歩行者にぶつからないように、急に<u>逸れる</u>必要がありました。

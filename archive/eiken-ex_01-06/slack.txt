@@ -1,0 +1,8 @@
+# Key:slack
+### English Sentences
+E-1: I need to pick up the <u>slack</u> and finish my work on time.
+E-2: Don't worry, I'll <u>slack off</u> tomorrow and take a break.
+
+### Japanese Translation
+J-1: 私は手を抜かずに仕事を終わらせる必要があります。
+J-2: 心配しないで、明日はゆっくり休みます。

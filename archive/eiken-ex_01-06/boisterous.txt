@@ -1,0 +1,8 @@
+# Key:boisterous
+### English Sentences
+E-1: The children's party was filled with <u>boisterous</u> laughter and excitement.
+E-2: The fans erupted into <u>boisterous</u> cheers when their team scored a goal.
+
+### Japanese Translation
+J-1: 子供たちのパーティーは、うるさく賑やかな笑い声と興奮に満ちていました。
+J-2: ファンたちは、チームがゴールを決めた時に大声で歓声をあげました。

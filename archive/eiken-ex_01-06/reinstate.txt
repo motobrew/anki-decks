@@ -1,0 +1,8 @@
+# Key:reinstate
+### English Sentences
+E-1: The company decided to <u>reinstate</u> the employee after further investigation. 
+E-2: The government plans to <u>reinstate</u> the previous policies to boost the economy.
+
+### Japanese Translation
+J-1: 会社はさらなる調査の結果、従業員を<u>復職させる</u>ことに決定しました。
+J-2: 政府は経済を活発化させるため、以前の政策を<u>復活させる予定</u>です。

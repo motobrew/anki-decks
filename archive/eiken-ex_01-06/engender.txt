@@ -1,0 +1,8 @@
+# Key:engender
+### English Sentences
+E-1: The controversial statement <u>engendered</u> a heated debate among the participants.
+E-2: Their kindness and generosity <u>engendered</u> feelings of gratitude and admiration.
+
+### Japanese Translation
+J-1: 議論を<u>引き起こす</u>ような物議を醸した発言がありました。
+J-2: 彼らの優しさと寛大さが<u>感謝と賞賛の気持ち</u>を生み出しました。

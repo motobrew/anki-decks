@@ -1,0 +1,8 @@
+# Key:robust
+### English Sentences
+E-1: The company has implemented a <u>robust</u> security system to protect customer data.
+E-2: The athlete's <u>robust</u> training regimen prepared him for the marathon.
+
+### Japanese Translation
+J-1: 会社は顧客データを保護するために<u>堅牢な</u>セキュリティシステムを導入しました。
+J-2: そのアスリートの<u>徹底的な</u>トレーニング日程は彼をマラソンに準備させました。

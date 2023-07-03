@@ -1,0 +1,8 @@
+# Key:delve
+### English Sentences
+E-1: I decided to <u>delve</u> into the history of Ancient Egypt.
+E-2: The detective is determined to <u>delve</u> deeper into the mysterious case.
+
+### Japanese Translation
+J-1: 私は古代エジプトの歴史に<u>深く掘り下げること</u>を決めました。
+J-2: その刑事は謎の事件を<u>より一層探求すること</u>に決心しています。

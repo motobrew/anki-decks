@@ -1,0 +1,8 @@
+# Key:defuse
+### English Sentences
+E-1: She used humor to <u>defuse</u> the tense situation in the room.
+E-2: The negotiator tried to <u>defuse</u> the conflict between the two parties.
+
+### Japanese Translation
+J-1: 彼女はユーモアを使って、部屋の緊張状態を和らげました。
+J-2: 交渉人は二つの当事者間の対立を解消しようとしました。

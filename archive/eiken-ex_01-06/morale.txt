@@ -1,0 +1,8 @@
+# Key:morale
+### English Sentences
+E-1: The team's <u>morale</u> was boosted after their victory in the championship.
+E-2: The company implemented a new program to improve employee <u>morale</u>.
+
+### Japanese Translation
+J-1: チームの<u>士気</u>は、チャンピオンシップでの勝利によって高まりました。
+J-2: その会社は、従業員の<u>士気</u>向上のために新しいプログラムを導入しました。

@@ -1,0 +1,8 @@
+# Key:feasible
+### English Sentences
+E-1: It's not financially <u>feasible</u> for us to go on a luxury vacation.
+E-2: Building a house without a proper foundation is not <u>feasible</u>.
+
+### Japanese Translation
+J-1: 贅沢な休暇に行くことは私たちにとって<u>経済的に実現可能</u>ではありません。
+J-2: 適切な基礎なしで家を建てることは<u>実行可能ではありません</u>。

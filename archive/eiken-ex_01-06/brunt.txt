@@ -1,0 +1,8 @@
+# Key:brunt
+### English Sentences
+E-1: She bore the <u>brunt</u> of the criticism from her colleagues.
+E-2: The small business felt the <u>brunt</u> of the economic downturn.
+
+### Japanese Translation
+J-1: 彼女は同僚たちからの批判の<u>矛先</u>を受けた。
+J-2: その小さな会社は経済の低迷の<u>影響</u>を受けた。

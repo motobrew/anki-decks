@@ -1,0 +1,8 @@
+# Key:congregate
+### English Sentences
+E-1: People <u>congregate</u> in the park on sunny days to enjoy the weather.
+E-2: Students often <u>congregate</u> in the library to study together.
+
+### Japanese Translation
+J-1: 人々は晴れた日に公園で<u>集まります</u>、天気を楽しむために。
+J-2: 学生たちはよく<u>集まります</u>、一緒に勉強するために図書館で。

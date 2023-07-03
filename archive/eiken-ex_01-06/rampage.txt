@@ -1,0 +1,8 @@
+# Key:rampage
+### English Sentences
+E-1: He went on a <u>rampage</u> and smashed everything in sight.
+E-2: The protesters went on a <u>rampage</u> through the city, causing chaos.
+
+### Japanese Translation
+J-1: 彼は<u>暴れ狂って</u>、目に入るものをすべて壊しました。
+J-2: 抗議者たちは、都市中を<u>暴れ回り</u>、混乱を引き起こしました。

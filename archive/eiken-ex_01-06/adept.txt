@@ -1,0 +1,8 @@
+# Key:adept
+### English Sentences
+E-1: She is <u>adept</u> at playing the piano and guitar.
+E-2: The chef is <u>adept</u> at creating delicious and innovative dishes.
+
+### Japanese Translation
+J-1: 彼女はピアノとギターの演奏が<u>得意です</u>。
+J-2: そのシェフは美味で革新的な料理を<u>得意としています</u>。

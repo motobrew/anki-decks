@@ -1,0 +1,8 @@
+# Key:quench
+### English Sentences
+E-1: The cold drink <u>quenched</u> her thirst on a hot summer day.
+E-2: His passion for music cannot be <u>quenched</u>; he always wants more.
+
+### Japanese Translation
+J-1: 暑い夏の日に、その冷たい飲み物が彼女の喉の渇きを<u>癒やし</u>ました。
+J-2: 彼の音楽への情熱は<u>満たされること</u>ができません。彼は常にもっと欲しがります。

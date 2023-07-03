@@ -1,0 +1,8 @@
+# Key:levity
+### English Sentences
+E-1: The comedian's jokes brought <u>levity</u> to the tense atmosphere.
+E-2: We need some <u>levity</u> in our lives to balance out the stress.
+
+### Japanese Translation
+J-1: コメディアンのジョークが緊張した雰囲気に<u>軽さ</u>をもたらしました。
+J-2: ストレスをバランスさせるために、生活には<u>軽快さ</u>が必要です。

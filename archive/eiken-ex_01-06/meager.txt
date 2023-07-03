@@ -1,0 +1,8 @@
+# Key:meager
+### English Sentences
+E-1: The <u>meager</u> amount of food on my plate left me hungry.
+E-2: Despite his hard work, he received a <u>meager</u> paycheck.
+
+### Japanese Translation
+J-1: 皿に盛られた<u>わずかな</u>量の食べ物で満足感が得られませんでした。
+J-2: 彼は一生懸命働いたにもかかわらず、<u>わずかな</u>給料しか受け取りませんでした。

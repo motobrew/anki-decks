@@ -1,0 +1,8 @@
+# Key:inquisitive
+### English Sentences
+E-1: His <u>inquisitive</u> nature led him to ask endless questions.
+E-2: The child's <u>inquisitive</u> eyes were always searching for answers.
+
+### Japanese Translation
+J-1: 彼の<u>好奇心旺盛な</u>性格は、彼が終わりのない質問をする原因となった。
+J-2: 子供の<u>探究心旺盛な</u>目は常に答えを求めていた。

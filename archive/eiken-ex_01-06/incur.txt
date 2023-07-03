@@ -1,0 +1,8 @@
+# Key:incur
+### English Sentences
+E-1: I accidentally <u>incur</u> a lot of debt from my shopping spree.
+E-2: If you don't follow the rules, you may <u>incur</u> a fine.
+
+### Japanese Translation
+J-1: 買い物漬けで思わぬ借金を<u>負ってしまいました</u>。
+J-2: ルールに従わないと、罰金が<u>発生する可能性があります</u>。

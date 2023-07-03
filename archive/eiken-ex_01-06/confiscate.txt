@@ -1,0 +1,8 @@
+# Key:confiscate
+### English Sentences
+E-1: The airport security <u>confiscated</u> my bottle of water.
+E-2: The teacher threatened to <u>confiscate</u> our cell phones if we used them in class.
+
+### Japanese Translation
+J-1: 空港のセキュリティによって、私の水のボトルが<u>没収</u>されました。
+J-2: 先生は、授業中に携帯電話を使った場合は<u>没収する</u>と脅しました。

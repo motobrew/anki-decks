@@ -1,0 +1,8 @@
+# Key:accentuate
+### English Sentences
+E-1: Wearing a black dress can <u>accentuate</u> your curves and make you look elegant.
+E-2: A bold lip color can <u>accentuate</u> your smile and brighten your face.
+
+### Japanese Translation
+J-1: 黒いドレスを着ると、曲線を<u>引き立てる</u>ことができ、エレガントな印象になります。
+J-2: 大胆なリップカラーは、笑顔を<u>強調</u>し、顔を明るくします。

@@ -1,0 +1,8 @@
+# Key:delude
+### English Sentences
+E-1: He tried to <u>delude</u> me into thinking he was innocent.
+E-2: Don't <u>delude</u> yourself, he has no intention of helping us.
+
+### Japanese Translation
+J-1: 彼は自分が無実であると<u>だまそう</u>としました。
+J-2: 自分をだますな、彼は私たちを助けるつもりはないよ。

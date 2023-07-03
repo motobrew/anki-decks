@@ -1,0 +1,8 @@
+# Key:succinct
+### English Sentences
+E-1: His explanation was <u>succinct</u> and to the point.
+E-2: The recipe was <u>succinct</u>, with just a few simple instructions.
+
+### Japanese Translation
+J-1: 彼の説明は<u>簡潔</u>で要点を押さえていました。
+J-2: そのレシピは<u>簡潔</u>で、わずかな簡単な指示だけでした。

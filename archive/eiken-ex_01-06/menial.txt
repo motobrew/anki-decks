@@ -1,0 +1,8 @@
+# Key:menial
+### English Sentences
+E-1: She was tired of doing <u>menial</u> tasks like washing dishes.
+E-2: He started at the company doing <u>menial</u> jobs, but worked his way up.
+
+### Japanese Translation
+J-1: 彼女は皿洗いなどの<u>単純な</u>仕事にうんざりしていました。
+J-2: 彼は会社で<u>単純労働</u>から始めましたが、出世していった。

@@ -1,0 +1,8 @@
+# Key:quandary
+### English Sentences
+E-1: I found myself in a <u>quandary</u> deciding between job offers.
+E-2: She faced a <u>quandary</u> when asked to choose between family and career.
+
+### Japanese Translation
+J-1: 2つの仕事のオファーの間で<u>板挟み</u>になることがありました。
+J-2: 家族とキャリアの間で選ぶという<u>ジレンマ</u>に直面しました。

@@ -1,0 +1,8 @@
+# Key:fickle
+### English Sentences
+E-1: She is known for her <u>fickle</u> taste in fashion.
+E-2: Don't trust him, he is <u>fickle</u> and can change his mind easily.
+
+### Japanese Translation
+J-1: 彼女は<u>気まぐれな</u>ファッションセンスで知られています。
+J-2: 彼を信用しないでください、彼は<u>気まぐれ</u>で簡単に考えを変えることがあります。

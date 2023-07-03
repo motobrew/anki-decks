@@ -1,0 +1,8 @@
+# Key:awry
+### English Sentences
+E-1: The plan went <u>awry</u> when the unexpected storm hit.
+E-2: His attempt to fix the computer only made things go <u>awry</u>.
+
+### Japanese Translation
+J-1: 予想外の嵐で計画は<u>狂ってしまいました</u>。
+J-2: 彼のコンピュータ修理の試みは逆効果で<u>事態を悪化</u>させました。

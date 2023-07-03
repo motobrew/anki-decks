@@ -1,0 +1,8 @@
+# Key:lurid
+### English Sentences
+E-1: The newspaper article contained <u>lurid</u> details about the crime.
+E-2: The book's cover was adorned with a <u>lurid</u> illustration.
+
+### Japanese Translation
+J-1: 新聞記事には犯罪に関する<u>耳触りの悪い</u>詳細が書かれていた。
+J-2: その本の表紙には<u>目立つ</u>イラストが飾られていた。

@@ -1,0 +1,8 @@
+# Key:solace
+### English Sentences
+E-1: The support group provided <u>solace</u> for those grieving.
+E-2: Nature can often be a source of <u>solace</u> and tranquility.
+
+### Japanese Translation
+J-1: 喪失感を抱える人々に対して、サポートグループが<u>慰め</u>を提供しました。
+J-2: 自然はしばしば<u>慰め</u>と静けさの源となることがあります。

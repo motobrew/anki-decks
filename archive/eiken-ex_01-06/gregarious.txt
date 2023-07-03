@@ -1,0 +1,8 @@
+# Key:gregarious
+### English Sentences
+E-1: She is known for her <u>gregarious</u> personality and love for socializing.
+E-2: Despite being an introvert, he manages to be <u>gregarious</u> and friendly at parties.
+
+### Japanese Translation
+J-1: 彼女は社交的な性格で、社交活動が大好きとして知られています。
+J-2: 内向的であるにもかかわらず、彼はパーティーで社交的で友好的です。

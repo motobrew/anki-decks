@@ -1,0 +1,8 @@
+# Key:caustic
+### English Sentences
+E-1: His <u>caustic</u> remarks offended everyone in the room.
+E-2: She couldn't help but let out a <u>caustic</u> laugh at his incompetence.
+
+### Japanese Translation
+J-1: 彼の<u>辛辣な</u>発言が部屋の全員を怒らせました。
+J-2: 彼の無能さに彼女は思わず<u>皮肉っぽく</u>笑ってしまいました。

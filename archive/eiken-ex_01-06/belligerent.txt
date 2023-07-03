@@ -1,0 +1,8 @@
+# Key:belligerent
+### English Sentences
+E-1: He became <u>belligerent</u> after drinking too much alcohol.
+E-2: The customer grew increasingly <u>belligerent</u> when his request was denied.
+
+### Japanese Translation
+J-1: 彼はお酒を飲みすぎて<u>好戦的</u>になりました。
+J-2: その客は要求が拒否された時にますます<u>敵対的</u>になりました。

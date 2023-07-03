@@ -1,0 +1,8 @@
+# Key:lucrative
+### English Sentences
+E-1: The stock market can be a <u>lucrative</u> investment if done right.
+E-2: Many people dream of finding a <u>lucrative</u> career that they love.
+
+### Japanese Translation
+J-1: 株式市場は、上手に取引すれば<u>儲かる</u>投資先です。
+J-2: 多くの人が、自分の好きな<u>高収入をもたらす</u>キャリアを見つけることを夢見ています。

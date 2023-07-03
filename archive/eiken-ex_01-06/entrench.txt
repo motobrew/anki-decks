@@ -1,0 +1,8 @@
+# Key:entrench
+### English Sentences
+E-1: The company's policies and procedures are deeply <u>entrenched</u> within their organizational culture.
+E-2: The idea of gender roles is deeply <u>entrenched</u> in many societies.
+
+### Japanese Translation
+J-1: その会社の政策と手続きは、組織文化の中で深く<u>確立</u>されています。
+J-2: 男女の役割に関する考え方は、多くの社会において深く<u>根付いています</u>。

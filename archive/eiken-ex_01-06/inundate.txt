@@ -1,0 +1,8 @@
+# Key:inundate
+### English Sentences
+E-1: The heavy rain <u>inundated</u> the streets, causing flooding. 
+E-2: The news of their breakup <u>inundated</u> social media, creating a frenzy.
+
+### Japanese Translation
+J-1: 大雨が降り、道路が<u>水につかり</u>、洪水を引き起こしました。
+J-2: 彼らの別れのニュースがSNSを<u>あふれるように</u>報道され、騒ぎが起きました。

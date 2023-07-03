@@ -1,0 +1,8 @@
+# Key:susceptible
+### English Sentences
+E-1: She is <u>susceptible</u> to allergies and gets sick easily.
+E-2: His financial situation made him <u>susceptible</u> to fraudulent schemes.
+
+### Japanese Translation
+J-1: 彼女はアレルギーに<u>かかりやすく</u>、簡単に病気になります。
+J-2: 彼の財政状況は彼を詐欺の計略に<u>かかりやすく</u>しました。

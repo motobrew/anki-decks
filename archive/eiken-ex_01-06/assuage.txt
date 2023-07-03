@@ -1,0 +1,8 @@
+# Key:assuage
+### English Sentences
+E-1: I drank a warm cup of tea to <u>assuage</u> my sore throat.
+E-2: The kind words from my friends <u>assuaged</u> my anxiety before the presentation.
+
+### Japanese Translation
+J-1: のどの痛みを<u>和らげるために</u>、温かいお茶を飲みました。
+J-2: プレゼンテーション前の不安を友人の優しい言葉が<u>和らげました</u>。

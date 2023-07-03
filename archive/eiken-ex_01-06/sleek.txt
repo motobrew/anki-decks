@@ -1,0 +1,8 @@
+# Key:sleek
+### English Sentences
+E-1: The car's sleek design caught everyone's attention at the show.
+E-2: She styled her hair to look sleek and elegant for the event.
+
+### Japanese Translation
+J-1: 車の<u>すらりとした</u>デザインがショーでみんなの注目を集めました。
+J-2: 彼女はイベントのために髪を<u>すっきりとした</u>上品なスタイルにしました。

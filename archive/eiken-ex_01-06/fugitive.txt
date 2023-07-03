@@ -1,0 +1,8 @@
+# Key:fugitive
+### English Sentences
+E-1: The police are on the lookout for a <u>fugitive</u> who escaped from prison.
+E-2: The news reported that the notorious criminal has been captured and is no longer a <u>fugitive</u>.
+
+### Japanese Translation
+J-1: 警察は刑務所から逃げ出した<u>逃亡者</u>を追跡しています。
+J-2: ニュースによると、悪名高い犯罪者は捕まり、もはや<u>逃亡者ではありません</u>。

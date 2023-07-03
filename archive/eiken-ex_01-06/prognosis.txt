@@ -1,0 +1,8 @@
+# Key:prognosis
+### English Sentences
+E-1: The doctor gave a positive <u>prognosis</u> for the patient's recovery.
+E-2: The economic <u>prognosis</u> for the coming years looks promising.
+
+### Japanese Translation
+J-1: 医師は患者の回復について肯定的な<u>予後</u>を示しました。
+J-2: 近年の経済の<u>予測</u>は有望です。

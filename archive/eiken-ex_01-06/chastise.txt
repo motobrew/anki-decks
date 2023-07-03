@@ -1,0 +1,8 @@
+# Key:chastise
+### English Sentences
+E-1: The teacher <u>chastised</u> the student for not completing their homework.
+E-2: The boss <u>chastised</u> the employee for arriving late to work again.
+
+### Japanese Translation
+J-1: 先生は生徒を<u>叱責しました</u>。なぜ宿題を提出しなかったのかと。
+J-2: 上司は社員を<u>叱責しました</u>。また遅刻したことで。

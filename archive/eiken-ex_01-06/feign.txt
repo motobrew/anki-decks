@@ -1,0 +1,8 @@
+# Key:feign
+### English Sentences
+E-1: She <u>feigned</u> illness to avoid going to the party.
+E-2: He <u>feigned</u> surprise when he found out about the surprise party.
+
+### Japanese Translation
+J-1: 彼女はパーティーに行かないために病気を<u>装った</u>。
+J-2: 彼はサプライズパーティーについて知った時、驚きを<u>偽装した</u>。

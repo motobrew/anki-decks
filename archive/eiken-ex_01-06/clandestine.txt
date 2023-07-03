@@ -1,0 +1,8 @@
+# Key:clandestine
+### English Sentences
+E-1: They conducted a <u>clandestine</u> meeting in a hidden location.
+E-2: The spy was involved in <u>clandestine</u> activities to gather confidential information.
+
+### Japanese Translation
+J-1: 彼らは隠れた場所で<u>秘密の</u>会議を行いました。
+J-2: スパイは機密情報を収集するために<u>秘密の</u>活動に関与していました。

@@ -1,0 +1,8 @@
+# Key:strain
+### English Sentences
+E-1: The constant pressure is putting a <u>strain</u> on their relationship.
+E-2: I need to take a break from work to relieve the <u>strain</u> on my eyes.
+
+### Japanese Translation
+J-1: 絶え間ないプレッシャーが彼らの関係に<u>負担をかけています</u>。
+J-2: 目への<u>負荷を軽減するために</u>仕事から休憩を取る必要があります。

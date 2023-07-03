@@ -1,0 +1,8 @@
+# Key:blur
+### English Sentences
+E-1: The events of that day are a <u>blur</u> in my memory.
+E-2: The rain caused the colors to <u>blur</u> together on the painting.
+
+### Japanese Translation
+J-1: あの日の出来事は私の記憶の中で<u>ぼんやりして</u>います。
+J-2: 雨のせいで絵の色が<u>ぼやけて</u>しまいました。

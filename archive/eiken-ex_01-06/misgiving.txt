@@ -1,0 +1,8 @@
+# Key:misgiving
+### English Sentences
+E-1: I have a <u>misgiving</u> about his ability to complete the project.
+E-2: The new policy raised <u>misgivings</u> among the employees.
+
+### Japanese Translation
+J-1: 彼がプロジェクトを完遂できる能力に<u>疑い</u>を感じています。
+J-2: 新しい方針が従業員たちの間で<u>不安</u>を引き起こしました。

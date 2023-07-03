@@ -1,0 +1,8 @@
+# Key:labyrinth
+### English Sentences
+E-1: Exploring the city's narrow alleys felt like navigating a <u>labyrinth</u>.
+E-2: The instructions for assembling the furniture were a confusing <u>labyrinth</u>.
+
+### Japanese Translation
+J-1: 街の狭い路地を探索するのは、迷路を進むような感覚でした。
+J-2: 家具の組み立ての指示は、分かりにくい迷路のようでした。

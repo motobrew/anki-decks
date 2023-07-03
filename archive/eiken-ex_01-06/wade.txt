@@ -1,0 +1,8 @@
+# Key:wade
+### English Sentences
+E-1: The river was too deep to cross, so I had to <u>wade</u> through it.
+E-2: I'm not going to <u>wade</u> into this argument, it's not my problem.
+
+### Japanese Translation
+J-1: 川が深すぎて渡れなかったので、それを<u>歩いて渡る</u>しかありませんでした。
+J-2: この口論に<u>介入するつもりはありません</u>、私の問題ではないからです。

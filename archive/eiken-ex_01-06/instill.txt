@@ -1,0 +1,8 @@
+# Key:instill
+### English Sentences
+E-1: The teacher tried to <u>instill</u> a love of reading in her students.
+E-2: Parents often try to <u>instill</u> good values and morals in their children.
+
+### Japanese Translation
+J-1: 先生は学生たちに読書の愛を<u>植え付けようとしました</u>。
+J-2: 親はよく子供たちに良い価値観や道徳を<u>植え付けようとします</u>。

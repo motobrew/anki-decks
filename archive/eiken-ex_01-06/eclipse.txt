@@ -1,0 +1,8 @@
+# Key:eclipse
+### English Sentences
+E-1: The moon <u>eclipsed</u> the sun, creating a total solar eclipse.
+E-2: Her talent <u>eclipses</u> that of anyone else in the competition.
+
+### Japanese Translation
+J-1: 月が太陽を<u>日食</u>させ、完全な日食が起こりました。
+J-2: 彼女の才能は競技会に参加する他の誰よりも<u>優れています</u>。

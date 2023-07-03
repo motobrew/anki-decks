@@ -1,0 +1,8 @@
+# Key:consternation
+### English Sentences
+E-1: I could see the <u>consternation</u> on his face when he realized he lost his wallet.
+E-2: The sudden cancellation of the concert caused <u>consternation</u> among the fans.
+
+### Japanese Translation
+J-1: 彼が財布をなくしたことに気づいて<u>驚き</u>が顔に表れました。
+J-2: コンサートの突然の中止は、ファンの間で<u>混乱</u>を引き起こしました。

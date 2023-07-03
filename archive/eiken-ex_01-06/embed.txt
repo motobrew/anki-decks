@@ -1,0 +1,8 @@
+# Key:embed
+### English Sentences
+E-1: The video player <u>embeds</u> the subtitles within the video.
+E-2: The journalist tried to <u>embed</u> herself into the local community.
+
+### Japanese Translation
+J-1: 動画プレーヤーはビデオ内に<u>字幕を埋め込みます</u>。
+J-2: ジャーナリストは地元のコミュニティに<u>溶け込もうとしました</u>。

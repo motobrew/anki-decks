@@ -1,0 +1,8 @@
+# Key:insinuate
+### English Sentences
+E-1: She made a sarcastic comment to <u>insinuate</u> that I was lying.
+E-2: The politician used clever wordplay to <u>insinuate</u> his opponent's corruption.
+
+### Japanese Translation
+J-1: 彼女は私が嘘をついていると<u>ほのめかすために</u>皮肉なコメントをした。
+J-2: 政治家は巧妙な言葉遊びを使って、相手の汚職を<u>ほのめかすために</u>しました。

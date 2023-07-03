@@ -1,0 +1,8 @@
+# Key:mediocre
+### English Sentences
+E-1: His performance was mediocre, neither impressive nor terrible.
+E-2: The restaurant received mediocre reviews from the critics.
+
+### Japanese Translation
+J-1: 彼のパフォーマンスは平均的で、印象的でもひどくもない。
+J-2: そのレストランは批評家から平凡な評価を受けました。

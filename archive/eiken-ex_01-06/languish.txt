@@ -1,0 +1,8 @@
+# Key:languish
+### English Sentences
+E-1: The abandoned house was left to <u>languish</u> for years, falling into disrepair.
+E-2: The old book sat on the shelf, <u>languishing</u> and forgotten.
+
+### Japanese Translation
+J-1: 放棄された家は何年も無人で<u>放置され</u>、崩れ落ちていった。
+J-2: 古い本は棚の上に置かれ、忘れられて<u>埃を被っていました</u>。

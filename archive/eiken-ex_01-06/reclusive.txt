@@ -1,0 +1,8 @@
+# Key:reclusive
+### English Sentences
+E-1: She lived in a <u>reclusive</u> cabin in the woods, far from civilization.
+E-2: The famous author was known for his <u>reclusive</u> lifestyle, rarely seen in public.
+
+### Japanese Translation
+J-1: 彼女は文明から遠く離れた森の中の密かな小屋に住んでいました。
+J-2: その有名な作家は彼の人里離れた生活で知られており、滅多に公の場に現れませんでした。

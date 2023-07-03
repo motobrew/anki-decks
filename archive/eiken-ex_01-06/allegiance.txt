@@ -1,0 +1,8 @@
+# Key:allegiance
+### English Sentences
+E-1: Many Americans pledge their <u>allegiance</u> to the flag.
+E-2: The spy was questioned about his <u>allegiance</u> to his country.
+
+### Japanese Translation
+J-1: 多くのアメリカ人が国旗への<u忠誠心</u>を誓っています。
+J-2: スパイは自国への<u忠誠心</u>について尋問されました。

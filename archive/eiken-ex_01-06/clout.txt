@@ -1,0 +1,8 @@
+# Key:clout
+### English Sentences
+E-1: She used her social media <u>clout</u> to promote the new product.
+E-2: The CEO's <u>clout</u> within the industry helped secure the deal.
+
+### Japanese Translation
+J-1: 彼女は自分のSNSの<u>影響力</u>を使って新製品を宣伝しました。
+J-2: CEOの<u>権威</u>が業界内での取引を確保するのに役立ちました。

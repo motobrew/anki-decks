@@ -1,0 +1,8 @@
+# Key:remorse
+### English Sentences
+E-1: I felt deep <u>remorse</u> for what I had said to her.
+E-2: He showed no <u>remorse</u> for his actions, even when caught.
+
+### Japanese Translation
+J-1: 私は彼女に言ったことに対して深い<u>後悔</u>を感じました。
+J-2: 彼は自分の行動に対しても、捕まえられても<u>後悔の念</u>を見せませんでした。

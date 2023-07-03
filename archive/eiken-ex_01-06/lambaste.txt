@@ -1,0 +1,8 @@
+# Key:lambaste
+### English Sentences
+E-1: The boss <u>lambasted</u> the employees for their poor performance.
+E-2: The movie critic <u>lambasted</u> the actor for his terrible performance.
+
+### Japanese Translation
+J-1: 上司は従業員を<u>厳しく叱責しました</u>。  
+J-2: 映画評論家は俳優の演技に対して<u>容赦なく批判しました</u>。

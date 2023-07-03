@@ -1,0 +1,8 @@
+# Key:annex
+### English Sentences
+E-1: The company wants to <u>annex</u> the smaller competitor to expand its market share.
+E-2: The neighboring country is planning to <u>annex</u> the disputed territory.
+
+### Japanese Translation
+J-1: その会社は市場シェアを拡大するために、小さな競合他社を<u>併合しようとしています</u>。
+J-2: 隣国は紛争地を<u>併合しようと計画</u>しています。

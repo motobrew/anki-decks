@@ -1,0 +1,8 @@
+# Key:divulge
+### English Sentences
+E-1: She refused to <u>divulge</u> the location of the hidden treasure.
+E-2: The witness was hesitant to <u>divulge</u> any information about the crime.
+
+### Japanese Translation
+J-1: 彼女は隠された宝の場所を<u>明かそうとしなかった</u>。
+J-2: 目撃者は犯罪に関する情報を<u>漏らすことを躊躇した</u>。

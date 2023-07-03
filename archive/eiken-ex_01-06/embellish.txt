@@ -1,0 +1,8 @@
+# Key:embellish
+### English Sentences
+E-1: She likes to <u>embellish</u> her stories to make them more interesting.
+E-2: The artist used colorful paint to <u>embellish</u> the mural on the wall.
+
+### Japanese Translation
+J-1: 彼女は話をより面白くするために、よく<u>誇張する</u>。
+J-2: その芸術家は壁の壁画を<u>飾り立てるために</u>カラフルな絵の具を使いました。

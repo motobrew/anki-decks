@@ -1,0 +1,9 @@
+# Key:ulterior
+## Response
+### English Sentences
+E-1: He had <u>ulterior</u> motives for wanting to help her.
+E-2: I suspect she has an <u>ulterior</u> motive for inviting me to lunch.
+
+### Japanese Translation
+J-1: 彼には、彼女を助けたいと思う<u>隠れた</u>動機があると思います。
+J-2: 彼女が私をランチに招待する理由には、何か<u>隠れた</u>動機があると疑っています。

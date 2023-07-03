@@ -1,0 +1,8 @@
+# Key:fallacy
+### English Sentences
+E-1: He used a logical <u>fallacy</u> to argue his point, but it was easily refuted.
+E-2: Don't rely solely on statistics; they can be a <u>fallacy</u> in some cases.
+
+### Japanese Translation
+J-1: 彼は論点を主張するために論理的<u>誤謬</u>を使いましたが、それは容易に反駁されました。
+J-2: 統計に完全に頼らないでください。場合によっては<u>誤謬</u>になることがあります。

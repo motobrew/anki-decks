@@ -1,0 +1,8 @@
+# Key:pungent
+### English Sentences
+E-1: The smell of rotten eggs was <u>pungent</u> in the kitchen.
+E-2: The taste of the spicy chili was so <u>pungent</u> that it made me tear up.
+
+### Japanese Translation
+J-1: 台所には腐った卵の臭いが<u>きつかった</u>。
+J-2: 辛いチリの味はとても<u>刺激的で</u>、私を涙ぐませました。

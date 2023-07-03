@@ -1,0 +1,8 @@
+# Key:overt
+### English Sentences
+E-1: Her love for him was <u>overt</u> and impossible to hide.
+E-2: The company's <u>overt</u> commitment to sustainability is commendable.
+
+### Japanese Translation
+J-1: 彼女の彼への愛は<u>明白で</u>隠すことは不可能でした。
+J-2: その会社の<u>公然とした</u>持続可能性への取り組みは賞賛されるべきです。

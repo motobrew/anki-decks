@@ -1,0 +1,8 @@
+# Key:retort
+### English Sentences
+E-1: She made a rude comment and I couldn't help but <u>retort</u> with a clever comeback.
+E-2: When he criticized my work, I decided to <u>retort</u> by pointing out his own mistakes.
+
+### Japanese Translation
+J-1: 彼女は無礼な発言をしたので、私は巧妙な言葉遣いで<u>反論せざるを得ませんでした</u>。
+J-2: 彼が私の仕事を批判したとき、私は彼自身のミスを指摘して<u>反論すること</u>にしました。

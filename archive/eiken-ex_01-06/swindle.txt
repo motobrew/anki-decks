@@ -1,0 +1,8 @@
+# Key:swindle
+### English Sentences
+E-1: He tried to <u>swindle</u> unsuspecting tourists with a fake tour package.
+E-2: The con artist managed to <u>swindle</u> the old woman out of her life savings.
+
+### Japanese Translation
+J-1: 彼は偽のツアーパッケージで知らぬ間に訪れた観光客たちを<u>だまし取ろう</u>としました。
+J-2: 詐欺師はその老女から彼女の生活貯金を<u>だまし取ること</u>に成功しました。

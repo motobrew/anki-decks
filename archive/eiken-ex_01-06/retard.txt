@@ -1,0 +1,8 @@
+# Key:retard
+### English Sentences
+E-1: I don't understand why he always tries to <u>retard</u> our progress.
+E-2: The government's policies are just <u>retarding</u> economic growth.
+
+### Japanese Translation
+J-1: 彼がなぜ私たちの進歩を<u>阻害</u>しようとするのか理解できません。
+J-2: 政府の政策は経済成長を<u>妨げている</u>だけです。

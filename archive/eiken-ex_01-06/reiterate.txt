@@ -1,0 +1,8 @@
+# Key:reiterate
+### English Sentences
+E-1: I just wanted to <u>reiterate</u> the importance of punctuality.
+E-2: The professor <u>reiterated</u> the instructions for writing the essay.
+
+### Japanese Translation
+J-1: 私はただ、時間厳守の重要性を<u>再確認する</u>だけです。
+J-2: 教授は、エッセイの書き方に関する指示を<u>繰り返しました</u>。

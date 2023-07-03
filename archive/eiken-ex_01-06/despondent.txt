@@ -1,0 +1,8 @@
+# Key:despondent
+### English Sentences
+E-1: She received a rejection letter and felt <u>despondent</u> about her future.
+E-2: The team's constant losses made the players feel <u>despondent</u> and unmotivated.
+
+### Japanese Translation
+J-1: 彼女は受け取った断りの手紙をもらって、将来に<u>失望していました</u>。
+J-2: チームの継続的な負けによって、選手たちは<u>失意に沈んで</u>やる気を失いました。

@@ -1,0 +1,8 @@
+# Key:circumvent
+### English Sentences
+E-1: The company found a way to <u>circumvent</u> the regulations and continue operating.
+E-2: We need to be careful not to <u>circumvent</u> the rules in order to maintain fairness.
+
+### Japanese Translation
+J-1: 会社は規制を<u>回避</u>する方法を見つけて、営業を続けることができました。
+J-2: 公平さを保つために、ルールを<u>迂回</u>することにならないように注意が必要です。

@@ -1,0 +1,8 @@
+# Key:mundane
+### English Sentences
+E-1: The daily routine can make life feel mundane and repetitive.
+E-2: She found solace in small, mundane tasks like cleaning and organizing.
+
+### Japanese Translation
+J-1: 日常のルーティンは人生を単調で繰り返しがちに感じさせる。
+J-2: 彼女は掃除や整理などの小さな単調な作業に慰めを見出しました。

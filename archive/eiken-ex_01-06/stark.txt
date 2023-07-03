@@ -1,0 +1,9 @@
+# Key:stark
+## Response
+### English Sentences
+E-1: The contrast between the rich and the poor is <u>stark</u>.
+E-2: The difference in opinion between them is <u>stark</u>.
+
+### Japanese Translation
+J-1: 富裕層と貧困層の<u>対照的な</u>違いがあります。
+J-2: 彼らの意見の<u>対立</u>ははっきりしています。

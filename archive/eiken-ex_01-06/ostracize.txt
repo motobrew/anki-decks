@@ -1,0 +1,8 @@
+# Key:ostracize
+### English Sentences
+E-1: The other students would <u>ostracize</u> him for being different.
+E-2: After the incident, she was <u>ostracized</u> by her former friends.
+
+### Japanese Translation
+J-1: 彼は違っていることを理由に他の生徒から<u>孤立させられました</u>。
+J-2: その出来事の後、彼女は以前の友人たちから<u>締め出されました</u>。

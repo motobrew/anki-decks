@@ -1,0 +1,8 @@
+# Key:denigrate
+### English Sentences
+E-1: He should not <u>denigrate</u> her achievements because of his jealousy.
+E-2: I will not allow anyone to <u>denigrate</u> my character with false accusations.
+
+### Japanese Translation
+J-1: 嫉妬心から彼女の成果を<u>けなす</u>べきではありません。
+J-2: 私は誰も<u>不当な告発で</u>私の人格をけなすことは許しません。

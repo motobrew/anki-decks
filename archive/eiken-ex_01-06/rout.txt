@@ -1,0 +1,8 @@
+# Key:rout
+### English Sentences
+E-1: The soccer team suffered a humiliating <u>rout</u> in the championship game. 
+E-2: The army launched a surprise attack and <u>routed</u> the enemy.
+
+### Japanese Translation
+J-1: サッカーチームはチャンピオンシップの試合で恥ずかしい<u>完敗</u>をした。
+J-2: 軍隊は奇襲攻撃を仕掛け、敵を<u>撃退</u>した。

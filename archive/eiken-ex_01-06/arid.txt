@@ -1,0 +1,8 @@
+# Key:arid
+### English Sentences
+E-1: The desert is known for its <u>arid</u> and dry climate.
+E-2: The plants struggle to survive in the <u>arid</u> conditions of the desert.
+
+### Japanese Translation
+J-1: 砂漠は<u>乾燥した</u>気候で知られています。
+J-2: 植物は砂漠の<u>乾燥した</u>環境で生き残るのに苦労しています。

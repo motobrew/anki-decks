@@ -1,0 +1,8 @@
+# Key:queasy
+### English Sentences
+E-1: The rocky boat made me feel <u>queasy</u> during the cruise.
+E-2: The smell of the garbage made me feel <u>queasy</u> in the kitchen.
+
+### Japanese Translation
+J-1: 船が揺れている間、私はクルージング中に気分が<u>悪くなる</u>感じがしました。
+J-2: ゴミのにおいで、台所で気分が<u>悪くなる</u>ことがあります。

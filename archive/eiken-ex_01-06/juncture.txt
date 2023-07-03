@@ -1,0 +1,8 @@
+# Key:juncture
+### English Sentences
+E-1: At this <u>juncture</u>, we need to make a crucial decision.
+E-2: The economy is at a critical <u>juncture</u> and needs immediate intervention.
+
+### Japanese Translation
+J-1: この<u>転換点</u>では、重要な決定をしなければなりません。
+J-2: 経済は重要な<u>転機</u>にあり、即座の介入が必要です。

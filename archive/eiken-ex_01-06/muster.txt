@@ -1,0 +1,8 @@
+# Key:muster
+### English Sentences
+E-1: He struggled to <u>muster</u> the courage to ask her out.
+E-2: The team is trying to <u>muster</u> enough resources for the project.
+
+### Japanese Translation
+J-1: 彼は彼女にデートをお願いする勇気を<u>持ち続けること</u>に苦労しました。
+J-2: チームはプロジェクトのための十分な資源を<u>集めること</u>を試みています。

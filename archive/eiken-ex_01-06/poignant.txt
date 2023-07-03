@@ -1,0 +1,8 @@
+# Key:poignant
+### English Sentences
+E-1: The movie ended with a <u>poignant</u> scene that brought tears to my eyes.
+E-2: The farewell speech was filled with <u>poignant</u> memories of the past.
+
+### Japanese Translation
+J-1: 映画は<u>切ない</u>シーンで終わり、私の目に涙を誘いました。
+J-2: 別れのスピーチは過去の<u>切ない</u>思い出で満ちていました。

@@ -1,0 +1,8 @@
+# Key:renege
+### English Sentences
+E-1: She <u>reneged</u> on her promise to help me move.
+E-2: The company <u>reneged</u> on its agreement to increase salaries.
+
+### Japanese Translation
+J-1: 彼女は私が引っ越しを手伝うという約束を<u>破った</u>。
+J-2: 会社は給料を増やすという合意を<u>反故にした</u>。

@@ -1,0 +1,8 @@
+# Key:abdicate
+### English Sentences
+E-1: He decided to <u>abdicate</u> the throne and relinquish his power.
+E-2: The CEO chose to <u>abdicate</u> his responsibilities and step down from his position.
+
+### Japanese Translation
+J-1: 彼は王位を<u>退位し</u>、権力を手放すことを決めました。
+J-2: CEOは責任を<u>放棄し</u>、役職から退任することを選びました。

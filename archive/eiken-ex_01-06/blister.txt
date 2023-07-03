@@ -1,0 +1,8 @@
+# Key:blister
+### English Sentences
+E-1: My new shoes gave me a <u>blister</u> after walking all day.
+E-2: The intense heat caused the paint to <u>blister</u> on the car.
+
+### Japanese Translation
+J-1: 一日中歩いた後、新しい靴が私に<u>水ぶくれ</u>を作りました。
+J-2: 激しい熱で、車の塗装が<u>水ぶくれ</u>を作りました。

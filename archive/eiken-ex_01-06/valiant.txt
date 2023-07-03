@@ -1,0 +1,8 @@
+# Key:valiant
+### English Sentences
+E-1: She showed <u>valiant</u> effort in the face of adversity.
+E-2: The soldiers fought <u>valiantly</u> to protect their country.
+
+### Japanese Translation
+J-1: 彼女は逆境に立ち向かい、<u>勇敢な</u>努力を示しました。
+J-2: 兵士たちは自国を守るために<u>勇敢に</u>戦いました。

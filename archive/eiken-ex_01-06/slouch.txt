@@ -1,0 +1,8 @@
+# Key:slouch
+### English Sentences
+E-1: Don't <u>slouch</u> during the job interview, sit up straight.
+E-2: He tends to <u>slouch</u> in his chair when he's bored.
+
+### Japanese Translation
+J-1: 面接中は姿勢を正しく保ち、ずっと前かがみにならないようにしてください。
+J-2: 彼は退屈したときに椅子に寄りかかることが多いです。

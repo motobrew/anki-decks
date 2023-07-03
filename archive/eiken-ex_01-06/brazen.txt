@@ -1,0 +1,8 @@
+# Key:brazen
+### English Sentences
+E-1: He showed a <u>brazen</u> disregard for the rules.
+E-2: The thief made a <u>brazen</u> attempt to steal the jewels.
+
+### Japanese Translation
+J-1: 彼はルールに<u>無礼な</u>態度を示しました。
+J-2: 泥棒は宝石を盗む<u>大胆な</u>試みをしました。

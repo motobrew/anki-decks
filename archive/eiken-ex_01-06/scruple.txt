@@ -1,0 +1,8 @@
+# Key:scruple
+### English Sentences:
+E-1: She had no <u>scruples</u> about lying to get what she wanted.
+E-2: He decided to cheat in the exam without any <u>scruples</u>.
+
+### Japanese Translation:
+J-1: 彼女は自分の望むものを得るために嘘をつくことに何の<u躊躇</u>もありませんでした。
+J-2: 彼は何の<u躊躇</u>もなく試験でカンニングすることを決めました。

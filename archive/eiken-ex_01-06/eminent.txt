@@ -1,0 +1,8 @@
+# Key:eminent
+### English Sentences
+E-1: As the <u>eminent</u> scholar in his field, he is frequently invited to give lectures.
+E-2: The <u>eminent</u> politician shared his thoughts on the current state of the economy.
+
+### Japanese Translation
+J-1: 彼は自分の分野で<u>著名な</u>学者として、頻繁に講演の依頼を受けています。
+J-2: その<u>卓越した</u>政治家は現在の経済状況について考えを共有しました。

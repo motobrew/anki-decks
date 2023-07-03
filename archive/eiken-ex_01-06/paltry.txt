@@ -1,0 +1,8 @@
+# Key:paltry
+### English Sentences
+E-1: The company offered a <u>paltry</u> raise, much lower than expected.
+E-2: His apology was nothing but a <u>paltry</u> attempt to make amends.
+
+### Japanese Translation
+J-1: その会社は期待していたよりもはるかに低い<u>微々たる</u>昇給を提案しました。
+J-2: 彼の謝罪は何もしない<u>取り繕いの試み</u>に過ぎませんでした。

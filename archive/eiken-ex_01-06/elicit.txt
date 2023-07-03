@@ -1,0 +1,8 @@
+# Key:elicit
+### English Sentences
+E-1: The detective's clever questions managed to <u>elicit</u> a confession from the suspect.
+E-2: The speaker's emotional speech <u>elicited</u> tears from the audience.
+
+### Japanese Translation
+J-1: 刑事の賢い質問によって、容疑者から自白が引き出された。
+J-2: スピーカーの感情的なスピーチが聴衆から涙を引き起こした。

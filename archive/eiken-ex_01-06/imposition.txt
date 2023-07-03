@@ -1,0 +1,8 @@
+# Key:imposition
+### English Sentences
+E-1: The professor assigned an excessive amount of homework, which is an <u>imposition</u> on the students.
+E-2: When my neighbor asked me to water her plants every day, it felt like an <u>imposition</u> on my time and energy.
+
+### Japanese Translation
+J-1: 教授が生徒たちに過剰な量の宿題を課したのは、生徒たちにとって<u>負担</u>です。
+J-2: 隣人が毎日彼女の植物の水やりを頼んだときは、私の時間とエネルギーへの<u>負担</u>のように感じました。

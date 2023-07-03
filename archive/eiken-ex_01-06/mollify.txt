@@ -1,0 +1,8 @@
+# Key:mollify
+### English Sentences
+E-1: He tried to <u>mollify</u> his angry wife by buying her flowers.
+E-2: The manager offered a sincere apology to <u>mollify</u> the dissatisfied customer.
+
+### Japanese Translation
+J-1: 彼は花を買って怒った妻を<u>なだめようとしました</u>。
+J-2: マネージャーは不満な顧客を<u>落ち着かせるために</u>謝罪しました。

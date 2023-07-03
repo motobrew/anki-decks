@@ -1,0 +1,8 @@
+# Key:gist
+### English Sentences
+E-1: I only caught the <u>gist</u> of the conversation, so I'm not sure about the details.
+E-2: The teacher gave us a summary to help us understand the <u>gist</u> of the article.
+
+### Japanese Translation
+J-1: 会話の<u>要点</u>しか把握できず、詳細が分かりません。
+J-2: 先生は私たちに要約を与えて、記事の<u>要旨</u>を理解する手助けをしてくれました。

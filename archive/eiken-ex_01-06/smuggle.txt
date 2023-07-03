@@ -1,0 +1,8 @@
+# Key:smuggle
+### English Sentences
+E-1: The detective managed to <u>smuggle</u> the stolen painting across the border.
+E-2: The criminal attempted to <u>smuggle</u> illegal drugs through the airport.
+
+### Japanese Translation
+J-1: 探偵は盗まれた絵を国境を<u>密輸する</u>ことに成功しました。
+J-2: 犯罪者は空港を通じて違法な薬物を<u>密輸しようとしました</u>。

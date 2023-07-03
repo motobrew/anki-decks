@@ -1,0 +1,8 @@
+# Key:hassle
+### English Sentences
+E-1: Dealing with paperwork can be a real <u>hassle</u> sometimes.
+E-2: I had to wait in line for hours, what a <u>hassle</u>!
+
+### Japanese Translation
+J-1: 書類の処理はときどき本当に<u>面倒</u>です。
+J-2: 数時間列に並ばなければならなかった、なんて<u>面倒くさい</u>！

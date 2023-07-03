@@ -1,0 +1,8 @@
+# Key:adherent
+### English Sentences
+E-1: She is a strong <u>adherent</u> of the vegan lifestyle.
+E-2: The company has many <u>adherents</u> to its brand.
+
+### Japanese Translation
+J-1: 彼女はヴィーガンの生活様式を強く<u>支持しています</u>。
+J-2: その企業は自社ブランドを忠実に<u>支持する人々</u>が多い。

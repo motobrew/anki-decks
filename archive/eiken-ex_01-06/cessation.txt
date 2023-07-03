@@ -1,0 +1,8 @@
+# Key:cessation
+### English Sentences
+E-1: The constant rain led to the <u>cessation</u> of the outdoor event.
+E-2: The noise from the construction work finally <u>came to a cessation</u>.
+
+### Japanese Translation
+J-1: 絶え間ない雨のために、野外イベントは<u>中止</u>されました。
+J-2: 工事の騒音はついに<u>やむこと</u>となりました。

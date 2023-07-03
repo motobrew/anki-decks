@@ -1,0 +1,8 @@
+# Key:lanky
+### English Sentences
+E-1: He was a <u>lanky</u> teenager, towering over his classmates.
+E-2: The basketball player's <u>lanky</u> figure gave him an advantage on the court.
+
+### Japanese Translation
+J-1: 彼は背の高いティーンエージャーで、クラスメイトよりも身長がありました。
+J-2: バスケットボール選手の細長い体型は、コートで彼に有利をもたらしました。

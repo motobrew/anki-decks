@@ -1,0 +1,8 @@
+# Key:deluge
+### English Sentences
+E-1: We were caught in a <u>deluge</u> of rain as we walked home.
+E-2: The store experienced a <u>deluge</u> of customers during the holiday sale.
+
+### Japanese Translation
+J-1: 帰宅中に大雨の<u>豪雨に</u>見舞われました。
+J-2: ホリデーセール中にその店舗は大量の<u>顧客の押し寄せ</u>に遭いました。

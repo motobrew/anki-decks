@@ -1,0 +1,8 @@
+# Key:pervasive
+### English Sentences
+E-1: The influence of social media is <u>pervasive</u> in today's society.
+E-2: The smell of freshly baked bread was <u>pervasive</u> throughout the bakery.
+
+### Japanese Translation
+J-1: ソーシャルメディアの影響は、今日の社会に<u>普及しています</u>。
+J-2: 焼きたてのパンの香りが、パン屋中に<u>広がっていました</u>。

@@ -1,0 +1,8 @@
+# Key:daunting
+### English Sentences
+E-1: The task of writing a 10-page paper can be <u>daunting</u> for students.
+E-2: Climbing Mount Everest is a <u>daunting</u> challenge that only a few brave souls attempt.
+
+### Japanese Translation
+J-1: 10ページの論文を書くという課題は学生にとって<u>困難であること</u>があります。
+J-2: エベレスト登山は、勇敢な数少ない人たちしか挑戦しない<u>大変な</u>チャレンジです。

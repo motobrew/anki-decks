@@ -1,0 +1,8 @@
+# Key:demise
+### English Sentences
+E-1: The <u>demise</u> of the company was inevitable due to financial mismanagement.
+E-2: The sudden <u>demise</u> of their relationship took everyone by surprise.
+
+### Japanese Translation
+J-1: その会社の<u>倒産</u>は、財務の誤管理によって避けられないものだった。
+J-2: 彼らの関係の突然の<u>終焉</u>は、誰もが驚いた。

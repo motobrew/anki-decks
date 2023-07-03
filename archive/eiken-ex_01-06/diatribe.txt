@@ -1,0 +1,8 @@
+# Key:diatribe
+### English Sentences
+E-1: He went on a <u>diatribe</u> against the current political regime.
+E-2: The professor unleashed a long <u>diatribe</u> about the importance of education.
+
+### Japanese Translation
+J-1: 彼は現政権に対する激しい<u>痛烈な非難</u>を行った。
+J-2: 教授は教育の重要性についての長い<u>猛烈な非難の言葉</u>を放った。

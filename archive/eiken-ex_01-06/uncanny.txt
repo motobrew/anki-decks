@@ -1,0 +1,8 @@
+# Key:uncanny
+### English Sentences
+E-1: The resemblance between the two sisters is <u>uncanny</u>.
+E-2: The psychic made an <u>uncanny</u> prediction about my future.
+
+### Japanese Translation
+J-1: 二人の姉妹の類似点は<u>驚くほど</u>類似している。
+J-2: 占い師が私の未来について<u>不思議なほど的中した予言</u>をしました。

@@ -1,0 +1,8 @@
+# Key:debacle
+### English Sentences
+E-1: The company's financial debacle led to widespread layoffs. 
+E-2: The team's loss in the final game was a complete debacle.
+
+### Japanese Translation
+J-1: その会社の財政上の<u>失敗</u>が、大規模な解雇を引き起こしました。
+J-2: チームの最終試合での敗北は、完全な<u>失態</u>でした。

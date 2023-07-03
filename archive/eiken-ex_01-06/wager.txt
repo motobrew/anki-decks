@@ -1,0 +1,8 @@
+# Key:wager
+### English Sentences
+E-1: I <u>wager</u> that it will rain tomorrow based on the dark clouds.
+E-2: He <u>wagers</u> his entire savings on a risky investment.
+
+### Japanese Translation
+J-1: 暗い雲を基にして、明日雨が降ると<u>私は確信する</u>。
+J-2: 彼はリスクのある投資に全貯金を<u>賭ける</u>。

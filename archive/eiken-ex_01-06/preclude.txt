@@ -1,0 +1,8 @@
+# Key:preclude
+### English Sentences
+E-1: The stormy weather <u>precluded</u> us from going on our picnic.
+E-2: His lack of experience <u>precludes</u> him from getting the job.
+
+### Japanese Translation
+J-1: 悪天候のため、ピクニックに行くことが<u>できなかった</u>。
+J-2: 彼の経験不足から、彼はその仕事を<u>得ることができない</u>。

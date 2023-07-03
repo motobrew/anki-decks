@@ -1,0 +1,8 @@
+# Key:adroit
+### English Sentences
+E-1: She demonstrated <u>adroit</u> skill in handling difficult negotiations.
+E-2: The gymnast showed an <u>adroit</u> ability to balance on the beam.
+
+### Japanese Translation
+J-1: 彼女は困難な交渉を巧みに扱うスキルを示しました。
+J-2: その体操選手は可憐に梁の上でバランスを取る能力を見せました。

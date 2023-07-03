@@ -1,0 +1,8 @@
+# Key:foster
+### English Sentences
+E-1: She has dedicated her life to <u>foster</u> the arts and culture in her community.
+E-2: The company aims to <u>foster</u> a collaborative work environment by encouraging teamwork.
+
+### Japanese Translation
+J-1: 彼女は自分のコミュニティで芸術と文化を<u>育てるために</u>一生懸命努力しています。
+J-2: その会社はチームワークを奨励することで協力的な職場環境を<u>育成しようと</u>しています。

@@ -1,0 +1,8 @@
+# Key:debunk
+### English Sentences
+E-1: The scientist <u>debunked</u> the myth that vaccines cause autism.
+E-2: The investigation <u>debunked</u> the conspiracy theories surrounding the politician.
+
+### Japanese Translation
+J-1: 科学者はワクチンが自閉症を引き起こすという神話を<u>否定した</u>。
+J-2: 調査は政治家にまつわる陰謀論を<u>暴露した</u>。

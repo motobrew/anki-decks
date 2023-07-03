@@ -1,0 +1,8 @@
+# Key:dwindle
+### English Sentences
+E-1: The population of endangered species continues to <u>dwindle</u> each year.
+E-2: Our savings account has been slowly <u>dwindling</u> due to unexpected expenses.
+
+### Japanese Translation
+J-1: 絶滅危惧種の個体数は毎年<u>減少し続けています</u>。
+J-2: 思いもよらない出費のため、当座預金が徐々に<u>減っていく</u>。

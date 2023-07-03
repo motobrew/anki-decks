@@ -1,0 +1,8 @@
+# Key:wilt
+### English Sentences
+E-1: The flowers <u>wilted</u> in the heat of the summer sun.
+E-2: Her enthusiasm for the project <u>wilted</u> after multiple setbacks.
+
+### Japanese Translation
+J-1: 夏の太陽の熱で花が<u>しおれました</u>。
+J-2: 何度もの挫折の後、彼女のプロジェクトへの熱意が<u>消えました</u>。

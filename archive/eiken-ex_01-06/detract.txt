@@ -1,0 +1,8 @@
+# Key:detract
+### English Sentences
+E-1: The old furniture in the room <u>detracted</u> from its overall appeal.
+E-2: The noise from the construction site <u>detracts</u> from the peaceful atmosphere.
+
+### Japanese Translation
+J-1: 部屋の古い家具が全体的な魅力を<u>損なっていた</u>。
+J-2: 工事現場の騒音が平和な雰囲気を<u>損ないます</u>。

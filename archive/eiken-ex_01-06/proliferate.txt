@@ -1,0 +1,8 @@
+# Key:proliferate
+### English Sentences
+E-1: The use of plastic bags has <u>proliferated</u> in recent years.
+E-2: Social media has allowed misinformation to <u>proliferate</u> rapidly.
+
+### Japanese Translation
+J-1: 最近、プラスチック袋の使用が<u>急増</u>しています。
+J-2: ソーシャルメディアのおかげで、デマが<u>急速に広まる</u>ようになりました。

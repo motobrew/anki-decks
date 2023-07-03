@@ -1,0 +1,8 @@
+# Key:harrowing
+### English Sentences
+E-1: The movie was so <u>harrowing</u> that I couldn't sleep for days.
+E-2: The survivor's <u>harrowing</u> account of the accident left everyone in tears.
+
+### Japanese Translation
+J-1: その映画はとても<u>心を蝕むような</u>内容で、数日間眠れませんでした。
+J-2: 生存者の<u>胸をえぐるような</u>事故の証言に、みんなが涙した。

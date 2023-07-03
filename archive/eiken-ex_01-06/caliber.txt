@@ -1,0 +1,8 @@
+# Key:caliber
+### English Sentences
+E-1: The school is known for producing students of high <u>caliber</u>.
+E-2: This job requires someone of great <u>caliber</u> and experience.
+
+### Japanese Translation
+J-1: その学校は優秀な<u>資質</u>を持つ生徒を輩出しています。
+J-2: この仕事には高い<u>能力</u>と経験が必要です。

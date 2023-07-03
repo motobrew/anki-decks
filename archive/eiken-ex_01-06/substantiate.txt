@@ -1,0 +1,8 @@
+# Key:substantiate
+### English Sentences
+E-1: The witness was unable to <u>substantiate</u> his claims with evidence.
+E-2: The study results <u>substantiate</u> the hypothesis that exercise improves cognitive function.
+
+### Japanese Translation
+J-1: 証人は証拠を提出して主張を<u>裏付けること</u>ができなかった。
+J-2: 研究結果は、運動が認知機能を改善するという仮説を<u>立証しています</u>。

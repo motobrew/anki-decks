@@ -1,0 +1,8 @@
+# Key:apathetic
+### English Sentences
+E-1: I tried to talk to him about the issue, but he seemed <u>apathetic</u> and uninterested.
+E-2: Despite the urgency of the situation, she remained <u>apathetic</u> and did nothing to help.
+
+### Japanese Translation
+J-1: 私はその問題について彼と話そうとしましたが、彼は無関心で興味を示しませんでした。
+J-2: 緊急性があるにもかかわらず、彼女は無関心で何も手助けしませんでした。

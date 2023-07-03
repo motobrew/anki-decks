@@ -1,0 +1,8 @@
+# Key:abject
+### English Sentences
+E-1: The team's abject performance in yesterday's match was disappointing.
+E-2: He lived in abject poverty, struggling to afford basic necessities.
+
+### Japanese Translation
+J-1: 昨日の試合でチームの<u>惨憺たる</u>パフォーマンスは失望でした。
+J-2: 彼は<u>まったくの</u>貧困に生活し、基本的な生活必需品が買えずに苦しんでいました。

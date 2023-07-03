@@ -1,0 +1,8 @@
+# Key:copious
+### English Sentences
+E-1: The chef added a <u>copious</u> amount of butter to the recipe.
+E-2: The museum has a <u>copious</u> collection of artwork from around the world.
+
+### Japanese Translation
+J-1: シェフはレシピに<u>豊富な</u>量のバターを加えました。
+J-2: その博物館には、世界各地の美術作品の<u>豊富な</u>コレクションがあります。

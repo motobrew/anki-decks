@@ -1,0 +1,8 @@
+# Key:perennial
+### English Sentences
+E-1: The company's <u>perennial</u> success can be attributed to strong leadership.
+E-2: The issue of climate change remains a <u>perennial</u> concern for scientists.
+
+### Japanese Translation
+J-1: 会社の<strong>長期にわたる</strong>成功は、強力なリーダーシップによるものとされています。
+J-2: 気候変動の問題は、科学者にとっての<strong>絶え間ない</strong>関心事です。

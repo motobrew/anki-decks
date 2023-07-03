@@ -1,0 +1,8 @@
+# Key:mock
+### English Sentences
+E-1: She <u>mocked</u> his terrible singing by mimicking his off-key notes. 
+E-2: The bully always <u>mocks</u> the other students, making fun of their appearance. 
+
+### Japanese Translation
+J-1: 彼女は彼のひどい歌声を<u>あざ笑い</u>、音程の外れた音をまねました。
+J-2: そのいじめっ子はいつも他の生徒たちを<u>嘲笑い</u>、容姿をからかいます。

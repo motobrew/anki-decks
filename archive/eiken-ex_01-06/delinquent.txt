@@ -1,0 +1,8 @@
+# Key:delinquent
+### English Sentences
+E-1: The bank notified the customer of his <u>delinquent</u> payment.
+E-2: The company took legal action against the <u>delinquent</u> employee.
+
+### Japanese Translation
+J-1: 銀行は顧客に<u>滞納</u>した支払いを通知しました。
+J-2: その会社は<u>滞納者</u>の従業員に対して法的措置を取りました。

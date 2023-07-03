@@ -1,0 +1,8 @@
+# Key:marginally
+### English Sentences
+E-1: The price of the product was only marginally reduced during the sale.
+E-2: His performance improved only marginally after receiving additional training.
+
+### Japanese Translation
+J-1: セール中に商品の価格は<u>わずかに</u>値下げされました。
+J-2: 追加のトレーニングを受けた後も彼のパフォーマンスは<u>わずかに</u>改善しました。

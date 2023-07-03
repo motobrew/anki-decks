@@ -1,0 +1,8 @@
+# Key:dissuade
+### English Sentences
+E-1: I tried to <u>dissuade</u> him from quitting his job, but he didn't listen.
+E-2: Her parents tried to <u>dissuade</u> her from studying abroad, but she went anyway.
+
+### Japanese Translation
+J-1: 彼に仕事をやめるのを<u>やめさせよう</u>としたが、彼は聞かなかった。
+J-2: 彼女の両親は、彼女に海外留学を<u>やめさせよう</u>としたが、彼女はやった。

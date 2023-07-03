@@ -1,0 +1,8 @@
+# Key:banter
+### English Sentences
+E-1: We engaged in lively <u>banter</u> during the dinner party.
+E-2: Their playful <u>banter</u> revealed their close friendship.
+
+### Japanese Translation
+J-1: 私たちは夕食会中に活発な<u>冗談交じりの会話</u>を楽しんだ。
+J-2: 彼らの遊び心のある<u>戯れ話</u>が彼らの親しい友情を明らかにした。

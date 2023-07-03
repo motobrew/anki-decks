@@ -1,0 +1,8 @@
+# Key:concerted
+### English Sentences
+E-1: The team made a <u>concerted</u> effort to reach their sales target.
+E-2: The community made a <u>concerted</u> effort to clean up the park.
+
+### Japanese Translation
+J-1: チームは売上目標を達成するために<u>共同での</u>努力をしました。
+J-2: コミュニティは公園の清掃に<u>共同での</u>取り組みをしました。

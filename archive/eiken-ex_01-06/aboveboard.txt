@@ -1,0 +1,8 @@
+# Key:aboveboard
+### English Sentences
+E-1: The company assured us that all their dealings were <u>aboveboard</u>.
+E-2: We need to make sure that our financial records are always <u>aboveboard</u>.
+
+### Japanese Translation
+J-1: その会社は、彼らの全ての取引が正当であると保証しました。
+J-2: 私たちは常に自分たちの財務記録が公明正大であることを確認する必要があります。

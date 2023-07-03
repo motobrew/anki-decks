@@ -1,0 +1,8 @@
+# Key:kickback
+### English Sentences
+E-1: The politician received a <u>kickback</u> for approving the construction project.
+E-2: The company gave the customer a <u>kickback</u> for referring a new client.
+
+### Japanese Translation
+J-1: 政治家は建設プロジェクトを承認した見返りにうけとった。
+J-2: 会社は新しい顧客を紹介するために顧客にバックマネーを支払いました。

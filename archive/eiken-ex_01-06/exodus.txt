@@ -1,0 +1,8 @@
+# Key:exodus
+### English Sentences
+E-1: There was a mass <u>exodus</u> from the city after the earthquake.
+E-2: The company experienced an <u>exodus</u> of employees due to poor management.
+
+### Japanese Translation
+J-1: 地震後、都市からは大量の<u>移住</u>がありました。
+J-2: その会社は、経営の悪さから従業員の<u>大量離職</u>を経験しました。

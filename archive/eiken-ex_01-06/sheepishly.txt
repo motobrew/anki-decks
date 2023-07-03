@@ -1,0 +1,8 @@
+# Key:sheepishly
+### English Sentences
+E-1: He entered the room <u>sheepishly</u> after breaking the vase.
+E-2: The students grinned <u>sheepishly</u> when caught cheating on the test.
+
+### Japanese Translation
+J-1: 彼は花瓶を割った後、<u>に恥ずかしそうに</u>部屋に入ってきた。
+J-2: テストでカンニングしているのを見つかった時、生徒たちは<u>に恥ずかしそうに</u>笑った。

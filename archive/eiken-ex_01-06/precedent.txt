@@ -1,0 +1,8 @@
+# Key:precedent
+### English Sentences
+E-1: The court ruling set an important <u>precedent</u> for future cases.
+E-2: This decision could create a dangerous <u>precedent</u> for other countries.
+
+### Japanese Translation
+J-1: その裁判の判決は、将来の事件に対する重要な<u>先例</u>を示しました。
+J-2: この判断は、他の国々に対して危険な<u>前例</u>を作り出す可能性があります。

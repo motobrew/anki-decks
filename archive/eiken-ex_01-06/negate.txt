@@ -1,0 +1,8 @@
+# Key:negate
+### English Sentences
+E-1: His excuse did not <u>negate</u> the fact that he was late.
+E-2: The positive reviews <u>negate</u> the negative opinions about the movie.
+
+### Japanese Translation
+J-1: 彼の弁解は彼が遅刻した事実を<u>否定しなかった</u>。
+J-2: 肯定的なレビューがその映画に対する否定的な意見を<u>無効にする</u>。

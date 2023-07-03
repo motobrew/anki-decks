@@ -1,0 +1,8 @@
+# Key:apprehend
+### English Sentences
+E-1: The police were able to <u>apprehend</u> the thief after a short chase.
+E-2: The detective finally managed to <u>apprehend</u> the suspect and solve the case.
+
+### Japanese Translation
+J-1: 警察は、追跡の後に泥棒を<u>逮捕</u>することができました。
+J-2: 探偵はついに犯人を<u>捕らえ</u>て事件を解決しました。

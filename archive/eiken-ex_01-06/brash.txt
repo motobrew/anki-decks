@@ -1,0 +1,8 @@
+# Key:brash
+### English Sentences
+E-1: She didn't hold back and made a <u>brash</u> declaration in front of everyone.
+E-2: His <u>brash</u> attitude often gets him into trouble with his superiors.
+
+### Japanese Translation
+J-1: 彼女は抑えずに、誰の前でも思い切った宣言をしました。
+J-2: 彼の生意気な態度は上司によく問題を引き起こします。

@@ -1,0 +1,8 @@
+# Key:emulate
+### English Sentences
+E-1: Many young musicians try to <u>emulate</u> their favorite artists in style and sound.
+E-2: The new employee was praised for her ability to <u>emulate</u> her supervisor's work ethic.
+
+### Japanese Translation
+J-1: 多くの若い音楽家は、スタイルやサウンドでお気に入りのアーティストを<u>模倣しようとする</u>。
+J-2: 新入社員は、上司の労働倫理を<u>見習うことができる</u>と称賛されました。

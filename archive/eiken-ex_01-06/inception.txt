@@ -1,0 +1,8 @@
+# Key:inception
+### English Sentences
+E-1: The <u>inception</u> of the new project marked a fresh start for the company.
+E-2: The <u>inception</u> of their relationship can be traced back to their high school days.
+
+### Japanese Translation
+J-1: 新しいプロジェクトの<u>開始</u>は、会社に新たな始まりをもたらしました。
+J-2: 彼らの関係の<u>始まり</u>は、彼らの高校時代に遡ることができます。

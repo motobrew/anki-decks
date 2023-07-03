@@ -1,0 +1,8 @@
+# Key:replicate
+### English Sentences
+E-1: The scientist was able to <u>replicate</u> the experiment and get the same results.
+E-2: He tried to <u>replicate</u> his grandmother's secret recipe, but it never tasted the same.
+
+### Japanese Translation
+J-1: 科学者は実験を<u>再現すること</u>ができ、同じ結果を得ました。
+J-2: 彼は祖母の秘密のレシピを<u>再現しようとした</u>が、味はいつも同じではありませんでした。

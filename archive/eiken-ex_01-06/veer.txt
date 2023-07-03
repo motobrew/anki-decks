@@ -1,0 +1,8 @@
+# Key:veer
+### English Sentences
+E-1: The car <u>veered</u> to the left to avoid hitting the pedestrian.
+E-2: Our conversation started about movies but quickly <u>veered</u> into politics.
+
+### Japanese Translation
+J-1: 歩行者にぶつからないように、車は左に<u>逸れました</u>。
+J-2: 映画の話から始まった会話がすぐに<u>政治に逸れました</u>。

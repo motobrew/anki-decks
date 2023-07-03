@@ -1,0 +1,8 @@
+# Key:polarize
+### English Sentences
+E-1: The politician's controversial statements <u>polarized</u> the electorate.
+E-2: The decision to close the factory <u>polarized</u> the community.
+
+### Japanese Translation
+J-1: その政治家の物議を醸す発言は有権者を<u>分裂</u>させました。
+J-2: 工場を閉鎖する決定は地域社会を<u>分断</u>させました。

@@ -1,0 +1,8 @@
+# Key:elusive
+### English Sentences
+E-1: The solution to the problem has always been <u>elusive</u>.
+E-2: The suspect managed to escape the police, remaining <u>elusive</u>.
+
+### Japanese Translation
+J-1: 問題の解決策はいつも<u>見つけにくい</u>です。
+J-2:容疑者は警察から逃げ切り、<u>手がかりをつかむことができなかった</u>。

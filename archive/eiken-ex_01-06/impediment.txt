@@ -1,0 +1,8 @@
+# Key:impediment
+### English Sentences
+E-1: He overcame his speech <u>impediment</u> and became a successful public speaker.
+E-2: The lack of funding is a major <u>impediment</u> to the completion of the project.
+
+### Japanese Translation
+J-1: 彼は言語の<u>障害</u>を克服し、成功した公演者になりました。
+J-2: 資金不足はプロジェクトの完了における主要な<u>障害</u>です。

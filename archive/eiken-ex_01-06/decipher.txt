@@ -1,0 +1,8 @@
+# Key:decipher
+### English Sentences
+E-1: It took me a while to <u>decipher</u> the meaning of her cryptic message.
+E-2: The ancient hieroglyphs were challenging to <u>decipher</u> without a translator.
+
+### Japanese Translation
+J-1: 彼女の謎めいたメッセージの意味を<u>解読する</u>のに時間がかかりました。
+J-2: 翻訳者なしで古代の象形文字を<u>解読する</u>のは困難でした。

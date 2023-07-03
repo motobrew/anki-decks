@@ -1,0 +1,8 @@
+# Key:cumbersome
+### English Sentences
+E-1: Carrying a heavy backpack can be quite <u>cumbersome</u> on a long hike.
+E-2: The new software update is <u>cumbersome</u> to install and navigate.
+
+### Japanese Translation
+J-1: 長いハイキングでは重いバックパックを持つのはかなり<u>煩わしい</u>ことです。
+J-2: 新しいソフトウェアのアップデートは<u>煩雑</u>でインストールや操作が大変です。

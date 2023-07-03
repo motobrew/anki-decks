@@ -1,0 +1,8 @@
+# Key:pertinent
+### English Sentences
+E-1: The lawyer asked a lot of questions that weren't <u>pertinent</u> to the case.
+E-2: The professor provided <u>pertinent</u> examples to help illustrate the concept.
+
+### Japanese Translation
+J-1: 弁護士は、ケースに<u>関連のない</u>多くの質問をしました。
+J-2: 教授は、概念を説明するために<u>適切な</u>例を提供しました。

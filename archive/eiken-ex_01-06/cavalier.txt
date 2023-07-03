@@ -1,0 +1,8 @@
+# Key:cavalier
+### English Sentences
+E-1: His <u>cavalier</u> attitude towards safety is very concerning.
+E-2: The politician's <u>cavalier</u> promises are empty and insincere.
+
+### Japanese Translation
+J-1: 彼の安全に対する<u>軽率な</u>態度は非常に懸念されます。
+J-2: 政治家の<u>無責任な</u>約束は空虚で誠意がない。

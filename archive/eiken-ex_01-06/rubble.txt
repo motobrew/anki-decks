@@ -1,0 +1,8 @@
+# Key:rubble
+### English Sentences
+E-1: After the earthquake, the entire city was reduced to <u>rubble</u>.
+E-2: It took months to clear away the <u>rubble</u> from the collapsed building.
+
+### Japanese Translation
+J-1: 地震の後、その都市はまるで<u>がれき</u>と化しました。
+J-2: 倒壊した建物から<u>がれき</u>を片付けるのに数ヶ月かかりました。

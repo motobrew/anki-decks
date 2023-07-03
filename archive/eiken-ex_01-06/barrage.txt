@@ -1,0 +1,8 @@
+# Key:barrage
+### English Sentences
+E-1: The speaker faced a <u>barrage</u> of tough questions during the press conference.
+E-2: The team was prepared for the <u>barrage</u> of criticism after their defeat.
+
+### Japanese Translation
+J-1: 記者会見で、スピーカーは厳しい質問の<u>砲撃</u>に直面しました。
+J-2: チームは敗北後の批判の<u>連続</u>に備えていました。

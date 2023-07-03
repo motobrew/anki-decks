@@ -1,0 +1,8 @@
+# Key:verdict
+### English Sentences
+E-1: The jury reached a <u>verdict</u> of guilty after a long trial.
+E-2: The investigation is ongoing, so we have not yet reached a <u>verdict</u>.
+
+### Japanese Translation
+J-1: 陪審団は長い審判の後、<u>有罪の評決</u>に至りました。
+J-2: 調査はまだ続いているため、<u>評決には至っていません</u>。

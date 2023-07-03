@@ -1,0 +1,8 @@
+# Key:frivolous
+### English Sentences
+E-1: She spent all her money on <u>frivolous</u> purchases.
+E-2: Don't waste your time on <u>frivolous</u> arguments.
+
+### Japanese Translation
+J-1: 彼女は全てのお金を<u>無駄な</u>購入品に使いました。
+J-2: <u>無駄な</u>論争に時間を無駄にしないでください。

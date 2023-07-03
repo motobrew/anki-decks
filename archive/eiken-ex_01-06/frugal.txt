@@ -1,0 +1,8 @@
+# Key:frugal
+### English Sentences
+E-1: He is known for being <u>frugal</u> and always looking for discounts.
+E-2: My grandmother is incredibly <u>frugal</u> and rarely spends money on unnecessary things.
+
+### Japanese Translation
+J-1: 彼は<u>倹約家</u>であり、常に割引を探していることで知られています。
+J-2: 私の祖母は非常に<u>倹約家</u>で、必要のないものにお金を滅多に使いません。

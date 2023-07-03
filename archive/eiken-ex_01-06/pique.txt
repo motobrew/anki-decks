@@ -1,0 +1,8 @@
+# Key:pique
+### English Sentences
+E-1: The presentation on climate change <u>piqued</u> my interest in environmental issues.
+E-2: The controversial statement <u>piqued</u> the curiosity of the reporters.
+
+### Japanese Translation
+J-1: 気候変動についてのプレゼンテーションは私の環境問題に対する興味を<u>刺激しました</u>。
+J-2: 論争のある発言が記者たちの好奇心を<u>かき立てました</u>。

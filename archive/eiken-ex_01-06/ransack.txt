@@ -1,0 +1,8 @@
+# Key:ransack
+### English Sentences
+E-1: The burglars <u>ransacked</u> the house, leaving it in complete disarray.
+E-2: The kids <u>ransacked</u> their classroom, searching for hidden treasure.
+
+### Japanese Translation
+J-1: 強盗犯たちは家を<u>略奪し</u>、その場所を完全にめちゃくちゃにしました。
+J-2: 子供たちは教室を<u>勢いよく探りまくって</u>、隠された宝物を探しました。

@@ -1,0 +1,8 @@
+# Key:disparate
+### English Sentences
+E-1: The two books are written in <u>disparate</u> styles.
+E-2: The company is trying to bridge the <u>disparate</u> departments.
+
+### Japanese Translation
+J-1: その2つの本はまったく異なるスタイルで書かれています。
+J-2: その会社は異なる部門を結びつけようとしています。

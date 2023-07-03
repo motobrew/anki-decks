@@ -1,0 +1,8 @@
+# Key:hub
+### English Sentences
+E-1: The city has become a major <u>hub</u> for international trade.
+E-2: The airport serves as a <u>hub</u> for connecting flights to various destinations.
+
+### Japanese Translation
+J-1: その都市は国際貿易の重要な<u>拠点</u>になっています。
+J-2: その空港は、さまざまな目的地への乗り換え便の<u>中継地</u>として利用されています。

@@ -1,0 +1,8 @@
+# Key:derogatory
+### English Sentences
+E-1: The teacher made a <u>derogatory</u> comment about his intelligence.
+E-2: He apologized for his <u>derogatory</u> remarks about her appearance.
+
+### Japanese Translation
+J-1: 先生は彼の知能に対して<u>軽蔑的な</u>発言をしました。
+J-2: 彼は彼女の容姿に対する<u>侮辱的な</u>発言を謝罪しました。

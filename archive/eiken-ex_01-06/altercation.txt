@@ -1,0 +1,8 @@
+# Key:altercation
+### English Sentences
+E-1: The <u>altercation</u> between the two students quickly escalated into a fistfight.
+E-2: An <u>altercation</u> broke out at the bar after a heated disagreement.
+
+### Japanese Translation
+J-1: 2人の生徒の<u>口論</u>はすぐに拳闘に発展しました。
+J-2: 激しい意見の食い違いの後、バーで<u>口論が勃発しました</u>。

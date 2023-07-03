@@ -1,0 +1,8 @@
+# Key:vicinity
+### English Sentences
+E-1: There are several convenience stores in the <u>vicinity</u> of my house.
+E-2: Please be careful when walking alone at night in this <u>vicinity</u>.
+
+### Japanese Translation
+J-1: 私の家の<u>近くに</u>はいくつかのコンビニがあります。
+J-2: この<u>周辺</u>で夜に一人で歩くときは気をつけてください。

@@ -1,0 +1,8 @@
+# Key:bigotry
+### English Sentences
+E-1: His hatred towards other races is a result of his <u>bigotry</u>.
+E-2: We need to stand against <u>bigotry</u> and promote acceptance and equality.
+
+### Japanese Translation
+J-1: 彼の他の人種への憎しみは<u>偏見</u>の結果です。
+J-2: 私達は<u>偏見</u>に立ち向かい、受け入れと平等を促進する必要があります。

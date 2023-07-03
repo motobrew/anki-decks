@@ -1,0 +1,8 @@
+# Key:pander
+### English Sentences
+E-1: The politician tried to <u>pander</u> to the voters by making empty promises.
+E-2: The company decided to <u>pander</u> to popular demand and release a new product.
+
+### Japanese Translation
+J-1: その政治家は空っぽの約束をすることで有権者に<u>迎合</u>しようとしました。
+J-2: 会社は人気のある要望に<u>迎合</u>して新製品を発売することにしました。

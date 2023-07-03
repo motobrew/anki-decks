@@ -1,0 +1,8 @@
+# Key:immune
+### English Sentences
+E-1: He's always getting sick, but somehow he's <u>immune</u> to the flu.
+E-2: Despite the criticism, she remains <u>immune</u> to negative opinions.
+
+### Japanese Translation
+J-1: 彼はいつも病気になるけど、なぜかインフルエンザに<u>免疫がある</u>。
+J-2: 批判にもかかわらず、彼女は否定的な意見に<u>影響されない</u>。

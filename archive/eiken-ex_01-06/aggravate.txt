@@ -1,0 +1,8 @@
+# Key:aggravate
+### English Sentences
+E-1: The loud noise does nothing but <u>aggravate</u> my headache.
+E-2: Don't <u>aggravate</u> the situation by making rude comments.
+
+### Japanese Translation
+J-1: その大きな音はただ頭痛を<u>悪化</u>させるだけです。
+J-2: 失礼なコメントをすることで、状況を<u>悪化</u>させないでください。

@@ -1,0 +1,8 @@
+# Key:sporadic
+### English Sentences
+E-1: The company's financial reports are sporadic and inconsistent.
+E-2: He has sporadic bursts of creativity, but rarely finishes any projects.
+
+### Japanese Translation
+J-1: その会社の財務報告は<u>断続的で不一致です</u>。
+J-2: 彼は<u>断続的に創造的な衝動を抱きます</u>が、なかなかプロジェクトを完成させません。

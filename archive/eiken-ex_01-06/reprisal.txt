@@ -1,0 +1,8 @@
+# Key:reprisal
+### English Sentences
+E-1: The country threatened <u>reprisals</u> if their demands were not met.
+E-2: The company faced <u>reprisals</u> from angry customers after a product recall.
+
+### Japanese Translation
+J-1: 要求が叶わない場合、その国は<u>報復措置</u>を脅した。
+J-2: 製品リコール後、怒った顧客から<u>報復行為</u>に直面した。

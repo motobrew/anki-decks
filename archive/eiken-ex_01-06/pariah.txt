@@ -1,0 +1,8 @@
+# Key:pariah
+### English Sentences
+E-1: She was treated as a <u>pariah</u> after exposing the company's corruption.
+E-2: The controversial artist was seen as a <u>pariah</u> by the art community.
+
+### Japanese Translation
+J-1: 彼女は、会社の腐敗を暴露してから社会的な<u>追放者</u>として扱われました。
+J-2: その物議を醸す芸術家は、芸術界から<u>迫害される存在</u>とみなされていました。

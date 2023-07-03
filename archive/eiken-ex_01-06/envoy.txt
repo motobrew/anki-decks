@@ -1,0 +1,8 @@
+# Key:envoy
+### English Sentences
+E-1: The president appointed a special <u>envoy</u> to negotiate the peace treaty.
+E-2: The United Nations <u>envoy</u> delivered a speech on human rights.
+
+### Japanese Translation
+J-1: 大統領は特使を任命して平和条約の交渉を行いました。
+J-2: 国連の特使が人権について演説を行いました。

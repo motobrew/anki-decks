@@ -1,0 +1,8 @@
+# Key:aloof
+### English Sentences
+E-1: She always keeps herself <u>aloof</u> from the crowd at parties.
+E-2: Despite being in a group, he remained <u>aloof</u> and distant.
+
+### Japanese Translation
+J-1: 彼女はいつもパーティーで人ごみから<u>離れた</u>状態を保っています。
+J-2: グループでいるにもかかわらず、彼は<u>冷淡で</u>距離を置いていました。

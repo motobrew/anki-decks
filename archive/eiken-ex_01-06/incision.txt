@@ -1,0 +1,9 @@
+# Key:incision
+## Response
+### English Sentences
+E-1: The surgeon made a small <u>incision</u> to access the affected area.
+E-2: The artist's brush made a precise <u>incision</u> on the canvas.
+
+### Japanese Translation
+J-1: 外科医は影響を受けた箇所にアクセスするために小さな<u>切開</u>を行いました。
+J-2: 画家の筆がキャンバスに正確な<u>切り込み</u>を入れました。

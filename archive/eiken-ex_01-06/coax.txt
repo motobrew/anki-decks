@@ -1,0 +1,8 @@
+# Key:coax
+### English Sentences
+E-1: She was able to <u>coax</u> the shy child into speaking.
+E-2: The teacher gently <u>coaxed</u> the student to try his best.
+
+### Japanese Translation
+J-1: 彼女は内気な子供を口説いて話させることができました。
+J-2: 先生は優しく生徒に頑張ってみるように説得しました。

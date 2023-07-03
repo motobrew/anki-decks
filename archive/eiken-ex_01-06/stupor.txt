@@ -1,0 +1,8 @@
+# Key:stupor
+### English Sentences
+E-1: He stared at the TV in a <u>stupor</u>, not comprehending anything.
+E-2: She walked around in a <u>stupor</u> after taking sleeping pills.
+
+### Japanese Translation
+J-1: 彼はテレビを見つめて<u>呆然とした状態</u>で、何も理解していなかった。
+J-2: 彼女は睡眠薬を飲んだ後、<u>呆然とした状態で</u>歩き回った。

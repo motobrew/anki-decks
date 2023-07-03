@@ -1,0 +1,8 @@
+# Key:savor
+### English Sentences
+E-1: I like to <u>savor</u> my morning coffee in peace and quiet.
+E-2: Let's <u>savor</u> the moment and enjoy this delicious meal together.
+
+### Japanese Translation
+J-1: 私は朝のコーヒーをゆっくり<u>楽しみたい</u>と思います。
+J-2: この美味しい食事を一緒に<u>心ゆくまで味わいましょう</u>。

@@ -1,0 +1,8 @@
+# Key:disperse
+### English Sentences
+E-1: The crowd began to <u>disperse</u> after the concert ended.
+E-2: The protesters were forcefully <u>dispersed</u> by the police.
+
+### Japanese Translation
+J-1: コンサートが終わった後、人々は<u>散り散りに</u>なり始めた。
+J-2: 抗議者たちは警察によって<u>強制的に追い散らされた</u>。

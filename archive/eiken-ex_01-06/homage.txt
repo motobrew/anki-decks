@@ -1,0 +1,8 @@
+# Key:homage
+### English Sentences
+E-1: She made a beautiful painting as an <u>homage</u> to her favorite artist.
+E-2: The movie was a wonderful <u>homage</u> to classic film noir.
+
+### Japanese Translation
+J-1: 彼女はお気に入りの芸術家への<u>敬意を込めた</u>美しい絵を描きました。
+J-2: その映画はクラシックなフィルム・ノワールへの素晴らしい<u>オマージュ</u>でした。

@@ -1,0 +1,8 @@
+# Key:acquittal
+### English Sentences
+E-1: The jury reached an <u>acquittal</u> after careful deliberation.
+E-2: The defendant was hoping for an <u>acquittal</u> but was found guilty.
+
+### Japanese Translation
+J-1: 陪審団は熟考の末、<u>無罪判決</u>を下しました。
+J-2: 被告人は<u>無罪判決</u>を期待していたが、有罪とされました。

@@ -1,0 +1,8 @@
+# Key:wrath
+### English Sentences
+E-1: His continuous late nights and missed deadlines incurred the <u>wrath</u> of his boss.
+E-2: The company's decision to downsize unleashed the <u>wrath</u> of the employees.
+
+### Japanese Translation
+J-1: 彼の連続する遅い帰宅と期日の遅れは、上司の<u怒り</u>を招いた。
+J-2: 会社の人員削減の決定は、従業員たちの<u怒り</u>を引き起こした。

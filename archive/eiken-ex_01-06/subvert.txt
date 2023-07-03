@@ -1,0 +1,8 @@
+# Key:subvert
+### English Sentences
+E-1: The unexpected plot twist really <u>subverted</u> my expectations.
+E-2: The satirical cartoon <u>subverts</u> traditional gender stereotypes.
+
+### Japanese Translation
+J-1: 思いもよらない展開が私の予想を<u>覆しました</u>。
+J-2: その風刺漫画は伝統的な性別のステレオタイプを<u>逆さにします</u>。

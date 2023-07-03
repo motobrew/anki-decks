@@ -1,0 +1,8 @@
+# Key:dawdle
+### English Sentences
+E-1: Don't <u>dawdle</u> or we'll be late for the movie.
+E-2: She always <u>dawdles</u> in the morning and ends up rushing to work.
+
+### Japanese Translation
+J-1: ぐずぐずしないで、映画に遅刻しちゃうよ。
+J-2: 彼女はいつも朝ゆっくりして、仕事に急いで行くことになる。

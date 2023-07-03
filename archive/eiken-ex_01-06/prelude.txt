@@ -1,0 +1,8 @@
+# Key:prelude
+### English Sentences
+E-1: The prelude to the concert was a beautiful piano solo.
+E-2: Their argument was just a prelude to a much bigger conflict.
+
+### Japanese Translation
+J-1: コンサートの<u>前奏曲</u>は美しいピアノのソロでした。
+J-2: 彼らの口論は、より大きな紛争の<u>前兆</u>に過ぎませんでした。

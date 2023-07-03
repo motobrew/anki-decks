@@ -1,0 +1,8 @@
+# Key:squirm
+### English Sentences
+E-1: She couldn't help but <u>squirm</u> in her seat during the awkward silence.
+E-2: The politician tried to avoid answering the question and started to <u>squirm</u> uncomfortably.
+
+### Japanese Translation
+J-1: 彼女は気まずい沈黙の中で<u>じたばたと</u>座っているのを我慢できなかった。
+J-2: 政治家は質問に答えるのを避けようとし、不快そうに<u>もがき始めた</u>。

@@ -1,0 +1,8 @@
+# Key:tacit
+### English Sentences
+E-1: The <u>tacit</u> agreement between the two countries allowed for peaceful negotiations.
+E-2: Our friendship is built on a <u>tacit</u> understanding of each other's boundaries.
+
+### Japanese Translation
+J-1: 2つの国の<u>暗黙の</u>合意により、平和的な交渉が可能となりました。
+J-2: 私たちの友情は、互いの境界に<u>暗黙の</u>理解に基づいて構築されています。

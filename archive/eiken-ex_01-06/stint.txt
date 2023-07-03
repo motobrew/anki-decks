@@ -1,0 +1,8 @@
+# Key:stint
+### English Sentences
+E-1: After completing her <u>stint</u> as a intern, she was offered a full-time job.
+E-2: He had a short <u>stint</u> as a singer before becoming an actor.
+
+### Japanese Translation
+J-1: インターンとしての<u>期間</u>を終えた後、彼女は正社員としての仕事が提供されました。
+J-2: 俳優になる前に、彼は歌手としての<u>短い期間</u>がありました。

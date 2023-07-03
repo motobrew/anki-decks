@@ -1,0 +1,8 @@
+# Key:treacherous
+### English Sentences
+E-1: The mountain path was treacherous, with loose rocks and steep cliffs.
+E-2: The treacherous politician lied to the public about his true intentions.
+
+### Japanese Translation
+J-1: 山道は<u>危険な</u>状態で、崩れやすい岩と急な崖がありました。
+J-2: <u>不正直な</u>政治家が公衆に真の意図を隠して嘘をつきました。

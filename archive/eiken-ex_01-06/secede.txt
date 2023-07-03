@@ -1,0 +1,8 @@
+# Key:secede
+### English Sentences
+E-1: The southern states wanted to <u>secede</u> from the Union.
+E-2: The company decided to <u>secede</u> from the partnership due to irreconcilable differences.
+
+### Japanese Translation
+J-1: 南部諸州は連邦から<u>離脱する</u>ことを望んでいた。
+J-2: 会社は和解不可能な意見の相違から、パートナーシップから<u>脱退する</u>ことを決定しました。

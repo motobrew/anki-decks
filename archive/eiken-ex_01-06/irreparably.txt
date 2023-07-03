@@ -1,0 +1,8 @@
+# Key:irreparably
+### English Sentences
+E-1: The damage to the car was <u>irreparable</u> after the accident.
+E-2: The argument caused an <u>irreparable</u> rift between the two friends.
+
+### Japanese Translation
+J-1: 事故後、車の損傷は<u>修復不可能</u>でした。
+J-2: その論争は、2人の友人の間に<u>修復不可能な</u>溝を生みました。

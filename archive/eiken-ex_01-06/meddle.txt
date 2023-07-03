@@ -1,0 +1,8 @@
+# Key:meddle
+### English Sentences
+E-1: My mom always tries to <u>meddle</u> in my love life.
+E-2: I don't like it when people <u>meddle</u> in my personal affairs.
+
+### Japanese Translation
+J-1: 私の母はいつも私の恋愛に<u>干渉しようとします</u>。
+J-2: 私は他人が私の個人的な問題に<u>干渉する</u>ことが好きではありません。

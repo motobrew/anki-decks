@@ -1,0 +1,8 @@
+# Key:forensic
+### English Sentences
+E-1: The detective used <u>forensic</u> evidence to solve the crime.
+E-2: The lawyer hired a <u>forensic</u> accountant to investigate the financial records.
+
+### Japanese Translation
+J-1: 刑事は<u>法科学</u>の証拠を使って犯罪を解決しました。
+J-2: 弁護士は<u>法科学</u>の会計士を雇って財務記録を調査しました。

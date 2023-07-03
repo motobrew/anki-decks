@@ -1,0 +1,8 @@
+# Key:litany
+### English Sentences
+E-1: She went through a <u>litany</u> of complaints about her job.
+E-2: The politician delivered a <u>litany</u> of promises during his speech.
+
+### Japanese Translation
+J-1: 彼女は仕事の不満の<u>長いリスト</u>を述べました。
+J-2: 政治家はスピーチ中に<u>数々の約束</u>をしました。

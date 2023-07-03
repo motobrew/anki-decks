@@ -1,0 +1,8 @@
+# Key:demure
+### English Sentences
+E-1: She always maintains a <u>demure</u> demeanor in public.
+E-2: The bride looked <u>demure</u> in her simple white dress.
+
+### Japanese Translation
+J-1: 彼女はいつも公の場で控えめな態度を保っています。
+J-2: 新婦はシンプルな白いドレスで控えめな姿をしていました。

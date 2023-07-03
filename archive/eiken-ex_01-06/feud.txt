@@ -1,0 +1,8 @@
+# Key:feud
+### English Sentences
+E-1: A long-standing <u>feud</u> between the two families finally ended.
+E-2: The heated <u>feud</u> between the colleagues affected the whole office.
+
+### Japanese Translation
+J-1: 二つの家族の長期にわたる<u>確執</u>はついに終わりました。
+J-2: 同僚間の激しい<u>不和</u>がオフィス全体に影響を与えました。

@@ -1,0 +1,8 @@
+# Key:flimsy
+### English Sentences
+E-1: The evidence against him was <u>flimsy</u>, so he was acquitted.
+E-2: She gave a <u>flimsy</u> excuse for being late to the meeting.
+
+### Japanese Translation
+J-1: 彼に対する証拠は<u>根拠薄弱</u>だったため、彼は無罪となりました。
+J-2: 彼女は会議に遅れた<u>申し訳ない理由</u>を言いました。

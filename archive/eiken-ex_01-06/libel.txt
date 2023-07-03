@@ -1,0 +1,8 @@
+# Key:libel
+### English Sentences
+E-1: The actress is suing the magazine for <u>libel</u> after they published false rumors about her.
+E-2: The journalist was sued for <u>libel</u> after writing an article that damaged someone's reputation.
+
+### Japanese Translation
+J-1: その女優は、彼女についての誤った噂を掲載した雑誌に<u>名誉毀損で</u>訴えています。
+J-2: そのジャーナリストは、誰かの評判を傷つけた記事を書いたために<u>名誉毀損で</u>訴えられました。

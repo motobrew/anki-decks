@@ -1,0 +1,8 @@
+# Key:budge
+### English Sentences
+E-1: I tried to push the door open, but it wouldn't <u>budge</u>.
+E-2: Despite my efforts, she refused to <u>budge</u> from her decision.
+
+### Japanese Translation
+J-1: ドアを押し開けようとしましたが、全く動きませんでした。
+J-2: 私の努力にもかかわらず、彼女は自分の決断から譲ろうとしませんでした。

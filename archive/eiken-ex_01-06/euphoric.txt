@@ -1,0 +1,8 @@
+# Key:euphoric
+### English Sentences
+E-1: I won the championship and felt <u>euphoric</u> with joy. 
+E-2: The breathtaking view at the top of the mountain made me feel <u>euphoric</u>.
+
+### Japanese Translation
+J-1: 私はチャンピオンシップに勝ち、喜びで<u>浮かれました</u>。
+J-2: 山の頂上からの息をのむような景色に<u>有頂天になりました</u>。

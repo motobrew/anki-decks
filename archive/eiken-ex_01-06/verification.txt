@@ -1,0 +1,8 @@
+# Key:verification
+### English Sentences
+E-1: The email <u>verification</u> process ensures account security.
+E-2: The bank requires <u>verification</u> of your identity before making transactions.
+
+### Japanese Translation
+J-1: メールの<u>確認</u>手続きはアカウントのセキュリティを保証します。
+J-2: 取引を行う前に銀行はあなたの身元<u>確認</u>を要求します。

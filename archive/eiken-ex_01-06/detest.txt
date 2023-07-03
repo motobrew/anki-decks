@@ -1,0 +1,8 @@
+# Key:detest
+### English Sentences
+E-1: I <u>detest</u> getting stuck in traffic during rush hour.
+E-2: She <u>detests</u> eating vegetables and refuses to touch them.
+
+### Japanese Translation
+J-1: ラッシュアワーに渋滞に巻き込まれることが<u>大嫌い</u>です。
+J-2: 彼女は野菜を<u>嫌い</u>で、一切食べようとしません。

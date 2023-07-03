@@ -1,0 +1,8 @@
+# Key:broach
+### English Sentences
+E-1: She <u>broached</u> the topic of their upcoming vacation during dinner.
+E-2: The manager finally <u>broached</u> the subject of job cuts in the company meeting.
+
+### Japanese Translation
+J-1: 彼女は夕食中に<u>彼らの今度の休暇の話題を切り出しました</u>。
+J-2: マネージャーはついに<u>企業会議で仕事の削減の話を切り出しました</u>。

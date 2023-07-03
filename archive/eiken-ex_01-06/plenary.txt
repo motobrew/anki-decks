@@ -1,0 +1,8 @@
+# Key:plenary
+### English Sentences
+E-1: During the plenary session, the members discussed various issues.
+E-2: The plenary power of the court allows it to make binding decisions.
+
+### Japanese Translation
+J-1: 全会一致の議会で、メンバーはさまざまな問題について話し合いました。
+J-2: 法廷の全権は、拘束力のある決定を下すことを可能にします。

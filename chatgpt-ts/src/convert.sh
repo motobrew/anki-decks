@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-target_dir=../archive/distinction1
+target_dir=../archive/eiken-ex_01-06
 
 ls -tr $target_dir | while read file
 do

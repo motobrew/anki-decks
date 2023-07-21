@@ -6,9 +6,10 @@ const configuration = new Configuration({
   apiKey: process.env.OPENAI_API_KEY,
 });
 const openai = new OpenAIApi(configuration);
+const gptModel = "gpt-3.5-turbo-0613";
+//const gptModel = "gpt-4-0613";
 
-export async function ask(question: string, model = "gpt-3.5-turbo-0613") {
-
+export async function ask(question: string, model = gptModel) {
   const content = `
   Hi, I'm an English learner.
   Give me 2 sentences using "${question}" as idiom, based on most commonly use cases.

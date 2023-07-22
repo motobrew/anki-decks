@@ -1,0 +1,8 @@
+# Key:molasses
+### English Sentences
+E-1: Cleaning up the spilled syrup was like trying to move through <u>molasses</u>.
+E-2: Progress on the project has slowed down and feels like wading through <u>molasses</u>.
+
+### Japanese Translation
+J-1: こぼれたシロップを片付けるのは、まるで<u>糖蜜</u>を進むようなものだった。
+J-2: プロジェクトの進捗が遅くなって、<u>糖蜜</u>を進むような感じがします。

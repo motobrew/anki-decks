@@ -1,0 +1,8 @@
+# Key:ceremonious
+### English Sentences
+E-1: The wedding was a <u>ceremonious</u> affair filled with elegant decorations and formal speeches.
+E-2: The retired general received a <u>ceremonious</u> farewell with a military parade and honor guard. 
+
+### Japanese Translation
+J-1: 結婚式は、エレガントな装飾と形式ばったスピーチで満たされた<u>荘厳な</u>式典でした。
+J-2: 退役した将軍は、軍のパレードや儀仗兵による敬意にあふれた<u>厳かな</u>お別れを受けました。

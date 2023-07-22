@@ -1,0 +1,8 @@
+# Key:laud
+### English Sentences
+E-1: The audience gave a <u>rousing laud</u> to the performer's talent.
+E-2: The teacher <u>lauded</u> the student for their outstanding achievement.
+
+### Japanese Translation
+J-1: 観客は演者の才能に感動して大いに称賛した。
+J-2: 教師は優れた成果に対して生徒を賞賛した。

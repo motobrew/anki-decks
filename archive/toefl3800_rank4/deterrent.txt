@@ -1,0 +1,8 @@
+# Key:deterrent
+### English Sentences
+E-1: The police presence serves as a <u>deterrent</u> to crime in this area.
+E-2: High prices can be a <u>deterrent</u> for customers considering a purchase.
+
+### Japanese Translation
+J-1: 警察の存在はこの地域での犯罪の<u>抑止力</u>となります。
+J-2: 高い価格は購入を考えている顧客にとって<u>抑制要因</u>となる場合があります。

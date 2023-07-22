@@ -1,0 +1,8 @@
+# Key:dispel
+### English Sentences
+E-1: She tried to <u>dispel</u> the rumors by speaking out publicly.
+E-2: The scientist conducted experiments to <u>dispel</u> the misconceptions about the theory.
+
+### Japanese Translation
+J-1: 彼女は公に発言することで噂を<u>払拭</u>しようとしました。
+J-2: その科学者は実験を行い、理論に関する誤解を<u>解消</u>するためのものでした。

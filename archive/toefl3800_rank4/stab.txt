@@ -1,0 +1,8 @@
+# Key:stab
+### English Sentences
+E-1: He was stabbed in the back by his so-called friend.
+E-2: The politician stabbed his opponent in the debate with his words.
+
+### Japanese Translation
+J-1: 彼は自称友人によって背中を<u>刺されました</u>。
+J-2: 政治家はディベートで相手を言葉で<u>攻撃しました</u>。

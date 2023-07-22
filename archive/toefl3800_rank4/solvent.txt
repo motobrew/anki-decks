@@ -1,0 +1,8 @@
+# Key:solvent
+### English Sentences
+E-1: He is struggling financially, but he managed to stay solvent.
+E-2: The company's bankruptcy left many creditors solvent.
+
+### Japanese Translation
+J-1: 彼は経済的に苦しんでいるが、なんとか<u>経済的に安定している</u>。
+J-2: その会社の倒産により、多くの債権者が<u>支払い能力を保っている</u>。

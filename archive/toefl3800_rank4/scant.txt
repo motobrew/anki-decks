@@ -1,0 +1,8 @@
+# Key:scant
+### English Sentences
+E-1: There was <u>scant</u> evidence to support the claim. 
+E-2: She received <u>scant</u> attention for her hard work. 
+
+### Japanese Translation
+J-1: その主張を支持するための証拠は<u>ほとんどなかった</u>。
+J-2: 彼女は自分の努力に<u>ほとんど注目されなかった</u>。

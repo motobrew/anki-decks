@@ -1,0 +1,8 @@
+# Key:circumlocution
+### English Sentences
+E-1: He used a lot of <u>circumlocution</u> to avoid giving a direct answer.
+E-2: The politician's speech was filled with <u>circumlocution</u> and lacked clarity.
+
+### Japanese Translation
+J-1: 彼は答えを避けるために<u>回りくどい言い回し</u>をたくさん使いました。
+J-2: 政治家の演説は<u>回りくどい言葉遣い</u>で満ちており、明確さに欠けていました。

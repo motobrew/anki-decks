@@ -1,0 +1,8 @@
+# Key:granulated
+### English Sentences
+E-1: The sugar should be <u>granulated</u> before adding it to the recipe.
+E-2: The salt has a <u>granulated</u> texture, perfect for seasoning dishes.
+
+### Japanese Translation
+J-1: レシピに加える前に、砂糖を<u>細かく粉砕してください</u>。
+J-2: 塩は<u>粒状の質感</u>であり、料理の味付けに最適です。

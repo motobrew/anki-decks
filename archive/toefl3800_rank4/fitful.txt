@@ -1,0 +1,8 @@
+# Key:fitful
+### English Sentences
+E-1: The wind blew in <u>fitful</u> gusts, making it difficult to walk.
+E-2: The baby's sleep was <u>fitful</u>, constantly waking up throughout the night.
+
+### Japanese Translation
+J-1: 風が<u>断続的な</u>突風で吹き、歩くのが難しくなりました。
+J-2: 赤ちゃんの睡眠は<u>断続的な</u>もので、夜中に何度も起きてしまいます。

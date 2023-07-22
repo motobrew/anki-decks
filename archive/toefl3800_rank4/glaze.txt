@@ -1,0 +1,8 @@
+# Key:glaze
+### English Sentences
+E-1: The painter applied a final <u>glaze</u> to the ceramic vase.
+E-2: Her eyes had a <u>glaze</u> of sadness as she looked out the window.
+
+### Japanese Translation
+J-1: 画家は陶器の花瓶に最後の<u>釉薬</u>を塗りました。
+J-2: 彼女の目は窓の外を見つめる間、悲しみの<u>艶めき</u>がありました。

@@ -1,0 +1,8 @@
+# Key:complicity
+### English Sentences
+E-1: The manager was arrested for his <u>complicity</u> in the embezzlement scheme.
+E-2: His silence during the crime indicated his <u>complicity</u> in the act.
+
+### Japanese Translation
+J-1: 管理者は、背任の計画に<u>共犯</u>していたため逮捕された。
+J-2: 彼の罪を犯す際の沈黙は、彼の<u>関与</u>を示していた。

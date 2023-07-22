@@ -1,0 +1,8 @@
+# Key:hallmark
+### English Sentences
+E-1: The use of vibrant colors is a <u>hallmark</u> of the artist's style.
+E-2: Attention to detail is the <u>hallmark</u> of a well-made product.
+
+### Japanese Translation
+J-1: 鮮やかな色の使用は、その芸術家のスタイルの<u特徴</u>です。
+J-2: 細部への注意は、品質の良い製品の<u特徴</u>です。

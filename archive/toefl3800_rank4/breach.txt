@@ -1,0 +1,8 @@
+# Key:breach
+### English Sentences
+E-1: The company will face severe consequences if they <u>breach</u> the contract.
+E-2: The hackers were able to <u>breach</u> the computer system and access sensitive information.
+
+### Japanese Translation
+J-1: その会社は契約を<u>破った</u>場合、厳しい結果に直面することになるでしょう。
+J-2: ハッカーはコンピュータシステムに<u>侵入</u>し、機密情報にアクセスすることができました。

@@ -1,0 +1,8 @@
+# Key:recurrent
+### English Sentences
+E-1: The doctor was concerned about the <u>recurrent</u> headaches the patient was experiencing.
+E-2: My car has been having <u>recurrent</u> issues with the brakes.
+
+### Japanese Translation
+J-1: 医者は患者が経験している<u>反復する</u>頭痛について心配していました。
+J-2: 私の車はブレーキに<u>繰り返し起こる</u>問題があります。

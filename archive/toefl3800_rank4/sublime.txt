@@ -1,0 +1,8 @@
+# Key:sublime
+### English Sentences
+E-1: The sunset over the ocean was absolutely <u>sublime</u>.
+E-2: The orchestra's performance was <u>sublime</u>, moving the audience to tears.
+
+### Japanese Translation
+J-1: 海の上に沈む夕日はまさに<u>壮大</u>でした。
+J-2: オーケストラの演奏は<u>素晴らしく</u>、聴衆を涙ぐませました。

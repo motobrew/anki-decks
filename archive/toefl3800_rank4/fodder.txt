@@ -1,0 +1,8 @@
+# Key:fodder
+### English Sentences
+E-1: The media loves to use political scandals as <u>fodder</u> for their news stories.
+E-2: The disagreement between the two friends provided <u>fodder</u> for gossip.
+
+### Japanese Translation
+J-1: メディアは政治のスキャンダルをニュースストーリーの<uネタ</u>に使うのが好きです。
+J-2: 2人の友人の意見の対立は、ゴシップの<uネタ</u>となりました。

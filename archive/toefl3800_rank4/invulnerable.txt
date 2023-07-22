@@ -1,0 +1,8 @@
+# Key:invulnerable
+### English Sentences
+E-1: He acted like he was <u>invulnerable</u> to criticism, but deep down he was hurt.
+E-2: The fortress was thought to be <u>invulnerable</u>, but it was breached easily.
+
+### Japanese Translation
+J-1: 彼は批判に対して<u>無敵であるような</u>振る舞いをしたが、内心では傷ついていた。
+J-2: その要塞は<u>攻略しにくい</u>と考えられていたが、簡単に突破された。

@@ -1,0 +1,8 @@
+# Key:untangle
+### English Sentences
+E-1: It took me a while to <u>untangle</u> the cords behind the TV.
+E-2: I can't seem to <u>untangle</u> all the different plotlines in this book.
+
+### Japanese Translation
+J-1: テレビの後ろのコードを<u>ほどくの</u>に時間がかかりました。
+J-2: この本の複数の筋道を<u>解き明かすこと</u>ができないようです。

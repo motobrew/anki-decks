@@ -1,0 +1,8 @@
+# Key:stud
+### English Sentences
+E-1: He was a diligent student and always had his <u>nose in the books</u>.
+E-2: She is a quick learner and can <u>absorb information like a sponge</u>.
+
+### Japanese Translation
+J-1: 彼は熱心な学生で、いつも<u>一心に勉強に取り組んでいた</u>。
+J-2: 彼女は素早く学び、スポンジのように情報を<u>吸収することができる</u>。

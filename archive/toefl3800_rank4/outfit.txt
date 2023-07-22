@@ -1,0 +1,8 @@
+# Key:outfit
+### English Sentences
+E-1: She always has the perfect <u>outfit</u> for every occasion.
+E-2: He put together a stylish <u>outfit</u> for the party tonight.
+
+### Japanese Translation
+J-1: 彼女はいつもどんな場にもぴったりの<u>服装</u>をしています。
+J-2: 彼は今夜のパーティーのためにおしゃれな<u>コーディネート</u>をまとめました。

@@ -1,0 +1,8 @@
+# Key:exonerate
+### English Sentences
+E-1: DNA evidence <u>exonerated</u> the suspect, proving his innocence.
+E-2: The investigation findings <u>exonerated</u> the company from any wrongdoing.
+
+### Japanese Translation
+J-1: DNAの証拠は容疑者の無実を<u>証明しました</u>。
+J-2: 調査の結果<u>会社の不正は免責</u>されました。

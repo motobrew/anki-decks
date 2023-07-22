@@ -1,0 +1,8 @@
+# Key:fatalism
+### English Sentences
+E-1: Many people have a sense of <u>fatalism</u> when faced with inevitable death.
+E-2: It's important not to succumb to <u>fatalism</u> in the face of challenges.
+
+### Japanese Translation
+J-1: 不可避の死に直面する際に、多くの人々は<u>宿命論</u>の感覚を持っています。
+J-2: 困難に直面しても、<u>宿命論</u>に屈しないことが重要です。

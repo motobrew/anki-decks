@@ -1,0 +1,8 @@
+# Key:urine
+### English Sentences
+E-1: The doctor requested a <u>urine</u> sample for testing my health.
+E-2: She laughed so hard that she almost <u>urined</u> herself.
+
+### Japanese Translation
+J-1: 医師が私の健康を検査するために<u>尿</u>のサンプルを要求しました。
+J-2: 彼女は笑いすぎて、もう少しで<u>おしっこを漏らす</u>ところでした。

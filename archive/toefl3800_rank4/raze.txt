@@ -1,0 +1,8 @@
+# Key:raze
+### English Sentences
+E-1: The construction company plans to <u>raze</u> the old building to make way for a new development.
+E-2: The tornado <u>razed</u> the entire town, leaving nothing but destruction in its path.
+
+### Japanese Translation
+J-1: 建設会社は古い建物を<u>取り壊して</u>新しい開発のためのスペースを作る予定です。
+J-2: 竜巻が町全体を<u>完全に破壊しました</u>。何もかもが壊滅的な状態になりました。

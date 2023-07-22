@@ -1,0 +1,8 @@
+# Key:sprain
+### English Sentences
+E-1: She <u>sprained</u> her ankle while playing basketball.
+E-2: Don't overexert yourself or you might <u>sprain</u> a muscle.
+
+### Japanese Translation
+J-1: 彼女はバスケットボールをしている最中に足首を<u>捻挫しました</u>。
+J-2: 無理をしないようにしてください。筋肉を<u>捻挫する</u>かもしれません。

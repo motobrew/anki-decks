@@ -1,0 +1,8 @@
+# Key:ancillary
+### English Sentences
+E-1: The <u>ancillary</u> equipment needed for the project was expensive.
+E-2: The book includes an <u>ancillary</u> CD with audio recordings.
+
+### Japanese Translation
+J-1: プロジェクトに必要な<u>付属の</u>機器は高価でした。
+J-2: その本には音声の収録が含まれた<u>付属の</u>CDが付いています。

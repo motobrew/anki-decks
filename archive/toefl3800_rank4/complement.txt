@@ -1,0 +1,8 @@
+# Key:complement
+### English Sentences
+E-1: The new curtains really <u>complement</u> the furniture in the living room.
+E-2: His skills in marketing <u>complement</u> her expertise in finance.
+
+### Japanese Translation
+J-1: 新しいカーテンはリビングルームの家具とよく<u>調和します</u>。
+J-2: 彼のマーケティングのスキルは彼女の財務の専門知識と<u>相性が良いです</u>。

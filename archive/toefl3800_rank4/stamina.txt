@@ -1,0 +1,8 @@
+# Key:stamina
+### English Sentences
+E-1: He had the <u>stamina</u> to run a marathon without stopping.
+E-2: The long hike tested her <u>stamina</u> but she persevered until the end.
+
+### Japanese Translation
+J-1: 彼は止まることなくマラソンを走り切る<u>持久力</u>がありました。
+J-2: 長いハイキングは彼女の<u>持久力</u>を試したが、彼女は最後まで粘りました。

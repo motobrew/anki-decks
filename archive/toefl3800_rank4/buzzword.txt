@@ -1,0 +1,8 @@
+# Key:buzzword
+### English Sentences
+E-1: The term "fake news" has become a <u>buzzword</u> in today's political climate.
+E-2: Many companies use the <u>buzzword</u> "sustainability" to attract environmentally-conscious customers.
+
+### Japanese Translation
+J-1: 「フェイクニュース」という言葉は、今日の政治の状況で<u>キーワード</u>となっています。
+J-2: 多くの企業が、環境に配慮する顧客を引き付けるために「持続可能性」という<u>キーワード</u>を使用しています。

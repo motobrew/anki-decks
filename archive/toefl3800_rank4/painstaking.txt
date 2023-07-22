@@ -1,0 +1,8 @@
+# Key:painstaking
+### English Sentences
+E-1: The artist put <u>painstaking</u> effort into every brush stroke of the painting.
+E-2: The detective conducted a <u>painstaking</u> investigation to solve the case.
+
+### Japanese Translation
+J-1: その芸術家は絵の筆遣いに<u>細心の注意を払いました</u>。
+J-2: 刑事は事件を解決するために<u>入念な調査</u>を行いました。

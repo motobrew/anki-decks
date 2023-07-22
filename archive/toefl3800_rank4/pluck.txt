@@ -1,0 +1,8 @@
+# Key:pluck
+### English Sentences
+E-1: He <u>plucked up</u> the courage to ask her out on a date.
+E-2: She <u>plucked up</u> the guitar strings to play a beautiful melody.
+
+### Japanese Translation
+J-1: 彼は勇気を<u>奮い起こして</u>彼女にデートを誘いました。
+J-2: 彼女はギターの弦を<u>つまんで</u>美しいメロディを奏でました。

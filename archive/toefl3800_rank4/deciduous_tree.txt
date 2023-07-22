@@ -1,0 +1,8 @@
+# Key:deciduous tree
+### English Sentences
+E-1: The changing colors of the leaves indicate that fall has arrived, and the <u>deciduous trees</u> are shedding their leaves.
+E-2: The landscape will look bare in winter because the <u>deciduous trees</u> have lost all their leaves.
+
+### Japanese Translation
+J-1: 葉っぱの色の変化から秋が訪れ、落葉樹が葉を落としていることを示しています。
+J-2: 冬になると、落葉樹は葉を全て失い、景色は寂しくなります。

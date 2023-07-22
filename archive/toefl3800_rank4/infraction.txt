@@ -1,0 +1,8 @@
+# Key:infraction
+### English Sentences
+E-1: He was fined for a speeding <u>infraction</u> on the highway.
+E-2: The student was given a detention for his <u>infraction</u> of the school rules.
+
+### Japanese Translation
+J-1: 彼は高速道路でのスピード違反で罰金を科されました。
+J-2: 生徒は学校の規則違反で停学処分を受けました。

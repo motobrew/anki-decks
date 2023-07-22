@@ -1,0 +1,8 @@
+# Key:womb
+### English Sentences
+E-1: She carries her hopes and dreams in the <u>womb</u> of her imagination.
+E-2: The company's newest product is still in the <u>womb</u> of development.
+
+### Japanese Translation
+J-1: 彼女は夢と希望を想像力の<uお腹の中</u>で抱えています。
+J-2: その会社の最新製品はまだ<u>開発の中のお腹</u>にあります。

@@ -1,0 +1,8 @@
+# Key:molt
+### English Sentences
+E-1: The snakes in the desert <u>molt</u> to shed their old skin.
+E-2: The bird will <u>molt</u> its feathers during the summer season.
+
+### Japanese Translation
+J-1: 砂漠のヘビは、古い皮を脱ぐために<u>脱皮します</u>。
+J-2: その鳥は夏の季節に羽根を<u>抜け落とす</u>でしょう。

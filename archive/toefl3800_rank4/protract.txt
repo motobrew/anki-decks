@@ -1,0 +1,8 @@
+# Key:protract
+### English Sentences
+E-1: The negotiation process has been <u>protracted</u> due to disagreements between the two parties.
+E-2: We need to find a solution quickly; we don't want to <u>protract</u> this issue any longer.
+
+### Japanese Translation
+J-1: 両者の意見の相違により、交渉の過程が<u>長引いています</u>。
+J-2: この問題をもっと<u>長引かせたくありません</u>ので、早く解決策を見つける必要があります。

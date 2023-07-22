@@ -1,0 +1,8 @@
+# Key:sense organ
+### English Sentences
+E-1: The eye is a <u>sense organ</u> that allows us to see the world.
+E-2: The nose, as a <u>sense organ</u>, is responsible for our sense of smell.
+
+### Japanese Translation
+J-1: 目は私たちに世界を見ることを可能にする<u>感覚器官</u>です。
+J-2: 鼻は<u>感覚器官</u>として、私たちの嗅覚に責任があります。

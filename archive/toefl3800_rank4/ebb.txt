@@ -1,0 +1,8 @@
+# Key:ebb
+### English Sentences
+E-1: Sales tend to <u>ebb</u> during the winter months.
+E-2: The energy in the room began to <u>ebb</u> as the meeting dragged on.
+
+### Japanese Translation
+J-1: 冬の間は売り上げが<u>下がる傾向にある</u>。
+J-2: 会議が長引くにつれて、部屋のエネルギーが<u>低下し始めた</u>。

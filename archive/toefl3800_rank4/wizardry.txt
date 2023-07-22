@@ -1,0 +1,8 @@
+# Key:wizardry
+### English Sentences
+E-1: His skill in negotiation is pure <u>wizardry</u>.
+E-2: She performed a series of card tricks with <u>wizardry</u>.
+
+### Japanese Translation
+J-1: 彼の交渉能力は純粋な<u>魔法</u>です。
+J-2: 彼女は<u>魔法のような技巧</u>で一連のカードトリックを披露しました。

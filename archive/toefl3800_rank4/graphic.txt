@@ -1,0 +1,8 @@
+# Key:graphic
+### English Sentences
+E-1: The company's CEO gave a <u>graphic</u> presentation on the quarterly earnings.
+E-2: The movie includes <u>graphic</u> scenes of violence and gore.
+
+### Japanese Translation
+J-1: その会社のCEOが四半期の収益について<u>わかりやすい</u>プレゼンテーションを行いました。
+J-2: その映画には<u>生々しい</u>暴力シーンが含まれています。

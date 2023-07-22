@@ -1,0 +1,8 @@
+# Key:snicker
+### English Sentences
+E-1: She couldn't help but <u>snicker</u> at his cheesy joke.
+E-2: The naughty boy would always <u>snicker</u> at his classmates' mistakes.
+
+### Japanese Translation
+J-1: 彼女は、彼のくだらないジョークに<u>クスッと笑わずにはいられなかった</u>。
+J-2: いたずらっ子は、いつもクラスメートのミスに<u>ニヤリと笑ってしまう</u>。

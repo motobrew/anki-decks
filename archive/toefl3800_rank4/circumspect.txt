@@ -1,0 +1,8 @@
+# Key:circumspect
+### English Sentences
+E-1: Before making a decision, he always takes a <u>circumspect</u> approach.
+E-2: The detective examined the crime scene with a <u>circumspect</u> eye.
+
+### Japanese Translation
+J-1: 彼は常に慎重なアプローチをとってから、決断を下します。
+J-2: 刑事は慎重な目で犯行現場を調査しました。

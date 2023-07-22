@@ -1,0 +1,8 @@
+# Key:decry
+### English Sentences
+E-1: The environmentalists <u>decry</u> the government's decision to cut down the trees.
+E-2: Many people <u>decry</u> the use of plastic bags due to their environmental impact.
+
+### Japanese Translation
+J-1: 環境保護団体は、政府が木を伐採するという決定を<u>非難しています</u>。
+J-2: 多くの人々が、プラスチックバッグの使用を環境への影響から<u>批判しています</u>。

@@ -1,0 +1,8 @@
+# Key:mar
+### English Sentences
+E-1: The rainy weather <u>marred</u> our plans for a picnic.
+E-2: His careless mistake <u>marred</u> his otherwise perfect performance.
+
+### Japanese Translation
+J-1: 雨の天候が私たちのピクニックの計画を<u>台無しにしました</u>。
+J-2: 彼の不注意なミスが、彼の完璧なパフォーマンスを<u>台無しにしました</u>。

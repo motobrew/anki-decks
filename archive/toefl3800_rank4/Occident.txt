@@ -1,0 +1,8 @@
+# Key:Occident
+### English Sentences
+E-1: The art exhibition showcased various works from the <u>Occident</u>.
+E-2: I am fascinated by the cultural traditions of the <u>Occident</u>.
+
+### Japanese Translation
+J-1: その美術展は、<u>西洋</u>からのさまざまな作品を紹介しました。
+J-2: 私は<u>西洋</u>の文化的な伝統に魅了されています。

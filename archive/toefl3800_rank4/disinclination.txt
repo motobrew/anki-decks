@@ -1,0 +1,8 @@
+# Key:disinclination
+### English Sentences
+E-1: His <u>disinclination</u> to exercise is evident in his sedentary lifestyle.
+E-2: She expressed her <u>disinclination</u> to attend the party due to her social anxiety.
+
+### Japanese Translation
+J-1: 彼の運動に対する<u>嫌悪感</u>は、彼の低活動的な生活様式から明らかです。
+J-2: 彼女は社交不安から、パーティーへの<u>出席を嫌うこと</u>を表明しました。

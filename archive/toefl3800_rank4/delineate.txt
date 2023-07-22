@@ -1,0 +1,8 @@
+# Key:delineate
+### English Sentences
+E-1: The map clearly <u>delineates</u> the boundaries between the countries.
+E-2: The presentation will <u>delineate</u> the steps for completing the project.
+
+### Japanese Translation
+J-1: その地図は国家間の境界線をはっきりと<u>明示しています</u>。
+J-2: プレゼンテーションでは、プロジェクトの完了までの手順を<u>詳細に説明します</u>。

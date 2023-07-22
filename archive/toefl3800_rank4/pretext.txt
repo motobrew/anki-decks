@@ -1,0 +1,8 @@
+# Key:pretext
+### English Sentences
+E-1: The storm was just a <u>pretext</u> for him to cancel our plans.
+E-2: He used the project as a <u>pretext</u> to spend more time with her.
+
+### Japanese Translation
+J-1: 嵐は彼が私たちの計画をキャンセルするための<u口実</u>に過ぎなかった。
+J-2: 彼は彼女ともっと時間を過ごす<uための口実</u>としてそのプロジェクトを利用しました。

@@ -1,0 +1,8 @@
+# Key:reproach
+### English Sentences
+E-1: She gave him a <u>reproachful</u> glance for forgetting their anniversary.
+E-2: The teacher's <u>reproach</u> for not completing the homework was stern.
+
+### Japanese Translation
+J-1: 彼女は彼に記念日を忘れたことを<u>責めるような</u>視線を向けました。
+J-2: 宿題が終わっていないことへの先生の<u>非難</u>は厳しかったです。

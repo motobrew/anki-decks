@@ -1,0 +1,8 @@
+# Key:agrarian
+### English Sentences
+E-1: I grew up in an <u>agrarian</u> community where farming was the main occupation.
+E-2: The government implemented <u>agrarian</u> reforms to distribute land to the landless.
+
+### Japanese Translation
+J-1: 私は<u>農業の</u>主体な地域で育ちました。農業が主な職業でした。
+J-2: 政府は土地のない人々に<u>農地の配分</u>を実施しました。

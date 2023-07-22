@@ -1,0 +1,8 @@
+# Key:clockwise
+### English Sentences
+E-1: I couldn't figure out how to solve the puzzle until I realized it was meant to be solved <u>clockwise</u>.
+E-2: The dancers moved gracefully in a <u>clockwise</u> direction around the room.
+
+### Japanese Translation
+J-1: パズルを解決する方法がわからなかったが、<u>時計回りに</u>解くべきだったことに気づいて解けた。
+J-2: ダンサーたちは優雅に部屋の中で<u>時計回りに</u>移動していました。

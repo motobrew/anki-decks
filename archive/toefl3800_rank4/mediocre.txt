@@ -1,0 +1,8 @@
+# Key:mediocre
+### English Sentences
+E-1: The actor's performance was mediocre and lacked any real emotion.
+E-2: The restaurant received mediocre reviews for its food and service.
+
+### Japanese Translation
+J-1: 俳優の演技は平凡で、本物の感情が欠けていました。
+J-2: そのレストランは料理やサービスの点で平凡な評価を受けました。

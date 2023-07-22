@@ -1,0 +1,8 @@
+# Key:contrite
+### English Sentences
+E-1: He was <u>contrite</u> after realizing the consequences of his actions.
+E-2: She offered a <u>contrite</u> apology for her mistake.
+
+### Japanese Translation
+J-1: 彼は自分の行動の結果を悔い、<u>反省していました</u>。
+J-2: 彼女は自分のミスに<u>悔いを示す</u>謝罪をしました。

@@ -1,0 +1,8 @@
+# Key:complacent
+### English Sentences
+E-1: Don't become <u>complacent</u> in your studies; always strive for improvement.
+E-2: The company's <u>complacency</u> led to its downfall in the market.
+
+### Japanese Translation
+J-1: 勉強において<u>満足せずに</u>、常に向上を目指してください。
+J-2: その会社の<u>自己満足</u>が市場での失敗を招いた。

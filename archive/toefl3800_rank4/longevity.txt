@@ -1,0 +1,8 @@
+# Key:longevity
+### English Sentences
+E-1: A healthy diet and regular exercise contribute to <u>longevity</u>.
+E-2: Many people aspire to live a life of <u>longevity</u> and vitality.
+
+### Japanese Translation
+J-1: 健康的な食事と定期的な運動は<u>長寿</u>に貢献します。
+J-2: 多くの人々が<u>長寿</u>と活力に満ちた人生を目指しています。

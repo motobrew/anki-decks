@@ -1,0 +1,8 @@
+# Key:malnutrition
+### English Sentences
+E-1: The child's constant coughing and weight loss are signs of <u>malnutrition</u>.
+E-2: Aid organizations are working to address the issue of <u>malnutrition</u> in developing countries.
+
+### Japanese Translation
+J-1: 子供の絶え間ない咳と体重減少は、<u>栄養失調</u>の兆候です。
+J-2: 支援団体は発展途上国の<u>栄養失調</u>の問題に取り組んでいます。

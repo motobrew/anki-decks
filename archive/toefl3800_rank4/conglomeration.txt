@@ -1,0 +1,8 @@
+# Key:conglomeration
+### English Sentences
+E-1: A <u>conglomeration</u> of different cultures can be found in this city.
+E-2: The museum showcases a <u>conglomeration</u> of artwork from various artists.
+
+### Japanese Translation
+J-1: この都市にはさまざまな文化の<u>寄せ集め</u>が見られます。
+J-2: その美術館はさまざまなアーティストの<u>寄せ集め</u>の作品を展示しています。

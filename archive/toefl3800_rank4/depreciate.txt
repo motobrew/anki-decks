@@ -1,0 +1,8 @@
+# Key:depreciate
+### English Sentences
+E-1: The value of my car will <u>depreciate</u> over time.
+E-2: The company's stock prices have started to <u>depreciate</u> rapidly.
+
+### Japanese Translation
+J-1: 私の車の価値は時間とともに<u>減少します</u>。
+J-2: その会社の株価は急速に<u>下落し始めました</u>。

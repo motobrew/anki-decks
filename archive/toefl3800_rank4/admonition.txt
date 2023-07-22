@@ -1,0 +1,8 @@
+# Key:admonition
+### English Sentences
+E-1: The teacher's <u>admonition</u> to study harder stuck with me.
+E-2: She ignored her parents' <u>admonition</u> and went out late at night.
+
+### Japanese Translation
+J-1: 先生の<u>忠告</u>をもっと頑張って勉強するように心に刻んだ。
+J-2: 彼女は両親の<u>警告</u>を無視して夜遅くまで外に出て行った。

@@ -1,0 +1,8 @@
+# Key:piling
+### English Sentences
+E-1: The dishes in the sink keep <u>piling</u> up, I need to do them soon.
+E-2: The work is <u>piling</u> up and I feel overwhelmed with all the tasks.
+
+### Japanese Translation
+J-1: シンクに洗い物が<u>積み上がりつつあります</u>、早くやらないといけません。
+J-2: 仕事が<u>山積みになってきて</u>、たくさんのタスクに圧倒されています。

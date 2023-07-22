@@ -1,0 +1,8 @@
+# Key:salvage
+### English Sentences
+E-1: He tried to <u>salvage</u> what was left of their relationship.
+E-2: The company managed to <u>salvage</u> some of the damaged goods.
+
+### Japanese Translation
+J-1: 彼は、関係の残りを<u>救おうと</u>しました。
+J-2: 会社は、一部の損傷した商品を<u>回収すること</u>に成功しました。

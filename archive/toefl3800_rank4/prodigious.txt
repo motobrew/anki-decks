@@ -1,0 +1,8 @@
+# Key:prodigious
+### English Sentences
+E-1: The child's talent for playing the piano is <u>prodigious</u>.
+E-2: The company experienced <u>prodigious</u> growth during the last quarter.
+
+### Japanese Translation
+J-1: その子のピアノの才能は<u>驚異的</u>です。
+J-2: その企業は前四半期に<u>とてつもない</u>成長を遂げました。

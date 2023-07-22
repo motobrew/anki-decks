@@ -1,0 +1,8 @@
+# Key:summotion
+### English Sentences
+E-1: The teacher gave the students a <u>summon</u> to the principal's office.
+E-2: The police officer issued a <u>summons</u> to the driver for reckless driving.
+
+### Japanese Translation
+J-1: 先生は生徒たちに<u>校長室への召集令状</u>を渡しました。
+J-2: 警察官は運転過失で運転手に<u>出頭命令</u>を出しました。

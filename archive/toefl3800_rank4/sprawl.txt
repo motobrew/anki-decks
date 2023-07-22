@@ -1,0 +1,8 @@
+# Key:sprawl
+### English Sentences
+E-1: The city <u>sprawl</u> extends for miles in every direction.
+E-2: Suburban neighborhoods continue to <u>sprawl</u> across the countryside.
+
+### Japanese Translation
+J-1: 都市の<u>拡大</u>はあらゆる方向に数マイル続いています。
+J-2: 郊外の地域は続々と<u>広がり続けています</u>。

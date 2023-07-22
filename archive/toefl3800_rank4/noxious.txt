@@ -1,0 +1,8 @@
+# Key:noxious
+### English Sentences
+E-1: The <u>noxious</u> fumes from the factory made it hard to breathe.
+E-2: We had to evacuate the area due to a <u>noxious</u> chemical spill.
+
+### Japanese Translation
+J-1: 工場から発生している<u>有毒な</u>煙は息苦しくなります。
+J-2: 有害な化学物質の流出により、私たちはその地域から避難しなければなりませんでした。

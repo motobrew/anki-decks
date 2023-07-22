@@ -1,0 +1,8 @@
+# Key:censorious
+### English Sentences
+E-1: She always has a <u>censorious</u> comment about everything I do.
+E-2: The movie critics were <u>censorious</u> about the film's portrayal of violence.
+
+### Japanese Translation
+J-1: 彼女は私がすること全てに<u>批判的な</u>コメントをする。
+J-2: 映画の批評家は映画の暴力描写に<u>厳しい</u>意見を持っていた。

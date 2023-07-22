@@ -1,0 +1,8 @@
+# Key:terse
+### English Sentences
+E-1: The professor gave a <u>terse</u> response to the student's question.
+E-2: He is known for his <u>terse</u> communication style, getting straight to the point.
+
+### Japanese Translation
+J-1: 教授は生徒の質問に<u>簡潔な</u>回答をしました。
+J-2: 彼は<u>簡潔な</u>コミュニケーションスタイルで知られており、直球で話すことで有名です。

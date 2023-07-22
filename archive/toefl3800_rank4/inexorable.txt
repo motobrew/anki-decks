@@ -1,0 +1,8 @@
+# Key:inexorable
+### English Sentences
+E-1: The cost of living continues to rise, an <u>inexorable</u> force.
+E-2: Time is an <u>inexorable</u> enemy, always moving forward.
+
+### Japanese Translation
+J-1: 生活費が上昇し続けており、それは<u>抑えられない</u>力です。
+J-2: 時間は<u>抗えない</u>敵であり、常に前に進んでいます。

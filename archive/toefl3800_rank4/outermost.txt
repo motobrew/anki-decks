@@ -1,0 +1,8 @@
+# Key:outermost
+### English Sentences
+E-1: I always keep my most valuable possessions in the <u>outermost</u> compartment of my bag.
+E-2: The <u>outermost</u> layer of the cake is decorated with colorful sprinkles.
+
+### Japanese Translation
+J-1: 私は常に一番貴重なものをバッグの<u>一番外側</u>のコンパートメントに入れています。
+J-2: ケーキの<u>一番外側の</u>層にはカラフルなスプリンクルが飾られています。

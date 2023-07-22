@@ -1,0 +1,8 @@
+# Key:immutable
+### English Sentences
+E-1: The laws of physics are considered <u>immutable</u> principles.
+E-2: Despite our efforts, some traditions are deemed <u>immutable</u> in society.
+
+### Japanese Translation
+J-1: 物理法則は<u>不変の</u>原則と見なされています。
+J-2: 努力にもかかわらず、一部の伝統は社会で<u>変えがたい</u>とされています。

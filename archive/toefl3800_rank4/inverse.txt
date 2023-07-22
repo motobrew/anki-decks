@@ -1,0 +1,8 @@
+# Key:inverse
+### English Sentences
+E-1: The <u>inverse</u> of adding is subtracting.
+E-2: The <u>inverse</u> of a success is often a failure.
+
+### Japanese Translation
+J-1: 足し算の<u>逆数</u>は引き算です。
+J-2: 成功の<u>逆</u>はしばしば失敗です。

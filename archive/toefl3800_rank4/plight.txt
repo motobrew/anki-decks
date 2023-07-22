@@ -1,0 +1,8 @@
+# Key:plight
+### English Sentences
+E-1: The refugees were in a desperate <u>plight</u> and needed immediate assistance.
+E-2: Many endangered species are in a vulnerable <u>plight</u> due to habitat destruction.
+
+### Japanese Translation
+J-1: 難民たちは絶望的な<u>苦境</u>にあり、即座の援助が必要でした。
+J-2: 多くの絶滅の危機に瀕した種が、生息地の破壊による<u>困難な状況</u>にあります。

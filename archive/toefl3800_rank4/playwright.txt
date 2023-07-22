@@ -1,0 +1,8 @@
+# Key:playwright
+### English Sentences
+E-1: The <u>playwright</u> won numerous awards for his latest play.
+E-2: The aspiring actress dreams of working with a renowned <u>playwright</u>.
+
+### Japanese Translation
+J-1: その最新の劇で、その<u>劇作家</u>は数々の賞を受賞しました。
+J-2: 夢をみる女優は、著名な<u>劇作家</u>と共演することを夢見ています。

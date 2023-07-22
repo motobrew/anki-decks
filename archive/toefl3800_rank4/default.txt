@@ -1,0 +1,8 @@
+# Key:default
+### English Sentences
+E-1: By <u>default</u>, the settings are already optimized for most users.
+E-2: When in doubt, it's best to stick to the <u>default</u> option.
+
+### Japanese Translation
+J-1: <u>デフォルト</u>の設定は、ほとんどのユーザーに最適化されています。
+J-2: 迷った場合は、<u>デフォルト</u>のオプションに従うのがベストです。

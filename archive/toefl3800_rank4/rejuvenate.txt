@@ -1,0 +1,8 @@
+# Key:rejuvenate
+### English Sentences
+E-1: I like to go on vacations to <u>rejuvenate</u> and relax by the beach.
+E-2: Listening to music can <u>rejuvenate</u> my mood after a long day.
+
+### Japanese Translation
+J-1: 私は休暇に行って海でくつろいで<u>元気を取り戻す</u>ことが好きです。
+J-2: 長い一日の後、音楽を聴くと気分が<u>リフレッシュされる</u>ことがあります。

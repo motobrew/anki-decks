@@ -1,0 +1,8 @@
+# Key:contravene
+### English Sentences
+E-1: The company's actions <u>contravene</u> the industry regulations.
+E-2: The new law was implemented to prevent businesses from <u>contravening</u> environmental standards.
+
+### Japanese Translation
+J-1: その会社の行動は、業界の規制に<u>違反している</u>。
+J-2: 新しい法律は、企業が環境基準に<u>反することを防ぐ</u>ために導入されました。

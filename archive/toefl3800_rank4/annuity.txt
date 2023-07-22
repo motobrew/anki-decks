@@ -1,0 +1,8 @@
+# Key:annuity
+### English Sentences
+E-1: I invested in an <u>annuity</u> to secure my retirement funds.
+E-2: She receives a monthly <u>annuity</u> from her late husband's life insurance policy.
+
+### Japanese Translation
+J-1: 私は将来の退職金を確保するために<u>年金</u>に投資しました。
+J-2: 彼女は亡くなった夫の生命保険から月々の<u>年金</u>を受け取っています。

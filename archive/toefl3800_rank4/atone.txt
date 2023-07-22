@@ -1,0 +1,8 @@
+# Key:atone
+### English Sentences
+E-1: He tried to <u>atone for</u> his mistakes by apologizing sincerely.
+E-2: She donated a large sum of money to <u>atone for</u> her past actions.
+
+### Japanese Translation
+J-1: 彼は謝罪して自分の過ちを<u>償おうとしました</u>。
+J-2: 彼女は過去の行動を<u>償うために</u>大金を寄付しました。

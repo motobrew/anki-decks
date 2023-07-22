@@ -1,0 +1,8 @@
+# Key:vagabond
+### English Sentences
+E-1: The <u>vagabond</u> wandered from town to town, never settling down.
+E-2: She embraced the <u>vagabond</u> lifestyle, seeking adventure and new experiences.
+
+### Japanese Translation
+J-1: <u>放浪者</u>は町から町へと彷徨い、一つの場所に落ち着かなかった。
+J-2: 彼女は<u>放浪者</u>のような生活を受け入れ、冒険と新たな経験を求めた。

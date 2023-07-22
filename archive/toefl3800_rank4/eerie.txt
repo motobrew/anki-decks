@@ -1,0 +1,8 @@
+# Key:eerie
+### English Sentences
+E-1: The abandoned house had an <u>eerie</u> atmosphere, as if it was haunted.
+E-2: The dense fog created an <u>eerie</u> feeling of unease in the forest.
+
+### Japanese Translation
+J-1: 廃屋は幽霊が出るような<u>不気味な</u>雰囲気がありました。
+J-2: 濃霧が森に<u>不気味な</u>不安を引き起こしました。

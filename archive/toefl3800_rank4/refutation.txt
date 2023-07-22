@@ -1,0 +1,8 @@
+# Key:refutation
+### English Sentences
+E-1: He presented a strong <u>refutation</u> of the opponent's argument.
+E-2: The scientist provided evidence as a <u>refutation</u> of the previous theory.
+
+### Japanese Translation
+J-1: 彼は相手の主張に対する<strong>反論</strong>を提示しました。
+J-2: その科学者は以前の理論を<u>反証</u>する証拠を提供しました。

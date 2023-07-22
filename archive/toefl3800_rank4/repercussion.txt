@@ -1,0 +1,8 @@
+# Key:repercussion
+### English Sentences
+E-1: The scandal had serious <u>repercussions</u> on the company's reputation.
+E-2: His reckless behavior will have lasting <u>repercussions</u> on his future.
+
+### Japanese Translation
+J-1: そのスキャンダルは会社の評判に深刻な<u>影響</u>を与えた。
+J-2: 彼の無謀な行動は彼の将来に長期的な<u>影響</u>を与えるだろう。

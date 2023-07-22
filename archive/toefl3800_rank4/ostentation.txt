@@ -1,0 +1,8 @@
+# Key:ostentation
+### English Sentences
+E-1: She wore a flashy diamond necklace purely for <u>ostentation</u>.
+E-2: His lavish lifestyle is a mere <u>ostentation</u> of his wealth.
+
+### Japanese Translation
+J-1: 彼女は純粋に<u>見せびらかし</u>のために派手なダイヤモンドのネックレスを身につけていた。
+J-2: 彼の贅沢な生活は、彼の富の単なる<u>見せかけ</u>に過ぎない。

@@ -1,0 +1,8 @@
+# Key:dispassionate
+### English Sentences
+E-1: He made a <u>dispassionate</u> decision based on facts and logic.
+E-2: She gave a <u>dispassionate</u> analysis of the situation, without emotional bias.
+
+### Japanese Translation
+J-1: 彼は事実と論理に基づいて<u>冷静な</u>判断をしました。
+J-2: 彼女は感情的な偏見を持たずに、事態の<u>冷静な</u>分析を行いました。

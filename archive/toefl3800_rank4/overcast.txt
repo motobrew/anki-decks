@@ -1,0 +1,8 @@
+# Key:overcast
+### English Sentences
+E-1: The sky is <u>overcast</u> with dark clouds, signaling an impending storm.
+E-2: Despite the <u>overcast</u> conditions, we decided to go ahead with our outdoor picnic.
+
+### Japanese Translation
+J-1: 空は<u>どんよりとした</u>暗い雲で覆われ、嵐が迫っていることを示しています。
+J-2: <u>どんよりとした</u>天候にも関わらず、私たちは屋外のピクニックを行うことにしました。

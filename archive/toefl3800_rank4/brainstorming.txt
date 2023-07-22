@@ -1,0 +1,8 @@
+# Key:brainstorming
+### English Sentences
+E-1: We had a <u>brainstorming</u> session to come up with new ideas.
+E-2: The team <u>brainstormed</u> ways to improve productivity.
+
+### Japanese Translation
+J-1: 私たちは新しいアイデアを考え出すために<u>ブレインストーミング</u>セッションを行いました。
+J-2: チームは生産性を向上させる方法を<u>ブレインストーミング</u>しました。

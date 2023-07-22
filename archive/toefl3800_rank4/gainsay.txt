@@ -1,0 +1,8 @@
+# Key:gainsay
+### English Sentences
+E-1: It is hard to <u>gainsay</u> the effectiveness of regular exercise.
+E-2: The evidence presented was strong and impossible to <u>gainsay</u>.
+
+### Japanese Translation
+J-1: 定期的な運動の効果を<u>否定すること</u>は難しいです。
+J-2: 提示された証拠は強力で、<u>否定すること</u>は不可能でした。

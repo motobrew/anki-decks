@@ -1,0 +1,8 @@
+# Key:homestead
+### English Sentences
+E-1: They decided to <u>homestead</u> in the countryside and start a farm.
+E-2: After years of hard work, they were finally able to <u>homestead</u> a piece of land.
+
+### Japanese Translation
+J-1: 彼らは田舎で<u>農場を始めるために</u>ホームステッドをすることに決めました。
+J-2: 長年の努力の後、彼らはついに<u>土地の所有権を得るために</u>ホームステッドをしました。

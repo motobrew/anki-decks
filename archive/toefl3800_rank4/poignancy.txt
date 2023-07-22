@@ -1,0 +1,8 @@
+# Key:poignancy
+### English Sentences
+E-1: The <u>poignancy</u> of the movie brought tears to my eyes.
+E-2: The old photograph carried a sense of <u>poignancy</u> and nostalgia.
+
+### Japanese Translation
+J-1: その映画の<u>切なさ</u>が私の目に涙を浮かべた。
+J-2: 古い写真には<u>切なさ</u>とノスタルジアが漂っていた。

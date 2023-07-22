@@ -1,0 +1,8 @@
+# Key:smelt
+### English Sentences
+E-1: I <u>smelt</u> something burning and realized the dinner was ruined.
+E-2: The strong odor of fish <u>smelt</u> lingered in the kitchen for hours.
+
+### Japanese Translation
+J-1: 何か焦げ臭いにおいがして、夕食が台無しになったことに気づきました。
+J-2: 強い魚のにおいがキッチンに何時間も残っていました。

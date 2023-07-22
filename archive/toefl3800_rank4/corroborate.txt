@@ -1,0 +1,8 @@
+# Key:corroborate
+### English Sentences
+E-1: The witness's testimony <u>corroborated</u> the defendant's alibi.
+E-2: The documents <u>corroborate</u> the theory that the crime was premeditated.
+
+### Japanese Translation
+J-1: 証人の証言が被告のアリバイを<u>裏付けました</u>。
+J-2: 文書は犯罪が予め計画されたという理論を<u>裏付けます</u>。

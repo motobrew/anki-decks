@@ -1,0 +1,8 @@
+# Key:engross
+### English Sentences
+E-1: The gripping film <u>engrossed</u> me from start to finish.
+E-2: The novel was so captivating that it <u>engrossed</u> readers worldwide.
+
+### Japanese Translation
+J-1: その迫力満点の映画は、最初から最後まで私を<u>夢中にさせました</u>。
+J-2: その小説はとても魅力的で、世界中の読者を<u>魅了しました</u>。

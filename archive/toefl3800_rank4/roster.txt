@@ -1,0 +1,8 @@
+# Key:roster
+### English Sentences
+E-1: The coach had to make changes to the <u>roster</u> due to injuries.
+E-2: She was happy to see her name on the <u>roster</u> for the competition.
+
+### Japanese Translation
+J-1: コーチは怪我のため<u>ロースター</u>を変更する必要がありました。
+J-2: 彼女は競技会の<u>ロースター</u>に自分の名前が載っていて嬉しかったです。

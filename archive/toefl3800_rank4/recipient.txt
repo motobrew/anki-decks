@@ -1,0 +1,8 @@
+# Key:recipient
+### English Sentences
+E-1: The <u>recipient</u> of the award was a surprise to everyone.
+E-2: The company's CEO is the primary <u>recipient</u> of customer complaints.
+
+### Japanese Translation
+J-1: 賞の<u>受賞者</u>は誰にも驚きでした。
+J-2: その会社のCEOは顧客のクレームの主な<u>受け手</u>です。

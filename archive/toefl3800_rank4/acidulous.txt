@@ -1,0 +1,8 @@
+# Key:acidulous
+### English Sentences
+E-1: Her <u>acidulous</u> remark stung him deeply.
+E-2: The movie review was filled with <u>acidulous</u> criticism.
+
+### Japanese Translation
+J-1: 彼女の<u>辛辣な</u>発言が彼を深く傷つけた。
+J-2: 映画のレビューは<u>辛辣な</u>批評であふれていた。

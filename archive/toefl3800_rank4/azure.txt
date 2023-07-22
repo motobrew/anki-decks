@@ -1,0 +1,8 @@
+# Key:azure
+### English Sentences
+E-1: The sky was a beautiful shade of <u>azure</u> on a sunny day.
+E-2: She wore a dress that matched the <u>azure</u> color of the ocean.
+
+### Japanese Translation
+J-1: 晴れた日には空は美しい<u>空色</u>でした。
+J-2: 彼女は海の<u>蒼色</u>に合ったドレスを着ていました。

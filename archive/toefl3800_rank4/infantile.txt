@@ -1,0 +1,8 @@
+# Key:infantile
+### English Sentences
+E-1: He still has <u>infantile</u> behavior and throws temper tantrums.
+E-2: The politician's speech was filled with <u>infantile</u> jokes and insults.
+
+### Japanese Translation
+J-1: 彼はまだ<u>幼稚な</u>振る舞いをし、かんしゃくを起こします。
+J-2: その政治家のスピーチには<u>幼稚な</u>ジョークと侮辱が満ちていました。

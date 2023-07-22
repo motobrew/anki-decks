@@ -1,0 +1,8 @@
+# Key:nuke
+### English Sentences
+E-1: He threatened to <u>nuke</u> the entire city if his demands were not met.
+E-2: The company decided to <u>nuke</u> their old website and start from scratch.
+
+### Japanese Translation
+J-1: 彼は自分の要求が受け入れられなければ、その都市全体を<u>壊滅させる脅しを</u>した。
+J-2: 会社は古いウェブサイトを<u>完全に破壊して</u>ゼロからやり直すことに決定した。

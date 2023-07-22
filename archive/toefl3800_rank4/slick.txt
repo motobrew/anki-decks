@@ -1,0 +1,8 @@
+# Key:slick
+### English Sentences
+E-1: The race car's <u>slick</u> tires helped it achieve maximum speed.
+E-2: He won the argument with his <u>slick</u> talking and smooth persuasion.
+
+### Japanese Translation
+J-1: レースカーの<u>すべりの良い</u>タイヤが最高速度を実現するのに役立ちました。
+J-2: 彼は話術の<u>巧みさ</u>と滑らかな説得力で議論に勝ちました。

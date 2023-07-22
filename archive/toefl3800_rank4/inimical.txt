@@ -1,0 +1,8 @@
+# Key:inimical
+### English Sentences
+E-1: The company's policies are <u>inimical</u> to employee morale.
+E-2: The harsh weather conditions proved <u>inimical</u> to our outdoor plans.
+
+### Japanese Translation
+J-1: その会社の政策は従業員の士気に<u>敵対的</u>です。
+J-2: 厳しい天候条件は私たちの屋外計画に<u>害を及ぼしました</u>。

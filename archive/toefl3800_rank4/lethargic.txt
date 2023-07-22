@@ -1,0 +1,8 @@
+# Key:lethargic
+### English Sentences
+E-1: The hot weather makes me feel <u>lethargic</u> and sluggish.
+E-2: After a long day at work, I am too <u>lethargic</u> to do anything productive.
+
+### Japanese Translation
+J-1: 暑い天気で、私は<u>倦怠感</u>とだるさを感じます。
+J-2: 長い仕事の後、私は何も生産的なことができないくらい<u>無気力</u>です。

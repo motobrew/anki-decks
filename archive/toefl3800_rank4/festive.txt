@@ -1,0 +1,8 @@
+# Key:festive
+### English Sentences
+E-1: The streets were decorated with <u>festive</u> lights for the holiday season.
+E-2: The children wore <u>festive</u> costumes for the school's Halloween party.
+
+### Japanese Translation
+J-1: 街はホリデーシーズンのために<u>お祭りのような</u>ライトで飾られていました。
+J-2: 子供たちは学校のハロウィーンパーティーで<u>お祭りのような</u>コスチュームを着ていました。

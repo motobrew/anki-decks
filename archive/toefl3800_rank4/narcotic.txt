@@ -1,0 +1,8 @@
+# Key:narcotic
+### English Sentences
+E-1: The news about their breakup was a <u>narcotic</u> for gossip.
+E-2: Music is like a <u>narcotic</u> that calms my mind and soul.
+
+### Japanese Translation
+J-1: 彼らの別れのニュースは噂好きにとっての麻薬でした。
+J-2: 音楽は私の心と魂を落ち着かせる一種の麻薬です。

@@ -1,0 +1,8 @@
+# Key:apogee
+### English Sentences
+E-1: The launch of the new spacecraft marked the <u>apogee</u> of human space exploration.
+E-2: Her graduation from a prestigious university was the <u>apogee</u> of her academic achievements.
+
+### Japanese Translation
+J-1: 新しい宇宙船の打ち上げは、人類の宇宙探査の<u>頂点</u>を示しました。
+J-2: 彼女の優れた大学の卒業は、彼女の学術的な成果の<u>頂点</u>でした。

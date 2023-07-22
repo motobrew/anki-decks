@@ -1,0 +1,8 @@
+# Key:interstellar
+### English Sentences
+E-1: Interstellar travel is a concept that has fascinated scientists for decades.
+E-2: The movie "Interstellar" explores the idea of space exploration.
+
+### Japanese Translation
+J-1: 宇宙間の旅行は数十年にわたって科学者たちを魅了してきた概念です。
+J-2: 映画「インターステラー」は宇宙探査のアイデアを探究しています。

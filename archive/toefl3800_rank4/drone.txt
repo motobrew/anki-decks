@@ -1,0 +1,8 @@
+# Key:drone
+### English Sentences
+E-1: She walked through the park, the sound of a <u>drone</u> of bees in the air.
+E-2: The steady <u>drone</u> of the engines put me to sleep.
+
+### Japanese Translation
+J-1: 彼女は公園を歩き、空中にミツバチの<u>ブーン</u>という音がするのが聞こえた。
+J-2: エンジンの一定の<u>うなり</u>が私を眠らせました。

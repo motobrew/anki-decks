@@ -1,0 +1,8 @@
+# Key:arrear
+### English Sentences
+E-1: He failed to pay his rent for months and now he has <u>arrears</u> with the landlord.
+E-2: The company is struggling financially and is in <u>arrears</u> with its suppliers.
+
+### Japanese Translation
+J-1: 彼は数ヶ月間家賃を払わず、家主と<u>支払い遅延</u>の問題を抱えている。
+J-2: その会社は経済的に苦境に立たされており、仕入先への<u>支払い遅延</u>がある。

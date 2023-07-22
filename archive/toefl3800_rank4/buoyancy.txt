@@ -1,0 +1,8 @@
+# Key:buoyancy
+### English Sentences
+E-1: The support of my friends gave me the <u>buoyancy</u> to overcome the challenges.
+E-2: Meditation provides me with a sense of <u>buoyancy</u> and inner peace.
+
+### Japanese Translation
+J-1: 友人たちのサポートが私に挑戦を乗り越える<u力を与えました</u>。
+J-2: 瞑想は私に<u軽やかさ</u>と内なる平和をもたらします。

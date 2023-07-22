@@ -1,0 +1,8 @@
+# Key:reproductive organ
+### English Sentences
+E-1: The doctor found a tumor in her <u>reproductive organ</u>.
+E-2: The gym coach emphasized the importance of protecting your <u>reproductive organ</u>.
+
+### Japanese Translation
+J-1: 医師は彼女の<u>生殖器官</u>に腫瘍を見つけました。
+J-2: 体育のコーチは<u>生殖器官</u>の保護の重要性を強調しました。

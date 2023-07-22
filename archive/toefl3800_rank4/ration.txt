@@ -1,0 +1,8 @@
+# Key:ration
+### English Sentences
+E-1: The government implemented a <u>ration</u> on food during the war.
+E-2: The doctor advised me to <u>ration</u> my intake of sugary snacks.
+
+### Japanese Translation
+J-1: 戦争中、政府は食品の<u>配給制限</u>を導入しました。
+J-2: 医者は私に甘いお菓子の摂取を<u>制限するようにと勧めました</u>。

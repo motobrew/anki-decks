@@ -1,0 +1,8 @@
+# Key:undulating
+### English Sentences
+E-1: The landscape was a beautiful <u>undulating</u> vista of rolling hills.
+E-2: The snake moved in an <u>undulating</u> motion as it slithered across the ground.
+
+### Japanese Translation
+J-1: 風景は、うねる丘の美しい<u>起伏する</u>光景でした。
+J-2: ヘビは地面を這いながら<u>波打つ</u>ような動きで進みました。

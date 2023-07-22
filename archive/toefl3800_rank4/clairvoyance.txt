@@ -1,0 +1,8 @@
+# Key:clairvoyance
+### English Sentences
+E-1: My friend seems to have a <u>clairvoyance</u> for finding lost objects.
+E-2: The psychic claimed to have <u>clairvoyance</u> and predicted the future accurately.
+
+### Japanese Translation
+J-1: 友達は失われた物を見つける<u>透視力</u>を持っているようだ。
+J-2: その霊能者は<u>千里眼</u>を持ち、未来を正確に予言したと主張した。

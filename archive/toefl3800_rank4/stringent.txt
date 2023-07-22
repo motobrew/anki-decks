@@ -1,0 +1,8 @@
+# Key:stringent
+### English Sentences
+E-1: The government has implemented <u>stringent</u> regulations to curb pollution.
+E-2: The security measures at the airport are very <u>stringent</u> to ensure safety.
+
+### Japanese Translation
+J-1: 政府は汚染を抑制するために<u>厳格な</u>規制を導入しました。
+J-2: 空港のセキュリティ対策は安全を確保するために非常に<u>厳しい</u>です。

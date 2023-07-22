@@ -1,0 +1,8 @@
+# Key:vilify
+### English Sentences
+E-1: The media tends to <u>vilify</u> politicians during election campaigns.
+E-2: Don't <u>vilify</u> someone just because they have a different opinion.
+
+### Japanese Translation
+J-1: 選挙戦中、メディアはしばしば政治家を<u>非難する</u>傾向がある。
+J-2: 異なる意見を持っているだけで誰かを<u>非難してはいけません</u>。

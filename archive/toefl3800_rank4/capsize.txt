@@ -1,0 +1,8 @@
+# Key:capsize
+### English Sentences
+E-1: The boat <u>capsized</u> in the middle of the storm.
+E-2: The sudden influx of orders <u>capsized</u> the small business.
+
+### Japanese Translation
+J-1: 嵐の最中に船が<u>転覆しました</u>。
+J-2: 急な注文の殺到でその小さなビジネスは<u>破綻しました</u>。

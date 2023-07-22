@@ -1,0 +1,8 @@
+# Key:insomnia
+### English Sentences
+E-1: I haven't been able to sleep all night, I think I have <u>insomnia</u>.
+E-2: She tried everything, but her <u>insomnia</u> just wouldn't go away.
+
+### Japanese Translation
+J-1: 一晩中眠れなかったので、<u>不眠症</u>かもしれません。
+J-2: 彼女はいろいろ試しましたが、<u>不眠症</u>が治まらなかったんです。

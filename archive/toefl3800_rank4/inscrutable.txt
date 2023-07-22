@@ -1,0 +1,8 @@
+# Key:inscrutable
+### English Sentences
+E-1: His motives are <u>inscrutable</u>; it's hard to understand what he wants.
+E-2: The expression on her face remained <u>inscrutable</u>; I couldn't tell what she was thinking.
+
+### Japanese Translation
+J-1: 彼の動機は<u>読み取りにくい</u>です；彼が何を望んでいるのか理解するのは難しいです。
+J-2: 彼女の顔の表情は<u>不可解でした</u>；彼女が何を考えているのか分からなかった。

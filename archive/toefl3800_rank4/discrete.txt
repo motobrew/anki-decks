@@ -1,0 +1,8 @@
+# Key:discrete
+### English Sentences
+E-1: The company developed a <u>discrete</u> system to track inventory.
+E-2: Each item in the collection has its own <u>discrete</u> label.
+
+### Japanese Translation
+J-1: その会社は在庫を追跡するための<u>個別の</u>システムを開発しました。
+J-2: コレクションの各アイテムには<u>独立した</u>ラベルがあります。

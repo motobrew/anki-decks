@@ -1,0 +1,8 @@
+# Key:trite
+### English Sentences
+E-1: Her speech was filled with <u>trite</u> cliches and platitudes.
+E-2: I'm tired of hearing the <u>trite</u> phrase "everything happens for a reason."
+
+### Japanese Translation
+J-1: 彼女のスピーチは、陳腐な決まり文句とお世辞だらけでした。
+J-2: 「すべてには理由がある」という<u>ありきたりな</u>フレーズを聞くのに飽きた。

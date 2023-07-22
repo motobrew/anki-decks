@@ -1,0 +1,8 @@
+# Key:resurgent
+### English Sentences
+E-1: The team's strong performance in the tournament is a <u>resurgent</u> after years of struggle.
+E-2: The <u>resurgent</u> demand for vinyl records has surprised the music industry.
+
+### Japanese Translation
+J-1: チームのトーナメントでの強烈なパフォーマンスは、何年にもわたる苦闘の後の<u>復活</u>です。
+J-2: ビニールレコードへの<u>復活</u>する需要は、音楽業界を驚かせました。

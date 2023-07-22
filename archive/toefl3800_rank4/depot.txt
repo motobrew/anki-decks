@@ -1,0 +1,8 @@
+# Key:depot
+### English Sentences
+E-1: The delivery truck stopped at the <u>depot</u> to unload packages.
+E-2: Our company keeps extra supplies in the warehouse <u>depot</u>.
+
+### Japanese Translation
+J-1: 配送トラックはパッケージを降ろすために<u>倉庫</u>で停まりました。
+J-2: 当社は倉庫<u>置き場</u>に余分な物資を保管しています。

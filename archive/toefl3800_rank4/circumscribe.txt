@@ -1,0 +1,8 @@
+# Key:circumscribe
+### English Sentences
+E-1: My supervisor's strict rules <u>circumscribe</u> our creative freedom at work.
+E-2: The terms of the contract <u>circumscribe</u> what we can do with the property.
+
+### Japanese Translation
+J-1: 私たちの上司の厳しいルールは、仕事での創造的な自由を<u>制約しています</u>。
+J-2: 契約の条件は、その不動産を利用できる範囲を<u>制限しています</u>。

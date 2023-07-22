@@ -1,0 +1,8 @@
+# Key:viviparity
+### English Sentences
+E-1: The fish exhibit <u>viviparity</u> by giving birth to live young.
+E-2: The study of <u>viviparity</u> in reptiles is an area of research.
+
+### Japanese Translation
+J-1: 魚は<u>胎生</u>によって生きた子を産むことを示しています。
+J-2: 爬虫類の<u>胎生</u>の研究は研究の領域です。

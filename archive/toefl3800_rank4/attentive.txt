@@ -1,0 +1,8 @@
+# Key:attentive
+### English Sentences
+E-1: The teacher asked the students to be <u>attentive</u> during the lecture.
+E-2: The doctor was very <u>attentive</u> to the needs of his patients.
+
+### Japanese Translation
+J-1: 先生は講義中に生徒たちに<u>注意深く</u>聞くように頼みました。
+J-2: その医者は患者のニーズに非常に<u>配慮深かった</u>です。

@@ -1,0 +1,8 @@
+# Key:provisional
+### English Sentences
+E-1: He was given a <u>provisional</u> driver's license while waiting for the official one.
+E-2: The team made a <u>provisional</u> plan until they could gather more information.
+
+### Japanese Translation
+J-1: 公式の免許証が出るまで、彼は<u>仮免許</u>をもらいました。
+J-2: チームはより多くの情報を集めるまでの<u>暫定的</u>な計画を立てました。

@@ -1,0 +1,8 @@
+# Key:relinquish
+### English Sentences
+E-1: They were forced to <u>relinquish</u> their control over the company.
+E-2: The king had to <u>relinquish</u> his throne and give up his power.
+
+### Japanese Translation
+J-1: 彼らは会社の統制を<u>手放さざるを得なかった</u>。
+J-2: 王は玉座を<u>明け渡し</u>、権力を手放さなければならなかった。

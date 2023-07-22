@@ -1,0 +1,8 @@
+# Key:substantive
+### English Sentences
+E-1: The lawyer presented <u>substantive</u> evidence to support his case.
+E-2: The professor gave a <u>substantive</u> lecture on the topic.
+
+### Japanese Translation
+J-1: 弁護士は彼のケースを裏付ける<u>具体的な</u>証拠を提示しました。
+J-2: 教授はそのトピックについて<u>実質的な</u>講義を行いました。

@@ -1,0 +1,8 @@
+# Key:magnify
+### English Sentences
+E-1: The microscope can <u>magnify</u> small objects for closer examination.
+E-2: He tends to <u>magnify</u> his problems, making them seem worse than they actually are.
+
+### Japanese Translation
+J-1: 顕微鏡は、小さな物体を<u>拡大表示</u>して、詳細に調べることができます。
+J-2: 彼は問題を<u>大げさに取り立てる</u>傾向があり、実際よりもひどく思わせます。

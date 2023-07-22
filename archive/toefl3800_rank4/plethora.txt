@@ -1,0 +1,8 @@
+# Key:plethora
+### English Sentences
+E-1: There is a <u>plethora</u> of restaurants to choose from in this city.
+E-2: The store offers a <u>plethora</u> of options for shoppers.
+
+### Japanese Translation
+J-1: この街には選べるレストランが<u>たくさん</u>あります。
+J-2: その店は買い物客に対して<u>多くの</u>選択肢を提供しています。

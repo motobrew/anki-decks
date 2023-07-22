@@ -1,0 +1,8 @@
+# Key:waddle
+### English Sentences
+E-1: The penguin <u>waddled</u> across the ice, looking adorable.
+E-2: I can't believe how slowly he <u>waddles</u> around the office.
+
+### Japanese Translation
+J-1: ペンギンが氷の上を<u>よちよち歩いて</u>、とても可愛かったです。
+J-2: 彼がオフィスの中を<u>のろのろと歩き回る</u>のが信じられません。

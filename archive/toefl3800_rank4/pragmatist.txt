@@ -1,0 +1,8 @@
+# Key:pragmatist
+### English Sentences
+E-1: The team leader is a <u>pragmatist</u> who always focuses on finding practical solutions.
+E-2: We need a <u>pragmatist</u> who can make decisions based on what works best.
+
+### Japanese Translation
+J-1: チームリーダーはいつも実用的な解決策を見つける<u>実利主義者</u>です。
+J-2: 私たちは最もうまくいく方法に基づいて意思決定ができる<u>実利主義者</u>が必要です。

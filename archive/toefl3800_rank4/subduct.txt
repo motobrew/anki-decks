@@ -1,0 +1,8 @@
+# Key:subduct
+### English Sentences
+E-1: The oceanic plate will <u>subduct</u> beneath the continental plate.
+E-2: The collision of tectonic plates can cause one plate to <u>subduct</u> below another.
+
+### Japanese Translation
+J-1: 海洋プレートは大陸プレートの下に<u>沈み込む</u>でしょう。
+J-2: 地殻プレートの衝突は、1つのプレートが別のプレートの<u>下へ沈み込む</u>原因となります。

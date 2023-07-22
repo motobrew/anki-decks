@@ -1,0 +1,8 @@
+# Key:publicity
+### English Sentences
+E-1: The actress's scandal created a lot of <u>publicity</u> for the movie. 
+E-2: The company's new product launch received a great deal of <u>publicity</u>.
+
+### Japanese Translation
+J-1: 女優のスキャンダルが映画に多くの<u>宣伝</u>を生みました。
+J-2: その会社の新商品の発売はたくさんの<u>宣伝</u>を受けました。

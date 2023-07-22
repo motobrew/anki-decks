@@ -1,0 +1,8 @@
+# Key:tendon
+### English Sentences
+E-1: He injured his <u>tendon</u> while playing soccer last weekend.
+E-2: Physical therapy is often necessary to heal a torn <u>tendon</u>.
+
+### Japanese Translation
+J-1: 先週末、彼はサッカーをしている最中に<u>腱を</u>負傷しました。
+J-2: 断裂した<u>腱</u>を治すためには、通常、理学療法が必要です。

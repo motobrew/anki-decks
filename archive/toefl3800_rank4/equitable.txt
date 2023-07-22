@@ -1,0 +1,8 @@
+# Key:equitable
+### English Sentences
+E-1: The company strives to create an <u>equitable</u> work environment for all employees.
+E-2: The teacher ensures that each student has an <u>equitable</u> opportunity to participate.
+
+### Japanese Translation
+J-1: 会社はすべての従業員に対して<u>公正な</u>労働環境を作り出すことを目指しています。
+J-2: 先生は各生徒が<u>公平な</u>参加の機会を持てるように保証します。

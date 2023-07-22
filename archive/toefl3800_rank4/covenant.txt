@@ -1,0 +1,8 @@
+# Key:covenant
+### English Sentences
+E-1: He broke his <u>covenant</u> and betrayed his friends.
+E-2: The two countries entered into a <u>covenant</u> to promote peace.
+
+### Japanese Translation
+J-1: 彼は友達を裏切り、自分の<u>契約</u>を破りました。
+J-2: 二つの国は平和の促進のための<u>契約</u>を結びました。

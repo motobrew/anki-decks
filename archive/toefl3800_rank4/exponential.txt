@@ -1,0 +1,8 @@
+# Key:exponential
+### English Sentences
+E-1: The number of COVID-19 cases is growing at an <u>exponential</u> rate.
+E-2: The company's profits have been increasing <u>exponentially</u> over the past year.
+
+### Japanese Translation
+J-1: COVID-19の症例数は<u>指数関数的な</u>速さで増えています。
+J-2: その会社の利益は去年から<u>急速に指数関数的に</u>増加しています。

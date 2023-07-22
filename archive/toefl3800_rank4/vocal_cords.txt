@@ -1,0 +1,8 @@
+# Key:vocal cords
+### English Sentences
+E-1: He was so nervous that his <u>vocal cords</u> tightened and his voice cracked.
+E-2: Singers must take care of their <u>vocal cords</u> to avoid straining their voices.
+
+### Japanese Translation
+J-1: 彼はとても緊張していて、<u>声帯</u>が締まって声が裂けました。
+J-2: 歌手は、声を無理に出さないように<u>声帯</u>に注意を払わなければなりません。

@@ -1,0 +1,8 @@
+# Key:beneficiary
+### English Sentences
+E-1: She is the <u>beneficiary</u> of her late grandfather's estate.
+E-2: The organization works to provide assistance to the <u>beneficiaries</u> of the program.
+
+### Japanese Translation
+J-1: 彼女は亡くなった祖父の遺産の<u>受益者</u>です。
+J-2: その団体はプログラムの<u>受益者</u>に支援を提供するために活動しています。

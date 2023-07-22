@@ -1,0 +1,8 @@
+# Key:allegedly
+### English Sentences
+E-1: The <u>allegedly</u> haunted house attracted many curious visitors.
+E-2: The suspect <u>allegedly</u> stole a valuable piece of artwork.
+
+### Japanese Translation
+J-1: <u>伝えられるところによると</u>、幽霊が出ると言われる家には多くの興味津々な訪問者が集まりました。
+J-2: 犯人は貴重な美術品を<u>申し立てによれば</u>盗んだとされています。

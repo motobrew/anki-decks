@@ -1,0 +1,8 @@
+# Key:saline
+### English Sentences
+E-1: The doctor prepared a <u>saline solution</u> to clean the wound.
+E-2: The athlete received a <u>saline injection</u> to rehydrate after the race.
+
+### Japanese Translation
+J-1: 医者は創傷を清潔にするために<u>生理食塩水溶液</u>を用意しました。
+J-2: アスリートはレース後に脱水症状を治すために<u>生理食塩水の注射</u>を受けました。

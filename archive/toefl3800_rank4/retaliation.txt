@@ -1,0 +1,8 @@
+# Key:retaliation
+### English Sentences
+E-1: They fear that any retaliation against the government could lead to violence.
+E-2: The company's decision to lay off workers was met with retaliation.
+
+### Japanese Translation
+J-1: 彼らは政府への<u>報復</u>が暴力につながる可能性を恐れています。
+J-2: 会社が従業員を解雇するという決定に対して、<u>報復</u>が行われました。

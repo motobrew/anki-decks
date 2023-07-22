@@ -1,0 +1,8 @@
+# Key:loom
+### English Sentences
+E-1: A dark cloud <u>loomed</u> over the city, signaling an approaching storm.
+E-2: The threat of war <u>loomed</u> over the peaceful town, causing fear and uncertainty.
+
+### Japanese Translation
+J-1: 市の上に<u>垂れこめた</u>暗い雲があり、嵐が近づいていることを示していました。
+J-2: 平和な街に<u>迫り来る</u>戦争の脅威があり、恐怖と不安を引き起こしました。

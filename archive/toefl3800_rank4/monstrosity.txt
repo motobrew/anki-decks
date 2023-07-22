@@ -1,0 +1,8 @@
+# Key:monstrosity
+### English Sentences
+E-1: The abandoned house was a <u>monstrosity</u> that haunted the neighborhood.
+E-2: The project turned into a <u>monstrosity</u> with countless complications and delays.
+
+### Japanese Translation
+J-1: その廃屋は近所にとって幽霊のような<u>巨大なもの</u>でした。
+J-2: そのプロジェクトは数多くの問題と遅延により、<u>巨大なもの</u>に変貌しました。

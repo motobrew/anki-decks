@@ -1,0 +1,8 @@
+# Key:cardboard
+### English Sentences
+E-1: The children built a fort out of <u>cardboard</u> boxes.
+E-2: We recycled all of the <u>cardboard</u> packaging from our online shopping.
+
+### Japanese Translation
+J-1: 子供たちは<u>ダンボール</u>箱で砦を作りました。
+J-2: オンラインショッピングの<u>ダンボール</u>の梱包材を全てリサイクルしました。

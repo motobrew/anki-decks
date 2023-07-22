@@ -1,0 +1,8 @@
+# Key:rustic
+### English Sentences
+E-1: The small village had a charming <u>rustic</u> atmosphere with wooden cottages.
+E-2: I love decorating my house with <u>rustic</u> furniture and vintage accessories.
+
+### Japanese Translation
+J-1: その小さな村は、木製の小屋で魅力的な<u>田舎の</u>雰囲気がありました。
+J-2: 私は<u>田舎風の</u>家具やヴィンテージのアクセサリーで家を飾るのが大好きです。

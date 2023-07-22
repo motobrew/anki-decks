@@ -1,0 +1,8 @@
+# Key:subdue
+### English Sentences
+E-1: He used his charm to <u>subdue</u> the angry crowd.
+E-2: The medication helped to <u>subdue</u> her migraine headaches.
+
+### Japanese Translation
+J-1: 彼は魅力を使って、怒り狂った群衆を<u>鎮める</u>た。
+J-2: その薬は彼女の片頭痛を<u>抑える</u>のに助けになりました。

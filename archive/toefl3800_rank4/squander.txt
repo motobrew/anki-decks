@@ -1,0 +1,8 @@
+# Key:squander
+### English Sentences
+E-1: She <u>squandered</u> all her savings on a luxury vacation.
+E-2: Don't <u>squander</u> this opportunity, make the most of it.
+
+### Japanese Translation
+J-1: 彼女はすべての貯金を贅沢なバケーションに<u>浪費しました</u>。
+J-2: この機会を<u>無駄にせず</u>最大限に活用しなさい。

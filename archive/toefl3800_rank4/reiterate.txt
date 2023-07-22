@@ -1,0 +1,8 @@
+# Key:reiterate
+### English Sentences
+E-1: I just want to <u>reiterate</u> how important this decision is.
+E-2: They <u>reiterated</u> their commitment to environmental sustainability.
+
+### Japanese Translation
+J-1: この決断がどれだけ重要であるか<u>再度強調したい</u>だけです。
+J-2: 彼らは環境の持続可能性への取り組みを<u>再確認しました</u>。

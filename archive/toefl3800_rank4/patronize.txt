@@ -1,0 +1,8 @@
+# Key:patronize
+### English Sentences
+E-1: Don't <u>patronize</u> me, I know what I'm doing.
+E-2: I don't appreciate your condescending tone, please don't <u>patronize</u> me.
+
+### Japanese Translation
+J-1: 私を<u>見下す</u>なよ、私は自分が何をしているかわかっている。
+J-2: 君の高圧的な態度は嫌だ、私を<u>見下さないで</u>くれ。

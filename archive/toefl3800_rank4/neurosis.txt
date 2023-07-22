@@ -1,0 +1,8 @@
+# Key:neurosis
+### English Sentences
+E-1: My friend's constant need for attention is a <u>neurosis</u> she struggles with.
+E-2: His obsession with cleanliness has become a <u>neurosis</u> that affects his daily life.
+
+### Japanese Translation
+J-1: 友人の常に注目を求めることは、彼女が苦しんでいる<u>神経症</u>です。
+J-2: 彼の清潔への執着は、彼の日常生活に影響を与える<u>神経症</u>になっています。

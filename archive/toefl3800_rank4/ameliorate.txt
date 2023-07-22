@@ -1,0 +1,8 @@
+# Key:ameliorate
+### English Sentences
+E-1: The new law aims to <u>ameliorate</u> the living conditions of the poor.
+E-2: The company introduced new policies to <u>ameliorate</u> work-life balance.
+
+### Japanese Translation
+J-1: 新しい法律は、貧困者の生活状況を<u>改善すること</u>を目指しています。
+J-2: 会社は労働と生活のバランスを<u>改善すること</u>を目的として新しい方針を導入しました。

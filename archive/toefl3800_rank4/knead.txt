@@ -1,0 +1,8 @@
+# Key:knead
+### English Sentences
+E-1: I need to <u>knead</u> the dough for at least 10 minutes.
+E-2: She gently <u>kneaded</u> my shoulders to relieve tension.
+
+### Japanese Translation
+J-1: 少なくとも10分間は生地を<u>こねる</u>必要があります。
+J-2: 彼女は優しく私の肩を<u>もむ</u>ことで緊張を和らげました。

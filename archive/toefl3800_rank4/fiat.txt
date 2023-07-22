@@ -1,0 +1,8 @@
+# Key:fiat
+### English Sentences
+E-1: He had the power to <u>fiat</u> a change in the rules.
+E-2: The decision to close the factory was made by <u>fiat</u>.
+
+### Japanese Translation
+J-1: 彼は規則の変更を<u>命令する権限</u>を持っていた。
+J-2: 工場の閉鎖の決定は<u>命令によって</u>行われました。

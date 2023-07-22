@@ -1,0 +1,8 @@
+# Key:scour
+### English Sentences
+E-1: I had to <u>scour</u> the internet to find that article.
+E-2: The detective tirelessly <u>scoured</u> the crime scene for evidence.
+
+### Japanese Translation
+J-1: その記事を見つけるために私はインターネットを<u>くまなく探しました</u>。
+J-2: 刑事は証拠を見つけるために執拗に犯罪現場を<u>徹底的に調査しました</u>。

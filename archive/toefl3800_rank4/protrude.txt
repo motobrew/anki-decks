@@ -1,0 +1,8 @@
+# Key:protrude
+### English Sentences
+E-1: A <u>protruding</u> branch blocked the path on the hiking trail.
+E-2: The dinosaur skeleton had a <u>protruding</u> horn on its head.
+
+### Japanese Translation
+J-1: ハイキングコースには道をふさぐ<u>突き出た</u>枝がありました。
+J-2: 恐竜の骨格には頭に<u>突き出た</u>角がありました。

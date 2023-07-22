@@ -1,0 +1,8 @@
+# Key:indignation
+### English Sentences
+E-1: She looked at him with <u>indignation</u> in her eyes.
+E-2: The news sparked widespread <u>indignation</u> among the local community.
+
+### Japanese Translation
+J-1: 彼女は目に<u>憤り</u>を宿して彼を見つめた。
+J-2: そのニュースは地元のコミュニティで広範な<u>憤り</u>を引き起こした。

@@ -1,0 +1,8 @@
+# Key:compound eye
+### English Sentences
+E-1: The <u>compound eye</u> of a fly allows it to see in multiple directions.
+E-2: Insects with a <u>compound eye</u> have a wide field of vision.
+
+### Japanese Translation
+J-1: ハエの<u>複眼</u>は、複数の方向から見ることができます。
+J-2: <u>複眼</u>を持つ昆虫は、広い視野を持っています。

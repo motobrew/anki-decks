@@ -1,0 +1,8 @@
+# Key:altruistic
+### English Sentences
+E-1: He is known for his <u>altruistic</u> acts of charity and kindness.
+E-2: She has an <u>altruistic</u> nature and is always helping others.
+
+### Japanese Translation
+J-1: 彼は持ち前の<u>利他的な</u>行為で知られており、慈善活動や親切な行動を行っています。
+J-2: 彼女は<u>利他的な</u>性格で、いつも他人を助けています。

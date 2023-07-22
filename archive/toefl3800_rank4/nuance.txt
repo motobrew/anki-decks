@@ -1,0 +1,8 @@
+# Key:nuance
+### English Sentences
+E-1: There is a <u>nuance</u> in her voice that suggests sadness.
+E-2: The painting has a subtle <u>nuance</u> of green in the background.
+
+### Japanese Translation
+J-1: 彼女の声には悲しさを示す<u>微妙なニュアンス</u>があります。
+J-2: この絵には背景に微妙な<u>緑色のニュアンス</u>があります。

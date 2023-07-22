@@ -1,0 +1,8 @@
+# Key:icon
+### English Sentences
+E-1: The Eiffel Tower is an <u>icon</u> of Paris.
+E-2: The Beatles are considered an <u>icon</u> of the music industry.
+
+### Japanese Translation
+J-1: エッフェル塔はパリの<u>象徴</u>です。
+J-2: ビートルズは音楽業界の<u>アイコン</u>とされています。

@@ -1,0 +1,8 @@
+# Key:ideology
+### English Sentences
+E-1: The politician's speeches were filled with his radical <u>ideology</u>.
+E-2: The religious group follows a strict <u>ideology</u> about marriage and family.
+
+### Japanese Translation
+J-1: その政治家のスピーチは彼の過激な<u>イデオロギー</u>で満たされていました。
+J-2: その宗教団体は結婚と家族についての厳格な<u>イデオロギー</u>に従っています。

@@ -1,0 +1,8 @@
+# Key:trepidation
+### English Sentences
+E-1: I entered the haunted house with <u>trepidation</u>, unsure of what to expect.
+E-2: She approached the lion with a mixture of excitement and <u>trepidation</u>.
+
+### Japanese Translation
+J-1: 私は恐れを抱きながら、何を期待すべきか分からずにそのお化け屋敷に入った。
+J-2: 彼女は興奮と恐れの入り混じった気持ちでライオンに近づいた。

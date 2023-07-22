@@ -1,0 +1,8 @@
+# Key:piety
+### English Sentences
+E-1: She wore a cross necklace as a symbol of her <u>piety</u>.
+E-2: The annual pilgrimage to the holy site is an act of <u>piety</u>.
+
+### Japanese Translation
+J-1: 彼女は十字架のネックレスを身に着け、彼女の<u>信仰心</u>の象徴としました。
+J-2: 毎年の聖地巡礼は<u>信心深さ</u>の行為です。

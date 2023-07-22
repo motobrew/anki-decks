@@ -1,0 +1,8 @@
+# Key:meek
+### English Sentences
+E-1: I was surprised by her <u>meek</u> response to the criticism.
+E-2: He always takes a <u>meek</u> approach when dealing with conflicts.
+
+### Japanese Translation
+J-1: 彼女の批判に<u>おとなしい</u>反応に驚きました。
+J-2: 彼はいつも紛争に対して<u>おとなしい</u>態度を取ります。

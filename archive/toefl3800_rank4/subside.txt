@@ -1,0 +1,8 @@
+# Key:subside
+### English Sentences
+E-1: The rain started to <u>subside</u> after a heavy downpour.
+E-2: The anger in the room began to <u>subside</u> once everyone calmed down.
+
+### Japanese Translation
+J-1: 激しい豪雨があった後、雨が<u>落ち着いてきました</u>。
+J-2: みんなが落ち着いたことで、部屋の怒りが<u>収まり始めました</u>。

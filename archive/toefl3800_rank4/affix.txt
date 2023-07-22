@@ -1,0 +1,8 @@
+# Key:affix
+### English Sentences
+E-1: The <u>affix</u> on the envelope indicated that it was prepaid.
+E-2: She always tries to <u>affix</u> a smile on her face, even when she's upset.
+
+### Japanese Translation
+J-1: 切手が<u>貼られていること</u>を示す封筒に目をつけました。
+J-2: 彼女はいつも悲しい時でも、笑顔を<u>作り出そう</u>としています。

@@ -1,0 +1,8 @@
+# Key:opportune
+### English Sentences
+E-1: It was an <u>opportune</u> moment to ask for a raise during the meeting.
+E-2: The rain stopped at an <u>opportune</u> time, allowing us to continue the outdoor event.
+
+### Japanese Translation
+J-1: 会議中に昇給をお願いするのに<u>好都合な</u>タイミングだった。
+J-2: 雨は<u>絶好の機会</u>に止み、屋外イベントを続けることができた。

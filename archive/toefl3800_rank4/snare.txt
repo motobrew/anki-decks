@@ -1,0 +1,8 @@
+# Key:snare
+### English Sentences
+E-1: The detective set a <u>snare</u> to catch the thief in the act.
+E-2: She fell into the <u>snare</u> of online scams and lost all her savings.
+
+### Japanese Translation
+J-1: 探偵は泥棒を現行犯で捕まえるために<u>わな</u>を仕掛けた。
+J-2: 彼女はオンライン詐欺の<u>罠</u>にかかり、貯金をすべて失った。

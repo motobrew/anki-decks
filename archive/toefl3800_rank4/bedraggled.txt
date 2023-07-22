@@ -1,0 +1,8 @@
+# Key:bedraggled
+### English Sentences
+E-1: The hiker emerged from the forest, bedraggled and exhausted.
+E-2: After getting caught in the rain, her hair was bedraggled and messy.
+
+### Japanese Translation
+J-1: ハイカーは森から現れ、ずぶ濡れで疲れ果てていた。
+J-2: 雨に降られた後、彼女の髪はぼさぼさになっていた。

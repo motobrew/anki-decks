@@ -1,0 +1,8 @@
+# Key:anthropoid
+### English Sentences
+E-1: The scientist was studying the behavior of the <u>anthropoid</u> monkeys in the jungle.
+E-2: The movie featured advanced special effects to create realistic <u>anthropoid</u> creatures.
+
+### Japanese Translation
+J-1: 科学者はジャングルで<u>類人猿</u>の行動を研究していました。
+J-2: その映画では、リアルな<u>類人猿</u>の生物を作り出すために高度な特殊効果を使用していました。

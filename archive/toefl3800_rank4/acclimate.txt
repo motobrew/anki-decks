@@ -1,0 +1,8 @@
+# Key:acclimate
+### English Sentences
+E-1: It took some time for her to <u>acclimate</u> to the cold weather.
+E-2: He struggled to <u>acclimate</u> to the fast-paced city life.
+
+### Japanese Translation
+J-1: 彼女は寒い天候に<u>慣れる</u>まで時間がかかりました。
+J-2: 彼は忙しい都会の生活に<u>順応すること</u>に苦労しました。

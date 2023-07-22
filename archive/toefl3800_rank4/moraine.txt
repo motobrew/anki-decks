@@ -1,0 +1,8 @@
+# Key:moraine
+### English Sentences
+E-1: The hikers had to cross a <u>moraine</u> on their way to the summit.
+E-2: The retreating glacier left behind a massive <u>moraine</u> in the valley.
+
+### Japanese Translation
+J-1: 登山者たちは山頂へ向かう途中で<u>氷河堆石</u>を渡らなければならなかった。
+J-2: 後退する氷河は谷に巨大な<u>氷河堆石</u>を残しました。

@@ -1,0 +1,8 @@
+# Key:rampant
+### English Sentences
+E-1: <u>Rampant</u> rumors spread about the celebrity's scandalous affair.
+E-2: The disease is <u>rampant</u> in the overcrowded city.
+
+### Japanese Translation
+J-1: その有名人のスキャンダラスな不倫について<u>蔓延する</u>噂が広まった。
+J-2: その病気は人口過剰な都市で<u>蔓延しています</u>。

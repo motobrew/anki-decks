@@ -1,0 +1,8 @@
+# Key:insularity
+### English Sentences
+E-1: The <u>insularity</u> of their culture makes it difficult for them to embrace new ideas.
+E-2: Growing up on an island, he had a strong sense of <u>insularity</u> from the rest of the world.
+
+### Japanese Translation
+J-1: 彼らの文化の<u>独善性</u>は新しい考え方を受け入れるのを難しくします。
+J-2: 彼は島で育ったため、世界からの<u>孤立感</u>を強く抱いていました。

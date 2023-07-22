@@ -1,0 +1,8 @@
+# Key:petition
+### English Sentences
+E-1: I started a <u>petition</u> to ban single-use plastic bags.
+E-2: The employees signed a <u>petition</u> demanding better working conditions.
+
+### Japanese Translation
+J-1: 私は使い捨てのプラスチック袋を禁止する<u>嘆願書</u>を始めました。
+J-2: 従業員たちはより良い労働条件を求める<u>請願書</u>に署名しました。

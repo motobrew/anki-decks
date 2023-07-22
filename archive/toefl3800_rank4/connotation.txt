@@ -1,0 +1,8 @@
+# Key:connotation
+### English Sentences
+E-1: The word "delicate" has a <u>positive connotation</u> when describing a person.
+E-2: The use of dark colors can give the painting a <u>sinister connotation</u>.
+
+### Japanese Translation
+J-1: 「繊細」という言葉は、人を表現する時に<u>ポジティブな意味合い</u>があります。
+J-2: 暗い色を使うと絵に<u>不吉な意味合い</u>が生まれます。

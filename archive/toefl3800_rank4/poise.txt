@@ -1,0 +1,8 @@
+# Key:poise
+### English Sentences
+E-1: She handled the difficult situation with <u>poise</u> and grace.
+E-2: Despite the pressure, he maintained his <u>poise</u> and delivered a flawless speech.
+
+### Japanese Translation
+J-1: 彼女は困難な状況を<u>落ち着きと優雅さ</u>で対処しました。
+J-2: 圧力にもかかわらず、彼は<u>冷静さ</u>を保ち、完璧なスピーチを行いました。

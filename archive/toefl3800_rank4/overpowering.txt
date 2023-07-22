@@ -1,0 +1,8 @@
+# Key:overpowering
+### English Sentences
+E-1: The smell of the flowers was <u>overpowering</u> in the garden.
+E-2: The noise from the construction site was <u>overpowering</u> and constant.
+
+### Japanese Translation
+J-1: 庭の中の花の匂いは<u>圧倒的でした</u>。
+J-2: 建設現場からの騒音は<u>圧倒的で</u>ずっと続いていました。

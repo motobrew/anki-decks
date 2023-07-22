@@ -1,0 +1,8 @@
+# Key:climactic
+### English Sentences
+E-1: The movie's climactic scene left the audience on the edge of their seats.
+E-2: The climactic battle between the two rivals determined the winner.
+
+### Japanese Translation
+J-1: 映画の<u>クライマックス</u>のシーンは、観客をハラハラさせました。
+J-2: 二つのライバルの間の<u>決定的な戦い</u>が勝者を決めました。

@@ -1,0 +1,8 @@
+# Key:inadvertent
+### English Sentences
+E-1: The mistake was inadvertent and not intentional.
+E-2: She made an inadvertent comment that offended everyone in the room.
+
+### Japanese Translation
+J-1: ミスは<u>無意識のうちに</u>おこり、意図的ではありませんでした。
+J-2: 彼女は<u>思わず</u>発したコメントで部屋の全員を怒らせました。

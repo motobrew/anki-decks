@@ -1,0 +1,8 @@
+# Key:intimidate
+### English Sentences
+E-1: He tried to <u>intimidate</u> his opponents with his aggressive stare.
+E-2: The large dog growled to <u>intimidate</u> any potential intruders.
+
+### Japanese Translation
+J-1: 彼は攻撃的な視線で相手を<u>威圧しよう</u>としました。
+J-2: 大きな犬は潜入者を<u>威嚇するために</u>唸りました。

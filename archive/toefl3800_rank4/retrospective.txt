@@ -1,0 +1,8 @@
+# Key:retrospective
+### English Sentences
+E-1: In <u>retrospect</u>, I should have taken a different approach.
+E-2: It's important to have a <u>retrospective</u> after completing a project.
+
+### Japanese Translation
+J-1: <u>振り返ってみると</u>、別のアプローチを取るべきだったと思います。
+J-2: プロジェクトを完成した後に<u>反省会</u>を行うことは重要です。

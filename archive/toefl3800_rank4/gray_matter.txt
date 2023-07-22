@@ -1,0 +1,8 @@
+# Key:gray matter
+### English Sentences
+E-1: The scientist studied the <u>gray matter</u> of the brain to understand its functions.
+E-2: He used his <u>gray matter</u> to come up with a solution to the problem.
+
+### Japanese Translation
+J-1: 科学者は脳の<u>灰色物質</u>を研究してその機能を理解しました。
+J-2: 彼は問題の解決策を思いつくために<u>頭脳</u>を使いました。

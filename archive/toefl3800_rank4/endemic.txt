@@ -1,0 +1,8 @@
+# Key:endemic
+### English Sentences
+E-1: <u>Endemic</u> diseases are common in tropical regions.
+E-2: Corruption is an <u>endemic</u> problem in many developing countries.
+
+### Japanese Translation
+J-1: <u>地方病</u>は熱帯地域でよく見られます。
+J-2: 腐敗は多くの途上国で<u>蔓延している</u>問題です。

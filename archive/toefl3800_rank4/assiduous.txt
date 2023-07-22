@@ -1,0 +1,8 @@
+# Key:assiduous
+### English Sentences
+E-1: He achieved great success through his <u>assiduous</u> work ethic.
+E-2: She is an <u>assiduous</u> student who never misses a class.
+
+### Japanese Translation
+J-1: 彼は継続的な努力によって大きな成功を収めました。
+J-2: 彼女は欠かさず出席する<u>念入りな</u>学生です。

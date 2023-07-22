@@ -1,0 +1,8 @@
+# Key:moratorium
+### English Sentences
+E-1: The government has placed a <u>moratorium</u> on new construction projects.
+E-2: The company decided to impose a <u>moratorium</u> on hiring new employees.
+
+### Japanese Translation
+J-1: 政府は新規建設プロジェクトに<u>一時停止令</u>を出しました。
+J-2: 会社は新しい従業員の採用に<u>停止命令</u>を発令することに決めました。

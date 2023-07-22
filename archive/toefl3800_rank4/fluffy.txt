@@ -1,0 +1,8 @@
+# Key:fluffy
+### English Sentences
+E-1: The little girl loved to cuddle with her <u>fluffy</u> teddy bear.
+E-2: The pancakes were light and <u>fluffy</u>, just the way she liked them.
+
+### Japanese Translation
+J-1: 小さな女の子は<u>ふわふわの</u>ぬいぐるみと抱き合うのが大好きでした。
+J-2: パンケーキは軽くて<u>ふわふわ</u>で、彼女の好みどおりでした。

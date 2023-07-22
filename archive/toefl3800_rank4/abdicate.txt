@@ -1,0 +1,8 @@
+# Key:abdicate
+### English Sentences
+E-1: When the king grew old, he decided to <u>abdicate</u> the throne.
+E-2: The CEO of the company decided to <u>abdicate</u> his responsibilities and retire.
+
+### Japanese Translation
+J-1: 王様が年をとると、王位を<u>退位する</u>ことに決めました。
+J-2: その会社のCEOは、責任を<u>放棄して</u>引退することにしました。

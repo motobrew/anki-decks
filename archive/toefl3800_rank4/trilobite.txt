@@ -1,0 +1,8 @@
+# Key:trilobite
+### English Sentences
+E-1: The discovery of a well-preserved <u>trilobite</u> fossil amazed the scientists.
+E-2: The ancient rock formation contains numerous <u>trilobite</u> remains.
+
+### Japanese Translation
+J-1: 保存状態の良い<u>三葉虫の化石</u>の発見に、科学者たちは驚嘆しました。
+J-2: その古代の岩層には、多くの<u>三葉虫</u>の遺骸が含まれています。

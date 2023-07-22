@@ -1,0 +1,8 @@
+# Key:condescend
+### English Sentences
+E-1: She has a tendency to <u>condescend</u> when speaking to her employees.
+E-2: The professor would <u>condescend</u> to explain basic concepts to his students.
+
+### Japanese Translation
+J-1: 彼女は従業員と話す時に<u>高圧的な態度</u>を取る傾向があります。
+J-2: 教授は自分の学生に基本的な概念を<u>分かりやすく説明</u>することをしばしばします。

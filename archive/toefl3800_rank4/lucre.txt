@@ -1,0 +1,8 @@
+# Key:lucre
+### English Sentences
+E-1: He was driven by <u>lucre</u> and cared only about money.
+E-2: The company's decision was made solely for the sake of <u>lucre</u>.
+
+### Japanese Translation
+J-1: 彼は<u>金儲け</u>に執着し、お金だけを気にしていた。
+J-2: その会社の決定は単に<u>金のためだけ</u>になされました。

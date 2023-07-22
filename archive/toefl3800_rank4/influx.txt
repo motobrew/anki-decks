@@ -1,0 +1,8 @@
+# Key:influx
+### English Sentences
+E-1: There has been an <u>influx</u> of tourists in the city this summer.
+E-2: The company experienced an <u>influx</u> of new employees after the merger.
+
+### Japanese Translation
+J-1: 今年の夏、その都市には観光客の<u>殺到</u>がありました。
+J-2: その企業は合併後に新入社員の<u>押し寄せ</u>がありました。

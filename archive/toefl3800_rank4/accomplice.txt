@@ -1,0 +1,8 @@
+# Key:accomplice
+### English Sentences
+E-1: The thief's <u>accomplice</u> helped him escape from the crime scene.
+E-2: The company executive was arrested as an <u>accomplice</u> in the embezzlement scheme.
+
+### Japanese Translation
+J-1: 泥棒の<u>共犯者</u>が犯行現場からのがれるのを助けました。
+J-2: その会社の幹部は横領計画の<u>共犯者</u>として逮捕されました。

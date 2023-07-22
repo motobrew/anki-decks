@@ -1,0 +1,8 @@
+# Key:culpable
+### English Sentences
+E-1: The defendant was found <u>culpable</u> for the crime.
+E-2: The company was held <u>culpable</u> for the safety violations.
+
+### Japanese Translation
+J-1: 被告はその犯罪で<u>有罪とされました</u>。
+J-2: その会社は安全違反で<u>責任を負いました</u>。

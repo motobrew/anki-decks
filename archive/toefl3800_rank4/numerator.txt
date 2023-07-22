@@ -1,0 +1,8 @@
+# Key:numerator
+### English Sentences
+E-1: The <u>numerator</u> of the fraction is the top number.
+E-2: Make sure to simplify the <u>numerator</u> before finding the answer.
+
+### Japanese Translation
+J-1: 分数の<u>分子</u>は上の数字です。
+J-2: 答えを求める前に<u>分子</u>を簡略化してください。

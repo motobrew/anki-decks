@@ -1,0 +1,8 @@
+# Key:null
+### English Sentences
+E-1: <u>Null and void</u> means that the contract is no longer valid.
+E-2: The defendant claimed <u>nullity</u> in defense of the accusation.
+
+### Japanese Translation
+J-1: <u>無効となる</u>とは、契約がもはや有効でないことを意味します。
+J-2: 被告は告発の弁護をするために<u>無効</u>を主張しました。

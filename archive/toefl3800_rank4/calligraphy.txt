@@ -1,0 +1,8 @@
+# Key:calligraphy
+### English Sentences
+E-1: I recently started learning <u>calligraphy</u> as a hobby.
+E-2: The intricate <u>calligraphy</u> on the wedding invitation was breathtaking.
+
+### Japanese Translation
+J-1: 最近、趣味で<u>書道</u>を始めました。
+J-2: 結婚式の招待状には、繊細な<u>書道</u>が息をのむほど美しかったです。

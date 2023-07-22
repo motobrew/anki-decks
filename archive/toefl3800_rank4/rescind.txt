@@ -1,0 +1,8 @@
+# Key:rescind
+### English Sentences
+E-1: The company decided to <u>rescind</u> their offer of employment.
+E-2: The government may choose to <u>rescind</u> the new tax law. 
+
+### Japanese Translation
+J-1: 会社は雇用の申し出を<u>撤回する</u>ことに決めました。
+J-2: 政府は新たな税法を<u>取り消す</u>ことを選ぶかもしれません。

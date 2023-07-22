@@ -1,0 +1,8 @@
+# Key:phonetics
+### English Sentences
+E-1: The professor is an expert in <u>phonetics</u> and can accurately analyze speech sounds.
+E-2: I find the study of <u>phonetics</u> fascinating because it explores the sounds of language.
+
+### Japanese Translation
+J-1: その教授は<u>音声学</u>の専門家であり、話し言葉の音を正確に分析できます。
+J-2: 私は<u>音声学</u>の研究が魅力的だと思っています。言語の音について探求します。

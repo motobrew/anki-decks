@@ -1,0 +1,8 @@
+# Key:impeach
+### English Sentences
+E-1: The opposition party is aiming to <u>impeach</u> the president.
+E-2: The evidence against the suspect is not strong enough to <u>impeach</u> him.
+
+### Japanese Translation
+J-1: 野党は大統領を<u>弾劾</u>しようとしています。
+J-2: 犯人に対する証拠は彼を<u>非難する</u>には十分強くありません。

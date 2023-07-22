@@ -1,0 +1,8 @@
+# Key:enumerate
+### English Sentences
+E-1: I need to <u>enumerate</u> all the items on the list.
+E-2: The detective began to <u>enumerate</u> the possible suspects.
+
+### Japanese Translation
+J-1: リストのすべてのアイテムを<u>列挙</u>する必要があります。
+J-2: 刑事は<u>可能な容疑者を列挙</u>し始めました。

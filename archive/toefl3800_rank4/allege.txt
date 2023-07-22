@@ -1,0 +1,8 @@
+# Key:allege
+### English Sentences
+E-1: He <u>alleged</u> that she stole his wallet.
+E-2: The journalist <u>alleged</u> corruption within the government.
+
+### Japanese Translation
+J-1: 彼は彼女が彼の財布を盗んだと<u>主張しました</u>。
+J-2: ジャーナリストは政府内での腐敗を<u>暴露しました</u>。

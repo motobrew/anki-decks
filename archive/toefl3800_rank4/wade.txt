@@ -1,0 +1,8 @@
+# Key:wade
+### English Sentences
+E-1: She <u>waded</u> into the sea and enjoyed the cool water on her feet.
+E-2: The hiker decided to <u>wade</u> through the river instead of crossing the bridge.
+
+### Japanese Translation
+J-1: 彼女は海に<u入り込んで</u>、足元の冷たい水を楽しんだ。
+J-2: ハイカーは橋を渡る代わりに、川に<u>ずぶぬれになりながら</u>進むことに決めました。

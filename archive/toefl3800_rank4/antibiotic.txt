@@ -1,0 +1,8 @@
+# Key:antibiotic
+### English Sentences
+E-1: The doctor prescribed a strong <u>antibiotic</u> to treat the infection.
+E-2: Taking too many <u>antibiotics</u> can lead to antibiotic resistance.
+
+### Japanese Translation
+J-1: 医師は感染症を治療するために強い<u>抗生物質</u>を処方しました。
+J-2: 多くの<u>抗生物質</u>を服用することは、抗生物質耐性を引き起こす可能性があります。

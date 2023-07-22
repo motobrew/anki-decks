@@ -1,0 +1,8 @@
+# Key:loathe
+### English Sentences
+E-1: I <u>loathe</u> cleaning the bathroom, it's my least favorite chore.
+E-2: He <u>loathes</u> going to the dentist, it makes him anxious.
+
+### Japanese Translation
+J-1: 私はバスルームの掃除をするのが<u>大嫌いです</u>、それは私の一番嫌いな家事です。
+J-2: 彼は歯医者に行くのを<u>ひどく嫌がります</u>、それは彼を不安にさせます。

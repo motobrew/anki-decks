@@ -1,0 +1,8 @@
+# Key:antibody
+### English Sentences
+E-1: She has a strong <u>antibody</u> against negativity.
+E-2: The research team discovered a new <u>antibody</u> that can fight cancer.
+
+### Japanese Translation
+J-1: 彼女は否定的なことに対する<u>強い抵抗力</u>を持っています。
+J-2: 研究チームはがんと戦うことができる新しい<u>抗体</u>を発見しました。

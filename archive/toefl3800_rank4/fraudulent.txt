@@ -1,0 +1,8 @@
+# Key:fraudulent
+### English Sentences
+E-1: The insurance company uncovered a <u>fraudulent</u> claim and denied it.
+E-2: The company faced legal consequences for their <u>fraudulent</u> accounting practices.
+
+### Japanese Translation
+J-1: 保険会社は<u>詐欺的な</u>請求を見つけ出し、それを却下しました。
+J-2: その企業は<u>詐欺的な</u>会計のやり方により法的な後果に直面しました。

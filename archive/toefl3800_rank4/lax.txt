@@ -1,0 +1,10 @@
+# Key:lax
+### English Sentences
+E-1: The security at the airport was <u>lax</u> and allowed me to bring my water bottle.
+
+E-2: The company's <u>lax</u> policies on attendance led to a decrease in productivity.
+
+### Japanese Translation
+J-1: 空港のセキュリティは<u>手ぬるかった</u>ため、水筒を持ち込むことができました。
+
+J-2: 会社の<u>ルーズな</u>出勤ポリシーは生産性の低下に繋がりました。

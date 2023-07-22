@@ -1,0 +1,8 @@
+# Key:consonance
+### English Sentences
+E-1: The <u>consonance</u> of the instruments created a beautiful harmony.
+E-2: The poem is filled with <u>consonance</u> to create a soothing rhythm.
+
+### Japanese Translation
+J-1: 楽器の<u>調和</u>が美しいハーモニーを生み出しました。
+J-2: その詩は心地よいリズムを作るために<u>響き合い</u>が溢れています。

@@ -1,0 +1,8 @@
+# Key:rumination
+### English Sentences
+E-1: After a long day of work, I sat in silence and embraced my <u>rumination</u>.
+E-2: He retreated to his room, lost in deep <u>rumination</u> about his future.
+
+### Japanese Translation
+J-1: 仕事の長い一日の後、私は静かに座って<u>思索</u>にふけりました。
+J-2: 彼は部屋に引きこもり、将来について<u>深い思索</u>にふけっていました。

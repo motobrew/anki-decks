@@ -1,0 +1,8 @@
+# Key:euphoria
+### English Sentences
+E-1: The team's victory brought a sense of <u>euphoria</u> to their fans.
+E-2: She experienced a moment of <u>euphoria</u> when she received the promotion.
+
+### Japanese Translation
+J-1: チームの勝利はファンに<u>高揚感</u>をもたらしました。
+J-2: 彼女は昇進を受けた時に<u>幸せな瞬間</u>を体験しました。

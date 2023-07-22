@@ -1,0 +1,8 @@
+# Key:disseminate
+### English Sentences
+E-1: The company uses social media to <u>disseminate</u> information about their products. 
+E-2: The organization is dedicated to <u>disseminating</u> knowledge and promoting education.
+
+### Japanese Translation
+J-1: その会社は、自社製品に関する情報を<u>広めるために</u>ソーシャルメディアを使用しています。
+J-2: その組織は、知識を<u>普及</u>させ、教育を促進することを目指しています。

@@ -1,0 +1,8 @@
+# Key:simulated
+### English Sentences
+E-1: The flight simulator allows pilots to <u>simulate</u> various flying conditions.
+E-2: The surgeon used a computer program to <u>simulate</u> the surgical procedure.
+
+### Japanese Translation
+J-1: フライトシミュレーターはパイロットが様々な飛行条件を<u>シミュレート</u>できるようにします。
+J-2: 外科医は手術手順を<u>シミュレート</u>するためにコンピュータプログラムを使用しました。

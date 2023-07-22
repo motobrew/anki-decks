@@ -1,0 +1,8 @@
+# Key:slough
+### English Sentences
+E-1: I managed to <u>slough off</u> all my responsibilities for the weekend.
+E-2: It's important to <u>slough away</u> negative thoughts and focus on positivity.
+
+### Japanese Translation
+J-1: 週末の責任から<u>解放されました</u>。
+J-2: ネガティブな考えを<u>取り除き</u>、ポジティブな考えに集中することが重要です。

@@ -1,0 +1,8 @@
+# Key:disinterested
+### English Sentences
+E-1: He seemed <u>disinterested</u> in the topic and quickly changed the subject.
+E-2: The student's <u>disinterested</u> demeanor during the lecture worried the professor.
+
+### Japanese Translation
+J-1: 彼はそのトピックに<u>興味を示さない</u>ようで、すぐに話題を変えました。
+J-2: 講義中の学生の<u>無関心な</u>態度は教授を心配させました。

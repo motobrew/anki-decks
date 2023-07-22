@@ -1,0 +1,8 @@
+# Key:jurisprudence
+### English Sentences
+E-1: The Supreme Court's <u>jurisprudence</u> has shaped legal interpretation in this country.
+E-2: Legal scholars study the <u>jurisprudence</u> of different countries to compare legal systems.
+
+### Japanese Translation
+J-1: 最高裁の<u>判例法</u>がこの国の法的解釈に影響を与えています。
+J-2: 法学者は異なる国の<u>判例法</u>を研究し、法制度を比較します。

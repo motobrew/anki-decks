@@ -1,0 +1,8 @@
+# Key:trench
+### English Sentences
+E-1: I could tell by his tired eyes that he had been in the <u>trench</u> all night.
+E-2: The soldiers bravely fought in the <u>trench</u> during the war.
+
+### Japanese Translation
+J-1: 彼の疲れた目から、彼が一晩中塹壕にいたことがわかった。
+J-2: 兵士たちは勇敢に戦争中、塹壕で戦いました。

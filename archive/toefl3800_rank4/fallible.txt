@@ -1,0 +1,8 @@
+# Key:fallible
+### English Sentences
+E-1: Human beings are <u>fallible</u> and make mistakes from time to time.
+E-2: It is important to acknowledge our own <u>fallibility</u> in order to learn and grow.
+
+### Japanese Translation
+J-1: 人間は<u>誤りを犯すことが</u>あり、時々間違いをします。
+J-2: 成長するためには、自分の<u>か弱さ</u>を認めることが重要です。

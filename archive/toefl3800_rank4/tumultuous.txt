@@ -1,0 +1,8 @@
+# Key:tumultuous
+### English Sentences
+E-1: The couple's <u>tumultuous</u> relationship finally came to an end.
+E-2: The country experienced a <u>tumultuous</u> political transition.
+
+### Japanese Translation
+J-1: カップルの<u>騒々しい</u>関係はついに終わりを迎えました。
+J-2: その国は<u>騒々しい</u>政治的な移行を経験しました。

@@ -1,0 +1,8 @@
+# Key:untamed
+### English Sentences
+E-1: The <u>untamed</u> wilderness was filled with danger and adventure.
+E-2: His <u>untamed</u> emotions often led him to make impulsive decisions.
+
+### Japanese Translation
+J-1: 未開拓の荒野は危険と冒険に満ちていました。
+J-2: 彼の手に負えない感情は、しばしば衝動的な決定につながりました。

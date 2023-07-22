@@ -1,0 +1,8 @@
+# Key:blanch
+### English Sentences
+E-1: Her face <u>blanched</u> when she heard the shocking news.
+E-2: The sheer scale of the problem made them <u>blanch</u> with fear.
+
+### Japanese Translation
+J-1: 彼女は衝撃的なニュースを聞いたとき、顔が<u青ざめました。</u>
+J-2: 問題の大きさに彼らは恐怖で<u青くなりました。</u>

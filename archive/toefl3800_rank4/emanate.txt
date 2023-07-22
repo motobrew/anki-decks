@@ -1,0 +1,8 @@
+# Key:emanate
+### English Sentences
+E-1: A bad smell <u>emanated</u> from the trash can in the kitchen.
+E-2: Confidence <u>emanates</u> from someone who is comfortable in their own skin.
+
+### Japanese Translation
+J-1: 台所のゴミ箱から悪臭が<u>発せられました</u>。
+J-2: 自分に自信のある人からは自信が<u>にじみ出て</u>います。

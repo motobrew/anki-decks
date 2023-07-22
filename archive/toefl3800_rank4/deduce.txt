@@ -1,0 +1,8 @@
+# Key:deduce
+### English Sentences
+E-1: I could <u>deduce</u> from the evidence that he was guilty.
+E-2: By analyzing the data, I was able to <u>deduce</u> the correct answer.
+
+### Japanese Translation
+J-1: 証拠から彼が有罪であることを<u>推測</u>することができました。
+J-2: データを分析することで、正しい答えを<u>推理</u>することができました。

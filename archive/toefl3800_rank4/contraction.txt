@@ -1,0 +1,8 @@
+# Key:contraction
+### English Sentences
+E-1: The <u>contraction</u> in my muscle was painful and sudden.
+E-2: She went into <u>contractions</u> and had to be rushed to the hospital.
+
+### Japanese Translation
+J-1: 筋肉の<u>収縮</u>が痛くて突然起きました。
+J-2: 彼女は陣痛が始まって、緊急で病院に運ばれました。

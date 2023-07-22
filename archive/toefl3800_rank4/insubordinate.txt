@@ -1,0 +1,8 @@
+# Key:insubordinate
+### English Sentences
+E-1: The employee was fired for being <u>insubordinate</u> to their boss.
+E-2: The student received a detention for their <u>insubordinate</u> behavior in class.
+
+### Japanese Translation
+J-1: 従業員は上司に<u>反抗的</u>だったため解雇されました。
+J-2: 生徒は授業中の<u>反抗的な</u>態度で注意を受けました。

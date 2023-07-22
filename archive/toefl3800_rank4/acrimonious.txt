@@ -1,0 +1,8 @@
+# Key:acrimonious
+### English Sentences
+E-1: The divorce proceedings between John and Jane turned <u>acrimonious</u>.
+E-2: The political debate became <u>acrimonious</u> as both sides attacked each other.
+
+### Japanese Translation
+J-1: ジョンとジェーンの離婚手続きは<u>険悪な</u>ものとなった。
+J-2: 政治的な討論は、双方が攻撃し合ったことで<u>悪感情に満ちた</u>ものとなった。

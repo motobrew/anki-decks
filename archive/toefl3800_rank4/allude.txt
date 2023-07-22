@@ -1,0 +1,8 @@
+# Key:allude
+### English Sentences
+E-1: He made various references in his speech to <u>allude</u> to the upcoming changes.
+E-2: The painting is full of subtle symbols that <u>allude</u> to the artist's personal experiences.
+
+### Japanese Translation
+J-1: 彼はスピーチの中でさまざまな言及を行い、訪れる変化を<u>ほのめかす</u>ためでした。
+J-2: その絵には、芸術家の個人的な経験に<u>暗示する</u>微妙なシンボルが満載されています。

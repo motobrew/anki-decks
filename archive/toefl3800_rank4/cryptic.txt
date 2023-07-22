@@ -1,0 +1,8 @@
+# Key:cryptic
+### English Sentences
+E-1: The clues in the crossword puzzle were too <u>cryptic</u> for me to solve.
+E-2: The professor's lecture was full of <u>cryptic</u> language and concepts.
+
+### Japanese Translation
+J-1: クロスワードパズルのヒントは私にはあまりにも<u>謎めいていて</u>解けなかった。
+J-2: 教授の講義は<u>謎めいた</u>言葉と概念でいっぱいだった。

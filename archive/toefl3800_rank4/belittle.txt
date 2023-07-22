@@ -1,0 +1,8 @@
+# Key:belittle
+### English Sentences
+E-1: She would always <u>belittle</u> her classmates, making them feel inferior.
+E-2: I hate it when people <u>belittle</u> my achievements instead of congratulating me.
+
+### Japanese Translation
+J-1: 彼女はいつも同級生を<u>見くびる</u>ことで、彼らを劣等感に苛立たせます。
+J-2: 他人の成果を祝福する代わりに、人々が私の成果を<u>軽んじる</u>のが嫌いです。

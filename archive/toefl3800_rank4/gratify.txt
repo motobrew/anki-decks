@@ -1,0 +1,8 @@
+# Key:gratify
+### English Sentences
+E-1: She bought a new dress to <u>gratify</u> herself after a long week at work.
+E-2: The company gave him a bonus to <u>gratify</u> him for his hard work.
+
+### Japanese Translation
+J-1: 彼女は働き詰めの一週間の後、自分自身を<u>喜ばせるために</u>新しいドレスを買いました。
+J-2: 会社は彼の頑張りを<u>称えるために</u>彼にボーナスを与えました。

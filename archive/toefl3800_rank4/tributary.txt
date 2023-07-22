@@ -1,0 +1,8 @@
+# Key:tributary
+### English Sentences
+E-1: The river flows into the main stream as a <u>tributary</u>.
+E-2: The small company is a <u>tributary</u> to the larger conglomerate.
+
+### Japanese Translation
+J-1: その川は主流に<u>支流として</u>流れている。
+J-2: その小さな会社は大きな複合企業の<u>子会社</u>です。

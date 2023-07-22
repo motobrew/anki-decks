@@ -1,0 +1,8 @@
+# Key:regale
+### English Sentences
+E-1: She <u>regaled</u> the audience with her captivating storytelling.
+E-2: The host <u>regaled</u> us with fascinating anecdotes about his travels.
+
+### Japanese Translation
+J-1: 彼女は魅力的な話術で観客を<u>楽しませました</u>。
+J-2: ホストは彼の旅行に関する興味深い逸話で私たちを<u>楽しませました</u>。

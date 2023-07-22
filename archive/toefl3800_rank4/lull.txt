@@ -1,0 +1,8 @@
+# Key:lull
+### English Sentences
+E-1: The sound of the ocean waves helped <u>lull</u> me to sleep.
+E-2: The peaceful music <u>lulled</u> the baby to sleep.
+
+### Japanese Translation
+J-1: 海の波の音が私を眠りに<u>誘いました</u>。
+J-2: 穏やかな音楽が赤ちゃんを眠りに<u>誘いました</u>。

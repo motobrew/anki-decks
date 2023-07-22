@@ -1,0 +1,8 @@
+# Key:dissertation
+### English Sentences
+E-1: I spent months researching and writing my <u>dissertation</u>.
+E-2: She successfully defended her <u>dissertation</u> last week.
+
+### Japanese Translation
+J-1: 数か月間、研究と執筆に費やし<u>論文</u>を書きました。
+J-2: 彼女は先週、無事に<u>博士論文</u>を守りました。

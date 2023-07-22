@@ -1,0 +1,8 @@
+# Key:postulate
+### English Sentences
+E-1: The scientist <u>postulated</u> that there are multiple dimensions beyond our own.
+E-2: The detective <u>postulated</u> that the suspect had an accomplice.
+
+### Japanese Translation
+J-1: その科学者は、私たちの次元を超えた複数の次元が存在すると<u>仮定しました</u>。
+J-2: その刑事は、容疑者に共犯者がいると<u>推測しました</u>。

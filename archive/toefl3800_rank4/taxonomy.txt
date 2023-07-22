@@ -1,0 +1,8 @@
+# Key:taxonomy
+### English Sentences
+E-1: The <u>taxonomy</u> of plants is based on their physical characteristics.
+E-2: The <u>taxonomy</u> of animals classifies them into different groups based on their evolutionary relationships.
+
+### Japanese Translation
+J-1: 植物の<u>分類</u>は、それらの形態的特徴に基づいています。
+J-2: 動物の<u>分類</u>は、進化の関係に基づいて異なるグループに分けられます。

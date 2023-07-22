@@ -1,0 +1,8 @@
+# Key:amble
+### English Sentences
+E-1: She likes to take a leisurely <u>amble</u> through the park in the evenings.
+E-2: The conversation took a surprising <u>amble</u> into deep philosophical topics.
+
+### Japanese Translation
+J-1: 彼女は毎晩公園をゆっくりとした<u>散歩</u>するのが好きです。
+J-2: 会話は意外な方向に<u>進んでいきました</u>、深い哲学的な話題に向かって。

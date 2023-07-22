@@ -1,0 +1,8 @@
+# Key:scourge
+### English Sentences
+E-1: The rampant spread of COVID-19 has become a <u>scourge</u> on society.
+E-2: Poverty continues to be a <u>scourge</u> that many people face worldwide.
+
+### Japanese Translation
+J-1: COVID-19の広がりは社会にとって<u>災厄</u>となっています。
+J-2: 貧困は世界中の多くの人々が直面する<u>厄介な存在</u>です。

@@ -1,0 +1,8 @@
+# Key:impartial
+### English Sentences
+E-1: The mediator remained <u>impartial</u> throughout the negotiation process.
+E-2: The judge made an <u>impartial</u> decision based solely on the evidence presented.
+
+### Japanese Translation
+J-1: 仲介人は交渉の過程で<u>公平</u>なままでした。
+J-2: 裁判官は証拠に基づいて<u>公正な</u>判断を下しました。

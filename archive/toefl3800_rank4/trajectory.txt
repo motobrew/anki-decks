@@ -1,0 +1,8 @@
+# Key:trajectory
+### English Sentences
+E-1: The company's trajectory is heading towards success. 
+E-2: The missile's trajectory was carefully calculated for maximum accuracy.
+
+### Japanese Translation
+J-1: その会社の<u>推移</u>は成功に向かっている。
+J-2: ミサイルの<u>弾道</u>は最大の精度のために注意深く計算された。

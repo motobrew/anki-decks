@@ -1,0 +1,8 @@
+# Key:discredit
+### English Sentences
+E-1: The article attempted to <u>discredit</u> the scientist's research findings.
+E-2: The opposition party launched a campaign to <u>discredit</u> their political opponents.
+
+### Japanese Translation
+J-1: その記事はその科学者の研究結果を<u>疑いをかける目的で</u>書かれていた。
+J-2: 反対派政党は政治的なライバルを<u>信用を損ねるために</u>キャンペーンを展開した。

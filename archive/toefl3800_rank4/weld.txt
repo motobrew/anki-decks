@@ -1,0 +1,8 @@
+# Key:weld
+### English Sentences
+E-1: The weld between the two metal pieces is strong and secure.
+E-2: He worked tirelessly to weld the community together through volunteering.
+
+### Japanese Translation
+J-1: ２つの金属の部品の<u>溶接</u>はしっかりと安全です。
+J-2: 彼はボランティアを通じてコミュニティを<u>団結させる</u>ためにひたすら働きました。

@@ -1,0 +1,8 @@
+# Key:icicle
+### English Sentences
+E-1: The sharp words from her mouth were like an <u>icicle</u> piercing my heart.
+E-2: The tension in the room was so thick, you could feel it like an <u>icicle</u> hanging in the air.
+
+### Japanese Translation
+J-1: 彼女の口から出た鋭い言葉は、私の心を貫く氷柱のようでした。
+J-2: 部屋の緊張はとても強烈で、空中に氷柱が浮かんでいるように感じられました。

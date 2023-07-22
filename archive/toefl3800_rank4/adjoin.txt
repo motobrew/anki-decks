@@ -1,0 +1,8 @@
+# Key:adjoin
+### English Sentences
+E-1: The hotel room <u>adjoined</u> with a private balcony overlooking the sea.
+E-2: The two houses <u>adjoin</u> each other, sharing a common wall.
+
+### Japanese Translation
+J-1: ホテルの部屋は、海を見渡せるプライベートなバルコニーに<u>隣接していました</u>。
+J-2: 二つの家は<u>隣り合わせ</u>にあり、共有の壁を持っています。

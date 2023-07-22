@@ -1,0 +1,8 @@
+# Key:circumvent
+### English Sentences
+E-1: He found a clever way to <u>circumvent</u> the security measures.
+E-2: The company tried to <u>circumvent</u> the regulations by exploiting loopholes.
+
+### Japanese Translation
+J-1: 彼はセキュリティ対策を<u>回避する</u>賢い方法を見つけた。
+J-2: その会社は抜け道を利用して規制を<u>回避しようと</u>しました。

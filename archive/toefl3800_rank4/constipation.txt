@@ -1,0 +1,8 @@
+# Key:constipation
+### English Sentences
+E-1: She ate too much cheese and now she's dealing with <u>constipation</u>.
+E-2: I need to eat more fiber to prevent <u>constipation</u>.
+
+### Japanese Translation
+J-1: 彼女はチーズを食べ過ぎて、今は<u>便秘</u>に悩んでいます。
+J-2: 便秘を予防するためにもっと食物繊維を摂らなければなりません。

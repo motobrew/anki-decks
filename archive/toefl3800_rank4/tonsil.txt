@@ -1,0 +1,8 @@
+# Key:tonsil
+### English Sentences
+E-1: I could barely speak because my <u>tonsils</u> were so swollen.
+E-2: The doctor recommended removing my <u>tonsils</u> to help with my frequent sore throats.
+
+### Japanese Translation
+J-1: 私の<u>扁桃腺</u>が腫れていて、ほとんど話せませんでした。
+J-2: よく喉が痛くなるので、医者は私の<u>扁桃腺</u>を取り除くことを勧めました。

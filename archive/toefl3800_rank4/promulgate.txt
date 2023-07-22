@@ -1,0 +1,8 @@
+# Key:promulgate
+### English Sentences
+E-1: The government <u>promulgated</u> new laws to protect the environment.
+E-2: The company <u>promulgated</u> a code of conduct for its employees.
+
+### Japanese Translation
+J-1: 政府は新しい環境保護法を<u>公布しました</u>。
+J-2: その会社は従業員のための行動規範を<u>制定しました</u>。

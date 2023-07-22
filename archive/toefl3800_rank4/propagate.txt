@@ -1,0 +1,8 @@
+# Key:propagate
+### English Sentences
+E-1: The rumor continued to <u>propagate</u> throughout the school.
+E-2: The internet is a powerful tool for information <u>propagation</u>.
+
+### Japanese Translation
+J-1: その噂は学校全体に<u>広がり続けました</u>。
+J-2: インターネットは情報の<u>伝播</u>に強力なツールです。

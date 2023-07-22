@@ -1,0 +1,8 @@
+# Key:morose
+### English Sentences
+E-1: He wore a <u>morose</u> expression, clearly upset about something.
+E-2: After his team lost the match, he became <u>morose</u> and withdrew from conversation.
+
+### Japanese Translation
+J-1: 彼は<u>むっとした</u>表情をしていて、何かが気に入らないようだった。
+J-2: 彼のチームが試合に負けた後、彼は<u>ふさぎ込んで</u>会話から身を引いた。

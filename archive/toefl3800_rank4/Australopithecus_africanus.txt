@@ -1,0 +1,8 @@
+# Key:Australopithecus africanus
+### English Sentences
+E-1: The fossil of <u>Australopithecus africanus</u> was discovered in South Africa.
+E-2: Researchers have found new evidence supporting the existence of <u>Australopithecus africanus</u>.
+
+### Japanese Translation
+J-1: <u>オーストラロピテクス・アフリカヌス</u>の化石が南アフリカで発見されました。
+J-2: 研究者は<u>オーストラロピテクス・アフリカヌス</u>の存在を支持する新しい証拠を見つけました。

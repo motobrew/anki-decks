@@ -1,0 +1,8 @@
+# Key:dissonance
+### English Sentences
+E-1: There was a <u>dissonance</u> between what he said and what he did.
+E-2: The <u>dissonance</u> in the song created an eerie and unsettling feeling.
+
+### Japanese Translation
+J-1: 彼の言動に<u>不調和</u>がありました。
+J-2: その曲の<u>不協和音</u>は不気味で不安を覚えさせました。

@@ -1,0 +1,8 @@
+# Key:binary star
+### English Sentences
+E-1: I was captivated by the mesmerizing dance of the <u>binary stars</u>.
+E-2: The intense gravitational pull between the <u>binary stars</u> causes them to orbit each other.
+
+### Japanese Translation
+J-1: 私は、魅惑的な二重星の踊りに魅了されました。
+J-2: 二重星の間の強烈な引力により、それらは互いに軌道を描きます。

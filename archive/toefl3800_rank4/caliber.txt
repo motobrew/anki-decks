@@ -1,0 +1,8 @@
+# Key:caliber
+### English Sentences
+E-1: The candidate has the <u>caliber</u> to lead the company to success.
+E-2: The performance demonstrated the <u>caliber</u> of the actors on stage.
+
+### Japanese Translation
+J-1: その候補者は会社を成功に導く<u>能力</u>を持っています。
+J-2: その演技は舞台上の俳優たちの<u>実力</u>を示していました。

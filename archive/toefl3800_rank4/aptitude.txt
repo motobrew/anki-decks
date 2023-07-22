@@ -1,0 +1,8 @@
+# Key:aptitude
+### English Sentences
+E-1: She has a natural <u>aptitude</u> for playing musical instruments.
+E-2: His <u>aptitude</u> for solving math problems quickly is impressive.
+
+### Japanese Translation
+J-1: 彼女は楽器を演奏するのに天賦の<u>才能</u>を持っています。
+J-2: 彼の数学問題を速く解く<u>能力</u>は印象的です。

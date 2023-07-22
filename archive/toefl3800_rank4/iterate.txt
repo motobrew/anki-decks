@@ -1,0 +1,8 @@
+# Key:iterate
+### English Sentences
+E-1: We need to <u>iterate</u> on this design to make it more user-friendly.
+E-2: The professor asked the students to <u>iterate</u> on their essays for improvement.
+
+### Japanese Translation
+J-1: このデザインをユーザーフレンドリーにするために<u>繰り返し作業</u>が必要です。
+J-2: 教授は学生にエッセイを改善するために<u>繰り返し作業</u>をするように頼んだ。

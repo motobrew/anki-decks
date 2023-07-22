@@ -1,0 +1,8 @@
+# Key:notch
+### English Sentences
+E-1: The service at the restaurant was top <u>notch</u>.
+E-2: I need to step up my game and bring my A <u>notch</u>.
+
+### Japanese Translation
+J-1: そのレストランのサービスは最高の<u>レベルでした</u>。
+J-2: 自分の力を発揮し、ベストなパフォーマンスを発揮する必要があります。

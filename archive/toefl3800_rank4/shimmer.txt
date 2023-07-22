@@ -1,0 +1,8 @@
+# Key:shimmer
+### English Sentences
+E-1: The stars <u>shimmered</u> in the night sky, creating a magical atmosphere.
+E-2: Her eyes <u>shimmered</u> with tears as she listened to the heartfelt song.
+
+### Japanese Translation
+J-1: 星々が夜空で<u>きらめいて</u>、魔法の雰囲気を作り出しました。
+J-2: 心のこもった歌を聞いて、彼女の目には涙が<u>きらめいて</u>いました。

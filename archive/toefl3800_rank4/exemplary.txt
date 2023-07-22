@@ -1,0 +1,8 @@
+# Key:exemplary
+### English Sentences
+E-1: She received an <u>exemplary</u> award for her outstanding academic performance.
+E-2: The company's <u>exemplary</u> customer service sets them apart from their competitors.
+
+### Japanese Translation
+J-1: 彼女は優れた学業成績に対して<u>模範的な</u>賞を受け取りました。
+J-2: その会社の<u>模範的な</u>顧客サービスは競合他社と差をつけています。

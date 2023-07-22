@@ -1,0 +1,8 @@
+# Key:collusion
+### English Sentences
+E-1: There was no <u>collusion</u> between the two companies in the bidding process.
+E-2: The evidence suggests <u>collusion</u> among the employees to manipulate the financial records.
+
+### Japanese Translation
+J-1: 入札プロセスにおいて、2つの企業の<u>共謀</u>はありませんでした。
+J-2: 証拠は、従業員間の<u>共謀</u>による財務記録の操作を示しています。

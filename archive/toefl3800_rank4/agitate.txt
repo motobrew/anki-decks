@@ -1,0 +1,8 @@
+# Key:agitate
+### English Sentences
+E-1: The activist group plans to <u>agitate</u> for change in the community. 
+E-2: He always tries to <u>agitate</u> his classmates by provoking them with his comments.
+
+### Japanese Translation
+J-1: その活動家グループは、地域の変化を求めて<u>アジテーション</u>する予定です。
+J-2: 彼はいつもコメントで同級生たちを挑発しようとして<u>扇動</u>しようとします。

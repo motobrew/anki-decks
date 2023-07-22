@@ -1,0 +1,8 @@
+# Key:defoliation
+### English Sentences
+E-1: The <u>defoliation</u> caused by the harsh winter left the trees barren.
+E-2: The government's plan for the <u>defoliation</u> of certain areas sparked controversy.
+
+### Japanese Translation
+J-1: 厳しい冬による<u>落葉</u>で木々は裸になりました。
+J-2: 特定の地域の<u>葉を落とすこと</u>に対する政府の計画は論争を引き起こしました。

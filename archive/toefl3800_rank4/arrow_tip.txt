@@ -1,0 +1,8 @@
+# Key:arrow tip
+### English Sentences
+E-1: The <u>arrow tip</u> of the pen broke off while I was writing.
+E-2: Be careful with the <u>arrow tip</u> of that knife, it's sharp.
+
+### Japanese Translation
+J-1: 書いている最中にペンの<u>矢じり</u>が折れました。
+J-2: そのナイフの<u>矢じり</u>には注意してください、とても鋭いです。

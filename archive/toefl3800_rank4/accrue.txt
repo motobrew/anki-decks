@@ -1,0 +1,8 @@
+# Key:accrue
+### English Sentences
+E-1: Interest <u>accrues</u> on your savings account every month.
+E-2: The benefits of regular exercise <u>accrue</u> over time.
+
+### Japanese Translation
+J-1: 毎月貯金口座に<u>利子がつく</u>。
+J-2: 定期的な運動の利点は時間とともに<u>蓄積されていく</u>。

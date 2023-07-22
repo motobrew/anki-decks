@@ -1,0 +1,8 @@
+# Key:crescendo
+### English Sentences
+E-1: The tension in the room gradually built to a <u>crescendo</u>, culminating in a heated argument. 
+E-2: The cheers from the crowd reached a <u>crescendo</u> as the team scored the winning goal.
+
+### Japanese Translation
+J-1: 部屋の緊張がだんだんと高まり、激しい口論で<u>頂点</u>に達しました。
+J-2: チームが勝ちゴールを決めると、観客からの歓声が<u>絶頂</u>に達しました。

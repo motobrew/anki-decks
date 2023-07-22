@@ -1,0 +1,8 @@
+# Key:despot
+#### English Sentences
+E-1: The <u>despot</u> ruled the country with an iron fist.
+E-2: The people revolted against the oppressive <u>despot</u> leader.
+
+#### Japanese Translation
+J-1: その<u>専制政治家</u>は鉄の拳で国を支配していた。
+J-2: 人々は圧政を敷く<u>専制政治家</u>に対して反乱した。

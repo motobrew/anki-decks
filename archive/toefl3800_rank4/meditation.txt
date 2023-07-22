@@ -1,0 +1,8 @@
+# Key:meditation
+### English Sentences
+E-1: I like to take a few minutes each day for <u>meditation</u>.
+E-2: <u>Meditation</u> helps me relax and clear my mind.
+
+### Japanese Translation
+J-1: 毎日数分間の<u>瞑想</u>をするのが好きです。
+J-2: <u>瞑想</u>は私がリラックスして心をクリアにするのに役立ちます。

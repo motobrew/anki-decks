@@ -1,0 +1,8 @@
+# Key:reimburse
+### English Sentences
+E-1: They will <u>reimburse</u> you for any travel expenses incurred.
+E-2: The company agreed to <u>reimburse</u> me for the damaged item.
+
+### Japanese Translation
+J-1: 発生した旅費について、彼らは<u>払い戻し</u>してくれます。
+J-2: 会社は壊れた商品について、私に<u>払い戻し</u>することに同意しました。

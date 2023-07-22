@@ -1,0 +1,8 @@
+# Key:agglomeration
+### English Sentences
+E-1: The <u>agglomeration</u> of people in the city center created a lively atmosphere.
+E-2: The <u>agglomeration</u> of data in the database slowed down the system.
+
+### Japanese Translation
+J-1: 市の中心部での人々の<u>集まり</u>が活気のある雰囲気を作り出しました。
+J-2: データベースでの<u>大量の集積</u>がシステムの動作を遅くしました。

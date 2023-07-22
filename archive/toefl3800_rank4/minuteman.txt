@@ -1,0 +1,8 @@
+# Key:minuteman
+### English Sentences
+E-1: The <u>Minutemen</u> played a crucial role in the American Revolution.  
+E-2: Our soccer team needs a <u>minuteman</u> who can quickly capitalize on scoring opportunities.
+
+### Japanese Translation
+J-1: <u>ミニッツマン</u>はアメリカ独立戦争で重要な役割を果たしました。  
+J-2: サッカーチームには、得点のチャンスを素早く活用する<u>ミニッツマン</u>が必要です。

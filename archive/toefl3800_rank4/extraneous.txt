@@ -1,0 +1,8 @@
+# Key:extraneous
+### English Sentences
+E-1: The <u>extraneous</u> information in the presentation confused the audience.
+E-2: Remove any <u>extraneous</u> objects from the scene before shooting the photo.
+
+### Japanese Translation
+J-1: プレゼンテーションの<u>余計な</u>情報が観客を混乱させました。
+J-2: 写真を撮る前に、シーンから<u>不必要な</u>物を取り除いてください。

@@ -1,0 +1,8 @@
+# Key:lichen
+### English Sentences
+E-1: The <u>lichen</u> on the rocks indicated a clean and healthy environment.
+E-2: The old tree was covered in <u>lichen</u>, giving it a mystical appearance.
+
+### Japanese Translation
+J-1: 岩肌に<u>地衣類</u>が生えているのは、きれいで健康な環境を示しています。
+J-2: 古い木には<u>地衣類</u>が生えていて、それが神秘的な姿を与えていました。

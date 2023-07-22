@@ -1,0 +1,8 @@
+# Key:arbitrate
+### English Sentences
+E-1: They hired a professional mediator to <u>arbitrate</u> the labor dispute.
+E-2: The couple decided to seek legal help to <u>arbitrate</u> their divorce settlement.
+
+### Japanese Translation
+J-1: 彼らは労働争議の調停役として専門の仲裁人を雇いました。
+J-2: 夫婦は離婚の解決を<u>仲裁するため</u>に法的な助けを求めることにしました。

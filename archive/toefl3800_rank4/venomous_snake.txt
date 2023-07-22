@@ -1,0 +1,8 @@
+# Key:venomous snake
+### English Sentences
+E-1: I didn't realize she could be such a <u>venomous snake</u> until she betrayed me.
+E-2: Watch out for that politician, he's known to be a <u>venomous snake</u> in the media.
+
+### Japanese Translation
+J-1: 彼女が私を裏切るまで、彼女がそんなに<u>毒蛇</u>であることに気づきませんでした。
+J-2: その政治家には注意してください、彼はメディアでも<u>毒蛇</u>として知られています。

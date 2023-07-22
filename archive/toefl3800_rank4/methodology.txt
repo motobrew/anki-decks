@@ -1,0 +1,8 @@
+# Key:methodology
+### English Sentences
+E-1: The <u>methodology</u> used in this study is based on qualitative research.
+E-2: Our company has adopted a new <u>methodology</u> to improve efficiency.
+
+### Japanese Translation
+J-1: この研究で使用される<u>方法論</u>は質的研究に基づいています。
+J-2: 当社は効率を改善するために新しい<u>手法</u>を採用しました。

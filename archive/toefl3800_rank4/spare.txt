@@ -1,0 +1,8 @@
+# Key:spare
+### English Sentences
+E-1: Can you <u>spare</u> a few minutes to help me with this problem?
+E-2: I have no <u>spare</u> change to give to the beggar.
+
+### Japanese Translation
+J-1: この問題を手伝ってくれるために、数分<u>時間を割いて</u>もらえますか？
+J-2: 私は乞食に<u>スペアの</u>小銭をあげる余裕がありません。

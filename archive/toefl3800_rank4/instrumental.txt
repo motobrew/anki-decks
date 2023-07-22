@@ -1,0 +1,8 @@
+# Key:instrumental
+### English Sentences
+E-1: The guitar was instrumental in creating the band's signature sound.
+E-2: Her leadership was instrumental in the success of the project.
+
+### Japanese Translation
+J-1: ギターはバンドの特徴的なサウンドを作るのに重要な役割を果たしました。
+J-2: 彼女のリーダーシップはプロジェクトの成功に欠かせないものでした。

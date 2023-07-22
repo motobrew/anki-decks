@@ -1,0 +1,8 @@
+# Key:ballast
+### English Sentences
+E-1: Having a trusted mentor can serve as a <u>ballast</u> during challenging times.
+E-2: The team's experienced goalkeeper provided <u>ballast</u> in defense.
+
+### Japanese Translation
+J-1: 困難な時には、信頼できるメンターが<u>支えとなる</u>ことがあります。
+J-2: チームの経験豊富なゴールキーパーが守備に<u>安定感</u>をもたらしました。

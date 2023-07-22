@@ -1,0 +1,8 @@
+# Key:inter
+### English Sentences
+E-1: The <u>inter</u> between the two songs flowed seamlessly.
+E-2: Please <u>inter</u> the room quietly as the lecture is already in progress.
+
+### Japanese Translation
+J-1: 2つの曲の<u>間</u>が滑らかにつながっていました。
+J-2: 講義はすでに始まっているので、<u>静かに中に入る</u>ようにしてください。

@@ -1,0 +1,8 @@
+# Key:axiom
+### English Sentences
+E-1: It is an <u>axiom</u> that honesty is the best policy.
+E-2: In mathematics, the commutative property is considered an <u>axiom</u>.
+
+### Japanese Translation
+J-1: 正直が一番の方針であることは<u>公理</u>です。
+J-2: 数学では、交換法則は<u>公理</u>と考えられています。

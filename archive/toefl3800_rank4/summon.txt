@@ -1,0 +1,9 @@
+# Key:summon
+## Response
+### English Sentences
+E-1: I was able to <u>summon</u> the courage to speak in public.
+E-2: The magician performed a trick to <u>summon</u> a rabbit out of a hat.
+
+### Japanese Translation
+J-1: 私は勇気を<u>奮い起こして</u>公の場で話すことができました。
+J-2: 魔術師は帽子からウサギを<u>呼び出す</u>トリックを披露しました。

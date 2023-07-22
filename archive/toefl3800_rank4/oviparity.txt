@@ -1,0 +1,8 @@
+# Key:oviparity
+### English Sentences
+E-1: The lizard species exhibits <u>oviparity</u> by laying eggs.
+E-2: Most birds reproduce through <u>oviparity</u>, laying eggs in nests.
+
+### Japanese Translation
+J-1: そのトカゲの種は卵を産むことによる<u>卵生</u>を示しています。
+J-2: 多くの鳥は、巣に卵を産むという<u>卵生</u>の繁殖方法をとります。

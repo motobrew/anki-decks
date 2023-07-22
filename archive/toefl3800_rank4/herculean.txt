@@ -1,0 +1,8 @@
+# Key:herculean
+### English Sentences
+E-1: The climbers faced <u>herculean</u> challenges as they scaled Everest.
+E-2: The teacher handled the <u>herculean</u> task of organizing the school play.
+
+### Japanese Translation
+J-1: 登山家たちはエベレストを登る際に<u>壮大な</u>困難に直面しました。
+J-2: 先生は学校の演劇を企画する<u>困難な</u>仕事を処理しました。

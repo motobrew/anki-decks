@@ -1,0 +1,8 @@
+# Key:frenzied
+### English Sentences
+E-1: The protesters marched through the streets in a <u>frenzied</u> frenzy.
+E-2: The goalkeeper made a <u>frenzied</u> save to prevent a goal.
+
+### Japanese Translation
+J-1: デモ参加者は街を<u>熱狂的な</u>熱狂で行進しました。
+J-2: ゴールキーパーはゴールを防ぐために<u>猛烈な</u>猛烈なセーブをしました。

@@ -1,0 +1,8 @@
+# Key:subterranean
+### English Sentences
+E-1: The mysterious creature was said to inhabit the <u>subterranean</u> caves.
+E-2: The treasure was hidden deep within the <u>subterranean</u> tunnels.
+
+### Japanese Translation
+J-1: その神秘的な生物は<u>地下</u>の洞窟に生息していると言われていた。
+J-2: 宝物は<u>地下</u>のトンネルの奥深くに隠されていた。

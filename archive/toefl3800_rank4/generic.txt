@@ -1,0 +1,8 @@
+# Key:generic
+### English Sentences
+E-1: The clothes in that store are very <u>generic</u> and lack any unique style.
+E-2: I prefer to use <u>generic</u> terms when discussing sensitive topics.
+
+### Japanese Translation
+J-1: その店の服は非常に<u>汎用的</u>で、独自のスタイルがない。
+J-2: 敏感なトピックを話すときは<u>一般的な</u>用語を使う方が好きです。

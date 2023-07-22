@@ -1,0 +1,8 @@
+# Key:aver
+### English Sentences
+E-1: I <u>aver</u> that he is guilty of the crime.
+E-2: She <u>averred</u> that she had never seen him before.
+
+### Japanese Translation
+J-1: 彼がその犯罪の罪を<u>認める</u>と主張します。
+J-2: 彼女は彼を以前見たことがないと<u>主張しました</u>。

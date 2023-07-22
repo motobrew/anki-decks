@@ -1,0 +1,8 @@
+# Key:cohesion
+### English Sentences
+E-1: The <u>cohesion</u> among team members is evident in their seamless collaboration.
+E-2: The lack of <u>cohesion</u> in the argument made it difficult to follow.
+
+### Japanese Translation
+J-1: チームメンバーの<u>連携</u>は、彼らのシームレスな協力に明らかに表れています。
+J-2: 議論の<u>結束の欠如</u>により、内容を理解するのが難しかったです。

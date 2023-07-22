@@ -1,0 +1,8 @@
+# Key:atypical
+### English Sentences
+E-1: The company's profit this year was <u>atypical</u> compared to previous years.
+E-2: His taste in music is <u>atypical</u> for someone his age.
+
+### Japanese Translation
+J-1: 今年の会社の利益は、従来の年と比べて<u>異常な</u>結果でした。
+J-2: 彼の音楽の好みは、彼の年齢に<u>は異常な</u>ものです。

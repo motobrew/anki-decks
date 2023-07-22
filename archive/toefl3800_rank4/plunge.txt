@@ -1,0 +1,8 @@
+# Key:plunge
+### English Sentences
+E-1: I decided to take the <u>plunge</u> and start my own business.
+E-2: They didn't hesitate to <u>plunge</u> into the icy cold water.
+
+### Japanese Translation
+J-1: 私は大胆にも自分のビジネスを始めることを決断しました。
+J-2: 彼らは迷わずに氷の冷たい水に飛び込みました。

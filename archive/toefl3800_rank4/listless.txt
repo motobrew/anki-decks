@@ -1,0 +1,8 @@
+# Key:listless
+### English Sentences
+E-1: The hot and humid weather left me feeling <u>listless</u> and unmotivated.
+E-2: After staying up all night, I woke up feeling <u>listless</u> and exhausted.
+
+### Japanese Translation
+J-1: 蒸し暑い天気のせいで、私は元気がなくなり、やる気も起きませんでした。
+J-2: 徹夜した後、起きて気力もなく疲れ切っていました。

@@ -1,0 +1,8 @@
+# Key:typify
+### English Sentences
+E-1: The old building <u>typifies</u> the architecture of the time.
+E-2: The protagonist of the novel <u>typifies</u> the struggle of the working class.
+
+### Japanese Translation
+J-1: その古い建物は、当時の建築様式を<u>代表しています</u>。
+J-2: その小説の主人公は、労働者階級の闘いを<u>象徴しています</u>。

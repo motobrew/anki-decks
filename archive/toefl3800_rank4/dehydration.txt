@@ -1,0 +1,8 @@
+# Key:dehydration
+### English Sentences
+E-1: I need to drink more water to avoid <u>dehydration</u> during exercise.
+E-2: The doctor recommended a sports drink to prevent <u>dehydration</u> in the hot weather.
+
+### Japanese Translation
+J-1: 運動中の<u>脱水症状</u>を避けるためにもっと水を飲む必要があります。
+J-2: 医者は暑い天候で<u>脱水症状</u>を予防するためにスポーツドリンクを勧めました。

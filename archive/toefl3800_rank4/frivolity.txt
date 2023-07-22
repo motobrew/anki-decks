@@ -1,0 +1,8 @@
+# Key:frivolity
+### English Sentences
+E-1: I prefer deep conversations over <u>frivolous</u> small talk.
+E-2: She criticized his <u>frivolity</u> in the face of serious issues.
+
+### Japanese Translation
+J-1: 私は些細なおしゃべりよりも深い会話を好みます。
+J-2: 彼女は重大な問題に直面しても、彼の軽薄さを批判しました。

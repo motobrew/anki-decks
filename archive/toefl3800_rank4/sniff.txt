@@ -1,0 +1,8 @@
+# Key:sniff
+### English Sentences
+E-1: I could <u>sniff</u> the delicious aroma of freshly baked bread.
+E-2: The detective used his keen sense of smell to <u>sniff</u> out the suspect.
+
+### Japanese Translation
+J-1: 私は焼きたてのパンの美味しい香りを<u>かぎ分けること</u>ができました。
+J-2: 探偵は鋭い嗅覚を使って犯人を<u>見抜き出すこと</u>をした。

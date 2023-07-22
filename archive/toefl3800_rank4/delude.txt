@@ -1,0 +1,8 @@
+# Key:delude
+### English Sentences
+E-1: She tried to <u>delude</u> herself into thinking everything was fine.
+E-2: The advertisement was designed to <u>delude</u> customers into buying unnecessary products.
+
+### Japanese Translation
+J-1: 彼女は自分自身をだますようにして、すべてがうまくいっていると思い込もうとしました。
+J-2: その広告は、顧客をだまして不必要な商品を買わせるために作られました。

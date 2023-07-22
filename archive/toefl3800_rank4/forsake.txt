@@ -1,0 +1,8 @@
+# Key:forsake
+### English Sentences
+E-1: Many people <u>forsake</u> their dreams in pursuit of stability.
+E-2: Despite the difficulties, she vowed to never <u>forsake</u> her family.
+
+### Japanese Translation
+J-1: 安定を追求するために、多くの人が自分の夢を<u>捨てる</u>。
+J-2: 困難があるにもかかわらず、彼女は家族を<u>見捨てることはしない</u>と誓った。

@@ -1,0 +1,8 @@
+# Key:responsiveness
+### English Sentences
+E-1: The <u>responsiveness</u> of the customer service team was impressive.
+E-2: The website's <u>responsiveness</u> made it easy to navigate.
+
+### Japanese Translation
+J-1: カスタマーサービスチームの<u>対応の速さ</u>に感心しました。
+J-2: ウェブサイトの<u>応答の良さ</u>により、簡単に操作できました。

@@ -1,0 +1,8 @@
+# Key:filmy
+### English Sentences
+E-1: The old photograph has a <u>filmy</u> quality, like it was taken in another era.
+E-2: I couldn't see clearly through the <u>filmy</u> window due to all the condensation.
+
+### Japanese Translation
+J-1: その古い写真は、別の時代に撮影されたかのような<u>ぼんやりとした</u>雰囲気があります。
+J-2: 結露のため、私は<u>かすんだ</u>窓からはっきりと見えませんでした。

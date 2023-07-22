@@ -1,0 +1,8 @@
+# Key:chamber
+### English Sentences
+E-1: He entered the <u>chamber</u> and locked the door behind him.
+E-2: The defendant was brought into the <u>chamber</u> to hear the verdict.
+
+### Japanese Translation
+J-1: 彼は<u>部屋</u>に入り、扉を後ろから施錠しました。
+J-2: 被告は<u>法廷</u>に連れて行かれ、判決を聞きました。

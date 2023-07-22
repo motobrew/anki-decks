@@ -1,0 +1,8 @@
+# Key:congenital
+### English Sentences
+E-1: She has a <u>congenital</u> heart condition that requires regular check-ups.
+E-2: The child was born with a <u>congenital</u> defect in his hearing.
+
+### Japanese Translation
+J-1: 彼女は<u>生まれつきの</u>心臓の病気で、定期的な検査が必要です。
+J-2: その子供は聴力の<u>先天的な</u>欠陥を持って生まれました。

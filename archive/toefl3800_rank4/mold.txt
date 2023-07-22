@@ -1,0 +1,8 @@
+# Key:mold
+### English Sentences
+E-1: He needs to break out of the <u>mold</u> and find his own path.
+E-2: I refuse to be limited by society's <u>mold</u> of what a woman should be.
+
+### Japanese Translation
+J-1: 彼はその<u型にはまった考え方</u>を打破し、自分自身の道を見つけなければなりません。
+J-2: 私は社会の<u>型</u>に縛られることを拒否します。女性がどのようでなければならないかという型です。

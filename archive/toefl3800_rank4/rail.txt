@@ -1,0 +1,8 @@
+# Key:rail
+### English Sentences
+E-1: I missed the train because I was running late, so I had to <u>rail</u> against my bad luck.
+E-2: They always <u>rail</u> against each other during their arguments, but they are actually good friends.
+
+### Japanese Translation
+J-1: 遅刻してしまったので、列車に乗り遅れて運の悪さに<u>憤慨しました</u>。
+J-2: 彼らはいつも言い争っているように見えますが、実際には親友同士で<u>お互いを非難する</u>ことが多いです。

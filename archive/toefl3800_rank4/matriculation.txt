@@ -1,0 +1,8 @@
+# Key:matriculation
+### English Sentences
+E-1: The <u>matriculation</u> ceremony marks the beginning of a student's academic journey.
+E-2: After passing the entrance exam, she received a letter of <u>matriculation</u> from the university.
+
+### Japanese Translation
+J-1: <u>入学式</u>は学生の学問の旅の始まりを示しています。
+J-2: 入学試験に合格した後、彼女は大学から<u>入学通知書</u>を受け取りました。

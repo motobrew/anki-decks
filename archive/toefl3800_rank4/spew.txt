@@ -1,0 +1,8 @@
+# Key:spew
+### English Sentences
+E-1: The volcano began to <u>spew</u> hot lava and ash into the sky.
+E-2: The politician's speech was filled with hateful rhetoric, constantly <u>spewing</u> divisive language.
+
+### Japanese Translation
+J-1: 火山が熱い溶岩と灰を空に<u>噴出し始めました</u>。
+J-2: 政治家のスピーチは憎悪に満ちた言葉で<u>分断的な言葉を吐き出し続けていました</u>。

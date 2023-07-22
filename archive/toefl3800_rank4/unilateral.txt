@@ -1,0 +1,8 @@
+# Key:unilateral
+### English Sentences
+E-1: The company made a <u>unilateral</u> decision without consulting its employees.
+E-2: The leader's <u>unilateral</u> action caused discontent among the team members.
+
+### Japanese Translation
+J-1: 会社は従業員に相談せずに<u>一方的な</u>決定をしました。
+J-2: リーダーの<u>独断的な</u>行動がチームメンバーの不満を引き起こしました。

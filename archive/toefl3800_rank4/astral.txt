@@ -1,0 +1,8 @@
+# Key:astral
+### English Sentences
+E-1: She is known for her <u>astral</u> projection abilities. 
+E-2: The artist created a beautiful painting of an <u>astral</u> landscape.
+
+### Japanese Translation
+J-1: 彼女は彼女の <u>幽体離脱</u> の能力で知られています。
+J-2: その芸術家は <u>幽霊</u> の風景の美しい絵を描きました。

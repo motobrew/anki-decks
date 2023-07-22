@@ -1,0 +1,8 @@
+# Key:aseptic
+### English Sentences
+E-1: The hospital maintains an <u>aseptic</u> environment to prevent infections.
+E-2: The laboratory followed strict <u>aseptic</u> techniques during the experiment.
+
+### Japanese Translation
+J-1: 病院は感染を防ぐため、<u>無菌の</u>環境を維持しています。
+J-2: 実験中、研究所は厳密な<u>無菌</u>技術を守りました。

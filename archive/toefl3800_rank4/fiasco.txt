@@ -1,0 +1,8 @@
+# Key:fiasco
+### English Sentences
+E-1: The team's plan to launch the new product turned into a <u>fiasco</u>.
+E-2: The comedian's performance at the comedy club was a total <u>fiasco</u>.
+
+### Japanese Translation
+J-1: チームの新製品の発売計画は<u>大失敗に終わりました</u>。
+J-2: そのコメディアンの漫才は、コメディクラブでは<u>完全な失敗だった</u>。

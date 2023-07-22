@@ -1,0 +1,8 @@
+# Key:mollusk
+### English Sentences
+E-1: The <u>mollusk</u> left behind a trail of slime as it moved.
+E-2: The chef prepared a delicious dish using fresh <u>mollusk</u>.
+
+### Japanese Translation
+J-1: 軌跡を残しながら<u>軟体動物</u>が移動しました。
+J-2: シェフは新鮮な<u>軟体動物</u>を使って美味しい料理を作りました。

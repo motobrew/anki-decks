@@ -1,0 +1,8 @@
+# Key:interdict
+### English Sentences
+E-1: The government issued an <u>interdict</u> on the sale of tobacco products.
+E-2: The court imposed an <u>interdict</u> to prevent the company from disclosing confidential information.
+
+### Japanese Translation
+J-1: 政府はたばこ製品の販売に<u>差し止め</u>を発令しました。
+J-2: 裁判所は会社が機密情報を公開しないよう<u>差し止め</u>を課しました。

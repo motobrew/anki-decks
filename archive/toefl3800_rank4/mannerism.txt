@@ -1,0 +1,8 @@
+# Key:mannerism
+### English Sentences
+E-1: He has a <u>mannerism</u> of tapping his foot when he's nervous.
+E-2: Her constant head nodding is a <u>mannerism</u> that annoys others.
+
+### Japanese Translation
+J-1: 彼は緊張すると足を踏み鳴らす<u>習慣</u>があります。
+J-2: 彼女がいつも頷くことは他の人をイライラさせる<u>マナー</u>です。

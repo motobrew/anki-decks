@@ -1,0 +1,8 @@
+# Key:proclamation
+### English Sentences
+E-1: The mayor made a <u>proclamation</u> declaring it a national holiday.
+E-2: The company issued a <u>proclamation</u> announcing its new policies.
+
+### Japanese Translation
+J-1: 市長はそれを国民の祝日とする<u>宣言</u>を行いました。
+J-2: その会社は新しい方針を発表する<u>布告</u>を出しました。

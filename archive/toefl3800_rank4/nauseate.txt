@@ -1,0 +1,8 @@
+# Key:nauseate
+### English Sentences
+E-1: The smell of the trash made me <u>nauseated</u> and sickened.
+E-2: Watching the graphic horror movie scene made me feel <u>nauseated</u> and queasy.
+
+### Japanese Translation
+J-1: ゴミのにおいで私は<u>吐き気を催し</u>、むかつきました。
+J-2: グロテスクなホラー映画のシーンを見て吐き気を感じました。

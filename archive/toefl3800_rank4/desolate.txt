@@ -1,0 +1,8 @@
+# Key:desolate
+### English Sentences
+E-1: The abandoned house was <u>desolate</u> and overgrown with weeds.
+E-2: After the disaster, the city was left <u>desolate</u> and devoid of life.
+
+### Japanese Translation
+J-1: その廃屋は<u>廃墟となって</u>草木に覆われていました。
+J-2: 災害後、その街は無人で人の気配がない<u>荒れ果てた</u>状態でした。

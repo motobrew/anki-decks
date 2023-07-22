@@ -1,0 +1,8 @@
+# Key:incumbent
+### English Sentences
+E-1: The <u>incumbent</u> mayor was reelected for another term.
+E-2: The <u>incumbent</u> company has a strong hold on the market.
+
+### Japanese Translation
+J-1: <u>現職の</u>市長が再選され、もう1期務めることになった。
+J-2: <u>優勢の</u>企業が市場を独占している。

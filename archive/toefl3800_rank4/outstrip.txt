@@ -1,0 +1,8 @@
+# Key:outstrip
+### English Sentences
+E-1: The demand for renewable energy will <u>outstrip</u> the supply in the near future.
+E-2: The company's success continues to <u>outstrip</u> its competitors in the market.
+
+### Japanese Translation
+J-1: 近い将来において、再生可能エネルギーの需要は供給を<u>大きく上回る</u>でしょう。
+J-2: その会社の成功は市場での競合他社を<u>常に上回り続けています</u>。

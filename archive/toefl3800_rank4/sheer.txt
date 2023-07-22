@@ -1,0 +1,8 @@
+# Key:sheer
+### English Sentences
+E-1: The storm brought a <u>sheer</u> amount of destruction to the town.
+E-2: The acrobat amazed the audience with his <u>sheer</u> talent and skill.
+
+### Japanese Translation
+J-1: 嵐が町に<u>まったくの</u>破壊をもたらしました。
+J-2: 曲芸師は、その<u>卓越した</u>才能と技術で観客を驚かせました。

@@ -1,0 +1,8 @@
+# Key:lag
+### English Sentences
+E-1: There was a <u>lag</u> in the video playback.  
+E-2: The team is experiencing a <u>lag</u> in their performance.  
+
+### Japanese Translation
+J-1: 動画の再生に<u>遅延</u>がありました。  
+J-2: チームのパフォーマンスに<u>停滞</u>があります。

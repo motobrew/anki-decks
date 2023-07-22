@@ -1,0 +1,8 @@
+# Key:inflammation
+### English Sentences
+E-1: The doctor prescribed medication to reduce the <u>inflammation</u> in my knee.
+E-2: The intense workout caused <u>inflammation</u> in my muscles, making them sore.
+
+### Japanese Translation
+J-1: 医師は私の膝の<u>炎症</u>を軽減するために薬を処方しました。
+J-2: 強烈なワークアウトで筋肉に<u>炎症</u>が起こり、痛みが生じました。

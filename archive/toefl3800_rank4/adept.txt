@@ -1,0 +1,8 @@
+# Key:adept
+### English Sentences
+E-1: She is an <u>adept</u> at playing the piano.
+E-2: He became <u>adept</u> at solving difficult math problems.
+
+### Japanese Translation
+J-1: 彼女はピアノを演奏するのに<u>熟達しています</u>。
+J-2: 彼は難しい数学の問題を<u>巧みに解くことができるようになりました</u>。

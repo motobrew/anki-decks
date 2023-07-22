@@ -1,0 +1,8 @@
+# Key:malice
+### English Sentences
+E-1: There was no <u>malice</u> behind her words; she was just joking.
+E-2: He acted with <u>malice</u> when he spread false rumors about her.
+
+### Japanese Translation
+J-1: 彼女の言葉には<u>悪意</u>はなく、ただ冗談を言っていただけです。
+J-2: 彼が彼女についての嘘の噂を広めた時、彼は<u>悪意</u>を持って行動しました。

@@ -1,0 +1,8 @@
+# Key:grimace
+### English Sentences
+E-1: He couldn't hide his <u>grimace</u> when he tasted the bitter medicine.
+E-2: The news of the failed experiment made her <u>grimace</u> in disappointment.
+
+### Japanese Translation
+J-1: 彼は苦い薬を飲んだ時に<u>しかめっ面</u>を隠せなかった。
+J-2: 失敗した実験の知らせに彼女は<u>がっかりしてしかめっ面</u>をした。

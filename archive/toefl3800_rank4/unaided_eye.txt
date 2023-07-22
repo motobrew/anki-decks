@@ -1,0 +1,8 @@
+# Key:unaided eye
+### English Sentences
+E-1: The planets are visible to the <u>unaided eye</u> on a clear night.
+E-2: The details of the painting can only be seen with the <u>aid of a microscope</u>.
+
+### Japanese Translation
+J-1: 晴れた夜には、惑星は<u>肉眼で</u>見ることができます。
+J-2: 絵の細部は<u>顕微鏡の助けを借りて</u>のみ見ることができます。

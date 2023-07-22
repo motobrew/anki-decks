@@ -1,0 +1,8 @@
+# Key:grandiloquence
+### English Sentences
+E-1: His speech was filled with <u>grandiloquence</u> and empty promises.
+E-2: The politician used <u>grandiloquence</u> to impress the audience but lacked substance.
+
+### Japanese Translation
+J-1: 彼の演説は<u>大言壮語</u>と空虚な約束に満ちていました。
+J-2: 政治家は観客を感銘させるために<u>大言壮語</u>を使いましたが、中身がなかった。

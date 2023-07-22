@@ -1,0 +1,8 @@
+# Key:euphemism
+### English Sentences
+E-1: He used the <u>euphemism</u> "passed away" to avoid saying "died".
+E-2: Calling it a "correction facility" was just a <u>euphemism</u> for prison.
+
+### Japanese Translation
+J-1: 彼は「死亡」と言うことを避けるために、「他界」という<u>婉曲表現</u>を使った。
+J-2: 「更生施設」と呼ぶことは、刑務所の<u>婉曲表現</u>に過ぎなかった。

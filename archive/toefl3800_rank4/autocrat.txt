@@ -1,0 +1,8 @@
+# Key:autocrat
+### English Sentences
+E-1: The ruler's actions were that of an <u>autocrat</u>, with no regard for democracy.
+E-2: The company is run by an <u>autocrat</u> who makes all decisions unilaterally.
+
+### Japanese Translation
+J-1: 君主の行動は<u>独裁者</u>のそれであり、民主主義を無視していました。
+J-2: その会社は一人で全ての決定を下す<u>専制君主</u>によって経営されています。

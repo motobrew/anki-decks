@@ -1,0 +1,8 @@
+# Key:harrow
+### English Sentences
+E-1: The news of her sudden passing <u>harrows</u> my heart.
+E-2: The harrowing movie left the audience in a state of shock.
+
+### Japanese Translation
+J-1: 彼女の突然の逝去の知らせが私の心を<u>苦しめます</u>。
+J-2: その胸がつかえるような映画は、観客をショック状態にした。

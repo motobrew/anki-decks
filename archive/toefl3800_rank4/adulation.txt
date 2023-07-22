@@ -1,0 +1,8 @@
+# Key:adulation
+### English Sentences
+E-1: The actor was showered with <u>adulation</u> from his fans.
+E-2: The politician basked in the <u>adulation</u> of the crowd after his speech.
+
+### Japanese Translation
+J-1: 俳優はファンからの<u>賞賛</u>を浴びました。
+J-2: 政治家は演説後、観衆の<u>称賛</u>に浸りました。

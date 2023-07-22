@@ -1,0 +1,8 @@
+# Key:moat
+### English Sentences
+E-1: The castle was surrounded by a wide <u>moat</u> for defense.
+E-2: The CEO built a <u>moat</u> of patents to protect the company's intellectual property.
+
+### Japanese Translation
+J-1: その城は防御のために広い<u>堀</u>に囲まれていました。
+J-2: CEOは知的財産を守るために特許の<u>壁</u>を築きました。

@@ -1,0 +1,8 @@
+# Key:nucleotide
+### English Sentences
+E-1: The <u>nucleotide</u> is the basic building block of DNA.
+E-2: Mutations in the <u>nucleotide</u> sequence can cause genetic disorders.
+
+### Japanese Translation
+J-1: <u>ヌクレオチド</u>はDNAの基本的な構成要素です。
+J-2: <u>ヌクレオチド</u>の配列の突然変異は遺伝性疾患を引き起こすことがあります。

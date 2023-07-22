@@ -1,0 +1,8 @@
+# Key:senile
+### English Sentences
+E-1: My grandmother is becoming <u>senile</u> and often forgets names.
+E-2: The old man's <u>senile</u> behavior confused his family.
+
+### Japanese Translation
+J-1: 私の祖母は<u>老人性の認知症</u>になり、よく名前を忘れます。
+J-2: 老人の<u>老いぼれた</u>行動が家族を困惑させました。

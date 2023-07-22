@@ -1,0 +1,8 @@
+# Key:rococo
+### English Sentences
+E-1: The room was adorned with elaborate <u>rococo</u> furniture and decorations.
+E-2: Her writing style is often described as <u>rococo</u>, with excessive ornamentation.
+
+### Japanese Translation
+J-1: その部屋は洗練された<u>ロココ</u>の家具や装飾品で飾られていました。
+J-2: 彼女の文章スタイルはしばしば<u>ロココ</u>と形容され、過剰な装飾が特徴です。

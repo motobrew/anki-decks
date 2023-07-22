@@ -1,0 +1,8 @@
+# Key:auxiliary
+### English Sentences
+E-1: She served as an <u>auxiliary</u> nurse in the hospital.
+E-2: I need an <u>auxiliary</u> power source for my laptop.
+
+### Japanese Translation
+J-1: 彼女は病院で<u>補助の</u>看護師として働いた。
+J-2: ノートパソコンに<u>予備の</u>電源が必要です。

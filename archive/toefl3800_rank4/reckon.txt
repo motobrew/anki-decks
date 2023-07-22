@@ -1,0 +1,8 @@
+# Key:reckon
+### English Sentences
+E-1: I <u>reckon</u> we should leave early to avoid traffic.
+E-2: She <u>reckoned</u> that it would rain, so she brought an umbrella.
+
+### Japanese Translation
+J-1: 交通渋滞を避けるために、私たちは早めに出発すべきだと<u>思います</u>。
+J-2: 彼女は雨が降るだろうと<u>予測して</u>、傘を持ってきました。

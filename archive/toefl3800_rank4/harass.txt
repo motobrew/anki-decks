@@ -1,0 +1,8 @@
+# Key:harass
+### English Sentences
+E-1: She filed a complaint against her coworker for <u>harassment</u>.
+E-2: The protesters were chanting and <u>harassing</u> the passersby.
+
+### Japanese Translation
+J-1: 彼女は同僚に<u>嫌がらせ</u>で訴えを提起しました。
+J-2: デモ隊は掛け声をかけて通行人を<u>いやがらせ</u>していました。

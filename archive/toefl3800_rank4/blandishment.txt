@@ -1,0 +1,8 @@
+# Key:blandishment
+### English Sentences
+E-1: The politician used <u>blandishments</u> to win the support of the voters.
+E-2: She was unswayed by his <u>blandishments</u> and rejected his offer.
+
+### Japanese Translation
+J-1: 政治家は有権者の支持を得るために<u>お世辞</u>を使った。
+J-2: 彼女は彼の<u>お世辞</u>に心を動かされず、彼の申し出を断った。

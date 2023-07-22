@@ -1,0 +1,8 @@
+# Key:bilateral
+### English Sentences
+E-1: They signed a <u>bilateral</u> trade agreement to boost economic cooperation.
+E-2: The two countries engaged in <u>bilateral</u> negotiations to resolve the dispute.
+
+### Japanese Translation
+J-1: 両国は経済協力を促進するために<u>双方向の</u>貿易協定を締結しました。
+J-2: その2つの国は紛争を解決するために<u>双方向の</u>交渉に参加しました。

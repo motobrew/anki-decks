@@ -1,0 +1,8 @@
+# Key:caption
+### English Sentences
+E-1: The <u>caption</u> under the photo provided a brief description.
+E-2: She always adds a witty <u>caption</u> to her Instagram posts.
+
+### Japanese Translation
+J-1: 写真の<u>キャプション</u>には短い説明が記載されていました。
+J-2: 彼女はいつもInstagramの投稿に面白い<u>キャプション</u>を付け加えます。

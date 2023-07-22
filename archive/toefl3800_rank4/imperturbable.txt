@@ -1,0 +1,8 @@
+# Key:imperturbable
+### English Sentences
+E-1: Despite the chaos around her, she remained <u>imperturbable</u> and focused on her work.
+E-2: The teacher's <u>imperturbable</u> demeanor helped to calm down the rowdy students.
+
+### Japanese Translation
+J-1: 彼女は周囲の混乱にもかかわらず、冷静であり仕事に集中していました。
+J-2: 先生の平静な態度がやんちゃな生徒たちを落ち着かせるのに役立ちました。

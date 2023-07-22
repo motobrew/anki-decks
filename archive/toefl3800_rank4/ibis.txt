@@ -1,0 +1,8 @@
+# Key:ibis
+### English Sentences
+E-1: The <u>ibis</u> symbolizes peace and tranquility in many cultures.
+E-2: The <u>ibis</u> gracefully took flight, soaring through the sky.
+
+### Japanese Translation
+J-1: イビスは多くの文化で平和と静けさを象徴しています。
+J-2: イビスは優雅に飛び立ち、空を舞いました。

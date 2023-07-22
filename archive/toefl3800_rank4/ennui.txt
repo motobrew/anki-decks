@@ -1,0 +1,8 @@
+# Key:ennui
+### English Sentences
+E-1: She often experiences a sense of <u>ennui</u> during long, tedious meetings.
+E-2: Their relationship has lost its spark, resulting in a constant feeling of <u>ennui</u>.
+
+### Japanese Translation
+J-1: 彼女は長い退屈な会議中に<u>倦怠感</u>をよく感じます。
+J-2: 彼らの関係には輝きが失われ、常に<u>倦怠感</u>を感じています。

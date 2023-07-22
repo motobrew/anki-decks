@@ -1,0 +1,8 @@
+# Key:glandular
+### English Sentences
+E-1: She is always complaining about her <u>glandular</u> problem.
+E-2: The doctor diagnosed him with a <u>glandular</u> disorder.
+
+### Japanese Translation
+J-1: 彼女はいつも自分の<u>内分泌腺の</u>問題について文句を言っています。
+J-2: 医師は彼に<u>内分泌腺の</u>障害を診断しました。

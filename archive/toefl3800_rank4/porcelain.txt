@@ -1,0 +1,8 @@
+# Key:porcelain
+### English Sentences
+E-1: Her delicate beauty is like <u>porcelain</u>, fragile and exquisite.
+E-2: The tea set was made of <u>porcelain</u>, decorated with intricate patterns.
+
+### Japanese Translation
+J-1: 彼女の繊細な美しさは、<u>磁器</u>のように壊れやすく、優雅です。
+J-2: そのティーセットは<u>磁器</u>でできており、複雑な模様が描かれていました。

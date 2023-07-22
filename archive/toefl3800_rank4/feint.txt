@@ -1,0 +1,8 @@
+# Key:feint
+### English Sentences
+E-1: He <u>feinted</u> to the left and then quickly changed direction.
+E-2: The boxer made a quick <u>feint</u> to distract his opponent.
+
+### Japanese Translation
+J-1: 彼は左に<uふりむいた</u>後、急速に方向を変えました。
+J-2: ボクサーは相手を誤魔化すために素早い<u>フェイント</u>を使いました。

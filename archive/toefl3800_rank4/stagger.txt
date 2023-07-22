@@ -1,0 +1,8 @@
+# Key:stagger
+### English Sentences
+E-1: The news of his sudden resignation <u>staggered</u> everyone in the office.
+E-2: The company's unexpected financial loss <u>staggered</u> investors.
+
+### Japanese Translation
+J-1: 彼の突然の辞任のニュースでオフィスのみんなが<u>驚き</u>ました。
+J-2: 会社の予想外の財務損失が投資家たちを<u>動揺させました</u>。

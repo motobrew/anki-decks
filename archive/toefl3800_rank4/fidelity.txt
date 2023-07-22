@@ -1,0 +1,8 @@
+# Key:fidelity
+### English Sentences
+E-1: The couple's <u>fidelity</u> to each other was unwavering throughout their lives.
+E-2: The photographer captured the <u>fidelity</u> of the colors in the sunset perfectly.
+
+### Japanese Translation
+J-1: そのカップルは生涯を通じてお互いの<u>忠誠心</u>が揺るぎないものでした。
+J-2: 写真家は夕焼けの色の<u>忠実な再現性</u>を完璧に捉えました。

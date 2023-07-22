@@ -1,0 +1,8 @@
+# Key:segmentation
+### English Sentences
+E-1: The market <u>segmentation</u> allowed us to target specific customer groups.
+E-2: The <u>segmentation</u> of the newspaper made it easy to find the sports section.
+
+### Japanese Translation
+J-1: 市場の<u>セグメンテーション</u>により、特定の顧客グループをターゲットにできました。
+J-2: 新聞の<u>セグメンテーション</u>により、スポーツセクションを簡単に見つけることができました。

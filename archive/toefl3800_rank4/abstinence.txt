@@ -1,0 +1,8 @@
+# Key:abstinence
+### English Sentences
+E-1: He practiced <u>abstinence</u> and didn't eat any dessert after dinner.
+E-2: The doctor advised <u>abstinence</u> from alcohol to improve his health.
+
+### Japanese Translation
+J-1: 彼は食事後、デザートを<u>控える</u>ように練習しました。
+J-2: 医者は彼の健康を改善するため、アルコールの<u>禁止</u>を助言しました。

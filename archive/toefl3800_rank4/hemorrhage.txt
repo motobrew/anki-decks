@@ -1,0 +1,8 @@
+# Key:hemorrhage
+### English Sentences
+E-1: The patient experienced a severe <u>hemorrhage</u> after the surgery.
+E-2: The company suffered a financial <u>hemorrhage</u> due to mismanagement.
+
+### Japanese Translation
+J-1: 手術後、患者は重度の<u>出血</u>を経験しました。
+J-2: その会社は運営の不手際により、財政的な<u>出血</u>を被りました。

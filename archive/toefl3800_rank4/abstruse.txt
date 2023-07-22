@@ -1,0 +1,8 @@
+# Key:abstruse
+### English Sentences
+E-1: The lecture on quantum physics was so <u>abstruse</u> that I struggled to understand it.
+E-2: The professor's presentation on advanced mathematics was filled with <u>abstruse</u> terminology.
+
+### Japanese Translation
+J-1: 量子物理学の講義はとても<u>難解</u>で、理解するのに苦労しました。
+J-2: 教授の高度な数学のプレゼンテーションは<u>難解な</u>専門用語で満たされていました。

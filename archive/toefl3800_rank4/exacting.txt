@@ -1,0 +1,8 @@
+# Key:exacting
+### English Sentences
+E-1: The <u>exacting</u> standards of the competition made it challenging to win.
+E-2: He was an <u>exacting</u> boss, always demanding perfection from his employees.
+
+### Japanese Translation
+J-1: 競争の<u>厳しい</u>基準のため、勝つのは困難でした。
+J-2: 彼は<u>厳格な</u>上司で、常に従業員に完璧さを求めました。

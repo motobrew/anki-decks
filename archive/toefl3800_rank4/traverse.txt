@@ -1,0 +1,8 @@
+# Key:traverse
+### English Sentences
+E-1: We had to <u>traverse</u> a treacherous mountain range to reach our destination.
+E-2: The program allows you to <u>traverse</u> through different folders and files.
+
+### Japanese Translation
+J-1: 目的地に到達するために、危険な山岳地帯を<u>横断</u>しなければなりませんでした。
+J-2: そのプログラムでは、さまざまなフォルダやファイルを<u>横断</u>することができます。

@@ -1,0 +1,8 @@
+# Key:salutary
+### English Sentences
+E-1: The <u>salutary</u> effects of exercise on mental health are well documented.
+E-2: A <u>salutary</u> reminder to appreciate life's simple pleasures.
+
+### Japanese Translation
+J-1: 運動が精神的健康に与える<u>有益な</u>効果はよく知られています。
+J-2: 生活の簡単な喜びを感謝する<u>ための良い教訓</u>。

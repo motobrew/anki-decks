@@ -1,0 +1,8 @@
+# Key:array
+### English Sentences
+E-1: She wore an <u>array</u> of beautiful jewelry to the party.
+E-2: The store offers a wide <u>array</u> of clothing options.
+
+### Japanese Translation
+J-1: 彼女はパーティーに美しい宝石の<u>アレイ</u>を身に着けていました。
+J-2: その店舗ではさまざまな服の選択肢が<u>揃っています</u>。

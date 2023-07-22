@@ -1,0 +1,8 @@
+# Key:stumble
+### English Sentences
+E-1: I <u>stumbled</u> over my words during the presentation.
+E-2: She <u>stumbled</u> upon an old photo album while cleaning the attic.
+
+### Japanese Translation
+J-1: プレゼンの間に言葉に<u>つまずきました</u>。
+J-2: 屋根裏を掃除している最中に、彼女は古い写真アルバムに<u>偶然出くわしました</u>。

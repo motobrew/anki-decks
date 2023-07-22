@@ -1,0 +1,8 @@
+# Key:hue
+### English Sentences
+E-1: The artist used a variety of <u>hues</u> to create a vibrant painting.
+E-2: She sees life through rose-colored <u>hues</u>, always finding the positive.
+
+### Japanese Translation
+J-1: そのアーティストは、鮮やかな絵を作るためにさまざまな<u>色合い</u>を使いました。
+J-2: 彼女は常にポジティブな面を見つけるので、人生をローズカラーの<u>視点</u>で見ています。

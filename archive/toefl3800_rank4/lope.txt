@@ -1,0 +1,8 @@
+# Key:lope
+### English Sentences
+E-1: I saw a deer <u>lope</u> gracefully across the open field.
+E-2: He always seems to <u>lope</u> when he's in a hurry.
+
+### Japanese Translation
+J-1: 私は美しく<u>走る</u>鹿を広い野原で見ました。
+J-2: 彼はいつも急いでいる時に<u>歩きながら走る</u>ようです。

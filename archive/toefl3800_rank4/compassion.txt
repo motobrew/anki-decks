@@ -1,0 +1,8 @@
+# Key:compassion
+### English Sentences
+E-1: He showed <u>compassion</u> towards the homeless man by offering him food.
+E-2: The nurse's <u>compassion</u> was evident as she comforted the crying child.
+
+### Japanese Translation
+J-1: 彼は食べ物を提供することで、ホームレスの男性に<u>思いやり</u>を示しました。
+J-2: 泣いている子供を慰める中、看護師の<u>思いやり</u>が明らかでした。

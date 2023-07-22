@@ -1,0 +1,8 @@
+# Key:imminent
+### English Sentences
+E-1: An <u>imminent</u> storm warning was issued for the area.
+E-2: The arrival of the train was <u>imminent</u> as we heard the whistle.
+
+### Japanese Translation
+J-1: その地域に<u>近づいている</u>嵐の警報が発令されました。
+J-2: 列車の到着は、汽笛が鳴る<u>直前に迫っている</u>。

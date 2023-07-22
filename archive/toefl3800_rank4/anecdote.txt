@@ -1,0 +1,8 @@
+# Key:anecdote
+### English Sentences
+E-1: She shared an interesting <u>anecdote</u> about her encounter with a celebrity.
+E-2: He told a <u>anecdote</u> about his childhood that made everyone laugh.
+
+### Japanese Translation
+J-1: 彼女は有名人との出会いに関する興味深い<u>逸話</u>を共有しました。
+J-2: 彼は子供時代の<u>逸話</u>をみんなを笑わせるために話しました。

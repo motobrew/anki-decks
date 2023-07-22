@@ -1,0 +1,8 @@
+# Key:quarantine
+### English Sentences
+E-1: The government imposed a <u>quarantine</u> on travelers from high-risk countries.
+E-2: During the pandemic, many people were placed under <u>quarantine</u> to prevent the spread of the virus.
+
+### Japanese Translation
+J-1: 政府は高リスク国からの旅行者に<u>隔離措置</u>を課しました。
+J-2: パンデミックの間、多くの人々がウイルスの感染拡大を防ぐために<u>隔離</u>されました。

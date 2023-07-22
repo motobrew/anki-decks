@@ -1,0 +1,8 @@
+# Key:stigma
+### English Sentences
+E-1: There is still a <u>stigma</u> attached to mental health issues.
+E-2: People with tattoos often face social <u>stigma</u> and judgment.
+
+### Japanese Translation
+J-1: まだ心の健康の問題には<u>社会的な汚名</u>がついています。
+J-2: タトゥーを持つ人々はよく<u>社会的な偏見</u>や批判に直面します。

@@ -1,0 +1,8 @@
+# Key:anachronism
+### English Sentences
+E-1: Wearing a traditional kimono to a modern party would be an <u>anachronism</u>.
+E-2: The use of floppy disks in today's technology is considered an <u>anachronism</u>.
+
+### Japanese Translation
+J-1: 現代のパーティーに伝統的な着物を着ることは<u>時代遅れ</u>です。
+J-2: 今日のテクノロジーでフロッピーディスクを使うことは<u>時代錯誤</u>とされています。

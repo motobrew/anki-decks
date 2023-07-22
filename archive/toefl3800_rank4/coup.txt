@@ -1,0 +1,9 @@
+# Key:coup
+## Response
+### English Sentences
+E-1: The military staged a successful <u>coup</u> and overthrew the government.
+E-2: The rival company made a <u>coup</u> by poaching our top employee.
+
+### Japanese Translation
+J-1: 軍が成功した<u>クーデター</u>を起こし、政府を転覆させました。
+J-2: ライバル企業が我々のトップ社員を引き抜くことで<u>クーデター</u>を成し遂げた。

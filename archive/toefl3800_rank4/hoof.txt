@@ -1,0 +1,8 @@
+# Key:hoof
+### English Sentences
+E-1: He <u>hoofed it</u> to the bus stop so he wouldn't miss his ride.
+E-2: She <u>hoofed</u> the document over to her coworker for review.
+
+### Japanese Translation
+J-1: 彼はバス停に<u>急いで行った</u>ので、バスに乗り遅れないようにしました。
+J-2: 彼女は同僚に文書を<u>急いで渡しました</u>。

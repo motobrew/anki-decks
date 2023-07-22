@@ -1,0 +1,8 @@
+# Key:irrational number
+### English Sentences
+E-1: An <u>irrational number</u> is a number that cannot be expressed as a fraction.
+E-2: Pi is an example of an <u>irrational number</u> that goes on forever without repeating.
+
+### Japanese Translation
+J-1: <u>無理数</u>とは、分数で表すことができない数のことです。
+J-2: 円周率は、繰り返しを持たず無限に続く<u>無理数</u>の例です。

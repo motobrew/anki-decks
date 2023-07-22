@@ -1,0 +1,8 @@
+# Key:indebted
+### English Sentences
+E-1: I'm forever <u>indebted</u> to my parents for their support and guidance.
+E-2: She feels <u>indebted</u> to her mentor for helping her achieve her goals.
+
+### Japanese Translation
+J-1: 両親にはいつもサポートと指導に<u>お世話になっている</u>。
+J-2: 彼女は目標達成に彼女の指導者に<u>感謝している</u>。

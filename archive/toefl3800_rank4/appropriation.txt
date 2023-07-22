@@ -1,0 +1,8 @@
+# Key:appropriation
+### English Sentences
+E-1: Cultural <u>appropriation</u> is a controversial topic in the fashion industry.
+E-2: The artist faced criticism for the <u>appropriation</u> of traditional imagery in their work.
+
+### Japanese Translation
+J-1: ファッション業界では、文化の<u>模倣</u>は物議を醸しています。
+J-2: そのアーティストは、作品で伝統的なイメージの<u>借用</u>が批判されました。

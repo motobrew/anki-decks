@@ -1,0 +1,8 @@
+# Key:destitute
+### English Sentences
+E-1: Many people in the village are <u>destitute</u> and struggle to find food.
+E-2: After losing his job, he became <u>destitute</u> and had to live on the streets.
+
+### Japanese Translation
+J-1: 村の多くの人々は<u>困窮しており</u>、食べ物を見つけるのに苦労しています。
+J-2: 仕事を失った後、彼は<u>困窮して</u>街頭生活を余儀なくされました。

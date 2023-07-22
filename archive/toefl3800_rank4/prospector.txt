@@ -1,0 +1,8 @@
+# Key:prospector
+### English Sentences
+E-1: The prospector struck gold in the remote mountains of Alaska.
+E-2: The prospector tirelessly searched for valuable minerals in the desert.
+
+### Japanese Translation
+J-1: 探鉱者はアラスカの奥地で金を見つけました。
+J-2: 探鉱者は砂漠で貴重な鉱物を執拗に探しました。

@@ -1,0 +1,8 @@
+# Key:inequity
+### English Sentences
+E-1: There is an <u>inequity</u> in the distribution of wealth in this country.
+E-2: The company is working to address the <u>inequity</u> in pay between men and women.
+
+### Japanese Translation
+J-1: この国では富の配分に<u>不公平さ</u>があります。
+J-2: その会社は男女間の給与の<u>不公平さ</u>に取り組んでいます。

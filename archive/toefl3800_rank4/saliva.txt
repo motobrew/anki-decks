@@ -1,0 +1,8 @@
+# Key:saliva
+### English Sentences
+E-1: My mouth watered, and <u>saliva</u> pooled in anticipation of the delicious meal.
+E-2: He couldn't help but gag as the dentist suctioned out his excess <u>saliva</u>.
+
+### Japanese Translation
+J-1: 美味しい食事を楽しみに、口の中が水を鳴らし、<u>唾液</u>がたまりました。
+J-2: 彼は歯医者が過剰な<u>唾液</u>を吸い取るたびにゲップを我慢できませんでした。

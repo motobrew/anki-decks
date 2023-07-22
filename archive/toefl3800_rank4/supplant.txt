@@ -1,0 +1,8 @@
+# Key:supplant
+### English Sentences
+E-1: The new technology aims to <u>supplant</u> traditional fossil fuels.
+E-2: The internet has <u>supplanted</u> traditional sources of information like newspapers.
+
+### Japanese Translation
+J-1: 新しい技術は従来の化石燃料を<u>取って代わる</u>ことを目指しています。
+J-2: インターネットは新聞のような従来の情報源を<u>排除しました</u>。

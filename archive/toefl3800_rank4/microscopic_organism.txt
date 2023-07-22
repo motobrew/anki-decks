@@ -1,0 +1,8 @@
+# Key:microscopic organism
+### English Sentences
+E-1: The <u>microscopic organisms</u> in the pond are vital to the ecosystem.
+E-2: The scientist used a microscope to study a <u>microscopic organism</u>.
+
+### Japanese Translation
+J-1: 池の中の<u>微小生物</u>は生態系にとって重要です。
+J-2: 科学者は顕微鏡を使って<u>微小生物</u>を研究しました。

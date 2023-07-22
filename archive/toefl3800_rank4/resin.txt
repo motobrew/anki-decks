@@ -1,0 +1,8 @@
+# Key:resin
+### English Sentences
+E-1: I accidentally stepped on a <u>resin</u> and got it stuck to my shoe.
+E-2: The artist used a special type of <u>resin</u> to create a beautiful sculpture.
+
+### Japanese Translation
+J-1: 足で<u>樹脂</u>を踏みつけてしまい、靴にくっついてしまいました。
+J-2: その芸術家は美しい彫刻を作るために特殊な<u>樹脂</u>を使用しました。

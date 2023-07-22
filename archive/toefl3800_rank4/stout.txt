@@ -1,0 +1,8 @@
+# Key:stout
+### English Sentences
+E-1: He's a <u>stout</u> supporter of his favorite sports team.
+E-2: Despite her age, she has a <u>stout</u> heart and never gives up.
+
+### Japanese Translation
+J-1: 彼は自分のお気に入りのスポーツチームの<u>熱心な</u>支持者です。
+J-2: 年齢に関係なく、彼女は<u>強い</u>心を持ち、決して諦めません。

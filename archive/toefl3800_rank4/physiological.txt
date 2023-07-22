@@ -1,0 +1,8 @@
+# Key:physiological
+### English Sentences
+E-1: The stress of the situation had a <u>physiological</u> effect on her body.
+E-2: Exercise has several <u>physiological</u> benefits, such as improving cardiovascular health.
+
+### Japanese Translation
+J-1: 状況のストレスが彼女の身体に<u>生理的</u>な影響を与えた。
+J-2: 運動は心血管の健康を改善するなど、いくつかの<u>生理的</u>な利益があります。

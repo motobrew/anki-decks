@@ -1,0 +1,8 @@
+# Key:conjecture
+### English Sentences
+E-1: There is a <u>conjecture</u> that aliens may exist somewhere in the universe.
+E-2: The detective made a <u>conjecture</u> about the suspect's motive for the crime.
+
+### Japanese Translation
+J-1: 宇宙のどこかにエイリアンが存在するという<u>推測</u>があります。
+J-2: 刑事は犯人の犯行動機について<u>推測</u>を立てました。

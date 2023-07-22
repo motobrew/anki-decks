@@ -1,0 +1,8 @@
+# Key:deter
+### English Sentences
+E-1: The warning signs on the fence are meant to <u>deter</u> trespassers.
+E-2: The high price of the product may <u>deter</u> some customers from purchasing.
+
+### Japanese Translation
+J-1: 塀の警告標識は侵入者を<u>阻止する</u>ためにあります。
+J-2: その商品の高い価格は、一部の顧客が購入を<u>しないようにする</u>かもしれません。

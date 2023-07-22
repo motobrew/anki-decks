@@ -1,0 +1,8 @@
+# Key:encroachment
+### English Sentences
+E-1: The encroachment of technology has changed our daily lives.
+E-2: The construction project resulted in the encroachment on the neighboring property.
+
+### Japanese Translation
+J-1: テクノロジーの<u>侵入</u>で、私たちの日常生活が変わりました。
+J-2: 工事のプロジェクトが、隣の土地への<u>侵害</u>を引き起こしました。

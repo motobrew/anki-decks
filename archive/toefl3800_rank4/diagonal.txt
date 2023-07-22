@@ -1,0 +1,8 @@
+# Key:diagonal
+### English Sentences
+E-1: The cat took a <u>diagonal</u> route across the room.
+E-2: She cut the cake into <u>diagonal</u> slices for the party.
+
+### Japanese Translation
+J-1: 猫は部屋を<u>斜めに</u>横切りました。
+J-2: 彼女はパーティーのためにケーキを<u>対角線の</u>スライスに切りました。

@@ -1,0 +1,8 @@
+# Key:swine
+### English Sentences
+E-1: I'm not going to work with that dishonest <u>swine</u>.
+E-2: He's always hogging the spotlight, what a <u>swine</u>.
+
+### Japanese Translation
+J-1: あの不正直な<u>卑怯者</u>とは働かないつもりです。
+J-2: 彼はいつも注目を浴びるのを独り占めしている、まったく<u>最低な奴</u>だ。

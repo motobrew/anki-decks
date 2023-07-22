@@ -1,0 +1,8 @@
+# Key:erudite
+### English Sentences
+E-1: She is known for her <u>erudite</u> analysis of literature.
+E-2: The professor's lectures are always <u>erudite</u> and informative.
+
+### Japanese Translation
+J-1: 彼女は文学の<u>博識な</u>分析力で知られています。
+J-2: その教授の講義はいつも<u>博学で</u>情報に富んでいます。

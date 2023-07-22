@@ -1,0 +1,8 @@
+# Key:conduit
+### English Sentences
+E-1: The internet serves as a <u>conduit</u> for information and communication.
+E-2: The pipeline acts as a <u>conduit</u> for transporting oil and gas.
+
+### Japanese Translation
+J-1: インターネットは情報や通信の<u>媒体</u>として機能しています。
+J-2: パイプラインは石油やガスの<u>輸送経路</u>として機能しています。

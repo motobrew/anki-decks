@@ -1,0 +1,8 @@
+# Key:sinewy
+### English Sentences
+E-1: She had a <u>sinewy</u> physique from years of weightlifting.
+E-2: The rope was <u>sinewy</u> and strong, able to hold their weight.
+
+### Japanese Translation
+J-1: 彼女は長年のウェイトトレーニングによって<u>筋肉質</u>な体型をしていました。
+J-2: ロープは<u>たくましくて</u>強く、彼らの体重を支えることができました。

@@ -1,0 +1,8 @@
+# Key:distraught
+### English Sentences
+E-1: She was <u>distraught</u> when she heard the news of her father's death.
+E-2: The parents were <u>distraught</u> when they couldn't find their missing child.
+
+### Japanese Translation
+J-1: 彼女は、父の死の知らせを聞いて<u>深い悲しみに沈んでいました</u>。
+J-2: 親たちは、行方不明の子供が見つからなかったときに<u>心配で取り乱していました</u>。

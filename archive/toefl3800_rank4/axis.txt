@@ -1,0 +1,8 @@
+# Key:axis
+### English Sentences
+E-1: The Earth spins on its <u>axis</u> once every 24 hours.
+E-2: The two countries have been on opposite <u>axes</u> regarding trade policies.
+
+### Japanese Translation
+J-1: 地球は<u>軸</u>を中心に24時間ごとに回転しています。
+J-2: 両国は貿易政策に関して<u>異なる軸上に</u>あります。

@@ -1,0 +1,8 @@
+# Key:gestation period
+### English Sentences
+E-1: The <u>gestation period</u> for elephants is about 22 months.
+E-2: The <u>gestation period</u> for humans is approximately 9 months.
+
+### Japanese Translation
+J-1: ゾウの<u>妊娠期間</u>は約22か月です。
+J-2: 人間の<u>妊娠期間</u>はおおよそ9か月です。

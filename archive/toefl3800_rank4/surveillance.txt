@@ -1,0 +1,8 @@
+# Key:surveillance
+### English Sentences
+E-1: The government installed <u>surveillance</u> cameras in the city to improve security.
+E-2: The detective used <u>surveillance</u> to gather evidence against the suspect.
+
+### Japanese Translation
+J-1: 政府は都市に<u>監視</u>カメラを設置して、セキュリティを向上させました。
+J-2: 刑事は容疑者に対して証拠を集めるために<u>監視</u>を使用しました。

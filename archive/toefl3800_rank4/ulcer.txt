@@ -1,0 +1,8 @@
+# Key:ulcer
+### English Sentences
+E-1: The stress from work is causing an <u>ulcer</u> in my stomach.
+E-2: He developed an <u>ulcer</u> on his leg from an infected cut.
+
+### Japanese Translation
+J-1: 仕事のストレスが原因で、胃に<u>潰瘍</u>ができています。
+J-2: 彼は傷口が感染し、足に<u>潰瘍</u>ができました。

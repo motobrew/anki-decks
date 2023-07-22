@@ -1,0 +1,8 @@
+# Key:amalgamate
+### English Sentences
+E-1: After years of negotiation, the two companies decided to <u>amalgamate</u> into one.
+E-2: The chef decided to <u>amalgamate</u> different flavors to create a unique dish.
+
+### Japanese Translation
+J-1: 数年にわたる交渉の末、2社は1社に<u>合併</u>することを決定した。
+J-2: シェフは異なる味を<u>結びつけて</u>、独特の料理を作ることにしました。

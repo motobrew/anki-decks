@@ -1,0 +1,8 @@
+# Key:vicarious
+### English Sentences
+E-1: I live vicariously through my friend's travel photos.
+E-2: Watching a cooking show allows me to experience vicarious enjoyment.
+
+### Japanese Translation
+J-1: 友人の旅行写真を見て、私は<u>代理で生きているような気分</u>になります。
+J-2: 料理番組を見ることで、<u>他人の喜びを経験すること</u>ができます。

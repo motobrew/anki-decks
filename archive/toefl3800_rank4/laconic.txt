@@ -1,0 +1,8 @@
+# Key:laconic
+### English Sentences
+E-1: He is known for his <u>laconic</u> replies, never wasting words.
+E-2: The <u>laconic</u> CEO simply said, "We'll consider it."
+
+### Japanese Translation
+J-1: 彼は言葉を無駄にせず、<u>簡潔な</u>返事で知られています。
+J-2: 簡潔なCEOは単に「検討します」と言いました。

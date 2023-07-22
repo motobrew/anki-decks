@@ -1,0 +1,8 @@
+# Key:adorn
+### English Sentences
+E-1: The walls of the museum are <u>adorned</u> with beautiful paintings.
+E-2: She wore a necklace to <u>adorn</u> her outfit for the party.
+
+### Japanese Translation
+J-1: 博物館の壁は美しい絵画で<u>飾られています</u>。
+J-2: 彼女はパーティーのために<u>服を飾るために</u>ネックレスを身に着けました。

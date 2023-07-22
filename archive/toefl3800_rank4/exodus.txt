@@ -1,0 +1,8 @@
+# Key:exodus
+### English Sentences
+E-1: There was a mass <u>exodus</u> of employees after the company announced layoffs.
+E-2: The refugees made a dangerous <u>exodus</u> across the border to escape the war.
+
+### Japanese Translation
+J-1: 会社が解雇を発表した後、従業員たちが大量に<u>退職すること</u>となりました。
+J-2: 難民たちは戦争から逃れるために危険な<u>脱出</u>をしました。

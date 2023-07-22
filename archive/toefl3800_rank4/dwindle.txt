@@ -1,0 +1,8 @@
+# Key:dwindle
+### English Sentences
+E-1: The number of tourists visiting the island <u>dwindled</u> after the hurricane.
+E-2: Her savings <u>dwindled</u> as she continued to spend money on unnecessary things.
+
+### Japanese Translation
+J-1: ハリケーンの後、島を訪れる観光客の数は<u>減少しました</u>。
+J-2: 彼女は不必要な物にお金を使い続けたため、貯金が<u>少なくなりました</u>。

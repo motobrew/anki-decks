@@ -1,0 +1,8 @@
+# Key:fraternal society
+### English Sentences
+E-1: I joined a <u>fraternal society</u> to make lifelong friendships.
+E-2: The members of the <u>fraternal society</u> meet regularly to support each other.
+
+### Japanese Translation
+J-1: 一生の友情を築くため、私は<u>友愛組織</u>に入会しました。
+J-2: <u>友愛組織</u>のメンバーは定期的に集まり、お互いを支え合います。

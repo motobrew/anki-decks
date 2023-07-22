@@ -1,0 +1,8 @@
+# Key:phosphorus
+### English Sentences
+E-1: The scientist discovered a new method to extract <u>phosphorus</u> from plants.
+E-2: The presence of excess <u>phosphorus</u> in the water caused an algal bloom.
+
+### Japanese Translation
+J-1: その科学者は植物から<u>リン</u>を抽出する新しい方法を発見しました。
+J-2: 水中に過剰な<u>リン</u>が存在することで藻の大発生が引き起こされました。

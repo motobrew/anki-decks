@@ -1,0 +1,8 @@
+# Key:resurrect
+### English Sentences
+E-1: He managed to <u>resurrect</u> his failing business with a new marketing strategy.
+E-2: The artist was able to <u>resurrect</u> his career with a successful comeback album.
+
+### Japanese Translation
+J-1: 彼は新しいマーケティング戦略で失敗していたビジネスを<u>生き返らせること</u>に成功しました。
+J-2: そのアーティストは成功したカムバック・アルバムでキャリアを<u>甦らせること</u>ができました。

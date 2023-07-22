@@ -1,0 +1,8 @@
+# Key:transcribe
+### English Sentences
+E-1: The professor asked the students to <u>transcribe</u> the ancient manuscript.
+E-2: She hired a secretary to <u>transcribe</u> the audio recordings of her interviews.
+
+### Japanese Translation
+J-1: 教授は学生たちに古代の手稿を<u>書き写す</u>ように頼んだ。
+J-2: 彼女は秘書を雇って、インタビューの音声録音を<u>文字に起こす</u>ことにしました。

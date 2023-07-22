@@ -1,0 +1,8 @@
+# Key:vagrant
+### English Sentences
+E-1: I saw a <u>vagrant</u> wandering aimlessly on the streets.
+E-2: The wind carried a <u>vagrant</u> leaf across the park.
+
+### Japanese Translation
+J-1: 私は街でうろつく<u>浮浪者</u>を見かけました。
+J-2: 風が公園を通り抜け、<u>さまよう</u>一枚の葉を運びました。

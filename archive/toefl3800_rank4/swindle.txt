@@ -1,0 +1,8 @@
+# Key:swindle
+### English Sentences
+E-1: He <u>swindled</u> his friends out of their money with a fake investment scheme.
+E-2: The salesman tried to <u>swindle</u> the elderly couple by selling them a faulty product.
+
+### Japanese Translation
+J-1: 彼は友人たちからお金を<u>だまし取る</u>ために、偽の投資計画を立てました。
+J-2: そのセールスマンは、故障品を売って高齢の夫婦を<u>騙そうとしました</u>。

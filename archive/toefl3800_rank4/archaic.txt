@@ -1,0 +1,8 @@
+# Key:archaic
+### English Sentences
+E-1: The use of typewriters has become <u>archaic</u> in the digital age.
+E-2: The language used in Shakespeare's plays can seem <u>archaic</u> to modern readers.
+
+### Japanese Translation
+J-1: デジタル時代において、タイプライターの使用は<u>時代遅れ</u>となりました。
+J-2: シェイクスピアの劇で使われる言葉は、現代の読者にとって<u>古風</u>に感じられることがあります。

@@ -1,0 +1,8 @@
+# Key:abject
+### English Sentences
+E-1: The team's <u>abject</u> failure in the game was disappointing to watch.
+E-2: The homeless man lived in <u>abject</u> poverty, with no access to basic necessities.
+
+### Japanese Translation
+J-1: チームの<u>惨めな</u>試合の失敗は見ていてがっかりでした。
+J-2: ホームレスの男性は、基本的な必需品にアクセスすることもなく、<u>深刻な</u>貧困の中で生活していました。

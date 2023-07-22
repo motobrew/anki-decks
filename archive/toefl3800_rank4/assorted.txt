@@ -1,0 +1,8 @@
+# Key:assorted
+### English Sentences
+E-1: The bakery offers an <u>assorted</u> selection of pastries.
+E-2: She organized the books into <u>assorted</u> categories based on genre.
+
+### Japanese Translation
+J-1: パン屋は様々な種類のペストリーを提供しています。
+J-2: 彼女はジャンルに基づいて本を<u>さまざまな</u>カテゴリーに分類しました。

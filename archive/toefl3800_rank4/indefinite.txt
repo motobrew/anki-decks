@@ -1,0 +1,8 @@
+# Key:indefinite
+### English Sentences
+E-1: The <u>indefinite</u> wait for the test results was nerve-wracking.
+E-2: The company had an <u>indefinite</u> deadline for the project completion.
+
+### Japanese Translation
+J-1: テスト結果の<u>不確定な</u>待ち時間は神経をすり減らした。
+J-2: その会社はプロジェクト完了の<u>期限を決めていなかった</u>。

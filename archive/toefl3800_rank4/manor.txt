@@ -1,0 +1,8 @@
+# Key:manor
+### English Sentences
+E-1: The lord of the manor oversaw the management of the estate.
+E-2: The manor was filled with grandeur and spaciousness.
+
+### Japanese Translation
+J-1: 地主は地所の管理を監督しました。
+J-2: その屋敷は壮大さと広々とした空間で満たされていました。

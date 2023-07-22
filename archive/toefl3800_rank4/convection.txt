@@ -1,0 +1,8 @@
+# Key:convection
+### English Sentences
+E-1: The hot air rose in a <u>convection</u> current.
+E-2: Baking a cake in the oven requires the use of <u>convection</u> heat.
+
+### Japanese Translation
+J-1: 熱い空気が<u>対流</u>の流れで上昇した。
+J-2: オーブンでケーキを焼くには<u>対流</u>熱を使用する必要があります。

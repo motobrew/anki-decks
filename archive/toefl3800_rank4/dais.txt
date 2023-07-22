@@ -1,0 +1,8 @@
+# Key:dais
+### English Sentences
+E-1: The speaker stood on the <u>dais</u> to address the audience.
+E-2: The award ceremony took place on a grand <u>dais</u>.
+
+### Japanese Translation
+J-1: スピーカーは聴衆に向けて<u>演壇</u>に立ちました。
+J-2: 受賞式は壮大な<u>高台</u>で行われました。

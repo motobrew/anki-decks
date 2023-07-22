@@ -1,0 +1,8 @@
+# Key:luster
+### English Sentences
+E-1: The diamond had a brilliant <u>luster</u> that caught everyone's attention.
+E-2: Over time, the paint on the old car lost its <u>luster</u> and looked dull.
+
+### Japanese Translation
+J-1: そのダイヤモンドは輝かしい<u>光沢</u>を持ち、みんなの注意を引きました。
+J-2: 時間が経つにつれて、古い車の塗装は<u>艶</u>を失い、くすんで見えるようになりました。

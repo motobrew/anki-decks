@@ -1,0 +1,8 @@
+# Key:assuage
+### English Sentences
+E-1: The medicine helped <u>assuage</u> her headache. 
+E-2: His kind words did not <u>assuage</u> her worries.
+
+### Japanese Translation
+J-1: その薬は彼女の頭痛を<u>和らげる</u>のに役立ちました。
+J-2: 彼の優しい言葉は彼女の心配を<u>和らげること</u>ができませんでした。

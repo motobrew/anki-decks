@@ -1,0 +1,8 @@
+# Key:frenetic
+### English Sentences
+E-1: The <u>frenetic</u> pace of the city can be overwhelming at times.
+E-2: She moved through the crowd with <u>frenetic</u> energy, trying to catch the train.
+
+### Japanese Translation
+J-1: 街の<u>慌ただしい</u>ペースは時折圧倒的です。
+J-2: 彼女は<u>激しい</u>エネルギーで人ごみをかき分け、電車に乗ろうとしました。

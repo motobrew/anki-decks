@@ -1,0 +1,8 @@
+# Key:inkling
+### English Sentences
+E-1: I had no <u>inkling</u> that she was planning a surprise party for me.
+E-2: The detective didn't have an <u>inkling</u> of who the real culprit was.
+
+### Japanese Translation
+J-1: 彼女が私のためにサプライズパーティを計画しているとは<u>少しも気づいていませんでした</u>。
+J-2: 探偵は本当の犯人が誰か<u>全く見当がつかなかった</u>。

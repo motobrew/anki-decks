@@ -1,0 +1,8 @@
+# Key:scribble
+### English Sentences
+E-1: I found a <u>scribble</u> on the back of the receipt.
+E-2: My notes are just a messy <u>scribble</u> of ideas and reminders.
+
+### Japanese Translation
+J-1: レシートの裏に<u>なぐり書き</u>が見つかりました。
+J-2: 私のメモはアイデアやリマインダーの乱雑な<u>なぐり書き</u>です。

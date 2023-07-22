@@ -1,0 +1,8 @@
+# Key:rebuke
+### English Sentences
+E-1: The teacher gave him a <u>rebuke</u> for not completing his homework.
+E-2: She received a <u>rebuke</u> from her boss for arriving late to work.
+
+### Japanese Translation
+J-1: 先生は彼に宿題を終えなかったことに<u>叱責</u>を与えた。
+J-2: 彼女は遅刻したことで上司から<u>叱責</u>を受けた。

@@ -1,0 +1,8 @@
+# Key:confiscate
+### English Sentences
+E-1: The security officers <u>confiscated</u> the illegal drugs at the airport.
+E-2: The teacher <u>confiscated</u> the student's cell phone during class.
+
+### Japanese Translation
+J-1: セキュリティオフィサーたちは空港で違法薬物を<u>没収しました</u>。
+J-2: 先生は授業中に生徒の携帯電話を<u>取り上げました</u>。

@@ -1,0 +1,8 @@
+# Key:extemporaneous
+### English Sentences
+E-1: The speaker gave an <u>extemporaneous</u> speech without any preparation.
+E-2: The actor's <u>extemporaneous</u> improvisation added humor to the scene.
+
+### Japanese Translation
+J-1: スピーカーは準備なしで<u>即興の</u>スピーチを行いました。
+J-2: 俳優の<u>即興の</u>アドリブはシーンにユーモアを加えました。

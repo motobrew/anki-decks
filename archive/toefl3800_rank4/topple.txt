@@ -1,0 +1,8 @@
+# Key:topple
+### English Sentences
+E-1: The strong winds caused the tower to <u>topple</u> over.
+E-2: The scandal led to the politician's career <u>toppling</u> down. 
+
+### Japanese Translation
+J-1: 強風のため、塔が<u>崩れ落ちました</u>。
+J-2: スキャンダルが政治家のキャリアを<u>転落させました</u>。

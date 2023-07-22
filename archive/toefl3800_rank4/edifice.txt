@@ -1,0 +1,8 @@
+# Key:edifice
+### English Sentences
+E-1: The historic <u>edifice</u> stood tall in the heart of the city.
+E-2: The grand <u>edifice</u> of knowledge that is the library welcomed book lovers.
+
+### Japanese Translation
+J-1: 歴史的な<u>建造物</u>は、街の中心にそびえ立っていた。
+J-2: 図書館という知識の巨大な<u>建築物</u>は、本好きを迎え入れている。

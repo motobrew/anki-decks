@@ -1,0 +1,8 @@
+# Key:corrugated
+### English Sentences
+E-1: The <u>corrugated</u> cardboard was used to create a sturdy moving box.
+E-2: The roof was covered with <u>corrugated</u> metal sheets for added strength.
+
+### Japanese Translation
+J-1: 丈夫な移動用の箱を作るために<u>波形の</u>段ボールが使用されました。
+J-2: 屋根は追加の強度を持たせるために<u>波形の</u>金属シートで覆われていました。

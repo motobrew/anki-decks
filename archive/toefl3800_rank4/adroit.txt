@@ -1,0 +1,8 @@
+# Key:adroit
+### English Sentences
+E-1: She showed her <u>adroit</u> skills in solving the math problem.
+E-2: The surgeon's <u>adroit</u> hands performed the delicate surgery flawlessly.
+
+### Japanese Translation
+J-1: 彼女は数学の問題を解くときに<u>巧みな</u>技術を示しました。
+J-2: 外科医の<u>優れた</u>手術技術でデリケートな手術が完璧に行われました。

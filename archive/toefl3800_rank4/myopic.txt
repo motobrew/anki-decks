@@ -1,0 +1,8 @@
+# Key:myopic
+### English Sentences
+E-1: His <u>myopic</u> focus on short-term gains caused long-term problems.
+E-2: The company's <u>myopic</u> approach to expansion led to its downfall.
+
+### Japanese Translation
+J-1: 彼の短期的な利益への<u>近視眼的</u>な焦点が、長期的な問題を引き起こしました。
+J-2: その会社の拡大への<u>短視眼的</u>なアプローチが、その破滅につながった。

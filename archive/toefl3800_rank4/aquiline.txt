@@ -1,0 +1,8 @@
+# Key:aquiline
+### English Sentences
+E-1: Her <u>aquiline</u> nose gave her a sense of elegance and grace.
+E-2: The bird had an <u>aquiline</u> beak, perfect for hunting and capturing prey.
+
+### Japanese Translation
+J-1: 彼女の<u>鷲のような</u>鼻は彼女に優雅さと優美さを与えました。
+J-2: その鳥は、獲物を狩るのに適した<u>鷲のような</u>くちばしを持っていました。

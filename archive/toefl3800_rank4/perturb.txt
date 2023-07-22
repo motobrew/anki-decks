@@ -1,0 +1,8 @@
+# Key:perturb
+### English Sentences
+E-1: The sudden noise <u>perturbed</u> the sleeping baby.
+E-2: The unexpected news <u>perturbed</u> the entire community.
+
+### Japanese Translation
+J-1: 突然の音が寝ている赤ちゃんを<u>不安にさせました</u>。
+J-2: 思いもよらないニュースが全コミュニティを<u>動揺させました</u>。

@@ -1,0 +1,8 @@
+# Key:credo
+### English Sentences
+E-1: My <u>credo</u> is to always treat others with kindness and respect.
+E-2: His <u>credo</u> is to work hard and never give up on his goals.
+
+### Japanese Translation
+J-1: 私の<u>信条</u>は、常に他人を親切に尊重することです。
+J-2: 彼の<u>信条</u>は、一生懸命働き、目標を諦めないことです。

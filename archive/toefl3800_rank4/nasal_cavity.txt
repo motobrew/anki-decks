@@ -1,0 +1,8 @@
+# Key:nasal cavity
+### English Sentences
+E-1: I sneezed and felt a tickle in my <u>nasal cavity</u>.
+E-2: The doctor used a camera to examine the inside of my <u>nasal cavity</u>.
+
+### Japanese Translation
+J-1: わたしはくしゃみをして、鼻腔のかゆみを感じました。
+J-2: 医者はカメラを使って、私の鼻腔の内部を検査しました。

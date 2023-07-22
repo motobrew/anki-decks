@@ -1,0 +1,8 @@
+# Key:checkered
+### English Sentences
+E-1: The <u>checkered</u> past of the politician was revealed during the campaign.
+E-2: The company's financial statements were a <u>checkered</u> picture of their success.
+
+### Japanese Translation
+J-1: 政治家の<u>過去のあやしい</u>経歴がキャンペーン中に明らかになった。
+J-2: その会社の財務諸表は、彼らの成功の<u>様子を示していた</u>。

@@ -1,0 +1,8 @@
+# Key:hominid
+### English Sentences
+E-1: The discovery of a fossil provided evidence of ancient <u>hominid</u> existence.
+E-2: Scientists study the genetic makeup of modern humans to trace their <u>hominid</u> ancestry.
+
+### Japanese Translation
+J-1: 化石の発見により、古代の<u>ヒューマノイド</u>の存在が証明されました。
+J-2: 科学者は現代人の遺伝子構造を研究し、<u>ヒューマノイド</u>の祖先をたどります。

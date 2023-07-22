@@ -1,0 +1,8 @@
+# Key:unequivocal
+### English Sentences
+E-1: The company's CEO gave an <u>unequivocal</u> statement regarding the new policy.
+E-2: He expressed his <u>unequivocal</u> support for his friend during the difficult time.
+
+### Japanese Translation
+J-1: 会社のCEOは、新しい方針について<u>疑う余地のない</u>発言をしました。
+J-2: 彼は友人への<u>曖昧さのない</u>支持を表明しました。

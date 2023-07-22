@@ -1,0 +1,8 @@
+# Key:heyday
+### English Sentences
+E-1: In the <u>heyday</u> of disco, everyone loved to dance to the groovy beats.
+E-2: The company's <u>heyday</u> was in the 1990s when it dominated the market.
+
+### Japanese Translation
+J-1: ディスコの<u>全盛期</u>には、みんながグルービーなビートで踊るのが大好きでした。
+J-2: その会社の<u>全盛期</u>は、1990年代で市場を席巻していた時期です。

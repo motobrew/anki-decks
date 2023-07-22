@@ -1,0 +1,8 @@
+# Key:gastronomy
+### English Sentences
+E-1: I have always been interested in <u>gastronomy</u> and trying new meals.
+E-2: The city is known for its diverse <u>gastronomy</u> and culinary traditions.
+
+### Japanese Translation
+J-1: 私はずっと<u>美食術</u>と新しい料理を試すことに興味があります。
+J-2: その街は多様な<u>美食術</u>と料理の伝統で知られています。

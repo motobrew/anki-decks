@@ -1,0 +1,8 @@
+# Key:punitive
+### English Sentences
+E-1: The company implemented <u>punitive</u> measures to discourage late arrivals.
+E-2: The judge imposed a <u>punitive</u> fine on the convicted criminal.
+
+### Japanese Translation
+J-1: 会社は遅刻を des discourage するために<u>厳罰な</u>措置を取りました。
+J-2: 判事は有罪と判定された犯罪者に<u>厳罰な</u>罰金を課しました。

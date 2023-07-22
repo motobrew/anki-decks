@@ -1,0 +1,8 @@
+# Key:hack
+### English Sentences
+E-1: The software engineer found a clever <u>hack</u> to fix the bug.
+E-2: I need to find a <u>hack</u> to organize my messy room.
+
+### Japanese Translation
+J-1: ソフトウェアエンジニアは、そのバグを修正するための巧妙な<u>ハック</u>を見つけました。
+J-2: 散らかった部屋を整理するための<u>工夫</u>を見つける必要があります。

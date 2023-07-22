@@ -1,0 +1,8 @@
+# Key:ventral fin
+### English Sentences
+E-1: The shark's <u>ventral fin</u> helps it maintain balance while swimming.
+E-2: The dolphin gracefully glided through the water, its <u>ventral fin</u> moving in perfect synchronization.
+
+### Japanese Translation
+J-1: サメの<u>腹びれ</u>は、泳ぐ際にバランスを保つのに役立ちます。
+J-2: イルカは優雅に水中を滑っており、その<u>腹びれ</u>は完璧に同期して動いていました。

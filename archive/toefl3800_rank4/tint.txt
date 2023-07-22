@@ -1,0 +1,8 @@
+# Key:tint
+### English Sentences
+E-1: The <u>tint</u> on my car windows makes it difficult to see inside.
+E-2: She added a <u>tint</u> of orange to the painting to create warmth.
+
+### Japanese Translation
+J-1: 車の窓の<u>色合い</u>が中を見るのを困難にします。
+J-2: 彼女は絵にオレンジの<u>色調</u>を加えて温かみを出しました。

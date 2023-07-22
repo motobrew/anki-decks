@@ -1,0 +1,8 @@
+# Key:assimilate
+### English Sentences
+E-1: The immigrant children quickly <u>assimilated</u> into their new school community.
+E-2: It took some time for me to <u>assimilate</u> the new information.
+
+### Japanese Translation
+J-1: 移民の子供たちはすぐに新しい学校のコミュニティに<u>同化しました</u>。
+J-2: 新しい情報を<u>吸収するのに時間がかかりました</u>。

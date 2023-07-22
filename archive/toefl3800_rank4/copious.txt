@@ -1,0 +1,8 @@
+# Key:copious
+### English Sentences
+E-1: She took <u>copious</u> notes during the lecture to help her study later.
+E-2: The chef added <u>copious</u> amounts of seasoning to the dish for extra flavor.
+
+### Japanese Translation
+J-1: 彼女は後で勉強するために、講義中に<u>豊富な</u>ノートを取りました。
+J-2: シェフは料理に味を加えるために、<u>たくさんの</u>調味料を追加しました。

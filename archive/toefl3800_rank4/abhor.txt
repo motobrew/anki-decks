@@ -1,0 +1,8 @@
+# Key:abhor
+### English Sentences
+E-1: I <u>abhor</u> the taste of cilantro in food.
+E-2: She <u>abhorred</u> the idea of having to work on weekends.
+
+### Japanese Translation
+J-1: 食べ物に入っているコリアンダーの味が<u>大嫌いです</u>。
+J-2: 彼女は週末に働かなければならないという考えを<u>ひどく嫌いでした</u>。

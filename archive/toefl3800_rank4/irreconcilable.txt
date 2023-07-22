@@ -1,0 +1,8 @@
+# Key:irreconcilable
+### English Sentences
+E-1: The differences between them are irreconcilable, so they broke up.
+E-2: The two political parties have irreconcilable views on this issue.
+
+### Japanese Translation
+J-1: 彼らの間の違いは<u>調停不可能</u>なので、別れました。
+J-2: この問題について、2つの政党は<u>調整困難な</u>意見を持っています。

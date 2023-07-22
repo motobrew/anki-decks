@@ -1,0 +1,8 @@
+# Key:protozoa
+### English Sentences
+E-1: A <u> protozoa </u> is a single-celled organism found in water.
+E-2: The spread of diseases can be caused by <u> protozoa </u> in contaminated water.
+
+### Japanese Translation
+J-1: <u>原生動物</u>は水中に生息する単細胞生物です。
+J-2: 汚染された水中の<u>原生動物</u>によって病気が広がることがあります。

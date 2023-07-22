@@ -1,0 +1,8 @@
+# Key:transcend
+### English Sentences
+E-1: She had a wisdom that <u>transcended</u> her years.  
+E-2: The beauty of his music <u>transcends</u> language barriers.
+
+### Japanese Translation
+J-1: 彼女は年齢を<u>超越した</u>知恵を持っていた。
+J-2: 彼の音楽の美しさは言語の壁を<u>超えている</u>。

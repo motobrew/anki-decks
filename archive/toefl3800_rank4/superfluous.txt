@@ -1,0 +1,8 @@
+# Key:superfluous
+### English Sentences
+E-1: I bought a beautiful vase, but now it just seems superfluous.
+E-2: The extra decorations on the cake were unnecessarily superfluous.
+
+### Japanese Translation
+J-1: 綺麗な花瓶を買ったけど、今ではただ無駄に感じられる。
+J-2: ケーキの余分な装飾は不必要なくらいに過剰だった。

@@ -1,0 +1,8 @@
+# Key:lineage
+### English Sentences
+E-1: He takes great pride in his <u>lineage</u> and family history.
+E-2: The royal family's <u>lineage</u> can be traced back for centuries.
+
+### Japanese Translation
+J-1: 彼は自分の<u>家系</u>や家族の歴史を非常に誇りに思っています。
+J-2: 王室の<u>血統</u>は何世紀にもわたってさかのぼることができます。

@@ -1,0 +1,9 @@
+# Key:wag
+## Response
+### English Sentences
+E-1: My dog's tail would <u>wag</u> whenever he saw me.
+E-2: The children's excitement made their hands <u>wag</u> with joy.
+
+### Japanese Translation
+J-1: 私が近づくと、うちの犬はしっぽを<u>振ります</u>。
+J-2: 子供たちの興奮で、手が喜びで<u>揺れ動きます</u>。

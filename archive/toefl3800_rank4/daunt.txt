@@ -1,0 +1,8 @@
+# Key:daunt
+### English Sentences
+E-1: The daunting task of climbing Mount Everest made her nervous.
+E-2: He was not daunted by the difficult test and studied hard.
+
+### Japanese Translation
+J-1: エベレスト登頂という困難な課題が彼女を不安にさせました。
+J-2: 彼は難しい試験にひるまず、一生懸命勉強しました。

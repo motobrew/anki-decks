@@ -1,0 +1,8 @@
+# Key:propulsion
+### English Sentences
+E-1: The spaceship's <u>propulsion</u> system malfunctioned, causing it to crash.
+E-2: The new car model boasts a powerful <u>propulsion</u> engine.
+
+### Japanese Translation
+J-1: 宇宙船の<u>推進</u>システムが故障し、それが原因でクラッシュしました。
+J-2: 新しい車のモデルは、力強い<u>推進</u>エンジンを誇ります。

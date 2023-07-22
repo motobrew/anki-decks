@@ -1,0 +1,8 @@
+# Key:subliminal
+### English Sentences
+E-1: The ad featured <u>subliminal</u> messages that influenced viewers' behavior.
+E-2: The painting contained <u>subliminal</u> symbols that conveyed a hidden meaning.
+
+### Japanese Translation
+J-1: その広告には、視聴者の行動に影響を与えた<u>潜在的</u>なメッセージが含まれていました。
+J-2: その絵画には、隠された意味を伝える<u>潜在的</u>なシンボルが含まれていました。

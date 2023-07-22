@@ -1,0 +1,8 @@
+# Key:muse
+### English Sentences
+E-1: The painting was the <u>muse</u> for his latest novel.
+E-2: The beautiful scenery served as his <u>muse</u> for the song lyrics.
+
+### Japanese Translation
+J-1: その絵画は彼の最新の小説の<u>創作のきっかけ</u>となりました。
+J-2: 美しい風景が彼の歌詞の<u>創作のインスピレーション</u>となりました。

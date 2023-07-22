@@ -1,0 +1,8 @@
+# Key:thinker
+### English Sentences
+E-1: He was known as a deep <u>thinker</u> who pondered life's greatest questions.
+E-2: The professor was considered a brilliant <u>thinker</u> in the field of physics.
+
+### Japanese Translation
+J-1: 彼は人生の大きな問いについて考える深い<u>思考家</u>として知られていました。
+J-2: その教授は物理学の分野で優れた<u>思想家</u>と見なされていました。

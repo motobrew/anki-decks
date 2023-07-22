@@ -1,0 +1,8 @@
+# Key:indissoluble
+### English Sentences
+E-1: The bond between the two friends is <u>indissoluble</u>.
+E-2: The marriage ceremony symbolizes the <u>indissoluble</u> union of two people.
+
+### Japanese Translation
+J-1: 2人の友情は<u>解けない</u>絆で結ばれています。
+J-2: 結婚の儀式は、2人の人々の<u>不可解な</u>結びつきを象徴しています。

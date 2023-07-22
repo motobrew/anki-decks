@@ -1,0 +1,8 @@
+# Key:straddle
+### English Sentences
+E-1: She is able to <u>straddle</u> both the corporate and creative worlds.
+E-2: The new policy seeks to <u>straddle</u> the line between safety and freedom.
+
+### Japanese Translation
+J-1: 彼女は企業とクリエイティブの両方を<u>両立</u>しています。
+J-2: 新しい方針は安全と自由の間の線を<u>探る</u>ことを目指しています。

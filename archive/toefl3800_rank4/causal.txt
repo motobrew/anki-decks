@@ -1,0 +1,8 @@
+# Key:causal
+### English Sentences
+E-1: The <u>causal</u> connection between smoking and lung cancer is well-established.
+E-2: The police are investigating the <u>causal</u> relationship between the two crimes.
+
+### Japanese Translation
+J-1: 喫煙と肺がんの<u>因果関係</u>は十分に確立されています。
+J-2: 警察は二つの犯罪間の<u>因果関係</u>を調査しています。

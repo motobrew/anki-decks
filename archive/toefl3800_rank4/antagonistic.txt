@@ -1,0 +1,8 @@
+# Key:antagonistic
+### English Sentences
+E-1: The two politicians have always had an <u>antagonistic</u> relationship.
+E-2: The cat and dog are constantly <u>antagonistic</u> towards each other.
+
+### Japanese Translation
+J-1: その2人の政治家は常に<u>敵対的な</u>関係にあります。
+J-2: その猫と犬は常に互いに<u>敵意を持って</u>います。

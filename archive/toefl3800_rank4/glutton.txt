@@ -1,0 +1,8 @@
+# Key:glutton
+### English Sentences
+E-1: He's such a <u>glutton</u> for punishment, always taking on more than he can handle.
+E-2: The businessman is a <u>glutton</u> for success, constantly pursuing new opportunities.
+
+### Japanese Translation
+J-1: 彼は自己罰に<u>飢えている</u>ようで、いつも自分の扱える以上のことを引き受けています。
+J-2: そのビジネスマンは成功に<u>飢えている</u>ようで、常に新しい機会を追求しています。

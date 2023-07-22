@@ -1,0 +1,8 @@
+# Key:proxy
+### English Sentences
+E-1: I couldn't attend the meeting, so I sent a <u>proxy</u> in my place.
+E-2: He acts as a <u>proxy</u> for his boss when he's away.
+
+### Japanese Translation
+J-1: 私は会議に出席できなかったので、<u>代理人</u>を送りました。
+J-2: 彼は上司の代理として行動します。

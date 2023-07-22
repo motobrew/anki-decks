@@ -1,0 +1,8 @@
+# Key:charisma
+### English Sentences
+E-1: Her <u>charisma</u> and charm captivated the audience during her speech.
+E-2: The politician's <u>charisma</u> allowed him to connect with voters on a personal level.
+
+### Japanese Translation
+J-1: 彼女の<u>カリスマ</u>と魅力がスピーチ中に観客を魅了しました。
+J-2: その政治家の<u>カリスマ</u>によって、彼は選挙民と個人的につながることができました。

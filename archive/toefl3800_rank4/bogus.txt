@@ -1,0 +1,8 @@
+# Key:bogus
+### English Sentences
+E-1: The website claimed to be selling authentic designer handbags, but they turned out to be <u>bogus</u>.
+E-2: The company advertised a miracle weight loss pill, but it was just a <u>bogus</u> product.
+
+### Japanese Translation
+J-1: そのウェブサイトは本物のデザイナーハンドバッグを売っていると主張していましたが、実際は<ユートバグスです</u>。
+J-2: その企業は奇跡のダイエット薬を宣伝しましたが、それは単なる<ユートバグスな商品でした</u>。

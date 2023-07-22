@@ -1,0 +1,8 @@
+# Key:illicit
+### English Sentences
+E-1: <u>Illicit</u> drugs were found hidden in the suitcase at the airport.
+E-2: The company was involved in an <u>illicit</u> scheme to avoid paying taxes.
+
+### Japanese Translation
+J-1: 空港でスーツケースに隠されていた<u>違法</u>薬物が見つかりました。
+J-2: その会社は租税回避の<u>不正な</u>計画に関与していました。

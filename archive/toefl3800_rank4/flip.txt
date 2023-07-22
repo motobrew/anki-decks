@@ -1,0 +1,8 @@
+# Key:flip
+### English Sentences
+E-1: I'm going to <u>flip</u> a coin to decide who goes first.
+E-2: He tends to <u>flip</u> out whenever things don't go his way.
+
+### Japanese Translation
+J-1: 先攻を決めるために、コインを<u>投げます</u>。
+J-2: 彼は物事がうまくいかないと<u>イライラしてしまう</u>傾向があります。

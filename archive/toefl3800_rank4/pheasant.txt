@@ -1,0 +1,8 @@
+# Key:pheasant
+### English Sentences
+E-1: The hunter was proud to bring back a <u>pheasant</u> from his trip.
+E-2: The chef cooked a delicious meal using a <u>pheasant</u> as the main ingredient.
+
+### Japanese Translation
+J-1: 狩猟師は旅先から<u>キジ</u>を持ち帰って誇りに思っていました。
+J-2: シェフはメインの材料として<u>キジ</u>を使って美味しい料理を作りました。

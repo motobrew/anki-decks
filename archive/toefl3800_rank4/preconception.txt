@@ -1,0 +1,8 @@
+# Key:preconception
+### English Sentences
+E-1: My <u>preconception</u> about the city was completely wrong.
+E-2: It's important to approach new situations without <u>preconceptions</u>.
+
+### Japanese Translation
+J-1: 私の<u>先入観</u>は、その都市について完全に誤っていました。
+J-2: 新しい状況には、<u>先入観</u>なしで対処することが重要です。

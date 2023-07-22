@@ -1,0 +1,8 @@
+# Key:overrun
+### English Sentences
+E-1: The city was <u>overrun</u> with tourists during the summer season.
+E-2: The team was <u>overrun</u> by their opponents in the final match.
+
+### Japanese Translation
+J-1: 夏のシーズンにその市は観光客で<u>あふれかえりました</u>。
+J-2: チームは最終試合で相手に<u>圧倒されました</u>。

@@ -1,0 +1,9 @@
+# Key:grapple
+## Response
+### English Sentences
+E-1: He had to <u>grapple</u> with the difficult decision of choosing a career path.
+E-2: The company is currently <u>grappling</u> with financial challenges due to the pandemic.
+
+### Japanese Translation
+J-1: 彼は将来の道を選ぶという難しい決断に<u>苦慮</u>しなければならなかった。
+J-2: その会社は現在、パンデミックによる財政上の困難に<u>悩んでいる</u>。

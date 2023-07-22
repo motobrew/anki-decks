@@ -1,0 +1,8 @@
+# Key:mural painting
+### English Sentences
+E-1: The mural painting on the wall depicts the history of the town.
+E-2: The artist spent weeks creating a beautiful mural painting in the city.
+
+### Japanese Translation
+J-1: 壁に描かれた<u>壁画</u>はその町の歴史を描いています。
+J-2: アーティストは数週間かけて都市に美しい<u>壁画</u>を制作しました。

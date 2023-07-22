@@ -1,0 +1,8 @@
+# Key:recourse
+### English Sentences
+E-1: I had no <u>recourse</u> but to accept the decision.
+E-2: When faced with criticism, he had <u>recourse</u> to self-reflection.
+
+### Japanese Translation
+J-1: 私には決定を受け入れる<u>選択肢</u>しかありませんでした。
+J-2: 批判に直面した時、彼は自己反省を<u>頼りにしました</u>。

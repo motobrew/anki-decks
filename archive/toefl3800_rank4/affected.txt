@@ -1,0 +1,8 @@
+# Key:affected
+### English Sentences
+E-1: The heavy rain <u>affected</u> the road conditions, causing traffic jams.
+E-2: The unexpected news of his promotion really <u>affected</u> her mood.
+
+### Japanese Translation
+J-1: 激しい雨が<u>影響を与えて</u>道路の状況を悪化させ、交通渋滞を引き起こしました。
+J-2: 彼の昇進の予期せぬニュースは彼女の気分に本当に<u>影響を与えました</u>。

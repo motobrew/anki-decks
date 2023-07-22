@@ -1,0 +1,8 @@
+# Key:haughtiness
+### English Sentences
+E-1: Her <u>haughtiness</u> made it difficult for others to approach her.
+E-2: His constant <u>haughtiness</u> eventually led to his downfall.
+
+### Japanese Translation
+J-1: 彼女の<u>高慢さ</u>が他人が彼女に近づくのを難しくしました。
+J-2: 彼の絶え間ない<u>高慢さ</u>が結局彼の破滅を招きました。

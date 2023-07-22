@@ -1,0 +1,8 @@
+# Key:euphonious
+### English Sentences
+E-1: The symphony orchestra played a <u>euphonious</u> melody that soothed the audience.
+E-2: The sound of rain falling on the roof was <u>euphonious</u> and helped me relax.
+
+### Japanese Translation
+J-1: 交響楽団が奏でる<u>美しい</u>旋律が聴衆をなごませました。
+J-2: 屋根に降る雨の音は<u>心地よく</u>、私をリラックスさせてくれました。

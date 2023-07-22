@@ -1,0 +1,8 @@
+# Key:gratuity
+### English Sentences
+E-1: The waiter received a generous <u>gratuity</u> for his excellent service.
+E-2: It is customary to leave a small <u>gratuity</u> for the hotel housekeeping staff.
+
+### Japanese Translation
+J-1: ウェイターは素晴らしいサービスに対して、たくさんの<u>チップ</u>をもらいました。
+J-2: ホテルのハウスキーピングスタッフには、小さな<u>サービス料</u>を渡すのが一般的です。

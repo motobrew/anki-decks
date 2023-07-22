@@ -1,0 +1,8 @@
+# Key:confluence
+### English Sentences
+E-1: The <u>confluence</u> of factors led to her success in the competition.
+E-2: The <u>confluence</u> of different cultures in this city creates a diverse community.
+
+### Japanese Translation
+J-1: 様々な要因の<u>結合</u>が彼女の競技会での成功につながった。
+J-2: この街での異なる文化の<u>融合</u>が多様なコミュニティを作り出しています。

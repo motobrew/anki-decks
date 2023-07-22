@@ -1,0 +1,8 @@
+# Key:flagrant
+### English Sentences
+E-1: He made a <u>flagrant</u> violation of the rules during the game.
+E-2: The company's <u>flagrant</u> disregard for safety regulations resulted in a serious accident.
+
+### Japanese Translation
+J-1: 彼は試合中にルールを<u>明らかに破る</u>行為をしました。
+J-2: その会社の安全規則に対する<u>露骨な無視</u>が重大な事故を引き起こしました。

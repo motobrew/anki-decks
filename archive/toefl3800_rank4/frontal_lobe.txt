@@ -1,0 +1,8 @@
+# Key:frontal lobe
+### English Sentences
+E-1: The accident caused damage to her <u>frontal lobe</u>, affecting her speech and decision-making.
+E-2: The brain surgeon successfully removed a tumor from the patient's <u>frontal lobe</u>.
+
+### Japanese Translation
+J-1: 事故により彼女の<u>前頭葉</u>が損傷し、話すことや意思決定に影響を与えました。
+J-2: 脳外科医は患者の<u>前頭葉</u>から腫瘍を成功裏に摘出しました。

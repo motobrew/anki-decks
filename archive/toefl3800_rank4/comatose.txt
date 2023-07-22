@@ -1,0 +1,8 @@
+# Key:comatose
+### English Sentences
+E-1: She fell into a <u>comatose</u> state after the accident.
+E-2: The patient has been in a <u>comatose</u> condition for weeks.
+
+### Japanese Translation
+J-1: 事故後、彼女は<u>昏睡状態</u>に陥った。
+J-2: 患者は数週間間、<u>昏睡状態</u>にあります。

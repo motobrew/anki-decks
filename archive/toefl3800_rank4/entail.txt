@@ -1,0 +1,8 @@
+# Key:entail
+### English Sentences
+E-1: The new project will <u>entail</u> a lot of hard work and dedication.
+E-2: Buying a house <u>entails</u> saving money for a down payment.
+
+### Japanese Translation
+J-1: 新しいプロジェクトには、多くの努力と献身が<u>必要です</u>。
+J-2: 家を買うことは、頭金のためにお金を<u>貯めることを含みます</u>。

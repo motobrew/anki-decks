@@ -1,0 +1,9 @@
+# Key:debacle
+## Response
+### English Sentences
+E-1: The company's financial <u>debacle</u> led to bankruptcy.
+E-2: The team's performance in the last game was a complete <u>debacle</u>.
+
+### Japanese Translation
+J-1: 会社の財政的な<u>失敗</u>が破産につながりました。
+J-2: チームの前回の試合の成績は完全な<u>大失敗</u>でした。

@@ -1,0 +1,8 @@
+# Key:pageant
+### English Sentences
+E-1: She won the beauty <u>pageant</u> and was crowned Miss Universe.
+E-2: The school is organizing a talent <u>pageant</u> to showcase the students' skills.
+
+### Japanese Translation
+J-1: 彼女は美の<u>コンテスト</u>で優勝し、ミス・ユニバースに選ばれました。
+J-2: 学校は生徒の才能を披露するための才能の<u>大会</u>を企画しています。

@@ -1,0 +1,8 @@
+# Key:intoxicate
+### English Sentences
+E-1: The vibrant colors and lively atmosphere of the carnival <u>intoxicated</u> me.
+E-2: His beautiful voice and captivating performance <u>intoxicated</u> the audience.
+
+### Japanese Translation
+J-1: カーニバルの鮮やかな色と賑やかな雰囲気に<u>酔いしれていました</u>。
+J-2: 彼の美しい声と魅力的なパフォーマンスが観客を<u>魅了しました</u>。

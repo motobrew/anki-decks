@@ -1,0 +1,8 @@
+# Key:stammer
+### English Sentences
+E-1: She had a slight <u>stammer</u> when she was nervous.
+E-2: The politician tried to hide his <u>stammer</u> during the speech.
+
+### Japanese Translation
+J-1: 彼女は緊張するときにわずかな<u>どもり</u>がありました。
+J-2: 政治家はスピーチ中に<u>どもり</u>を隠そうとしました。

@@ -1,0 +1,9 @@
+# Key:gauche
+## Response
+### English Sentences
+E-1: He always says the <u>gauche</u> thing at the wrong time.
+E-2: Her <u>gauche</u> behavior embarrassed everyone at the party.
+
+### Japanese Translation
+J-1: 彼はいつも誤ったタイミングで<u>場違いなこと</u>を言います。
+J-2: 彼女の<i>ガウシュ</i>な振る舞いがパーティーのみんなを困らせました。

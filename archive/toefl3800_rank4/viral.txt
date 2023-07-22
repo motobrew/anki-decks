@@ -1,0 +1,8 @@
+# Key:viral
+### English Sentences
+E-1: The video went <u>viral</u> and gained millions of views overnight.
+E-2: The prank spread like wildfire and became <u>viral</u> in just a few hours.
+
+### Japanese Translation
+J-1: その動画は一晩で数百万回再生されて<u>バイラル</u>になりました。
+J-2: そのいたずらは数時間で広まり、わずかな時間で<u>バイラル</u>になりました。

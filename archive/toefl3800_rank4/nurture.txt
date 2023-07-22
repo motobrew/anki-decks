@@ -1,0 +1,8 @@
+# Key:nurture
+### English Sentences
+E-1: It's important to <u>nurture</u> your relationships with friends and family.
+E-2: Parents should provide a loving environment to <u>nurture</u> their child's development.
+
+### Japanese Translation
+J-1: 友人や家族との関係を<u>育てる</u>ことは重要です。
+J-2: 親は愛情のある環境を提供して、子供の成長を<u>育てる</u>べきです。

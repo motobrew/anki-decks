@@ -1,0 +1,8 @@
+# Key:devious
+### English Sentences
+E-1: He always has a <u>devious</u> plan up his sleeve.
+E-2: She used <u>devious</u> tactics to manipulate her way to the top.
+
+### Japanese Translation
+J-1: 彼はいつも<u>陰険な</u>計画を秘めています。
+J-2: 彼女は<u>巧妙な</u>手段を使ってトップに上り詰めました。

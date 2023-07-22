@@ -1,0 +1,8 @@
+# Key:transient
+#### English Sentences
+E-1: The <u>transient</u> beauty of a rainbow is always mesmerizing.
+E-2: She had a <u>transient</u> moment of doubt, but quickly regained her confidence.
+
+#### Japanese Translation
+J-1: 虹の<u>はかない</u>美しさはいつも魅了的です。
+J-2: 彼女は一瞬の<u>迷い</u>がありましたが、すぐに自信を取り戻しました。

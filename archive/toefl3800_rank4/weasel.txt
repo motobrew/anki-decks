@@ -1,0 +1,8 @@
+# Key:weasel
+### English Sentences
+E-1: She's such a <u>weasel</u>, always trying to manipulate others for her own gain.
+E-2: I don't trust him, he has a reputation for being a <u>weasel</u> in business deals.
+
+### Japanese Translation
+J-1: 彼女は本当に<u>悪辣な人</u>で、常に他人を利用しようとしています。
+J-2: 彼を信用していません、彼はビジネス取引で<u>ずる賢く</u>振る舞うことで評判があります。

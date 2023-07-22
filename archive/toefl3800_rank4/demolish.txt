@@ -1,0 +1,8 @@
+# Key:demolish
+### English Sentences
+E-1: The old building was <u>demolished</u> to make way for the new shopping mall.
+E-2: The storm <u>demolished</u> several houses in the neighborhood.
+
+### Japanese Translation
+J-1: 古い建物は<u>解体されました</u>。新しいショッピングモールのために。
+J-2: 嵐が近所の数軒の家を<u>壊しました</u>。

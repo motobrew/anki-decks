@@ -1,0 +1,8 @@
+# Key:affidavit
+### English Sentences
+E-1: She had to provide an <u>affidavit</u> as evidence in court.
+E-2: The witness signed an <u>affidavit</u> to testify to what she saw.
+
+### Japanese Translation
+J-1: 彼女は証拠として法廷に<u>証言書</u>を提出しなければならなかった。
+J-2: 目撃者は<u>証言書</u>に署名して、自分が見たことを証言しました。

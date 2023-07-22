@@ -1,0 +1,8 @@
+# Key:ferocity
+### English Sentences
+E-1: The lion attacked with <u>ferocity</u>, showing no mercy to its prey.
+E-2: The storm hit the coast with such <u>ferocity</u>, causing extensive damage.
+
+### Japanese Translation
+J-1: ライオンは容赦なく獲物に対して<u>獰猛さ</u>を発揮し襲いかかった。
+J-2: その嵐は<u>猛烈さ</u>を持って沿岸に襲い掛かり、大きな被害をもたらした。

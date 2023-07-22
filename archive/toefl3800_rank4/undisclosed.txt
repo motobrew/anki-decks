@@ -1,0 +1,8 @@
+# Key:undisclosed
+### English Sentences
+E-1: The company decided to keep the details of the deal <u>undisclosed</u>.
+E-2: The government is conducting an <u>undisclosed</u> investigation into the matter.
+
+### Japanese Translation
+J-1: 会社はその取引の詳細を<u>非公開</u>にすることを決めました。
+J-2: 政府はその件について<u>公表されていない</u>調査を行っています。

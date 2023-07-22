@@ -1,0 +1,8 @@
+# Key:brusque
+### English Sentences
+E-1: The customer service representative was <u>brusque</u> and unhelpful.
+E-2: He responded with a <u>brusque</u> "no" when asked for assistance.
+
+### Japanese Translation
+J-1: カスタマーサービスの担当者は<u>無愛想で</u>手助けをしてくれませんでした。
+J-2: 助けを求められると、彼は<u>無愛想な</u>"いいえ"と答えました。

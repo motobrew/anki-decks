@@ -1,0 +1,8 @@
+# Key:lure
+### English Sentences
+E-1: The flashy ads on the website were a <u>lure</u> for customers.
+E-2: He used his charming smile as a <u>lure</u> to get what he wanted.
+
+### Japanese Translation
+J-1: ウェブサイトの派手な広告は、顧客を<u>引き寄せるもの</u>でした。
+J-2: 彼は自分の魅力的な笑顔を<u>手段として使って</u>、自分の望みを叶えました。

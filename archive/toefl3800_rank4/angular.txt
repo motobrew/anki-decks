@@ -1,0 +1,8 @@
+# Key:angular
+### English Sentences
+E-1: The <u>angular</u> shape of the building stood out amongst the rest.
+E-2: She felt the <u>angular</u> force of the punch on her jaw.
+
+### Japanese Translation
+J-1: その建物の<u>角ばった</u>形状が他とは異なっていた。
+J-2: 彼女は顎に<u>角ばった</u>一撃の力を感じた。

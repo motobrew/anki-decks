@@ -1,0 +1,8 @@
+# Key:mixed breed
+### English Sentences
+E-1: She has a beautiful dog that is a <u>mixed breed</u>.
+E-2: They decided to adopt a <u>mixed breed</u> puppy from the shelter.
+
+### Japanese Translation
+J-1: 彼女は、<u>雑種犬</u>である綺麗な犬を飼っています。
+J-2: 彼らは、保護施設から<u>雑種</u>の子犬を飼うことに決めました。

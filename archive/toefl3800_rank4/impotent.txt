@@ -1,0 +1,8 @@
+# Key:impotent
+### English Sentences
+E-1: His arguments were <u>impotent</u> in convincing the jury of his innocence.
+E-2: The politician's speech was filled with empty promises and <u>impotent</u> rhetoric.
+
+### Japanese Translation
+J-1: 彼の主張は陪審団を彼の無罪に説得するのに<u>無力</u>だった。
+J-2: その政治家のスピーチは、虚しい約束と<u>無力な</u>修辞に満ちていた。

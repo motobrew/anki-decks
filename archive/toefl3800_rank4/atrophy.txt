@@ -1,0 +1,8 @@
+# Key:atrophy
+### English Sentences
+E-1: The lack of exercise caused his muscles to <u>atrophy</u>.
+E-2: The abandoned building had been left to <u>atrophy</u> over time.
+
+### Japanese Translation
+J-1: 運動不足のため、彼の筋肉が<u>萎縮</u>しました。
+J-2: 放置された建物は時間の経過で<u>衰退・衰える</u>ようになっていました。

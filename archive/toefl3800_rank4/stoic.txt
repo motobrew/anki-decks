@@ -1,0 +1,8 @@
+# Key:stoic
+### English Sentences
+E-1: She remained <u>stoic</u> in the face of criticism and negativity.
+E-2: Despite the pain, he maintained a <u>stoic</u> expression on his face.
+
+### Japanese Translation
+J-1: 批判や否定的な意見に対して彼女は<u>無表情を保ちました</u>。
+J-2: 痛みにもかかわらず、彼は顔に<u>無表情を保ちました</u>。

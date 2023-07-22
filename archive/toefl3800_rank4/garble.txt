@@ -1,0 +1,8 @@
+# Key:garble
+### English Sentences
+E-1: The audio recording was <u>garbled</u> and difficult to understand.
+E-2: The secretary <u>garbled</u> the message and gave incorrect information.
+
+### Japanese Translation
+J-1: 音声録音は<u>よくわからない</u>状態で、理解するのが難しかったです。
+J-2: 秘書がメッセージを<u>取り違えて伝えてしまい</u>、正しい情報が伝わりませんでした。

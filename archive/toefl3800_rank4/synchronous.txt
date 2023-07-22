@@ -1,0 +1,8 @@
+# Key:synchronous
+### English Sentences
+E-1: In a <u>synchronous</u> class, students learn together in real-time.
+E-2: The dancers moved in <u>synchronous</u> rhythm, perfectly in time with the music.
+
+### Japanese Translation
+J-1: <u>同期</u>の授業では、生徒はリアルタイムで一緒に学びます。
+J-2: 踊り手たちは<u>同期</u>のリズムで、音楽に完璧に合わせて動きました。

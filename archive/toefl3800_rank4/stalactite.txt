@@ -1,0 +1,8 @@
+# Key:stalactite
+### English Sentences
+E-1: A <u>stalactite</u> hung from the ceiling of the cave.
+E-2: The freezing temperatures caused icicles to form, resembling <u>stalactites</u>.
+
+### Japanese Translation
+J-1: 洞窟の天井から<u>鍾乳石</u>がぶら下がっていた。
+J-2: 凍るような気温で、<i>鍾乳石</i>のようにつららが形成された。

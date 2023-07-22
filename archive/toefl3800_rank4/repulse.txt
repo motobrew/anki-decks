@@ -1,0 +1,8 @@
+# Key:repulse
+### English Sentences
+E-1: The gruesome scene in the movie made me <u>repulsed</u>.
+E-2: His disrespectful behavior <u>repulsed</u> everyone at the party.
+
+### Japanese Translation
+J-1: 映画の恐ろしい場面で私は<u>嫌悪感を抱きました</u>。
+J-2: 彼の無礼な態度はパーティーの参加者全員を<u>嫌気させました</u>。

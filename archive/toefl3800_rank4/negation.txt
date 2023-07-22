@@ -1,0 +1,8 @@
+# Key:negation
+### English Sentences
+E-1: The company announced a profit <u>negation</u> due to unexpected expenses.
+E-2: The lawyer's argument led to the <u>negation</u> of the defendant's alibi.
+
+### Japanese Translation
+J-1: 予期しない経費のために、会社は利益の<u>否定</u>を発表しました。
+J-2: 弁護士の主張が被告のアリバイの<u>否定</u>につながりました。

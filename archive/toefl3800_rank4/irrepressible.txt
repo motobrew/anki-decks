@@ -1,0 +1,8 @@
+# Key:irrepressible
+### English Sentences
+E-1: Her <u>irrepressible</u> laughter filled the room, spreading joy to everyone.
+E-2: Despite the difficulties, he had an <u>irrepressible</u> optimism and positive attitude.
+
+### Japanese Translation
+J-1: 彼女の<u>抑えられない</u>笑い声が部屋中に広がり、みんなに喜びを与えた。
+J-2: 困難にもかかわらず、彼は<u>抑えられない</u>楽観的な態度を持っていました。

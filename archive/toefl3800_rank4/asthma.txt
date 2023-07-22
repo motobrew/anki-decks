@@ -1,0 +1,8 @@
+# Key:asthma
+### English Sentences
+E-1: My sister uses an inhaler to manage her <u>asthma</u>.
+E-2: The cold air triggered an <u>asthma</u> attack for him.
+
+### Japanese Translation
+J-1: 姉は<u>喘息</u>を管理するために吸入器を使っています。
+J-2: 彼には寒い空気が<u>喘息</u>の発作を引き起こします。

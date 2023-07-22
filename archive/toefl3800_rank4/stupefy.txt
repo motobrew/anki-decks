@@ -1,0 +1,8 @@
+# Key:stupefy
+### English Sentences
+E-1: The magician used a spell to <u>stupefy</u> the audience.
+E-2: The shocking news <u>stupefied</u> the entire community.
+
+### Japanese Translation
+J-1: 魔術師は観客を<u>愚かにする</u>ために呪文を使いました。
+J-2: その衝撃的なニュースは、コミュニティ全体を<u>愚かにさせました</u>。

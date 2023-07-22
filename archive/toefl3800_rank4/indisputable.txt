@@ -1,0 +1,8 @@
+# Key:indisputable
+### English Sentences
+E-1: The evidence is <u>indisputable</u> - he is guilty of the crime.
+E-2: It is <u>indisputable</u> that she is the best candidate for the job.
+
+### Japanese Translation
+J-1: 証拠は<u>否定しようのない</u>ものであり、彼は犯罪者です。
+J-2: 彼女がその仕事に最適な候補者であることは<u>間違いありません</u>。

@@ -1,0 +1,8 @@
+# Key:acumen
+### English Sentences
+E-1: Mary's business <u>acumen</u> helped her to make successful investments.
+E-2: John's <u>acumen</u> for cooking led him to become a renowned chef.
+
+### Japanese Translation
+J-1: メアリーの商才により、彼女は成功した投資をすることができました。
+J-2: ジョンの料理の才能が彼を有名なシェフに導きました。

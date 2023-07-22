@@ -1,0 +1,8 @@
+# Key:digression
+### English Sentences
+E-1: Let's get back on track and avoid any <u>digressions</u>.
+E-2: The speaker went on a long <u>digression</u> about his childhood.
+
+### Japanese Translation
+J-1: それは話が逸れてしまうのを避けるため、話の流れに戻りましょう。
+J-2: スピーカーは彼の幼少期についての長い話で脱線しました。

@@ -1,0 +1,8 @@
+# Key:streak
+### English Sentences
+E-1: He has a winning <u>streak</u> in poker, never losing a game. 
+E-2: The basketball team has a losing <u>streak</u> of 10 games.
+
+### Japanese Translation
+J-1: 彼はポーカーで連勝<u>記録</u>を持っており、一度も負けたことがない。
+J-2: そのバスケットボールチームは10連敗の<u>連続記録</u>を持っている。

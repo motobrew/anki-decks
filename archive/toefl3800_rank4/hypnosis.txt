@@ -1,0 +1,8 @@
+# Key:hypnosis
+### English Sentences
+E-1: She was able to quit smoking through <u>hypnosis</u> therapy.
+E-2: He went into a deep state of <u>hypnosis</u> and became highly suggestible.
+
+### Japanese Translation
+J-1: 彼女は<u>催眠療法</u>を通じて禁煙することができました。
+J-2: 彼は<u>催眠状態</u>になり、高度に受容的になりました。

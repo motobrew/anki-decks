@@ -1,0 +1,8 @@
+# Key:pastoral
+### English Sentences
+E-1: The <u>pastoral</u> scene of the countryside was breathtakingly beautiful.
+E-2: The pastor's <u>pastoral</u> care for his congregation was evident in his actions.
+
+### Japanese Translation
+J-1: 田園地帯の<u>牧歌的</u>な光景は息をのむほど美しかったです。
+J-2: 牧師の教会員への<u>羊飼いの</u>配慮は彼の行動から明らかでした。

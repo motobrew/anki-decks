@@ -1,0 +1,8 @@
+# Key:incessant
+### English Sentences
+E-1: The <u>incessant</u> rain made it impossible to go outside.
+E-2: The <u>incessant</u> barking of the dog kept me up all night.
+
+### Japanese Translation
+J-1: <u>絶え間ない</u>雨で外に出ることができませんでした。
+J-2: 犬の<u>絶え間ない</u>吠え声で一晩中眠れませんでした。

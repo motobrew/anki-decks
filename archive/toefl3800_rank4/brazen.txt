@@ -1,0 +1,8 @@
+# Key:brazen
+### English Sentences
+E-1: The thief made a <u>brazen</u> attempt to steal the painting in broad daylight.
+E-2: Despite the consequences, he remained <u>brazen</u> and unapologetic about his actions.
+
+### Japanese Translation
+J-1: 泥棒は真昼間に絵を盗むという<u>厚かましい</u>試みをしました。
+J-2: 彼は結果を恐れず、自分の行動について<u>厚かましく</u>謝罪することもありませんでした。

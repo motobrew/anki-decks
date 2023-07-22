@@ -1,0 +1,8 @@
+# Key:expedient
+### English Sentences
+E-1: It may be expedient to postpone the meeting until next week.
+E-2: Taking a shortcut through the park was the most expedient way to get home.
+
+### Japanese Translation
+J-1: 会議を来週まで延期する方が<u>便利</u>かもしれません。
+J-2: 自宅に帰るために公園をショートカットするのが<u>最も効率的</u>でした。

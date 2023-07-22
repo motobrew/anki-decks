@@ -1,0 +1,8 @@
+# Key:ephemeral
+### English Sentences
+E-1: The beauty of cherry blossoms is <u>ephemeral</u>, lasting only a few days.
+E-2: Fame and fortune can be <u>ephemeral</u>, disappearing as quickly as they came.
+
+### Japanese Translation
+J-1: 桜の美しさは<u>一時的</u>で、わずか数日しか続きません。
+J-2: 名声や富は<u>はかなく</u>、来たようにすぐに消えることもあります。

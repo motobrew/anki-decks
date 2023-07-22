@@ -1,0 +1,8 @@
+# Key:espionage
+### English Sentences
+E-1: The government suspected <u>espionage</u> within its ranks.
+E-2: She was arrested for engaging in <u>espionage</u> activities on behalf of a foreign nation.
+
+### Japanese Translation
+J-1: 政府は内部で<u>スパイ活動</u>が行われていると疑っていました。
+J-2: 彼女は外国の国家のために<u>スパイ活動</u>に従事していたことで逮捕されました。

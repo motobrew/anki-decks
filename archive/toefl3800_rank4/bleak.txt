@@ -1,0 +1,8 @@
+# Key:bleak
+### English Sentences
+E-1: The future looks <u>bleak</u> for the struggling company.
+E-2: The weather forecast is <u>bleak</u> with heavy rain and strong winds.
+
+### Japanese Translation
+J-1: 問題を抱える会社の未来は<u>暗い</u>です。
+J-2: 天気予報は強い雨と強風で<u>陰鬱な</u>ものです。

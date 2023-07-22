@@ -1,0 +1,8 @@
+# Key:abusive
+### English Sentences
+E-1: She endured years of <u>abusive</u> behavior from her partner.
+E-2: The company faced backlash after an <u>abusive</u> advertisement campaign.
+
+### Japanese Translation
+J-1: 彼女はパートナーからの数年に渡る<u>虐待的な</u>行動に耐えました。
+J-2: その企業は<u>攻撃的な</u>広告キャンペーンにより反発を受けました。

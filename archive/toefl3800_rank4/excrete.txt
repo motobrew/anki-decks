@@ -1,0 +1,8 @@
+# Key:excrete
+### English Sentences
+E-1: The body <u>excretes</u> waste through the urinary system.
+E-2: Some plants <u>excrete</u> excess salt through their leaves.
+
+### Japanese Translation
+J-1: 体は尿器系を通じて廃棄物を<u>排泄します</u>。
+J-2: 一部の植物は葉から余分な塩分を<u>排泄します</u>。

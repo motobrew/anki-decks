@@ -1,0 +1,8 @@
+# Key:pinnacle
+### English Sentences
+E-1: The dance performance reached the <u>pinnacle</u> of perfection.
+E-2: Winning the championship was the <u>pinnacle</u> of his career.
+
+### Japanese Translation
+J-1: そのダンスパフォーマンスは完璧の<u>頂点</u>に達しました。
+J-2: 彼のキャリアでの最高点はチャンピオンシップの優勝でした。

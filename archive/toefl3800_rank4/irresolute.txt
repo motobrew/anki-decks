@@ -1,0 +1,8 @@
+# Key:irresolute
+### English Sentences
+E-1: He was <u>irresolute</u> about whether to quit his job or not.
+E-2: The team remained <u>irresolute</u> in their decision on the project.
+
+### Japanese Translation
+J-1: 彼は仕事を辞めるかどうか<u>迷っていました</u>。
+J-2: チームはプロジェクトに関する意思決定で<u>未決定のままでした</u>。

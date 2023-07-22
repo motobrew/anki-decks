@@ -1,0 +1,8 @@
+# Key:mislead
+### English Sentences
+E-1: The politician used misleading statistics to gain public support.
+E-2: The false advertising campaign misled consumers about the product's benefits.
+
+### Japanese Translation
+J-1: 政治家は公衆の支持を得るために誤った統計データを使用しました。
+J-2: 誇大広告キャンペーンは製品の利点について消費者を<u>誤導しました</u>。

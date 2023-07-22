@@ -1,0 +1,8 @@
+# Key:hydrophobia
+### English Sentences
+E-1: I have a <u>hydrophobia</u> and avoid swimming at all costs.
+E-2: Due to the rain, there was a <u>hydrophobia</u> in the crowd, and people rushed for cover.
+
+### Japanese Translation
+J-1: 水が大の苦手で、どんなに頑張っても泳ぎたくないです。
+J-2: 雨のため、人ごみには<u>水恐怖症</u>が広まり、人々が避難しました。

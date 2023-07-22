@@ -1,0 +1,8 @@
+# Key:polity
+### English Sentences
+E-1: The <u>polity</u> is divided into three separate branches of government.
+E-2: The <u>polity</u> established a system of democratic governance in the country.
+
+### Japanese Translation
+J-1: <u>政治組織</u>は政府の三つの独立した部門に分割されています。
+J-2: <u>政体</u>は国内で民主的な統治の体制を確立しました。

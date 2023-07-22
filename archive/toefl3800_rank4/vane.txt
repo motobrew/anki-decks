@@ -1,0 +1,8 @@
+# Key:vane
+### English Sentences
+E-1: The wind <u>vane</u> on top of the barn shows the direction of the wind.
+E-2: As an investor, it is important to keep an eye on the market <u>vane</u>.
+
+### Japanese Translation
+J-1: 納屋の上にある風<u>向き表示器</u>は風の方向を示しています。
+J-2: 投資家として、市場の<u>動向</u>に注意を払うことが重要です。

@@ -1,0 +1,8 @@
+# Key:imperative
+### English Sentences
+E-1: It is <u>imperative</u> that we finish this project on time.
+E-2: Following traffic rules is <u>imperative</u> for everyone's safety.
+
+### Japanese Translation
+J-1: 私たちはこのプロジェクトを時間通りに終わらせるのが<u>極めて重要</u>です。
+J-2: 交通ルールを守ることは、みんなの安全のために<u>絶対必要</u>です。

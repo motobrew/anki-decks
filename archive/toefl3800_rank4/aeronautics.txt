@@ -1,0 +1,8 @@
+# Key:aeronautics
+### English Sentences
+E-1: The museum had an exhibit on <u>aeronautics</u> and space exploration.
+E-2: She studied <u>aeronautics</u> in college and became a pilot.
+
+### Japanese Translation
+J-1: その博物館には<u>航空学</u>と宇宙探索に関する展示がありました。
+J-2: 彼女は大学で<u>航空学</u>を勉強し、パイロットになりました。

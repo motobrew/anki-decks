@@ -1,0 +1,8 @@
+# Key:staunch
+### English Sentences
+E-1: She remained a <u>staunch</u> supporter of her political party.
+E-2: Despite the controversy, he remained <u>staunch</u> in his beliefs.
+
+### Japanese Translation
+J-1: 彼女は自分の政党の<u固い信奉者として</u>残りました。
+J-2: 論争があったにもかかわらず、彼は自分の信念を<u>固く守り続けました</u>。

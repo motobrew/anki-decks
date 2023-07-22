@@ -1,0 +1,8 @@
+# Key:wane
+### English Sentences
+E-1: Our enthusiasm for the project began to <u>wane</u> as the deadlines approached.
+E-2: The popularity of that trend is starting to <u>wane</u> among young people.
+
+### Japanese Translation
+J-1: 締め切りが迫るにつれて、プロジェクトへの熱意が<u>薄れはじめました</u>。
+J-2: そのトレンドの人気は若者の間で<u>徐々に弱まりつつあります</u>。

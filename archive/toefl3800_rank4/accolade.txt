@@ -1,0 +1,8 @@
+# Key:accolade
+### English Sentences
+E-1: She received numerous <u>accolades</u> for her exceptional performance in the play.
+E-2: The singer was awarded multiple <u>accolades</u> for her latest album.
+
+### Japanese Translation
+J-1: 彼女は演劇での優れた演技に対して多くの<u>称賛</u>を受けました。
+J-2: その歌手は最新アルバムで複数の<u>栄誉</u>を受けました。

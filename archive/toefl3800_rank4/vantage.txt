@@ -1,0 +1,8 @@
+# Key:vantage
+### English Sentences
+E-1: The higher elevation provided a strategic <u>vantage</u> point for the sniper.
+E-2: He used his charm to gain a favorable <u>vantage</u> in the negotiation.
+
+### Japanese Translation
+J-1: 高い標高は狙撃手に戦略的な<u>優位点</u>を与えました。
+J-2: 彼は魅力を使って交渉で有利な<u>立場</u>を得ました。

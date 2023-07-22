@@ -1,0 +1,8 @@
+# Key:coincidental
+### English Sentences
+E-1: It was <u>coincidental</u> that we both wore the same outfit.
+E-2: The timing was <u>coincidental</u> as I was just talking about her.
+
+### Japanese Translation
+J-1: 私たちが同じ服を着たのは<u>偶然の一致</u>でした。
+J-2: 彼女の話をしていたときに、タイミングが<u>偶然的</u>でした。

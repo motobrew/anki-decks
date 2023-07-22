@@ -1,0 +1,8 @@
+# Key:decelerate
+### English Sentences
+E-1: He tried to <u>decelerate</u> the car before reaching the sharp curve.
+E-2: The company decided to <u>decelerate</u> its expansion plans due to the economic downturn.
+
+### Japanese Translation
+J-1: 彼は急なカーブに到達する前に車を<u>減速しようとしました</u>。
+J-2: 経済の低迷により、会社は事業拡大計画を<u>遅らせることにしました</u>。

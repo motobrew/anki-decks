@@ -1,0 +1,8 @@
+# Key:ultimatum
+### English Sentences
+E-1: I gave my partner an <u>ultimatum</u>: either quit smoking or we're done.
+E-2: The company issued an <u>ultimatum</u>: take a pay cut or face layoffs.
+
+### Japanese Translation
+J-1: パートナーに<u>最後通告</u>をした：たばこをやめないなら別れる。
+J-2: 会社は<u>最後通告</u>を出した：給料を減らすか、解雇される。

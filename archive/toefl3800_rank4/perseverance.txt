@@ -1,0 +1,8 @@
+# Key:perseverance
+### English Sentences
+E-1: She faced numerous setbacks but her <u>perseverance</u> helped her succeed.
+E-2: Despite the challenges, he showed incredible <u>perseverance</u> and never gave up.
+
+### Japanese Translation
+J-1: 彼女は多くの挫折に直面しましたが、彼女の<u>忍耐力</u>が成功を助けました。
+J-2: 困難にもかかわらず、彼は信じられないほどの<u>根気強さ</u>を示し、決して諦めませんでした。

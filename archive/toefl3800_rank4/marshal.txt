@@ -1,0 +1,8 @@
+# Key:marshal
+### English Sentences
+E-1: The police <u>marshal</u> the crowd during the protest.
+E-2: The coach used his whistle to <u>marshal</u> the team onto the field.
+
+### Japanese Translation
+J-1: プロテスト中、警察が群衆を<u>取りまとめました</u>。
+J-2: コーチは笛を鳴らしてチームをフィールドに<u>整列させました</u>。

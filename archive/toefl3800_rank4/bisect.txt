@@ -1,0 +1,8 @@
+# Key:bisect
+### English Sentences
+E-1: The road <u>bisects</u> the park, dividing it into two sections.
+E-2: The river <u>bisects</u> the city, creating a natural boundary between neighborhoods.
+
+### Japanese Translation
+J-1: 道路が公園を<u>二分して</u>、二つのセクションに分かれています。
+J-2: 川が都市を<u>横切っており</u>、地域間の自然な境界を作っています。

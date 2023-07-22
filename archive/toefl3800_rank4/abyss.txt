@@ -1,0 +1,8 @@
+# Key:abyss
+### English Sentences
+E-1: She felt like she was falling into an <u>abyss</u> of despair.
+E-2: The team's performance has plunged into the <u>abyss</u> recently.
+
+### Japanese Translation
+J-1: 彼女は絶望の<u>淵</u>に落ちていくような気持ちだった。
+J-2: 最近、チームのパフォーマンスは<u>深淵</u>に突入してしまった。

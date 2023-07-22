@@ -1,0 +1,8 @@
+# Key:tyranny
+### English Sentences
+E-1: The people were living under the <u>tyranny</u> of a ruthless dictator.
+E-2: The protestors demanded an end to the <u>tyranny</u> of the corrupt government.
+
+### Japanese Translation
+J-1: 人々は冷酷な独裁者の<u>暴政</u>の下で生活していました。
+J-2: 抗議者たちは腐敗した政府の<u>専制支配</u>に終止符を求めました。

@@ -1,0 +1,8 @@
+# Key:acquittal
+### English Sentences
+E-1: The defense lawyer managed to secure an <u>acquittal</u> for his client.
+E-2: The jury's decision resulted in a surprising <u>acquittal</u> for the accused.
+
+### Japanese Translation
+J-1: 弁護士はクライアントの<u>無罪判決</u>を勝ち取ることができました。
+J-2: 陪審団の判断により、被告人は意外な<u>無罪判決</u>を受けました。

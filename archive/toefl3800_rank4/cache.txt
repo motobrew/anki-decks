@@ -1,0 +1,8 @@
+# Key:cache
+### English Sentences
+E-1: I cleared my browser <u>cache</u> to improve the page loading speed.
+E-2: The treasure hunters found a hidden <u>cache</u> in the forest.
+
+### Japanese Translation
+J-1: ページの読み込み速度を改善するために、ブラウザの<u>キャッシュ</u>を削除しました。
+J-2: 宝探しの人たちは森の中に隠された<u>隠し場所</u>を見つけました。

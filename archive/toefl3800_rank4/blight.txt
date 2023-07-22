@@ -1,0 +1,8 @@
+# Key:blight
+### English Sentences
+E-1: The economic recession has caused a <u>blight</u> on the housing market.
+E-2: The pollution from the factory is a <u>blight</u> on the nearby river.
+
+### Japanese Translation
+J-1: 経済の不況が住宅市場に<u>打撃を与えました</u>。
+J-2: 工場からの汚染が近くの川に<u>大きな悪影響を与えています</u>。

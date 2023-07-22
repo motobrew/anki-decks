@@ -1,0 +1,8 @@
+# Key:cleavage
+### English Sentences
+E-1: She wore a low-cut dress that showed off her <u>cleavage</u>.
+E-2: The earthquake caused a <u>cleavage</u> in the ground, splitting it apart.
+
+### Japanese Translation
+J-1: 彼女は谷間を強調する、胸元の開いたドレスを着ていた。
+J-2: 地震によって地面に亀裂が入り、それが割れて<u>分断されました</u>。

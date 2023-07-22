@@ -1,0 +1,8 @@
+# Key:cynical
+### English Sentences
+E-1: She has a <u>cynical</u> view of romantic relationships, believing they always end in heartbreak.
+E-2: His <u>cynical</u> comment brought a sense of negativity to the conversation.
+
+### Japanese Translation
+J-1: 彼女はロマンチックな関係に<u>冷笑的な</u>態度を持っており、それらは常に失恋に終わると信じています。
+J-2: 彼の<u>皮肉めいた</u>コメントが会話に否定的な雰囲気をもたらしました。

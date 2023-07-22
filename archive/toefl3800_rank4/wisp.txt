@@ -1,0 +1,8 @@
+# Key:wisp
+### English Sentences
+E-1: A faint <u>wisp</u> of smoke curled up from the extinguished candle.
+E-2: I caught a <u>wisp</u> of her perfume as she walked past me.
+
+### Japanese Translation
+J-1: 消えたろうそくから、かすかな<u>煙の一筋</u>がうねって上がった。
+J-2: 彼女が私の横を通り過ぎる時、ほんのりとした<u>彼女の香水のかすかな香り</u>を感じた。

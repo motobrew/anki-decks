@@ -1,0 +1,9 @@
+# Key:etymology
+## Response
+### English Sentences
+E-1: The <u>etymology</u> of the word "hello" can be traced back to Old English.
+E-2: Linguists study the <u>etymology</u> of words to understand their origins.
+
+### Japanese Translation
+J-1: "こんにちは"という言葉の<u>語源</u>は古英語にまで遡ることができます。
+J-2: 言語学者は単語の<u>語源</u>を研究して、その起源を理解しようとします。

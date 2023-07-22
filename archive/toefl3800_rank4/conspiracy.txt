@@ -1,0 +1,8 @@
+# Key:conspiracy
+### English Sentences
+E-1: There's a <u>conspiracy</u> surrounding the moon landing in 1969.
+E-2: They believe that there's a <u>conspiracy</u> to cover up the truth.
+
+### Japanese Translation
+J-1: 1969年の月面着陸には<u>陰謀</u>が絡んでいると言われています。
+J-2: 彼らは真実を隠すための<u>陰謀</u>があると信じています。

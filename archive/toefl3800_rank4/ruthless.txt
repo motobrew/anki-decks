@@ -1,0 +1,8 @@
+# Key:ruthless
+### English Sentences
+E-1: The ruthless businessman would stop at nothing to make a profit.
+E-2: She displayed a ruthless determination to win the competition.
+
+### Japanese Translation
+J-1: 無慈悲なビジネスマンは利益を得るために手段を選びませんでした。
+J-2: 彼女は執念深い決意を持ってコンテストに勝つことを示しました。

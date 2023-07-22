@@ -1,0 +1,8 @@
+# Key:crop rotation
+### English Sentences
+E-1: <u>Crop rotation</u> helps maintain soil fertility and prevent pests and diseases.
+E-2: Farmers practice <u>crop rotation</u> to improve yields and reduce dependence on pesticides.
+
+### Japanese Translation
+J-1: <u>輪作</u>は土壌の肥沃性を維持し、害虫や病気を予防します。
+J-2: 農家は収量を向上させ、農薬への依存を減らすために<u>輪作</u>を実践しています。

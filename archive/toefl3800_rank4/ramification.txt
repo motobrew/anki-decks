@@ -1,0 +1,8 @@
+# Key:ramification
+### English Sentences
+E-1: The decision to close the factory had widespread <u>ramifications</u> for the local economy.
+E-2: One small mistake can have significant <u>ramifications</u> in a complex project.
+
+### Japanese Translation
+J-1: 工場の閉鎖を決定することは、地元経済に広範な<u>影響</u>を与えました。
+J-2: 複雑なプロジェクトでは、小さなミスは重大な<u>結果</u>を引き起こすことがあります。

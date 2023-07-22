@@ -1,0 +1,8 @@
+# Key:hew
+### English Sentences
+E-1: He tried to <u>hew</u> to the original plan, but circumstances forced changes.
+E-2: The team had to <u>hew</u> a new path to success with limited resources.
+
+### Japanese Translation
+J-1: 彼は元の計画に<u>固執しようとしましたが、状況の変化で変更が迫られました。</u>
+J-2: チームは限られたリソースで成功に向けた新しい道筋を<u>切り開く必要がありました。</u>

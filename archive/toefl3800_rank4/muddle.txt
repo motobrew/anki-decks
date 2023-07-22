@@ -1,0 +1,8 @@
+# Key:muddle
+### English Sentences
+E-1: The instructions were so confusing that they muddled my understanding.
+E-2: His constant interruptions muddled the flow of the conversation.
+
+### Japanese Translation
+J-1: 説明がとても混乱していて、理解が<u>ごちゃ混ぜに</u>なりました。
+J-2: 彼の継続的な中断が、会話の流れを<u>ごちゃ混ぜに</u>しました。

@@ -1,0 +1,8 @@
+# Key:debase
+### English Sentences
+E-1: The politician's scandalous behavior served to <u>debase</u> his reputation.
+E-2: The counterfeit money circulating in the market will <u>debase</u> the currency's value.
+
+### Japanese Translation
+J-1: 政治家のスキャンダラスな行動は、彼の評判を<u>貶める</u>こととなった。
+J-2: 市場に出回っている偽札は、通貨の価値を<u>低下させる</u>。

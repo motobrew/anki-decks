@@ -1,0 +1,8 @@
+# Key:blithe
+### English Sentences
+E-1: She sang with a <u>blithe</u> spirit, completely lost in the music.
+E-2: Despite the difficult circumstances, he remained <u>blithe</u> and carefree.
+
+### Japanese Translation
+J-1: 彼女は快活な気持ちで歌い、音楽に完全に没頭していました。
+J-2: 困難な状況にも関わらず、彼は快活で心配事がないような様子でいました。

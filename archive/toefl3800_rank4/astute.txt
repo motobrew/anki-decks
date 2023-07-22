@@ -1,0 +1,8 @@
+# Key:astute
+### English Sentences
+E-1: She is an <u>astute</u> businesswoman, always making profitable decisions.
+E-2: The <u>astute</u> detective quickly solved the mysterious case.
+
+### Japanese Translation
+J-1: 彼女は<u>抜け目のない</u>ビジネスウーマンで、常に利益のある決断をします。
+J-2: <u>賢明な</u>刑事は素早く謎の事件を解決しました。

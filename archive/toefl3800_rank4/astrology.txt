@@ -1,0 +1,8 @@
+# Key:astrology
+### English Sentences
+E-1: I don't believe in <u>astrology</u>, I think it's just a pseudoscience.
+E-2: She consults her horoscope every morning, she's really into <u>astrology</u>.
+
+### Japanese Translation
+J-1: 私は<u>占星術</u>を信じていません、それはただの疑似科学だと思います。
+J-2: 彼女は毎朝星占いを見ています、彼女は本当に<u>占星術</u>に興味があります。

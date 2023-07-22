@@ -1,0 +1,8 @@
+# Key:conformity
+### English Sentences
+E-1: She refused to conform to society's expectations and lived her own way.
+E-2: The team's lack of conformity to the company's policies caused tension.
+
+### Japanese Translation
+J-1: 彼女は社会の期待に従おうとせず、自分のやり方で生きました。
+J-2: チームの社内ルールへの従わなさが緊張を引き起こしました。

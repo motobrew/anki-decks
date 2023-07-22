@@ -1,0 +1,8 @@
+# Key:extricate
+### English Sentences
+E-1: The detective had to <u>extricate</u> himself from a dangerous situation.
+E-2: It took hours to <u>extricate</u> the car from the mud.
+
+### Japanese Translation
+J-1: その刑事は危険な状況から<u>抜け出さなければならなかった</u>。
+J-2: 車を泥から<u>取り出す</u>のに数時間かかりました。

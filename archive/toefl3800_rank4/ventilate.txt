@@ -1,0 +1,8 @@
+# Key:ventilate
+### English Sentences
+E-1: It's important to <u>ventilate</u> a room to let fresh air in.
+E-2: The company decided to <u>ventilate</u> their concerns during the meeting.
+
+### Japanese Translation
+J-1: 新鮮な空気を入れるために、部屋を<u>換気する</u>ことが重要です。
+J-2: 会社は会議中に自分たちの関心事を<u>述べる</u>ことに決めました。

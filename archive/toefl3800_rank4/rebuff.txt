@@ -1,0 +1,8 @@
+# Key:rebuff
+### English Sentences
+E-1: The company <u>rebuffed</u> my proposal to collaborate on a project.
+E-2: Despite his efforts, he was <u>rebuffed</u> by the girl he liked.
+
+### Japanese Translation
+J-1: その会社は私の提案に協力することを<u>断った</u>。
+J-2: 彼は努力したが、好きな女の子に<u>拒絶された</u>。

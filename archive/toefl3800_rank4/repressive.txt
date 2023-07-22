@@ -1,0 +1,8 @@
+# Key:repressive
+### English Sentences
+E-1: The <u>repressive</u> government cracked down on peaceful protests.
+E-2: Living under a <u>repressive</u> regime can be extremely challenging.
+
+### Japanese Translation
+J-1: <u>弾圧的な</u>政府が平和的な抗議活動を取り締まりました。
+J-2: <u>弾圧的な</u>体制の下で生活することは非常に困難です。

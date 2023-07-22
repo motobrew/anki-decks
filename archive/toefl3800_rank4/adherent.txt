@@ -1,0 +1,8 @@
+# Key:adherent
+### English Sentences
+E-1: She is a dedicated <u>adherent</u> of the vegan lifestyle.
+E-2: The politician gained a large number of <u>adherents</u> during his campaign.
+
+### Japanese Translation
+J-1: 彼女はヴィーガンの生活様式の熱心な<u>信奉者</u>です。
+J-2: 政治家はキャンペーン中に多くの<u>支持者</u>を獲得しました。

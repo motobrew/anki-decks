@@ -1,0 +1,8 @@
+# Key:bailout
+### English Sentences
+E-1: The government provided a <u>bailout</u> to the struggling airline industry.
+E-2: The company received a <u>bailout</u> from its investors to avoid bankruptcy.
+
+### Japanese Translation
+J-1: 政府は苦境に立たされている航空業界に<u>救済措置</u>を提供しました。
+J-2: その会社は破産を回避するために投資家から<u>救済資金</u>を得ました。

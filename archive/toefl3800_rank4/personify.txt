@@ -1,0 +1,8 @@
+# Key:personify
+### English Sentences
+E-1: The stormy waves <u>personify</u> the raw power of nature.
+E-2: The statue <u>personifies</u> freedom and justice.
+
+### Japanese Translation
+J-1: 荒れ狂う波は、自然の無尽蔵な力を<u>具現化しています</u>。
+J-2: その像は自由と正義を<u>具現化しています</u>。

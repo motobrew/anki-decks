@@ -1,0 +1,8 @@
+# Key:countermeasure
+### English Sentences
+E-1: The government implemented new security measures as a <u>countermeasure</u> against terrorist threats.
+E-2: The company installed a firewall as a <u>countermeasure</u> to protect against cyberattacks.
+
+### Japanese Translation
+J-1: 政府はテロの脅威への<u対策として、新しいセキュリティ対策を実施しました。
+J-2: 会社はサイバー攻撃からの保護策として、ファイアウォールを設置しました。

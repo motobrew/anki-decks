@@ -1,0 +1,8 @@
+# Key:emaciated
+### English Sentences
+E-1: He looked emaciated from weeks of not eating.
+E-2: The emaciated stray dog desperately searched for food.
+
+### Japanese Translation
+J-1: 彼は何週間も食べないでやせ衰えていた。
+J-2: やせ衰えた野良犬が必死に食べ物を探していました。

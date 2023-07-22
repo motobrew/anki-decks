@@ -1,0 +1,8 @@
+# Key:discrepancy
+### English Sentences
+E-1: There is a <u>discrepancy</u> between her words and her actions.
+E-2: The accountant discovered a <u>discrepancy</u> in the company's financial records.
+
+### Japanese Translation
+J-1: 彼女の言葉と行動には<u>食い違い</u>があります。
+J-2: 会計士は会社の財務記録に<u>相違</u>を発見しました。

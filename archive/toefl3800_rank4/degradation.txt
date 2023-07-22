@@ -1,0 +1,8 @@
+# Key:degradation
+### English Sentences
+E-1: The <u>degradation</u> of the environment is a global problem.
+E-2: The <u>degradation</u> of his skills was evident after years of neglect.
+
+### Japanese Translation
+J-1: 環境の<u>劣化</u>は世界的な問題です。
+J-2: 彼の技術の<u>低下</u>は、何年もの放置の後で明らかでした。

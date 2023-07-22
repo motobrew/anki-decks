@@ -1,0 +1,8 @@
+# Key:collateral
+### English Sentences
+E-1: The bank requested collateral before approving the loan.
+E-2: The artist used her artwork as collateral for a loan.
+
+### Japanese Translation
+J-1: 銀行は融資を承認する前に担保を要求しました。
+J-2: そのアーティストは作品を担保として融資に使用しました。

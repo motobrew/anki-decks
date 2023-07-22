@@ -1,0 +1,8 @@
+# Key:malignant
+### English Sentences
+E-1: The doctor said the tumor was <u>malignant</u> and would require immediate treatment.
+E-2: Her <u>malignant</u> words were meant to hurt and belittle others.
+
+### Japanese Translation
+J-1: 医者はその腫瘍が<u>悪性の</u>もので、即座の治療が必要だと言いました。
+J-2: 彼女の<u>悪意のある</u>言葉は他人を傷つけ、小突くことを意図していました。

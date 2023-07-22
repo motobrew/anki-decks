@@ -1,0 +1,8 @@
+# Key:persecute
+### English Sentences
+E-1: Throughout history, many innocent people have been <u>persecuted</u> for their beliefs.
+E-2: The government is cracking down on political dissent, leading to the <u>persecution</u> of activists.
+
+### Japanese Translation
+J-1: 歴史上、多くの無実の人々が自分の信念のために<u>迫害されてきました</u>。
+J-2: 政府は政治的な異議を抑圧しており、活動家たちが<u>迫害される</u>状況です。

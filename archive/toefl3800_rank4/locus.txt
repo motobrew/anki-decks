@@ -1,0 +1,8 @@
+# Key:locus
+### English Sentences
+E-1: There was a <u>locus</u> of activity in the bustling city square.
+E-2: The investigation focused on identifying the <u>locus</u> of the crime.
+
+### Japanese Translation
+J-1: にぎやかな市庁舎の中央には、活動の<u>中心地</u>がありました。
+J-2: 調査は犯罪の<u>発生地</u>を特定することに焦点を当てました。

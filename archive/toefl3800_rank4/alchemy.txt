@@ -1,0 +1,8 @@
+# Key:alchemy
+### English Sentences
+E-1: The artist used <u>alchemy</u> to transform ordinary materials into stunning works of art.
+E-2: Through hard work and dedication, he mastered the <u>alchemy</u> of turning dreams into reality.
+
+### Japanese Translation
+J-1: その芸術家は<u>錬金術</u>を使って、普通の材料を見事な作品に変えました。
+J-2: 彼は努力と献身を通じて、夢を現実にする<u>錬金術</u>を習得しました。

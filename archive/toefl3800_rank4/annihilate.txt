@@ -1,0 +1,8 @@
+# Key:annihilate
+### English Sentences
+E-1: The army launched an attack to <u>annihilate</u> the enemy forces.
+E-2: The new technology could <u>annihilate</u> traditional business models.
+
+### Japanese Translation
+J-1: 軍隊は敵部隊を<u>壊滅させるために</u>攻撃を開始しました。
+J-2: 新しい技術は従来のビジネスモデルを<u>完全に壊滅させる可能性があります。</u>

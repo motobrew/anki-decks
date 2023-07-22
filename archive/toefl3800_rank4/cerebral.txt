@@ -1,0 +1,8 @@
+# Key:cerebral
+### English Sentences
+E-1: He has a <u>cerebral</u> approach to problem-solving.
+E-2: The movie was very <u>cerebral</u> and left the audience deep in thought.
+
+### Japanese Translation
+J-1: 彼は問題解決に<u>知的な</u>アプローチを持っています。
+J-2: その映画は非常に<u>知的な</u>内容で、観客を深く考えさせました。

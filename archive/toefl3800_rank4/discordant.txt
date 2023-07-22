@@ -1,0 +1,8 @@
+# Key:discordant
+### English Sentences
+E-1: The <u>discordant</u> notes of the two musicians clashed during the performance.
+E-2: Their opinions on the matter were <u>discordant</u> and led to a heated argument.
+
+### Japanese Translation
+J-1: パフォーマンス中、2人のミュージシャンの<u>不協和な</u>音が衝突しました。
+J-2: 彼らの意見は<u>不一致であり</u>、激しい口論を引き起こしました。

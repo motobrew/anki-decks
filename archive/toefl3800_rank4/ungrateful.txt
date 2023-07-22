@@ -1,0 +1,8 @@
+# Key:ungrateful
+### English Sentences
+E-1: She always expects more from me and never shows any gratitude, she's so <u>ungrateful</u>.
+E-2: Despite all the help she received, she seemed completely <u>ungrateful</u>.
+
+### Japanese Translation
+J-1: 彼女はいつも私に更なる期待をし、感謝の気持ちを示さず、とても<u>恩知らず</u>です。
+J-2: 彼女はたくさんの助けを受けながらも、完全に<u>恩着せがましい</u>ように見えた。

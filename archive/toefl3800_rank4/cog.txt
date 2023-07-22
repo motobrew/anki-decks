@@ -1,0 +1,8 @@
+# Key:cog
+### English Sentences
+E-1: The team had to <u>cog</u> their plans after the unexpected change.
+E-2: She is the <u>cog</u> that keeps the project running smoothly.
+
+### Japanese Translation
+J-1: 予期せぬ変更があったため、チームは計画を<u>修正</u>しなければなりませんでした。
+J-2: 彼女はプロジェクトがスムーズに進むための<u>重要な役割</u>を果たしています。

@@ -1,0 +1,8 @@
+# Key:obsession
+### English Sentences
+E-1: She has an <u>obsession</u> with cleanliness and constantly cleans her house.
+E-2: His <u>obsession</u> with winning drives him to train for hours every day.
+
+### Japanese Translation
+J-1: 彼女は清潔さへの<u>執着心</u>があり、家を常に掃除しています。
+J-2: 彼の勝利への<u>こだわり</u>が彼を毎日何時間もトレーニングさせます。

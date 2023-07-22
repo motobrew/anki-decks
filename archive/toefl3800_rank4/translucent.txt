@@ -1,0 +1,8 @@
+# Key:translucent
+### English Sentences
+E-1: The window is made of <u>translucent</u> glass, allowing light to pass through.
+E-2: She wore a dress with a <u>translucent</u> fabric that revealed her figure.
+
+### Japanese Translation
+J-1: その窓は<u>半透明</u>ガラスでできており、光が通り抜けます。
+J-2: 彼女は透明な生地でできたドレスを着ていて、彼女の体型が見えました。

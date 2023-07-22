@@ -1,0 +1,8 @@
+# Key:touchstone
+### English Sentences
+E-1: The Constitution serves as a <u>touchstone</u> for interpreting laws.
+E-2: The iconic novel became a <u>touchstone</u> for the genre of science fiction.
+
+### Japanese Translation
+J-1: 憲法は法律の解釈の<u>基準となるもの</u>です。
+J-2: その有名な小説は、SFジャンルの<u>基準となるもの</u>となりました。

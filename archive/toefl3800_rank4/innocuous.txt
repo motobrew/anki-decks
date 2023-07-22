@@ -1,0 +1,8 @@
+# Key:innocuous
+### English Sentences
+E-1: The <u>innocuous</u> comment sparked a heated argument among friends.
+E-2: It may seem <u>innocuous</u>, but gossip can ruin someone's reputation.
+
+### Japanese Translation
+J-1: 友達の間で<u>無害そうな</u>コメントが激しい議論を引き起こしました。
+J-2: それは<u>無害に</u>思えるかもしれませんが、うわさは誰かの評判を台無しにすることがあります。

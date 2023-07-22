@@ -1,0 +1,8 @@
+# Key:indignity
+### English Sentences
+E-1: He suffered a great <u>indignity</u> when he was publicly humiliated.
+E-2: The elderly man experienced the <u>indignity</u> of being ignored by the younger generation.
+
+### Japanese Translation
+J-1: 彼は公に恥をかかされるという大きな<u>屈辱</u>を受けました。
+J-2: その老人は若い世代に無視されるという<u>辱め</u>を受けました。

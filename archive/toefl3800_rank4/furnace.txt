@@ -1,0 +1,8 @@
+# Key:furnace
+### English Sentences
+E-1: The heat in the room was like a <u>furnace</u>.
+E-2: The factory was running at full capacity, like a blazing <u>furnace</u>.
+
+### Japanese Translation
+J-1: 部屋の熱はまるで<u>かまど</u>のようでした。
+J-2: その工場は、燃え盛る<u>かまど</u>のように満員運転していました。

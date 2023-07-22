@@ -1,0 +1,8 @@
+# Key:manifold
+### English Sentences
+E-1: The <u>manifold</u> benefits of exercise include improved physical and mental health.
+E-2: The challenges we face in life are <u>manifold</u> and require different strategies to overcome.
+
+### Japanese Translation
+J-1: 運動の<u>多様な</u>利点には、身体的および精神的な健康の改善が含まれます。
+J-2: 人生で直面する課題は<u>多岐にわたり</u>、克服するために異なる戦略が必要です。

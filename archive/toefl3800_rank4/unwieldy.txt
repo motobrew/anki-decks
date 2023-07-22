@@ -1,0 +1,8 @@
+# Key:unwieldy
+### English Sentences
+E-1: The package was too <u>unwieldy</u> to carry up the stairs alone.
+E-2: I struggled to maneuver the <u>unwieldy</u> shopping cart through the narrow aisle.
+
+### Japanese Translation
+J-1: 一人で階段を運ぶには荷物が<u>扱いにくい</u>すぎました。
+J-2: 狭い通路を<u>扱いにくい</u>ショッピングカートを操作するのに苦労しました。

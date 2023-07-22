@@ -1,0 +1,8 @@
+# Key:suppleness
+### English Sentences
+E-1: Yoga can help improve the <u>suppleness</u> of your body.
+E-2: The gymnast showed incredible <u>suppleness</u> in her routine.
+
+### Japanese Translation
+J-1: ヨガは体の<u>柔軟性</u>を改善するのに役立ちます。
+J-2: その体操選手は、ルーティンで信じられないほどの<u>柔軟性</u>を見せました。

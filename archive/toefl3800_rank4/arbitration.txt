@@ -1,0 +1,8 @@
+# Key:arbitration
+### English Sentences
+E-1: The contract stated that any disputes would be resolved through <u>arbitration</u>.
+E-2: The two parties agreed to submit their case to <u>arbitration</u> instead of going to court.
+
+### Japanese Translation
+J-1: 契約書には、紛争は<u>仲裁</u>によって解決されることが記載されていました。
+J-2: 両当事者は、裁判所に行く代わりに、自分たちの事件を<u>仲裁</u>に提出することに同意しました。

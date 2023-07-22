@@ -1,0 +1,8 @@
+# Key:clandestine
+### English Sentences
+E-1: The secret meeting was held in a <u>clandestine</u> location to avoid detection.
+E-2: The organization operated in a <u>clandestine</u> manner, conducting covert operations.
+
+### Japanese Translation
+J-1: 秘密の会議は<u>秘密裏の</u>場所で開催され、発見されるのを避けました。
+J-2: その組織は<u>秘密裏に</u>活動し、極秘な作戦を実施していました。

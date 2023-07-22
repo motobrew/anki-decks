@@ -1,0 +1,8 @@
+# Key:motor neuron
+### English Sentences
+E-1: A <u>motor neuron</u> is a nerve cell that controls muscle movement.
+E-2: Damage to the <u>motor neurons</u> can result in muscle weakness or paralysis.
+
+### Japanese Translation
+J-1: <u>運動ニューロン</u>は筋肉の運動を制御する神経細胞です。
+J-2: <u>運動ニューロン</u>の損傷は筋力の弱さや麻痺を引き起こす可能性があります。

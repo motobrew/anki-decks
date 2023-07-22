@@ -1,0 +1,8 @@
+# Key:miserly
+### English Sentences
+E-1: He is known for being <u>miserly</u> and never spending a dime.
+E-2: My boss is so <u>miserly</u> that he refuses to provide raises.
+
+### Japanese Translation
+J-1: 彼はケチで知られ、一銭も使わないことで有名です。
+J-2: 私の上司はとてもケチで、昇給を拒否します。

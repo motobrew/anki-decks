@@ -1,0 +1,8 @@
+# Key:fresco
+### English Sentences
+E-1: The painter created a stunning <u>fresco</u> on the chapel's ceiling.
+E-2: The historical site is famous for its ancient <u>frescos</u> depicting a thousand stories.
+
+### Japanese Translation
+J-1: 画家は教会の天井に素晴らしい<u>フレスコ画</u>を作りました。
+J-2: その史跡は、何千もの物語を描いた古代の<u>フレスコ画</u>で有名です。

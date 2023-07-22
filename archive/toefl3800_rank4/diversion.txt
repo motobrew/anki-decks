@@ -1,0 +1,8 @@
+# Key:diversion
+### English Sentences
+E-1: The billboard on the highway is a major <u>diversion</u> for drivers.
+E-2: She used music as a <u>diversion</u> to distract herself from the pain.
+
+### Japanese Translation
+J-1: 高速道路の広告掲示板は、運転手にとって大きな<u>気晴らし</u>です。
+J-2: 彼女は音楽を<u>気晴らし</u>として、痛みを忘れようとした。

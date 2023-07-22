@@ -1,0 +1,8 @@
+# Key:cubicle
+### English Sentences
+E-1: My office is so small, it feels like working in a <u>cubicle</u>.
+E-2: He likes his privacy, so he built a literal <u>cubicle</u> in his room.
+
+### Japanese Translation
+J-1: 私のオフィスはとても小さいので、まるで<u>小さい個室</u>で働いているような感じです。
+J-2: 彼はプライバシーが好きなので、部屋に文字通り<u>小さな仕切り</u>を作りました。

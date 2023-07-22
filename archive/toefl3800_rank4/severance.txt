@@ -1,0 +1,8 @@
+# Key:severance
+### English Sentences
+E-1: After losing his job, he received a generous <u>severance</u> package.
+E-2: The company offered her a <u>severance</u> agreement when she resigned.
+
+### Japanese Translation
+J-1: 仕事を失った後、彼は豪華な<u>退職金</u>を受け取りました。
+J-2: 彼女が辞職した際、会社は彼女に<u>解雇手当</u>の提案をしました。

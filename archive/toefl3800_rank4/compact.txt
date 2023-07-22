@@ -1,0 +1,8 @@
+# Key:compact
+### English Sentences
+E-1: I bought a new <u>compact</u> car to save on gas.
+E-2: She carries a <u>compact</u> mirror in her purse for touch-ups.
+
+### Japanese Translation
+J-1: ガソリンを節約するために、新しい<u>コンパクト</u>カーを買いました。
+J-2: 彼女は化粧直し用に、財布に<u>コンパクト</u>ミラーを持っています。

@@ -1,0 +1,8 @@
+# Key:increment
+### English Sentences
+E-1: The company announced an <u>increment</u> in salaries for all employees.
+E-2: The temperature in this region experiences a gradual <u>increment</u> throughout the day.
+
+### Japanese Translation
+J-1: 会社は全従業員の給料を<u>増額</u>することを発表しました。
+J-2: この地域の気温は一日中徐々に<u>上昇します</u>。

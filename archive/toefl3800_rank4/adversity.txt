@@ -1,0 +1,8 @@
+# Key:adversity
+### English Sentences
+E-1: Despite facing <u>adversity</u>, she never gave up on her dreams.
+E-2: The team overcame the <u>adversity</u> of losing their star player.
+
+### Japanese Translation
+J-1: 彼女は<u>逆境</u>に直面しても、夢を諦めなかった。
+J-2: チームは主力選手を失った<u>逆境</u>を乗り越えた。

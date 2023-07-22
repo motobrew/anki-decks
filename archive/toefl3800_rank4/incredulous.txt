@@ -1,0 +1,8 @@
+# Key:incredulous
+### English Sentences
+E-1: She looked at him with an <u>incredulous</u> expression, unable to believe what he was saying.
+E-2: The students were <u>incredulous</u> when they heard that school was cancelled.
+
+### Japanese Translation
+J-1: 彼が言っていることを信じられないという<u>不信な</u>表情で彼女は彼を見つめた。
+J-2: 学校が休みになったと聞いて、生徒たちは<u>信じられない</u>と驚いた。

@@ -1,0 +1,8 @@
+# Key:secede
+### English Sentences
+E-1: The region threatened to <u>secede</u> from the country and form its own independent state.
+E-2: The company decided to <u>secede</u> from the union and establish its own bargaining unit.
+
+### Japanese Translation
+J-1: その地域は、国から<u>分離独立</u>して独自の州を形成することを脅迫しました。
+J-2: 会社は、労働組合から<u>離脱して</u>独自の団体交渉ユニットを設立することを決定しました。

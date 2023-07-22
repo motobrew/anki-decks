@@ -1,0 +1,8 @@
+# Key:torpid
+### English Sentences
+E-1: The hot weather made me feel <u>torpid</u> and sluggish all day.
+E-2: After eating a big meal, a feeling of <u>torpidity</u> washed over me.
+
+### Japanese Translation
+J-1: 真夏の暑さで一日中眠くて、気だるい気分になりました。
+J-2: 大食いをした後、<u>無気力感</u>に包まれました。

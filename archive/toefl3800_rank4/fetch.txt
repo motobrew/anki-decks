@@ -1,0 +1,8 @@
+# Key:fetch
+### English Sentences
+E-1: The dog eagerly fetched the stick when it was thrown.
+E-2: The butler was quick to fetch a glass of water for the guest.
+
+### Japanese Translation
+J-1: スティックが投げられた時、犬は嬉しそうに<u>取ってきました</u>。
+J-2: バトラーは素早く客に水を<u>取りに行きました</u>。

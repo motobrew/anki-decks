@@ -1,0 +1,8 @@
+# Key:relentless
+### English Sentences
+E-1: The <u>relentless</u> rain kept us indoors all day.
+E-2: Despite his injuries, he showed <u>relentless</u> determination to win.
+
+### Japanese Translation
+J-1: <u>執拗な</u>雨で一日中家にいなければなりませんでした。
+J-2: 彼は Lesions を負っているにもかかわらず、勝利への<u>断固たる</u>決意を示しました。

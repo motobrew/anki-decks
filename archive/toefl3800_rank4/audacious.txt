@@ -1,0 +1,8 @@
+# Key:audacious
+### English Sentences
+E-1: He had the <u>audacity</u> to ask for a raise after his recent poor performance.
+E-2: The <u>audacious</u> plan to climb Mount Everest without oxygen was deemed too risky.
+
+### Japanese Translation
+J-1: 彼は最近の低迷した成績の後に昇給を求めるという<u度胸</u>を持っていた。
+J-2: 酸素なしでエベレストに登るという<u大胆な</u>計画は、リスクが高すぎると見なされました。

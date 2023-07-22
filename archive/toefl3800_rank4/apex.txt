@@ -1,0 +1,8 @@
+# Key:apex
+### English Sentences
+E-1: At the <u>apex</u> of his career, he won numerous awards and accolades.
+E-2: The mountain climber reached the <u>apex</u> of the summit, feeling accomplished.
+
+### Japanese Translation
+J-1: 彼はキャリアの<u>頂点</u>で、数々の賞と称賛を受けました。
+J-2: 山岳登山家は山の<u>最高点</u>に達し、達成感を味わいました。

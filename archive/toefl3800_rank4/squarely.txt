@@ -1,0 +1,8 @@
+# Key:squarely
+### English Sentences
+E-1: The detective <u>squarely</u> confronted the suspect with the evidence.
+E-2: She <u>squarely</u> addressed the issue in her speech.
+
+### Japanese Translation
+J-1: 刑事は証拠をもとに犯人に<u>直接に</u>立ち向かった。
+J-2: 彼女はスピーチでその問題に<u>遠慮なく</u>取り組んだ。

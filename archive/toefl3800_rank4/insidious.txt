@@ -1,0 +1,8 @@
+# Key:insidious
+### English Sentences
+E-1: The <u>insidious</u> rumors spread quickly and caused damage in the community.
+E-2: The effects of smoking can be <u>insidious</u>, slowly damaging the body over time.
+
+### Japanese Translation
+J-1: <u>陰険な</u>噂が急速に広まり、地域に被害をもたらしました。
+J-2: 喫煙の影響は<u>陰険</u>で、時間をかけて徐々に体を傷つけます。

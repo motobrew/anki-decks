@@ -1,0 +1,8 @@
+# Key:antiquated
+### English Sentences
+E-1: The use of typewriters is considered <u>antiquated</u> in today's digital age.
+E-2: The company's outdated system is hindering efficiency and needs to be replaced.
+
+### Japanese Translation
+J-1: 今日のデジタル時代では、タイプライターの使用は<u>時代遅れ</u>とされています。
+J-2: その会社の古いシステムは効率を阻害しており、交換が必要です。

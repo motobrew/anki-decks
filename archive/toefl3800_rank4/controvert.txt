@@ -1,0 +1,8 @@
+# Key:controvert
+### English Sentences
+E-1: The controversial statement made during the debate sparked a heated discussion.
+E-2: The article attempts to controvert the widely accepted theories on climate change.
+
+### Japanese Translation
+J-1: ディベート中になされた<u>物議を醸した</u>発言が激しい議論を引き起こしました。
+J-2: その記事は、気候変動に関する広く受け入れられている理論に<u>異を唱える</u>ことを試みています。

@@ -1,0 +1,8 @@
+# Key:wrangle
+### English Sentences
+E-1: The team had to <u>wrangle</u> with conflicting opinions during the meeting.
+E-2: It took several hours to <u>wrangle</u> with the customer over the pricing.
+
+### Japanese Translation
+J-1: チームは会議中に意見の対立に<u>対処しなければならなかった</u>。
+J-2: 価格について顧客と<u>じっくり話し合う</u>のに数時間かかりました。

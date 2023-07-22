@@ -1,0 +1,8 @@
+# Key:boulder
+### English Sentences
+E-1: The weight of her responsibilities felt like a heavy <u>boulder</u> on her shoulders.
+E-2: The team faced a <u>boulder</u> of challenges while working on the project.
+
+### Japanese Translation
+J-1: 彼女の責任の重さは、彼女の肩に重い<u>大石</u>のようでした。
+J-2: チームはプロジェクトに取り組んでいる間、さまざまな<u>困難の大石</u>に直面しました。

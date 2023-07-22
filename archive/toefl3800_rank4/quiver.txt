@@ -1,0 +1,8 @@
+# Key:quiver
+### English Sentences
+E-1: My heart began to <u>quiver</u> with excitement as I stepped on stage.
+E-2: The delicate leaves of the tree <u>quivered</u> in the breeze.
+
+### Japanese Translation
+J-1: ステージに立つと、胸が<u>わくわくと震え始めました</u>。
+J-2: 木の繊細な葉が風に<u>震えました</u>。

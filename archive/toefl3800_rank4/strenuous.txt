@@ -1,0 +1,8 @@
+# Key:strenuous
+### English Sentences
+E-1: The hike up the mountain was too strenuous for me.
+E-2: The new workout routine is really strenuous on my body.
+
+### Japanese Translation
+J-1: 山登りは私にとってとても<u>きつい</u>ものでした。
+J-2: 新しいトレーニングルーティンは私の体に本当に<u>過酷</u>です。

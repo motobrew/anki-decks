@@ -1,0 +1,8 @@
+# Key:gregarious
+### English Sentences
+E-1: She is known for being <u>gregarious</u> and always surrounded by friends.
+E-2: He is a shy person, the opposite of <u>gregarious</u>.
+
+### Japanese Translation
+J-1: 彼女は<u>社交的である</u>ことで知られ、いつも友人に囲まれています。
+J-2: 彼は内向的な人で、<u>社交的</u>とは正反対です。

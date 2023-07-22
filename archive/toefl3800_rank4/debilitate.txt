@@ -1,0 +1,8 @@
+# Key:debilitate
+### English Sentences
+E-1: The flu really <u>debilitated</u> him and he couldn't leave his bed.
+E-2: The economic crisis has <u>debilitated</u> small businesses, forcing many to close.
+
+### Japanese Translation
+J-1: 彼は風邪で本当に<u>衰弱し</u>、ベッドから出ることができませんでした。
+J-2: 経済危機は中小企業を<u>弱体化させ</u>、多くの企業が閉業せざるを得ない状況に追い込まれました。

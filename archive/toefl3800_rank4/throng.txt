@@ -1,0 +1,8 @@
+# Key:throng
+### English Sentences
+E-1: The streets were filled with a <u>throng</u> of excited fans after the concert.
+E-2: A <u>throng</u> of demonstrators gathered outside the government building to protest.
+
+### Japanese Translation
+J-1: コンサート後、通りは興奮したファンの<u>群衆</u>で溢れていました。
+J-2: 抗議するために政府の建物の外に<u>群衆</u>が集まりました。

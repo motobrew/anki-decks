@@ -1,0 +1,8 @@
+# Key:public hygiene
+### English Sentences
+E-1: It's important to practice <u>public hygiene</u> by washing your hands regularly.
+E-2: The government has implemented measures to improve <u>public hygiene</u> in public spaces.
+
+### Japanese Translation
+J-1: 定期的に手を洗うことで、<u>公衆衛生</u>を実践することが重要です。
+J-2: 政府は公共の場所での<u>公衆衛生</u>の改善策を実施しています。

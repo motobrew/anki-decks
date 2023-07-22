@@ -1,0 +1,8 @@
+# Key:ascetic
+### English Sentences
+E-1: She lived an <u>ascetic</u> lifestyle, rarely indulging in worldly pleasures.
+E-2: The <u>ascetic</u> monk meditated for hours each day, seeking spiritual enlightenment.
+
+### Japanese Translation
+J-1: 彼女は禁欲的な生活を送り、世俗的な快楽をめったに満たしませんでした。
+J-2: その禁欲的な修行僧は毎日何時間も瞑想し、霊的な啓示を求めていました。

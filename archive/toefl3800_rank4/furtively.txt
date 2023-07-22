@@ -1,0 +1,8 @@
+# Key:furtively
+### English Sentences
+E-1: She glanced around <u>furtively</u> before slipping the stolen necklace into her purse.
+E-2: He <u>furtively</u> texted his friend during the important meeting.
+
+### Japanese Translation
+J-1: 彼女は<u>こっそり</u>周りを見回して、盗んだネックレスをバッグにしのばせました。
+J-2: 大事な会議中に彼は<u>密かに</u>友達にテキストを送りました。

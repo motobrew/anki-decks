@@ -1,0 +1,8 @@
+# Key:bombastic
+### English Sentences
+E-1: Her speech was filled with <u>bombastic</u> language and grandiose claims.
+E-2: The politician's campaign promises were nothing but <u>bombastic</u> rhetoric.
+
+### Japanese Translation
+J-1: 彼女のスピーチは、大げさな言葉や誇大な主張であふれていた。
+J-2: その政治家の選挙公約は、ただの大言壮語に過ぎなかった。

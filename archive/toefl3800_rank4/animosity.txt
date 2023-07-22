@@ -1,0 +1,8 @@
+# Key:animosity
+### English Sentences
+E-1: There was a lot of <u>animosity</u> between the two rival teams.
+E-2: The discussion turned into an argument filled with <u>animosity</u>.
+
+### Japanese Translation
+J-1: ライバルチームの間には<u>憎悪</u>がたくさんありました。
+J-2: 議論は<u>憎しみに満ちた口論</u>になりました。

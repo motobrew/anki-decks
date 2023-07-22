@@ -1,0 +1,8 @@
+# Key:detrimental
+### English Sentences
+E-1: The <u>detrimental</u> effects of smoking are well-documented.
+E-2: Lack of exercise can have <u>detrimental</u> effects on your health.
+
+### Japanese Translation
+J-1: 喫煙の<u>有害</u>な影響は十分に文献化されています。
+J-2: 運動不足は健康に<u>悪影響</u>を及ぼすことがあります。

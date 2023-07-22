@@ -1,0 +1,8 @@
+# Key:litigation
+### English Sentences
+E-1: Going through <u>litigation</u> can be a lengthy and costly process.
+E-2: The company hired a lawyer to handle their <u>litigation</u> matters.
+
+### Japanese Translation
+J-1: <u>訴訟</u>を経験することは時間と費用がかかる場合があります。
+J-2: 会社は訴訟の問題を扱うために弁護士を雇いました。

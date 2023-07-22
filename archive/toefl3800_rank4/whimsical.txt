@@ -1,0 +1,8 @@
+# Key:whimsical
+### English Sentences
+E-1: The artist's paintings were full of <u>whimsical</u> characters and surreal landscapes.
+E-2: The children spent the afternoon playing with <u>whimsical</u> origami animals.
+
+### Japanese Translation
+J-1: その芸術家の絵は、風変わりなキャラクターやシュールな風景で溢れていました。
+J-2: 子供たちは午後を<u>奇妙な</u>折り紙の動物と遊ぶことで過ごしました。

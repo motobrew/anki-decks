@@ -1,0 +1,8 @@
+# Key:rupture
+### English Sentences
+E-1: The pressure caused a <u>rupture</u> in the water pipe.
+E-2: Their argument led to a <u>rupture</u> in their friendship.
+
+### Japanese Translation
+J-1: 圧力によって水管が<u>破裂</u>しました。
+J-2: 彼らの口論が友情の<u>破局</u>をもたらしました。

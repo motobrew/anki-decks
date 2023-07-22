@@ -1,0 +1,8 @@
+# Key:contraband
+### English Sentences
+E-1: The police found <u>contraband</u> hidden in the suspect's car.
+E-2: The airport security confiscated the traveler's <u>contraband</u> items.
+
+### Japanese Translation
+J-1: 警察は容疑者の車の隠し場所から<u>密輸品</u>を見つけた。
+J-2: 空港のセキュリティは旅行者の<u>不正品</u>を没収した。

@@ -1,0 +1,8 @@
+# Key:income distribution
+### English Sentences
+E-1: The <u>income distribution</u> in this country is highly unequal.
+E-2: Government policies aim to address issues of <u>income distribution</u>.
+
+### Japanese Translation
+J-1: この国の<u>所得分配</u>は非常に不均衡です。
+J-2: 政府の政策は<u>所得分配</u>の問題に対処することを目指しています。

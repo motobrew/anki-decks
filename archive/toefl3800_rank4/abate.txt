@@ -1,0 +1,8 @@
+# Key:abate
+### English Sentences
+E-1: The storm started to <u>abate</u> after hours of heavy rain.
+E-2: The doctor prescribed medication to help <u>abate</u> the patient's pain.
+
+### Japanese Translation
+J-1: 強い雨が降り続いた数時間後、嵐は<u>収まり始めました</u>。
+J-2: 医師は患者の痛みを<u>和らげるため</u>に薬を処方しました。

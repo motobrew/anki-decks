@@ -1,0 +1,8 @@
+# Key:concoct
+### English Sentences
+E-1: He <u>concocted</u> a plan to prank his friends at the party.
+E-2: The chef <u>concocted</u> a delicious new recipe using unusual ingredients.
+
+### Japanese Translation
+J-1: 彼はパーティーで友達をいたずらするための計画を<u>たくらみました</u>。
+J-2: シェフは珍しい食材を使って美味しい新しいレシピを<u>工夫しました</u>。

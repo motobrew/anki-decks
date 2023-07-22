@@ -1,0 +1,8 @@
+# Key:purport
+### English Sentences
+E-1: The document's <u>purported</u> author denies any involvement in the scandal.
+E-2: The company's <u>purported</u> goal is to create a sustainable future.
+
+### Japanese Translation
+J-1: その文書の<u>主張された</u>筆者は、スキャンダルに関与していないと主張しています。
+J-2: その会社の<u>主張された</u>目標は、持続可能な未来を作ることです。

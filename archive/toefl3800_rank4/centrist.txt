@@ -1,0 +1,8 @@
+# Key:centrist
+### English Sentences
+E-1: She is known for her <u>centrist</u> views on political issues.
+E-2: The candidate's campaign focuses on appealing to <u>centrist</u> voters.
+
+### Japanese Translation
+J-1: 彼女は政治問題における<u>中道派</u>の意見で知られています。
+J-2: その候補者の選挙活動は、<u>中道派</u>有権者へのアピールに焦点を当てています。

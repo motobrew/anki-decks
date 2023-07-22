@@ -1,0 +1,8 @@
+# Key:artifice
+### English Sentences
+E-1: She used <u>artifice</u> to convince him to change his mind.
+E-2: The magician's tricks were all based on clever <u>artifices</u>.
+
+### Japanese Translation
+J-1: 彼女は彼を説得するために<u>策略</u>を使いました。
+J-2: そのマジシャンのトリックはすべて巧妙な<u>策略</u>に基づいていた。

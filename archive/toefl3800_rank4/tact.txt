@@ -1,0 +1,8 @@
+# Key:tact
+### English Sentences
+E-1: She handled the difficult situation with <u>tact</u> and diplomacy.
+E-2: It is important to approach sensitive topics with <u>tact</u> and empathy.
+
+### Japanese Translation
+J-1: 彼女はその難しい状況に<u慎重さ</u>と外交的な姿勢で対処しました。
+J-2: 敏感な話題には<u慎重さ</u>と共感を持って取り組むことが重要です。

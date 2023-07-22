@@ -1,0 +1,8 @@
+# Key:halcyon
+### English Sentences
+E-1: The memories of that summer are a <u>halcyon</u> in my mind.
+E-2: She longs for the <u>halcyon</u> days of her youth.
+
+### Japanese Translation
+J-1: あの夏の思い出は私の心に<u>穏やかな日々</u>として残っています。
+J-2: 彼女は若かった頃の<u>平和な日々</u>を懐かしく思っています。

@@ -1,0 +1,8 @@
+# Key:darkroom
+### English Sentences
+E-1: I developed the film in the <u>darkroom</u> to create the perfect image.
+E-2: The photographer spent hours working in the <u>darkroom</u> to develop the photos.
+
+### Japanese Translation
+J-1: 完璧な写真を作るために、私はフィルムを<u>暗室</u>で現像しました。
+J-2: 写真家は写真を現像するために何時間も<u>暗室</u>で作業しました。

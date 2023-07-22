@@ -1,0 +1,8 @@
+# Key:bronchitis
+### English Sentences
+E-1: He was coughing so much that he thought he had <u>bronchitis</u>.
+E-2: The polluted air caused him to develop <u>bronchitis</u>.
+
+### Japanese Translation
+J-1: 彼は咳がひどくて、自分が<u>気管支炎</u>になったと思った。
+J-2: 公害のために彼は<u>気管支炎</u>を発症した。

@@ -1,0 +1,8 @@
+# Key:disparity
+### English Sentences
+E-1: There is a significant <u>disparity</u> in income between the rich and the poor.
+E-2: The <u>disparity</u> in access to education is a major issue in many countries.
+
+### Japanese Translation
+J-1: 富裕層と貧困層の間には収入の<u>格差</u>が大きくあります。
+J-2: 多くの国で教育へのアクセスの<u>不均衡</u>が深刻な課題となっています。

@@ -1,0 +1,8 @@
+# Key:succulent
+### English Sentences
+E-1: My mouth waters at the sight of a <u>succulent</u> steak.
+E-2: The <u>succulent</u> plants in the garden need very little water.
+
+### Japanese Translation
+J-1: ビジュアルを見ると、私の口は<span style="text-decoration: underline;">肉汁たっぷりの</span>ステーキでよだれが出ます。
+J-2: 庭の<span style="text-decoration: underline;">多肉植物</span>は非常に少ない水しか必要としません。

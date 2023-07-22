@@ -1,0 +1,8 @@
+# Key:coax
+### English Sentences
+E-1: She managed to <u>coax</u> the shy child out of her shell.
+E-2: The coach tried to <u>coax</u> the injured player back onto the field.
+
+### Japanese Translation
+J-1: 彼女は、内気な子供を説得して自分を開放させた。
+J-2: コーチは、けがをした選手をフィールドに戻そうと説得しました。

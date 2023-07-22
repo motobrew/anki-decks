@@ -1,0 +1,8 @@
+# Key:irrevocable
+### English Sentences
+E-1: The contract was marked as <u>irrevocable</u>, and there was no turning back.
+E-2: The decision to quit my job was <u>irrevocable</u>, and I never regretted it.
+
+### Japanese Translation
+J-1: 契約は<u>取り返しのつかない</u>ものとされ、戻ることはできませんでした。
+J-2: 仕事を辞めるという決断は<u>取り返しのつかない</u>ものであり、後悔はありませんでした。

@@ -1,0 +1,8 @@
+# Key:contentious
+### English Sentences
+E-1: The topic of politics can be highly <u>contentious</u> and lead to heated arguments.
+E-2: The decision to close the local library was a <u>contentious</u> issue among the residents.
+
+### Japanese Translation
+J-1: 政治の話題は非常に<u>論争の的となる</u>ことがあり、激しい論争を引き起こすこともあります。
+J-2: 地元の図書館を閉鎖する決定は住民の間で<u>議論の的となる</u>問題でした。

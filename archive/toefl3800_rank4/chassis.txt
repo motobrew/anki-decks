@@ -1,0 +1,8 @@
+# Key:chassis
+### English Sentences
+E-1: The mechanics worked tirelessly to repair the damaged <u>chassis</u> of the car.
+E-2: The team designed a lightweight <u>chassis</u> to improve the performance of the vehicle.
+
+### Japanese Translation
+J-1: メカニックは車の損傷した<u>シャシー</u>を修理するために忙しく働きました。
+J-2: チームは車両の性能を向上させるために軽量な<u>シャシー</u>を設計しました。

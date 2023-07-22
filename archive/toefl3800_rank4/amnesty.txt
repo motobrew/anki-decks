@@ -1,0 +1,8 @@
+# Key:amnesty
+### English Sentences
+E-1: The government announced an <u>amnesty</u> for undocumented immigrants.
+E-2: The president granted <u>amnesty</u> to political prisoners.
+
+### Japanese Translation
+J-1: 政府は不法滞在者に<u>恩赦</u>を発表しました。
+J-2: 大統領は政治犯に<u>赦免</u>を与えました。

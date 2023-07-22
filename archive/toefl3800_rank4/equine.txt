@@ -1,0 +1,8 @@
+# Key:equine
+### English Sentences
+E-1: She has been working in the <u>equine</u> industry for over 10 years.
+E-2: The stable is home to several <u>equine</u> champions.
+
+### Japanese Translation
+J-1: 彼女は<u>馬業</u>で10年以上働いています。
+J-2: その厩舎には数頭の<u>競走馬</u>がいます。

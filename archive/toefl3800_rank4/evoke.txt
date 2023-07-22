@@ -1,0 +1,8 @@
+# Key:evoke
+### English Sentences
+E-1: The film's soundtrack <u>evokes</u> a sense of nostalgia and longing. 
+E-2: The old photograph <u>evokes</u> memories of our childhood adventures. 
+
+### Japanese Translation
+J-1: その映画のサウンドトラックは、ノスタルジアと切なさを<u>引き起こします</u>。
+J-2: その古い写真は、私たちの子供時代の冒険を<u>思い出させます</u>。

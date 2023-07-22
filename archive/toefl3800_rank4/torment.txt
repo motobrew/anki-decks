@@ -1,0 +1,8 @@
+# Key:torment
+### English Sentences
+E-1: His past mistakes continue to <u>torment</u> him every night.
+E-2: The loss of her loved one has been a constant <u>torment</u> for her.
+
+### Japanese Translation
+J-1: 彼の過去の過ちは毎晩彼を<u>苦しめ続けています</u>。
+J-2: 彼女の大切な人を失ったことは彼女にとって<u>絶え間ない苦悩</u>となっています。

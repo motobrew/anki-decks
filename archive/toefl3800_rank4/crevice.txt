@@ -1,0 +1,8 @@
+# Key:crevice
+### English Sentences
+E-1: I found a small <u>crevice</u> in the wall where spiders hide.
+E-2: The hiker was able to fit through a narrow <u>crevice</u> in the rocks.
+
+### Japanese Translation
+J-1: 壁にはクモが隠れる<u>小さな隙間</u>がありました。
+J-2: ハイカーは岩の<u>狭い割れ目</u>を通ることができました。

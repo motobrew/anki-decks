@@ -1,0 +1,8 @@
+# Key:perceptive
+### English Sentences
+E-1: She has a <u>perceptive</u> eye for detail, noticing even the smallest changes.
+E-2: His <u>perceptive</u> analysis of the situation helped us make informed decisions.
+
+### Japanese Translation
+J-1: 彼女は細部に<u気づく</u>観察眼を持っており、最小の変化まで気づきます。
+J-2: 彼の<u>洞察力に富んだ</u>状況分析のおかげで、私たちは情報を基にした決定をすることができました。

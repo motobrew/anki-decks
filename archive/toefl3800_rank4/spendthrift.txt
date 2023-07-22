@@ -1,0 +1,8 @@
+# Key:spendthrift
+### English Sentences
+E-1: She's a real <u>spendthrift</u> - always buying things she doesn't need.
+E-2: My brother wasted all his money on that <u>spendthrift</u> vacation.
+
+### Japanese Translation
+J-1: 彼女は本当の<u>浪費家</u>で、いつも必要のないものを買っています。
+J-2: 兄はその<u>散財</u>なバケーションに全財産を浪費しました。

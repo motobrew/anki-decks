@@ -1,0 +1,8 @@
+# Key:jettison
+### English Sentences
+E-1: The company was forced to <u>jettison</u> several employees due to financial constraints.
+E-2: In order to save weight, the pilot decided to <u>jettison</u> some cargo.
+
+### Japanese Translation
+J-1: 会社は財政制約により、いくつかの従業員を<u>削減せざるを得なかった</u>。
+J-2: 重量を節約するために、パイロットはいくつかの貨物を<u>投棄することに決めました</u>。

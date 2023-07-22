@@ -1,0 +1,8 @@
+# Key:gruesome
+### English Sentences
+E-1: The crime scene was described as <u>gruesome</u> with blood everywhere.
+E-2: The horror movie had a <u>gruesome</u> scene that made me cover my eyes.
+
+### Japanese Translation
+J-1: 犯罪現場は、血だらけで<u>恐ろしい光景だった</u>と説明されました。
+J-2: そのホラー映画には、私が目を覆うほど<u>ぞっとするようなシーン</u>がありました。

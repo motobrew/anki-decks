@@ -1,0 +1,8 @@
+# Key:tackle
+### English Sentences
+E-1: The team needs to <u>tackle</u> the issue of low employee morale.
+E-2: We should <u>tackle</u> the problem of pollution in our community.
+
+### Japanese Translation
+J-1: チームは従業員の士気低下の問題に取り組む必要があります。
+J-2: 私たちは地域の公害問題に取り組むべきです。

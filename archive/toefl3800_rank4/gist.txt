@@ -1,0 +1,8 @@
+# Key:gist
+### English Sentences
+E-1: I didn't understand everything, but I got the <u>gist</u> of the conversation.
+E-2: Please give me a quick summary or the <u>gist</u> of the story.
+
+### Japanese Translation
+J-1: 全部は理解できなかったけど、会話の<u>要点</u>は掴めた。
+J-2: その話の簡単な要約や<u>大意</u>を教えてください。

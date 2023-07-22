@@ -1,0 +1,8 @@
+# Key:bourgeois
+### English Sentences
+E-1: The art gallery is hosting a <u>bourgeois</u> exhibition of Impressionist paintings.
+E-2: He enjoys the finer things in life and has developed a <u>bourgeois</u> taste in wine.
+
+### Japanese Translation
+J-1: その美術館では印象派の絵画の<u>上流階級</u>の展示会が行われています。
+J-2: 彼は贅沢な生活を楽しんでおり、ワインの<u>上流階級の</u>趣味を身につけています。

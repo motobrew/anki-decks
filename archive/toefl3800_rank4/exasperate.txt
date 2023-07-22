@@ -1,0 +1,8 @@
+# Key:exasperate
+### English Sentences
+E-1: The constant noise from the construction site began to <u>exasperate</u> the residents.
+E-2: His endless complaining and negativity <u>exasperated</u> his friends.
+
+### Japanese Translation
+J-1: 建設現場からの騒音は、住民たちを<u>イライラさせる</u>ようになった。
+J-2: 彼の絶え間ない不平や否定的な態度は、友人たちを<u>いらだたせた</u>。

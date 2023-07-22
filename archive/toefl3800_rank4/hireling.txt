@@ -1,0 +1,8 @@
+# Key:hireling
+### English Sentences
+E-1: He is just a <u>hireling</u>, not a loyal employee.
+E-2: The politician was accused of using <u>hirelings</u> to spread propaganda.
+
+### Japanese Translation
+J-1: 彼はただの<u>雇われ労働者</u>で、忠実な従業員ではありません。
+J-2: その政治家は<u>雇われの手先</u>を使って宣伝を広めることで告発されました。

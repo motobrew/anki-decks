@@ -1,0 +1,8 @@
+# Key:deluge
+### English Sentences
+E-1: The sudden rainstorm caused a <u>deluge</u> of water in the streets.
+E-2: The release of the popular product resulted in a <u>deluge</u> of orders.
+
+### Japanese Translation
+J-1: 突然の豪雨により、道路は<u>大洪水</u>となりました。
+J-2: 人気商品の発売により、<u>大量の注文</u>が殺到しました。

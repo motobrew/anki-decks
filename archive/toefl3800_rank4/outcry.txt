@@ -1,0 +1,8 @@
+# Key:outcry
+### English Sentences
+E-1: The government's decision to increase taxes sparked a public <u>outcry</u>.
+E-2: The company's unethical practices led to a major <u>outcry</u> from consumers.
+
+### Japanese Translation
+J-1: 政府の税金増額の決定が大衆の<u>激しい抗議</u>を引き起こした。
+J-2: その会社の非倫理的な取り引きが、消費者からの大きな<u>抗議</u>を招いた。

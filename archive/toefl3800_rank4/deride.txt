@@ -1,0 +1,8 @@
+# Key:deride
+### English Sentences
+E-1: She <u>derided</u> his fashion sense, calling it outdated and tacky.
+E-2: The critics <u>derided</u> the movie, saying it was unoriginal and poorly made.
+
+### Japanese Translation
+J-1: 彼女は彼のファッションセンスを<u>あざ笑いました</u>、それを古臭くてダサいと言いました。
+J-2: 批評家たちはその映画を<u>からかいました</u>、それが非オリジナルで制作が粗いと言いました。

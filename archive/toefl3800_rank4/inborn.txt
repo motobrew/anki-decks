@@ -1,0 +1,8 @@
+# Key:inborn
+### English Sentences
+E-1: He has an <u>inborn</u> talent for playing the piano.
+E-2: The ability to swim is <u>inborn</u> in many animals.
+
+### Japanese Translation
+J-1: 彼はピアノを演奏する<u>天性の</u>才能を持っています。
+J-2: 泳ぐ能力は多くの動物にとって<u>生得的</u>です。

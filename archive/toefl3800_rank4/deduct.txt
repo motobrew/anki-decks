@@ -1,0 +1,8 @@
+# Key:deduct
+### English Sentences
+E-1: I will <u>deduct</u> the cost of the material from your final payment.
+E-2: The company will <u>deduct</u> taxes from our salaries before paying us.
+
+### Japanese Translation
+J-1: 素材の費用を最終支払いから<u>差し引きます</u>。
+J-2: 会社は私たちの給料から税金を<u>控除します</u>。

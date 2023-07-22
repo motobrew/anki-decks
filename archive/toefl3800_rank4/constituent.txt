@@ -1,0 +1,8 @@
+# Key:constituent
+### English Sentences
+E-1: The local representatives listened to the concerns of their <u>constituents</u>.
+E-2: The different ingredients are the <u>constituents</u> of this recipe.
+
+### Japanese Translation
+J-1: 地域の代表者たちは、自分たちの<u>有権者</u>の懸念を聞きました。
+J-2: 異なる材料は、このレシピの<u>構成要素</u>です。

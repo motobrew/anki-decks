@@ -1,0 +1,8 @@
+# Key:blur
+### English Sentences
+E-1: The dust storm caused everything to <u>blur</u> in the distance.
+E-2: Her tears made her vision <u>blur</u> and she could no longer see clearly.
+
+### Japanese Translation
+J-1: 砂嵐のために、遠くの全てが<u>ぼやけました</u>。
+J-2: 彼女の涙で、彼女の視界が<u>ぼやけ</u>て、もうはっきり見えませんでした。

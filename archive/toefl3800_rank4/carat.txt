@@ -1,0 +1,8 @@
+# Key:carat
+### English Sentences
+E-1: The diamond ring has a beautiful <u>carat</u> solitaire centerpiece.
+E-2: The necklace is adorned with a delicate pendant made of <u>carat</u> gold.
+
+### Japanese Translation
+J-1: そのダイヤモンドのリングは美しい<u>カラット</u>のソリティア中石が付いています。
+J-2: そのネックレスは<u>カラット</u>ゴールドで作られた繊細なペンダントが飾られています。

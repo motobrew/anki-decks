@@ -1,0 +1,8 @@
+# Key:rite
+### English Sentences
+E-1: The bride and groom performed a traditional <u>rite</u> during the wedding ceremony.
+E-2: The priest conducted the sacred <u>rite</u> to bless the new church.
+
+### Japanese Translation
+J-1: 新郎新婦は結婚式の中で伝統的な<u>儀式</u>を行いました。
+J-2: 司祭は新しい教会を祝福するために神聖な<u>儀式</u>を執り行いました。

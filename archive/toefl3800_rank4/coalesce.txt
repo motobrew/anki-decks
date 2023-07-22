@@ -1,0 +1,8 @@
+# Key:coalesce
+### English Sentences
+E-1: The team members will need to <u>coalesce</u> their ideas into a cohesive plan.
+E-2: The various cultures in the city <u>coalesce</u> to create a vibrant atmosphere.
+
+### Japanese Translation
+J-1: チームメンバーはそれぞれのアイデアを結束させて一貫性のある計画を作成する必要があります。
+J-2: その都市のさまざまな文化が融合し、活気あふれる雰囲気を生み出しています。

@@ -1,0 +1,8 @@
+# Key:misconstrue
+### English Sentences
+E-1: It's important to be clear in your message so that it doesn't <u>misconstrue</u> your intentions.
+E-2: He didn't mean to insult her, but she <u>misconstrued</u> his comment as criticism.
+
+### Japanese Translation
+J-1: 自分の意図を誤解させないように、メッセージを明確にすることが重要です。
+J-2: 彼は彼女を侮辱するつもりはなかったが、彼女は彼の発言を批判と誤解した。

@@ -1,0 +1,8 @@
+# Key:hydrolysis
+### English Sentences
+E-1: The process of <u>hydrolysis</u> breaks down complex molecules into simpler ones.
+E-2: The enzyme catalyzes the <u>hydrolysis</u> of proteins into amino acids.
+
+### Japanese Translation
+J-1: <u>水分解</u>のプロセスは、複雑な分子をより単純なものに分解します。
+J-2: その酵素はタンパク質をアミノ酸に<u>加水分解</u>します。

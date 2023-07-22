@@ -1,0 +1,8 @@
+# Key:inanimate
+### English Sentences
+E-1: The room was filled with <u>inanimate</u> objects, giving it a lifeless feel.
+E-2: The artist brought the painting to life by adding details to the <u>inanimate</u> objects.
+
+### Japanese Translation
+J-1: 部屋は<u>無生物の</u>オブジェクトで溢れており、生気のない印象を与えました。
+J-2: 画家は<u>無生物の</u>オブジェクトに詳細を加えることで絵を生き生きとさせました。

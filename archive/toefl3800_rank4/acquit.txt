@@ -1,0 +1,8 @@
+# Key:acquit
+### English Sentences
+E-1: The defendant was <u>acquitted</u> of all charges due to lack of evidence.
+E-2: The jury <u>acquitted</u> the accused murderer after a long trial.
+
+### Japanese Translation
+J-1: 証拠不十分のため、被告人は<u>無罪とされました</u>。
+J-2: 長い裁判の末、陪審員は被告人を<u>無罪と判定しました</u>。

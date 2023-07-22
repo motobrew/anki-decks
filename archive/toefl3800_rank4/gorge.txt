@@ -1,0 +1,8 @@
+# Key:gorge
+### English Sentences
+E-1: The hiker stood at the edge of the <u>gorge</u>, marveling at the breathtaking view. 
+E-2: The company's profits plunged into a <u>gorge</u> during the economic downturn.
+
+### Japanese Translation
+J-1: ハイカーは<u>渓谷</u>のふちに立ち、息をのむほどの景色に感動しました。
+J-2: その会社の利益は経済の低迷時に<u>急落</u>しました。

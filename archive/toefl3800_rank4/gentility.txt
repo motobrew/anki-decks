@@ -1,0 +1,8 @@
+# Key:gentility
+### English Sentences
+E-1: His refined manners and elegant style reflect his <u>gentility</u>.
+E-2: The nobleman's <u>gentility</u> was evident in his gracious mannerisms.
+
+### Japanese Translation
+J-1: 彼の上品なマナーや優雅なスタイルは彼の<u>上流階級の品性</u>を反映しています。
+J-2: 貴族の<u>上品さ</u>は彼の優雅な振る舞いに明らかでした。

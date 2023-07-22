@@ -1,0 +1,8 @@
+# Key:arbiter
+### English Sentences
+E-1: The judge served as an <u>arbiter</u> in the dispute between the two parties.
+E-2: The teacher acted as an <u>arbiter</u> to resolve the conflict among the students.
+
+### Japanese Translation
+J-1: その判事は2つの当事者の紛争において<u>仲裁人</u>となりました。
+J-2: 先生は生徒たちの衝突を解決するために<u>調停者</u>として行動しました。

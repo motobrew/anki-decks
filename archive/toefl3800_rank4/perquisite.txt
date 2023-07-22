@@ -1,0 +1,8 @@
+# Key:perquisite
+### English Sentences
+E-1: The executive received a luxurious car as a <u>perquisite</u> of his position.
+E-2: Access to the exclusive club was one of the <u>perquisites</u> of membership.
+
+### Japanese Translation
+J-1: その役員は自分のポジションの<u>手当として</u>高級車を受け取りました。
+J-2: 会員の<u>特典として</u>、エクスクルーシブクラブへのアクセスがありました。

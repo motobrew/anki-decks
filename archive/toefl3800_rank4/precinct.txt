@@ -1,0 +1,8 @@
+# Key:precinct
+### English Sentences
+E-1: The police officers gathered at the <u>precinct</u> to discuss the case.
+E-2: Voters lined up outside the polling <u>precinct</u> to cast their ballots.
+
+### Japanese Translation
+J-1: 警察官たちは事件について話し合うために<u>警察署</u>に集まりました。
+J-2: 有権者たちは投票所の外で列を作って<u>票を投じるために</u>並びました。

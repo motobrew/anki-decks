@@ -1,0 +1,8 @@
+# Key:correlation
+### English Sentences
+E-1: There is a strong <u>correlation</u> between smoking and lung cancer.
+E-2: The <u>correlation</u> between studying and good grades is well-known.
+
+### Japanese Translation
+J-1: 喫煙と肺がんとの<u>関連性</u>は強いです。
+J-2: 勉強と成績の<u>相関関係</u>はよく知られています。

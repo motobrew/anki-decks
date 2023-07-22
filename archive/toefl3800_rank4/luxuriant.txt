@@ -1,0 +1,8 @@
+# Key:luxuriant
+### English Sentences
+E-1: The rainforest was filled with <u>luxuriant</u> vegetation and wildlife.
+E-2: Her hair was long and <u>luxuriant</u>, flowing down her back.
+
+### Japanese Translation
+J-1: 熱帯雨林は<u>豊かな</u>植生と野生生物でいっぱいでした。
+J-2: 彼女の髪は長くて<u>豊かで</u>、背中に流れていました。

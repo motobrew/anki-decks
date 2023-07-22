@@ -1,0 +1,8 @@
+# Key:generality
+### English Sentences
+E-1: The speaker used a lot of <u>generality</u> in their presentation to avoid specifics.
+E-2: It's important to be specific in your feedback instead of using <u>generality</u>.
+
+### Japanese Translation
+J-1: スピーカーはプレゼンテーションで具体的な内容を避けるために<u>一般論</u>を多用しました。
+J-2: <u>一般論</u>ではなく、具体的なフィードバックをすることが重要です。

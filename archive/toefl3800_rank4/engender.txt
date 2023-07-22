@@ -1,0 +1,8 @@
+# Key:engender
+### English Sentences
+E-1: The constant noise in the city can <u>engender</u> a sense of anxiety.
+E-2: Learning a new language can <u>engender</u> a feeling of accomplishment.
+
+### Japanese Translation
+J-1: 都市の常に続く騒音は<u>不安の感情を引き起こす</u>ことがある。
+J-2: 新しい言語の学習は<u>達成感を生み出す</u>ことができる。

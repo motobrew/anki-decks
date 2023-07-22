@@ -1,0 +1,8 @@
+# Key:nonchalant
+### English Sentences
+E-1: He walked into the meeting with a <u>nonchalant</u> attitude, as if he didn't care about the outcome.
+E-2: Despite the chaos around him, he remained <u>nonchalant</u> and focused on his work.
+
+### Japanese Translation
+J-1: 彼は会議に無関心な態度で入室しました。まるで結果に興味がないかのように。
+J-2: 彼の周りが混乱している中でも、彼は無頓着で自分の仕事に集中していました。

@@ -1,0 +1,8 @@
+# Key:sundry
+### English Sentences
+E-1: He has a <u>sundry</u> collection of rare books in his library.
+E-2: The store sells <u>sundry</u> items like snacks, drinks, and toiletries.
+
+### Japanese Translation
+J-1: 彼の図書室には、様々な珍しい本が収集されています。
+J-2: その店舗では、スナック、飲み物、日用品など、さまざまな商品が売られています。

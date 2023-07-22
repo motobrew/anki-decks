@@ -1,0 +1,9 @@
+# Key:smolder
+## Response
+### English Sentences
+E-1: The tension between them continued to <u>smolder</u> for months.
+E-2: The unresolved issue will always <u>smolder</u> beneath the surface.
+
+### Japanese Translation
+J-1: 彼らの間の緊張は数ヶ月間<u>続いたまま</u>でした。
+J-2: 未解決の問題はいつも表面下で<u>くすぶり続けます</u>。

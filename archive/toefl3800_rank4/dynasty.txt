@@ -1,0 +1,8 @@
+# Key:dynasty
+### English Sentences
+E-1: The royal <u>dynasty</u> ruled the country for several centuries.
+E-2: This company has been a <u>dynasty</u> in the fashion industry for years.
+
+### Japanese Translation
+J-1: その王室の<u>王朝</u>は何世紀にもわたって国を統治しました。
+J-2: この会社は何年もの間、ファッション業界の<u>王朝</u>であり続けています。

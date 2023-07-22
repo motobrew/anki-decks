@@ -1,0 +1,8 @@
+# Key:deforestation
+### English Sentences
+E-1: <u>Deforestation</u> has led to the loss of numerous animal species.
+E-2: The government should take immediate action to prevent further <u>deforestation</u>.
+
+### Japanese Translation
+J-1: <u>森林伐採</u>によって、多くの動物種が失われてしまいました。
+J-2: 政府はさらなる<u>森林伐採</u>を防ぐために即座に行動を起こすべきです。

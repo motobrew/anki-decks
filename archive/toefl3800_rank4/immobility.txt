@@ -1,0 +1,8 @@
+# Key:immobility
+### English Sentences
+E-1: The <u>immobility</u> of the traffic jam caused me to be late for work.
+E-2: His fear of failure led to <u>immobility</u> and an inability to take action.
+
+### Japanese Translation
+J-1: 交通渋滞の<u>動かなさ</u>のせいで、出勤が遅れました。
+J-2: 失敗を恐れるあまり、何も行動できない<u>身動きの取れなさ</u>に陥った。

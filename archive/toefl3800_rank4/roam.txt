@@ -1,0 +1,8 @@
+# Key:roam
+### English Sentences
+E-1: I love to <u>roam</u> around in nature and explore new trails.
+E-2: Memories of her childhood <u>roam</u> freely in her mind.
+
+### Japanese Translation
+J-1: 自然を歩き回って新しいトレイルを探検するのが好きです。
+J-2: 彼女の子供時代の思い出が自由に彼女の頭の中をさまよう。

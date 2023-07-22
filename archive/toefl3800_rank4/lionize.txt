@@ -1,0 +1,8 @@
+# Key:lionize
+### English Sentences
+E-1: They <u>lionize</u> the famous actor, treating him like a god.
+E-2: The media tends to <u>lionize</u> athletes and portray them as heroes.
+
+### Japanese Translation
+J-1: 彼らはその有名な俳優を<u>神のように崇拝する</u>。
+J-2: メディアはしばしば選手たちを賞賛し、彼らを英雄と描く傾向があります。

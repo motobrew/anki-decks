@@ -1,0 +1,8 @@
+# Key:repudiate
+### English Sentences
+E-1: The senator <u>repudiated</u> the claims made against him during the trial.
+E-2: The company's CEO decided to <u>repudiate</u> the outdated business practices.
+
+### Japanese Translation
+J-1: その上院議員は、裁判中にされた主張を<u>否定しました</u>。
+J-2: 会社のCEOは、時代遅れのビジネスのやり方を<u>拒絶すること</u>を決定しました。

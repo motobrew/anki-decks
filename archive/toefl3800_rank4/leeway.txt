@@ -1,0 +1,8 @@
+# Key:leeway
+### English Sentences
+E-1: I was given some <u>leeway</u> in completing the project.
+E-2: The teacher gave the students <u>leeway</u> in choosing their research topics.
+
+### Japanese Translation
+J-1: プロジェクトを完成させるために<u>余裕</u>が与えられました。
+J-2: 先生は生徒たちに<u>自分の研究のトピックを選ぶ自由</u>を与えました。

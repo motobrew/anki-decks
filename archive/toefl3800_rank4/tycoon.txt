@@ -1,0 +1,8 @@
+# Key:tycoon
+### English Sentences
+E-1: The real estate <u>tycoon</u> owns a vast empire of properties. 
+E-2: The media <u>tycoon</u> has a monopoly on all major news outlets. 
+
+### Japanese Translation
+J-1: その不動産<u>大物</u>は、莫大な数の物件を所有しています。
+J-2: そのメディア<u>王</u>が主要なニュースメディアを独占しています。

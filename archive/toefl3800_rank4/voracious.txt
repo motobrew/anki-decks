@@ -1,0 +1,8 @@
+# Key:voracious
+### English Sentences
+E-1: He had a <u>voracious</u> appetite and could eat four pizzas.
+E-2: The company has a <u>voracious</u> appetite for acquiring smaller startups.
+
+### Japanese Translation
+J-1: 彼は<u>大食漢</u>で、ピザを4枚も食べることができた。
+J-2: その会社は<u>欲張りな</u>経営姿勢を持っており、小さなスタートアップを買収することを欲している。

@@ -1,0 +1,8 @@
+# Key:lenient
+### English Sentences
+E-1: She knew her parents were <u>lenient</u> when it came to curfew.
+E-2: The teacher was <u>lenient</u> and allowed the students extra time to complete the assignment.
+
+### Japanese Translation
+J-1: 彼女は、外出禁止時間に寛大な<u>親</u>だと知っていました。
+J-2: 先生は寛大で、生徒に課題を完成するための追加時間を許しました。

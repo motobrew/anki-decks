@@ -1,0 +1,8 @@
+# Key:courier
+### English Sentences
+E-1: The <u>courier</u> delivered the package to my doorstep this morning.
+E-2: I'll use a <u>courier</u> to send the contract documents to the client.
+
+### Japanese Translation
+J-1: 今朝、<u>宅配業者</u>が荷物を玄関先に届けてくれました。
+J-2: 契約書類をクライアントに送るために<u>宅配業者</u>を利用します。

@@ -1,0 +1,8 @@
+# Key:conditioning
+### English Sentences
+E-1: The therapist used <u>conditioning</u> techniques to help her patient overcome anxiety.
+E-2: Years of <u>conditioning</u> had shaped his behavior to always be punctual.
+
+### Japanese Translation
+J-1: セラピストは、患者の不安を克服するために<u>条件づけ</u>の技術を使いました。
+J-2: 長年の<u>訓練</u>により、彼の行動はいつも時間通りであるようになりました。

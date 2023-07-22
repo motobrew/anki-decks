@@ -1,0 +1,8 @@
+# Key:chauvinist
+### English Sentences
+E-1: He constantly makes derogatory comments about women, he's a <u>chauvinist</u>.
+E-2: The company's management is predominantly male and has a <u>chauvinistic</u> culture.
+
+### Japanese Translation
+J-1: 彼は女性に対して絶えず侮辱的な発言をし、彼は<u>男尊女卑主義者</u>だ。
+J-2: その会社の経営陣は主に男性で、<u>男性優位の文化</u>があります。

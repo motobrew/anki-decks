@@ -1,0 +1,8 @@
+# Key:interferon
+### English Sentences
+E-1: The doctor prescribed me <u>interferon</u> to help fight the viral infection.
+E-2: The production of <u>interferon</u> is triggered by the presence of viruses.
+
+### Japanese Translation
+J-1: 医師は私にウイルス感染を抑えるため、<u>インターフェロン</u>を処方しました。
+J-2: ウイルスの存在によって<u>インターフェロン</u>の生成が刺激されます。

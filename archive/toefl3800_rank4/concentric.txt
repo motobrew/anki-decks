@@ -1,0 +1,8 @@
+# Key:concentric
+### English Sentences
+E-1: The target board is designed with <u>concentric</u> circles for scoring.
+E-2: The artist created a beautiful painting using <u>concentric</u> lines and shapes.
+
+### Japanese Translation
+J-1: 的盤はスコアを計算するために<u>同心円</u>の形をしています。
+J-2: その芸術家は<u>同心円</u>の線と形を使って美しい絵を作りました。

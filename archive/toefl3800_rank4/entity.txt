@@ -1,0 +1,8 @@
+# Key:entity
+### English Sentences
+E-1: The government has created a regulatory <u>entity</u> to oversee the financial sector.
+E-2: The company was restructured, and a new <u>entity</u> was formed to manage operations.
+
+### Japanese Translation
+J-1: 政府は金融部門を監視するために規制<u>機関</u>を設立しました。
+J-2: その会社は再編成され、運営を管理するための新しい<u>組織</u>が設立されました。

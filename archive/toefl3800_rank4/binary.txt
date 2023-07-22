@@ -1,0 +1,8 @@
+# Key:binary
+### English Sentences
+E-1: The company is implementing a new <u>binary</u> system for decision-making.
+E-2: I have a hard time understanding <u>binary</u> code in programming.
+
+### Japanese Translation
+J-1: その会社は意思決定のための新しい<u>二元</u>システムを導入しています。
+J-2: プログラミングの<u>二進</u>コードを理解するのが難しいです。

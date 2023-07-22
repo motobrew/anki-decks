@@ -1,0 +1,8 @@
+# Key:meridian
+### English Sentences
+E-1: The sun reaches its highest point at the <u>meridian</u> each day.
+E-2: The <u>meridian</u> divides the Earth into Eastern and Western hemispheres.
+
+### Japanese Translation
+J-1: 太陽は毎日<u>正午</u>に最高点に達する。
+J-2: <u>子午線</u>は地球を東西の半球に分けている。

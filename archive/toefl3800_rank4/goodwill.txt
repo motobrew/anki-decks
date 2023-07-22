@@ -1,0 +1,8 @@
+# Key:goodwill
+### English Sentences
+E-1: The company has a lot of <u>goodwill</u> among its customers.
+E-2: The politician believes in the <u>goodwill</u> of the people.
+
+### Japanese Translation
+J-1: その会社は顧客に対する<u>信用</u>が非常に高いです。
+J-2: その政治家は人々の<u>思いやり</u>を信じています。

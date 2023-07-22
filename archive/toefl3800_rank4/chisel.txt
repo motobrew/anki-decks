@@ -1,0 +1,8 @@
+# Key:chisel
+### English Sentences
+E-1: He managed to <u>chisel</u> a great deal on the car purchase.
+E-2: The detective slowly <u>chiseled</u> out the truth from the suspect.
+
+### Japanese Translation
+J-1: 彼は車の購入でかなりの値引きを<u引き出すこと</u>に成功しました。
+J-2: 刑事は容疑者から徐々に真実を<u引き出しました</u>。

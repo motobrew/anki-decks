@@ -1,0 +1,8 @@
+# Key:repeal
+### English Sentences
+E-1: The government wants to <u>repeal</u> a controversial law.
+E-2: They are planning to <u>repeal</u> the tax increase.
+
+### Japanese Translation
+J-1: 政府は物議を醸している法律を<u>廃止</u>しようとしています。
+J-2: 彼らは増税を<u>撤回</u>する計画を立てています。

@@ -1,0 +1,8 @@
+# Key:torrent
+### English Sentences
+E-1: A <u>torrent</u> of emotions overwhelmed her when she heard the news.
+E-2: The team faced a <u>torrent</u> of criticism after their defeat in the championship.
+
+### Japanese Translation
+J-1: 彼女はそのニュースを聞いて感情の<u>洪水</u>に襲われました。
+J-2: チームはチャンピオンシップでの敗北後、<u>批判の洪水</u>に直面しました。

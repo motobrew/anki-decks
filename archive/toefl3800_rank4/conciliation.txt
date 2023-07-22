@@ -1,0 +1,8 @@
+# Key:conciliation
+### English Sentences
+E-1: We need to find a <u>conciliation</u> between the two parties in the dispute.
+E-2: The mediator tried to promote <u>conciliation</u> between the warring factions.
+
+### Japanese Translation
+J-1: 我々は紛争の二つの当事者の<u>和解点</u>を見つける必要があります。
+J-2: 仲介者は敵対する派閥間の<u>和解</u>を促しました。

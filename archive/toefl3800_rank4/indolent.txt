@@ -1,0 +1,8 @@
+# Key:indolent
+### English Sentences
+E-1: She spends her days in an <u>indolent</u> daze, never accomplishing anything.
+E-2: His <u>indolent</u> attitude towards work will surely lead to his downfall.
+
+### Japanese Translation
+J-1: 彼女は日々怠惰な感じに過ごし、何も達成しない。
+J-2: 彼の怠惰な態度は仕事の失敗につながるでしょう。

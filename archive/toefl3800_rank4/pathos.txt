@@ -1,0 +1,8 @@
+# Key:pathos
+### English Sentences
+E-1: The movie had a lot of <u>pathos</u>, making everyone cry.
+E-2: The photographer captured the <u>pathos</u> of the abandoned building.
+
+### Japanese Translation
+J-1: その映画は多くの<u>感動を</u>含んでいて、誰もが泣きました。
+J-2: 写真家はその廃墟の<u>哀愁</u>を捉えました。

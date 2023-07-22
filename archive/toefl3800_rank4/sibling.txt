@@ -1,0 +1,8 @@
+# Key:sibling
+### English Sentences
+E-1: My <u>sibling</u> and I have a strong bond and always support each other.
+E-2: She treats her dog like her own <u>sibling</u>, showering him with love and care.
+
+### Japanese Translation
+J-1: 私と<u>兄弟</u>は強い絆があり、いつもお互いを支えています。
+J-2: 彼女は自分の<u>兄弟</u>のように犬を扱い、愛情とケアを注ぎます。

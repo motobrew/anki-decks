@@ -1,0 +1,8 @@
+# Key:acquiesce
+### English Sentences
+E-1: He refused to <u>acquiesce</u> to their demands and stood his ground.
+E-2: Despite strong opposition, the government finally <u>acquiesced</u> and agreed to compromise.
+
+### Japanese Translation
+J-1: 彼は彼らの要求に<u>応じることなく</u>頑強に立ち向かった。
+J-2: 強い反対にもかかわらず、政府はついに<u>折れて</u>妥協することに同意した。

@@ -1,0 +1,8 @@
+# Key:soggy
+### English Sentences
+E-1: The heavy rain made my shoes <u>soggy</u> and uncomfortable.
+E-2: Don't leave the cereal in the milk for too long, or it will become <u>soggy</u>.
+
+### Japanese Translation
+J-1: 激しい雨で私の靴は<u>びしょびしょ</u>になり、不快でした。
+J-2: シリアルを長時間ミルクに浸しておくと<u>ふやけてしまいます</u>ので、注意してください。

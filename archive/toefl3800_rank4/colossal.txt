@@ -1,0 +1,8 @@
+# Key:colossal
+### English Sentences
+E-1: The <u>colossal</u> iceberg broke away from the glacier and floated out to sea.
+E-2: The construction project ended up being a <u>colossal</u> failure, costing millions of dollars.
+
+### Japanese Translation
+J-1: <u>巨大な</u>氷山が氷河から切り離され、海に流されました。
+J-2: その建設プロジェクトは<u>巨大な</u>失敗に終わり、数百万ドルの費用がかかりました。

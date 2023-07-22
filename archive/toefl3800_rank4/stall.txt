@@ -1,0 +1,8 @@
+# Key:stall
+### English Sentences
+E-1: I had to <u>stall</u> for time while I looked for an excuse.
+E-2: The car's engine suddenly <u>stalled</u> in the middle of the highway.
+
+### Japanese Translation
+J-1: 言い訳を探す間、時間を<u>稼がなければなりませんでした</u>。
+J-2: 車のエンジンが途中で突然<u>止まってしまいました</u>。

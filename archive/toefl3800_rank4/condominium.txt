@@ -1,0 +1,8 @@
+# Key:condominium
+### English Sentences
+E-1: He bought a luxurious <u>condominium</u> in the heart of the city.
+E-2: The <u>condominium</u> association hosts regular social events for residents.
+
+### Japanese Translation
+J-1: 彼は都心で高級な<u>マンション</u>を購入しました。
+J-2: <u>マンション</u>組合は住民のために定期的な交流イベントを開催します。

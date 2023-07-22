@@ -1,0 +1,8 @@
+# Key:keynote
+### English Sentences
+E-1: In his keynote address, the CEO discussed the company's future plans.
+E-2: The keynote of the presentation was the importance of teamwork.
+
+### Japanese Translation
+J-1: CEOは基調講演で、会社の将来計画について話しました。
+J-2: プレゼンテーションのキーノートは、チームワークの重要性でした。

@@ -1,0 +1,8 @@
+# Key:renege
+### English Sentences
+E-1: He <u>renegeed</u> on his promise to pay back the money he borrowed.
+E-2: The company <u>renegeed</u> on their agreement to provide health benefits.
+
+### Japanese Translation
+J-1: 彼は借りたお金を返すという約束を<u>反故にした</u>。
+J-2: その会社は健康保険を提供するという契約を<u>反故にした</u>。

@@ -1,0 +1,8 @@
+# Key:conditioned reflex
+### English Sentences
+E-1: My <u>conditioned reflex</u> made me automatically flinch when I heard a loud noise.
+E-2: Her <u>conditioned reflex</u> caused her to blush whenever she was embarrassed.
+
+### Japanese Translation
+J-1: 大きな音を聞くと、私は<u>条件反射</u>で自動的に身をすくめました。
+J-2: 彼女は恥ずかしい思いをすると、自動的に顔を赤くする<u>条件反射</u>をしていました。

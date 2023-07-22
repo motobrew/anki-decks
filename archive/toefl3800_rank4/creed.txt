@@ -1,0 +1,8 @@
+# Key:creed
+### English Sentences
+E-1:  He lives his life by a strict moral <u>creed</u>.
+E-2: The company's <u>creed</u> emphasizes integrity and customer satisfaction.
+
+### Japanese Translation
+J-1: 彼は厳格な倫理の<u>信念</u>に基づいて生きています。
+J-2: 会社の<u>信条</u>は誠実さと顧客満足を重視しています。

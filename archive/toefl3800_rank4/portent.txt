@@ -1,0 +1,8 @@
+# Key:portent
+### English Sentences
+E-1: The dark clouds were a <u>portent</u> of an approaching storm.
+E-2: The unexpected good news was a <u>portent</u> of better things to come.
+
+### Japanese Translation
+J-1: 暗い雲は、近づいている嵐の<u>前兆</u>でした。
+J-2: 思いもよらない良いニュースは、これからの更なる良いことの<u>前触れ</u>でした。

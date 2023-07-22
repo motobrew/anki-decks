@@ -1,0 +1,8 @@
+# Key:windfall
+### English Sentences
+E-1: I received a <u>windfall</u> of money from an unexpected inheritance.
+E-2: The lottery winner experienced a <u>windfall</u> of good luck and fortune.
+
+### Japanese Translation
+J-1: 思いもよらぬ相続でお金の<u>恵みを受けました</u>。
+J-2: ロトの当選者は幸運と財産の<u>大量入手</u>を経験しました。

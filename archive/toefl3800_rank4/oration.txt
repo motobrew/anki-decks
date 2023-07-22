@@ -1,0 +1,8 @@
+# Key:oration
+### English Sentences
+E-1: The politician delivered a powerful <u>oration</u> that inspired the audience.
+E-2: The professor's <u>oration</u> on climate change was informative and persuasive.
+
+### Japanese Translation
+J-1: 政治家は感動的な<u>演説</u>を行い、聴衆に感銘を与えました。
+J-2: 教授の気候変動に関する<u>演説</u>は情報的で説得力がありました。

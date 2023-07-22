@@ -1,0 +1,8 @@
+# Key:frustrate
+### English Sentences
+E-1: The complicated instructions <u>frustrated</u> me and I gave up. 
+E-2: The constant delays and cancellations of the trains <u>frustrated</u> the commuters. 
+
+### Japanese Translation
+J-1: 複雑な指示に<u>挫折し</u>、諦めました。
+J-2: 列車の遅延やキャンセルが<u>通勤者をいら立たせました</u>。

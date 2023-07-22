@@ -1,0 +1,8 @@
+# Key:impeccable
+### English Sentences
+E-1: Her <u>impeccable</u> taste in fashion always turns heads.
+E-2: The chef's technique was <u>impeccable</u> and the dish was perfection.
+
+### Japanese Translation
+J-1: 彼女の<u>素晴らしい</u>ファッションセンスはいつも注目を集めます。
+J-2: シェフの技術は<u>完璧</u>で、料理は完璧でした。

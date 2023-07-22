@@ -1,0 +1,8 @@
+# Key:inexplicable
+### English Sentences
+E-1: The disappearance of the plane remains <u>inexplicable</u> to this day.
+E-2: The sudden surge in sales is an <u>inexplicable</u> phenomenon.
+
+### Japanese Translation
+J-1: その飛行機の行方不明は今もなお<u>説明不可能な</u>ままです。
+J-2: 急な売り上げの急増は<u>理解できない</u>現象です。

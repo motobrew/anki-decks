@@ -1,0 +1,8 @@
+# Key:hypertension
+### English Sentences
+E-1: High levels of stress can lead to <u>hypertension</u> and other health problems.
+E-2: Regular exercise and a healthy diet can help prevent <u>hypertension</u>.
+
+### Japanese Translation
+J-1: 高いストレスレベルは<u>高血圧</u>や他の健康問題を引き起こす可能性があります。
+J-2: 定期的な運動と健康的な食事は<u>高血圧</u>の予防に役立ちます。

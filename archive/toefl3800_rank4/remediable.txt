@@ -1,0 +1,8 @@
+# Key:remediable
+### English Sentences
+E-1: The damage to the car was <u>remediable</u> with a simple repair.
+E-2: The mistake made in the report was <u>remediable</u> through careful editing.
+
+### Japanese Translation
+J-1: 車の損傷は、簡単な修理で<u>修正可能でした</u>。
+J-2: レポートのミスは、注意深い編集で<u>修復可能でした</u>。

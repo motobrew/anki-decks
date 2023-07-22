@@ -1,0 +1,8 @@
+# Key:binocular
+### English Sentences
+E-1: Through my <u>binoculars</u>, I could clearly see the birds in the distance.
+E-2: He always keeps a <u>binocular</u> view to consider both sides of the argument.
+
+### Japanese Translation
+J-1: 遠くの鳥を<u>双眼鏡</u>ではっきりと見ることができました。
+J-2: 彼は常に<u>包括的な視点</u>を持ち、議論の両側面を考慮します。

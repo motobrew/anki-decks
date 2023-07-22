@@ -1,0 +1,8 @@
+# Key:exalt
+### English Sentences
+E-1: His outstanding performance in the game <u>exalted</u> his teammates.
+E-2: The beautiful sunset <u>exalts</u> the beauty of nature.
+
+### Japanese Translation
+J-1: 彼の優れたパフォーマンスは、試合に参加したチームメートを<u>鼓舞しました</u>。
+J-2: 美しい夕日は、自然の美しさを<u>昇華させます</u>。

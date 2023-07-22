@@ -1,0 +1,8 @@
+# Key:steadfast
+### English Sentences
+E-1: He remained <u>steadfast</u> in his beliefs, despite opposition from others.
+E-2: The team displayed <u>steadfast</u> determination, never giving up until they achieved their goal.
+
+### Japanese Translation
+J-1: 彼は他の人々の反対にもかかわらず、自身の信念を<u>しっかりと</u>守り続けました。
+J-2: チームは<u>不屈の</u>決意を示し、目標を達成するまで諦めませんでした。

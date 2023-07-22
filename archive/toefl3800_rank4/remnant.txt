@@ -1,0 +1,8 @@
+# Key:remnant
+### English Sentences
+E-1: A <u>remnant</u> of an ancient civilization was discovered deep in the jungle.
+E-2: Despite the fire, there were still a few <u>remnants</u> of the old house standing.
+
+### Japanese Translation
+J-1: ジャングルの奥深くで、古代文明の<u>名残り</u>が発見されました。
+J-2: 火事にもかかわらず、古い家の<u>残骸</u>がまだいくつか残っていました。

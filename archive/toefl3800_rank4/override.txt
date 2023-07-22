@@ -1,0 +1,8 @@
+# Key:override
+### English Sentences
+E-1: The manager tried to <u>override</u> the decision made by the team.
+E-2: The teacher used her authority to <u>override</u> the student's request.
+
+### Japanese Translation
+J-1: マネージャーは、チームの決定を<u>覆そうとしました</u>。
+J-2: 先生は自身の権限を使って、生徒の要求を<u>無視しました</u>。

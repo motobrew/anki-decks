@@ -1,0 +1,8 @@
+# Key:brevity
+### English Sentences
+E-1: The comedian's talent lies in his ability to deliver jokes with <u>brevity</u>.
+E-2: The author's writing style is known for its <u>brevity</u> and succinctness.
+
+### Japanese Translation
+J-1: そのコメディアンの才能は、ジョークを<u>簡潔に</u>届ける能力にあります。
+J-2: その作家の文章スタイルは、<u>簡潔さ</u>と要旨が知られています。

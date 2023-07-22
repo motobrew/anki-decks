@@ -1,0 +1,8 @@
+# Key:mock
+### English Sentences
+E-1: He <u>mocked</u> her for her lack of experience in the field.
+E-2: The students <u>mocked</u> the teacher's accent during the class.
+
+### Japanese Translation
+J-1: 彼はその分野での彼女の経験不足を<u>嘲笑いました</u>。
+J-2: 生徒たちは授業中に先生の訛りを<u>ばかにしました</u>。

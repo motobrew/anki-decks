@@ -1,0 +1,8 @@
+# Key:degenerate
+### English Sentences
+E-1: His speech was full of <u>degenerate</u> ideas and offensive remarks.
+E-2: Years of neglect caused the old building to <u>degenerate</u> into ruins.
+
+### Japanese Translation
+J-1: 彼のスピーチは退廃的なアイデアと攻撃的な発言で満ちていました。
+J-2: 放置された年月が古い建物を廃墟へと<u>退化させました</u>。

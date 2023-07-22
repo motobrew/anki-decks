@@ -1,0 +1,8 @@
+# Key:incarnation
+### English Sentences
+E-1: The beach is the <u>incarnation</u> of relaxation and tranquility.
+E-2: The mountain peak is the <u>incarnation</u> of power and majesty.
+
+### Japanese Translation
+J-1: 海岸はくつろぎと静寂の<u具現化</u>です。
+J-2: 山の頂上は力と威厳の<u具現化</u>です。

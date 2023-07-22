@@ -1,0 +1,8 @@
+# Key:vehement
+### English Sentences
+E-1: She expressed her <u>vehement</u> opposition to the new policy.
+E-2: The speaker delivered a <u>vehement</u> speech, captivating the audience.
+
+### Japanese Translation
+J-1: 彼女は新しい政策に<u>強い反対意見</u>を表明しました。
+J-2: 話者は<u>激しい</u>スピーチを行い、聴衆を魅了しました。

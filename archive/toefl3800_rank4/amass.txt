@@ -1,0 +1,8 @@
+# Key:amass
+### English Sentences
+E-1: I have been able to <u>amass</u> a large collection of books over the years.
+E-2: The business has managed to <u>amass</u> a significant amount of debt.
+
+### Japanese Translation
+J-1: 何年もの間、私は大量の本を<u>蓄積することが</u>できました。
+J-2: その事業はかなりの負債を<u>蓄積することが</u>できました。

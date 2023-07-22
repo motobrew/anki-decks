@@ -1,0 +1,8 @@
+# Key:mundane
+### English Sentences
+E-1: The <u>mundane</u> tasks of washing dishes and doing laundry never end.
+E-2: I find solace in escaping from the <u>mundane</u> routine of everyday life.
+
+### Japanese Translation
+J-1: 皿洗いや洗濯など<u>日常の平凡な</u>仕事は終わりがない。
+J-2: 私は日常生活の<u>平凡な</u>ルーティンから逃れることで慰めを見つけます。

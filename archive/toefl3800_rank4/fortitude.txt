@@ -1,0 +1,8 @@
+# Key:fortitude
+### English Sentences
+E-1: She faced the challenge with great <u>fortitude</u> and never gave up.
+E-2: The soldiers displayed incredible <u>fortitude</u> in the face of adversity.
+
+### Japanese Translation
+J-1: 彼女は大きな<u>不屈の精神</u>でその挑戦に立ち向かい、決して諦めませんでした。
+J-2: 兵士たちは逆境に直面して驚くべき<u>不屈の意志</u>を示しました。

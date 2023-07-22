@@ -1,0 +1,8 @@
+# Key:sedentary
+### English Sentences
+E-1: Regular exercise is important for maintaining a healthy lifestyle, so try to avoid a <u>sedentary</u> lifestyle.
+E-2: Many office jobs require sitting for long periods, resulting in a <u>sedentary</u> work environment.
+
+### Japanese Translation
+J-1: 健康な生活を維持するためには、定期的な運動が重要ですので、<u>運動不足</u>の生活を避けてください。
+J-2: 多くのオフィスの仕事は長時間座っていることが求められますので、<u>運動不足の</u>働き環境です。

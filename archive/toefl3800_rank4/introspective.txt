@@ -1,0 +1,8 @@
+# Key:introspective
+### English Sentences
+E-1: He is known for his <u>introspective</u> nature and deep thinking.
+E-2: She spends hours in <u>introspective</u> reflection, analyzing her actions and thoughts.
+
+### Japanese Translation
+J-1: 彼は内省的な性格であり、深い思考で知られています。
+J-2: 彼女は内省的な反省に何時間も費やし、自分の行動や思考を分析します。

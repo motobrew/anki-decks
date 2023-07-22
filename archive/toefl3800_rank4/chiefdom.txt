@@ -1,0 +1,8 @@
+# Key:chiefdom
+### English Sentences
+E-1: The <u>chiefdom</u> had a hierarchical structure with a central leader.
+E-2: The villagers pledged their loyalty to the <u>chiefdom</u> and its ruler.
+
+### Japanese Translation
+J-1: <u>首長制度</u>は中心的なリーダーを持つ階層的な構造を持っていました。
+J-2: 村人たちは<u>首長制度</u>とその統治者に忠誠を誓いました。

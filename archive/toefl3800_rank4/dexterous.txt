@@ -1,0 +1,8 @@
+# Key:dexterous
+### English Sentences
+E-1: She effortlessly performed a <u>dexterous</u> dance routine on stage.
+E-2: The surgeon's <u>dexterous</u> hands worked skillfully during the delicate operation.
+
+### Japanese Translation
+J-1: 彼女はステージで軽やかに<u>器用な</u>ダンスを披露しました。
+J-2: 外科医の<u>巧みな</u>手が繊細な手術中に巧みに動きました。

@@ -1,0 +1,8 @@
+# Key:distill
+### English Sentences
+E-1: The wine was <u>distilled</u> to extract its pure flavors.
+E-2: The filmmaker was able to <u>distill</u> the essence of the novel in the movie adaptation.
+
+### Japanese Translation
+J-1: ワインは純粋な風味を抽出するために<u>蒸留されました</u>。
+J-2: 映画監督は小説の本質を映画化で<u>凝縮すること</u>ができました。

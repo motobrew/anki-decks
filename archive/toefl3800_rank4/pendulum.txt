@@ -1,0 +1,8 @@
+# Key:pendulum
+### English Sentences
+E-1: The debate swung like a <u>pendulum</u> between the two candidates.
+E-2: He alternates between melancholy and happiness like a <u>pendulum</u>.
+
+### Japanese Translation
+J-1: ディベートは、２人の候補者間で<u>振り子のように</u>揺れ動いた。
+J-2: 彼は<u>振り子のように</u>憂鬱と幸福が交互にやってくる。

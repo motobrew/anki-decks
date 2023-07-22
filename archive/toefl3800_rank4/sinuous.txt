@@ -1,0 +1,8 @@
+# Key:sinuous
+### English Sentences
+E-1: The river flowed in a <u>sinuous</u> path through the lush forest.
+E-2: The snake slithered in a <u>sinuous</u> motion across the sand.
+
+### Japanese Translation
+J-1: 川は豊かな森を<u>蛇行しながら</u>流れていました。
+J-2: ヘビが砂地を<u>曲線的な</u>動きで這いました。

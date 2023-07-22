@@ -1,0 +1,8 @@
+# Key:caucus
+### English Sentences
+E-1: During the election season, candidates gather for a <u>caucus</u> to strategize.
+E-2: The party members held a <u>caucus</u> to discuss their policy priorities.
+
+### Japanese Translation
+J-1: 選挙シーズン中、候補者たちは戦略を練るために<u>党内協議</u>を開きます。
+J-2: 政党のメンバーは政策の優先順位について<u>党内集会</u>を開催しました。

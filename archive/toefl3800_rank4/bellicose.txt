@@ -1,0 +1,8 @@
+# Key:bellicose
+### English Sentences
+E-1: The politician's <u>bellicose</u> speech fueled the tensions between the two countries.
+E-2: The team's <u>bellicose</u> attitude led to several conflicts with their opponents.
+
+### Japanese Translation
+J-1: 政治家の<u>好戦的な</u>演説が両国間の緊張を高めました。
+J-2: チームの<u>好戦的な</u>態度がいくつかの対立を引き起こしました。

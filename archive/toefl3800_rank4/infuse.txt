@@ -1,0 +1,8 @@
+# Key:infuse
+### English Sentences
+E-1: The chef <u>infused</u> the dish with aromatic herbs for added flavor.
+E-2: She <u>infused</u> her speech with enthusiasm to captivate the audience.
+
+### Japanese Translation
+J-1: シェフは料理に香り高いハーブを<u>注入しました</u>、風味を増しました。
+J-2: 彼女はスピーチに情熱を<u>注ぎ込みました</u>、聴衆を魅了しました。

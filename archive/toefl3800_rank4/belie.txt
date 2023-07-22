@@ -1,0 +1,8 @@
+# Key:belie
+### English Sentences
+E-1: I can't <u>belie</u> how fast time flies when I'm having fun.
+E-2: It's hard to <u>belie</u> that she used to be shy, she's so outgoing now.
+
+### Japanese Translation
+J-1: 楽しい時は時間がどんどん過ぎることに<u>信じられない</u>。
+J-2: 彼女が以前は内向的だったとは<u>思えない</u>、今はとても外向的だ。

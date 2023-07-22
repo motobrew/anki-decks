@@ -1,0 +1,8 @@
+# Key:nadir
+### English Sentences
+E-1: The team's performance hit the <u>nadir</u> after losing their star player.
+E-2: The company's profits reached a <u>nadir</u> during the economic recession.
+
+### Japanese Translation
+J-1: スター選手を失った後、チームのパフォーマンスは<u>最低点</u>に達しました。
+J-2: 経済不況の間、会社の利益は<u>底点</u>に達しました。

@@ -1,0 +1,8 @@
+# Key:assent
+### English Sentences
+E-1: She nodded her head as an <u>assent</u> to my proposal.
+E-2: The board of directors gave their <u>assent</u> to the new project.
+
+### Japanese Translation
+J-1: 彼女は私の提案に<u>同意</u>として頷いた。
+J-2: 取締役会は新しいプロジェクトに<u>承諾</u>を与えた。

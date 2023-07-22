@@ -1,0 +1,8 @@
+# Key:twitter
+### English Sentences:
+E-1: I love following my favorite celebrities on <u>Twitter</u>.
+E-2: The news spread like wildfire on <u>Twitter</u> last night.
+
+### Japanese Translation:
+J-1: 私は<u>Twitter</u>でお気に入りの有名人をフォローするのが好きです。
+J-2: 昨夜、ニュースが<u>Twitter</u>を通じて火が付いたように広まりました。

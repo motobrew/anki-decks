@@ -1,0 +1,8 @@
+# Key:orifice
+### English Sentences
+E-1: The doctor carefully examined the patient's <u>orifice</u> to check for any abnormalities.
+E-2: The bird opened its colorful wings and flew out of the small <u>orifice</u> in the cage.
+
+### Japanese Translation
+J-1: 医師は注意深く患者の<u>腔穴</u>を検査して異常がないか確認しました。
+J-2: 鳥はカギの小さな<u>開口部</u>からカラフルな羽を広げて飛び立ちました。

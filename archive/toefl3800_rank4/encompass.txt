@@ -1,0 +1,8 @@
+# Key:encompass
+### English Sentences
+E-1: The museum's exhibits <u>encompass</u> a wide range of historical artifacts.
+E-2: The new legislation will <u>encompass</u> all aspects of environmental protection.
+
+### Japanese Translation
+J-1: その博物館の展示品は、幅広い歴史的な遺物を<u>包括しています</u>。
+J-2: 新しい法律は、環境保護の全ての側面を<u>含んでいます</u>。

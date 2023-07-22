@@ -1,0 +1,8 @@
+# Key:loath
+### English Sentences
+E-1: I am <u>loath</u> to attend the meeting because it's too boring.
+E-2: She is <u>loath</u> to let go of her old possessions.
+
+### Japanese Translation
+J-1: 会議に出席するのはつまらなすぎて<u>嫌です</u>。
+J-2: 彼女は古い物を手放すのを<u>ためらっています</u>。

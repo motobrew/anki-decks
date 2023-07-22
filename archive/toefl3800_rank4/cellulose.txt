@@ -1,0 +1,8 @@
+# Key:cellulose
+### English Sentences
+E-1: The walls of plant cells are made up of <u>cellulose</u>.
+E-2: A high-fiber diet helps to promote healthy levels of <u>cellulose</u> in the body.
+
+### Japanese Translation
+J-1: 植物の細胞の壁は<u>セルロース</u>でできています。
+J-2: 高繊維の食事は体内の<u>セルロース</u>の健康なバランスをサポートします。

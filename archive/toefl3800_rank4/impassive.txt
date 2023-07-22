@@ -1,0 +1,8 @@
+# Key:impassive
+### English Sentences
+E-1: He remained <u>impassive</u> throughout the entire argument.
+E-2: The detective's <u>impassive</u> expression gave nothing away.
+
+### Japanese Translation
+J-1: 彼は口論の間、ずっと<u>無表情のまま</u>でした。
+J-2: 探偵の<u>無感情な表情</u>は何も漏らしませんでした。

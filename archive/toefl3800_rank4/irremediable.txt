@@ -1,0 +1,8 @@
+# Key:irremediable
+### English Sentences
+E-1: The damage to his reputation was <u>irremediable</u> after the scandal.
+E-2: The loss of their leader was an <u>irremediable</u> blow to the team.
+
+### Japanese Translation
+J-1: スキャンダル後、彼の評判は<u>修復不能</u>だった。
+J-2: リーダーの喪失はチームにとって<u>取り返しのつかない</u>打撃だった。

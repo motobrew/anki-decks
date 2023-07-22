@@ -1,0 +1,8 @@
+# Key:plenary
+### English Sentences
+E-1: During the <u>plenary</u> session, all members of the committee attended.
+E-2: The students presented their projects in a <u>plenary</u> assembly.
+
+### Japanese Translation
+J-1: 全委員が出席した<u>全会一致の</u>セッション中に。
+J-2: 生徒たちは<u>全員参加</u>の集会でプロジェクトを発表しました。

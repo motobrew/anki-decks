@@ -1,0 +1,8 @@
+# Key:mercurial
+### English Sentences
+E-1: Her mood is <u>mercurial</u>, constantly changing from one extreme to another.
+E-2: The stock market has been <u>mercurial</u> lately, with unpredictable fluctuations.
+
+### Japanese Translation
+J-1: 彼女の気分は<u>気まぐれ</u>で、常に極端から極端に変わります。
+J-2: 最近、株式市場は予測できない変動がある<u>気まぐれ</u>だ。

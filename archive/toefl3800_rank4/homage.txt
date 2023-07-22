@@ -1,0 +1,8 @@
+# Key:homage
+### English Sentences
+E-1: Paying <u>homage</u> to her ancestors, she placed flowers on their graves.
+E-2: The movie director made a <u>homage</u> to classic films in his latest work.
+
+### Japanese Translation
+J-1: 彼女は先祖に<u>敬意を表して</u>、彼らの墓に花を供えました。
+J-2: その映画監督は最新作でクラシック映画に<u>オマージュ</u>を捧げました。

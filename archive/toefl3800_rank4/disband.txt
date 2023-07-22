@@ -1,0 +1,8 @@
+# Key:disband
+### English Sentences
+E-1: The band decided to <u>disband</u> after their final concert.
+E-2: The company was forced to <u>disband</u> due to financial difficulties.
+
+### Japanese Translation
+J-1: バンドは最後のコンサートの後に<u>解散する</u>ことを決めました。
+J-2: 会社は財政的な困難のために<u>解散せざるを得なかった</u>。

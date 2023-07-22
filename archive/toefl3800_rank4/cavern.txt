@@ -1,0 +1,8 @@
+# Key:cavern
+### English Sentences
+E-1: The cave was so dark and ancient, it felt like a <u>cavern</u> from another world.
+E-2: The thief disappeared into a <u>cavern</u> of back alleys, making it impossible to catch him.
+
+### Japanese Translation
+J-1: その洞窟は暗くて古代的で、まるで別世界の<u>洞窟</u>のようでした。
+J-2: 泥棒は裏通りの<u>洞窟</u>に消えてしまい、彼を捕まえることは不可能でした。

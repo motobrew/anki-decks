@@ -1,0 +1,8 @@
+# Key:askew
+### English Sentences
+E-1: The picture was hanging <u>askew</u> on the wall.
+E-2: After the storm, the trees were left <u>askew</u> in the garden.
+
+### Japanese Translation
+J-1: 絵が壁に<u>傾いて</u>掛かっていました。
+J-2: 嵐の後、庭に木が<u>傾いたまま</u>残されました。

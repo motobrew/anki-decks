@@ -1,0 +1,8 @@
+# Key:reactionary
+### English Sentences
+E-1: He is known for his <u>reactionary</u> views on social issues.
+E-2: The government's decision to ban the book was seen as a <u>reactionary</u> move.
+
+### Japanese Translation
+J-1: 彼は社会問題における<u>保守的な</u>意見で知られている。
+J-2: 政府の本の禁止は<u>反動的な</u>行動として見なされました。

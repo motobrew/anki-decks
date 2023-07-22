@@ -1,0 +1,8 @@
+# Key:regime
+### English Sentences
+E-1: The citizens celebrated the fall of the oppressive <u>regime</u>.
+E-2: The new <u>regime</u> implemented several reforms to improve the economy.
+
+### Japanese Translation
+J-1: 住民たちは圧政の<u>政権</u>が倒れたことを祝った。
+J-2: 新しい<u>政権</u>は経済改革のために複数の改革を実施した。

@@ -1,0 +1,8 @@
+# Key:exorcise
+### English Sentences
+E-1: She tried to <u>exorcise</u> her fears by confronting them head-on.
+E-2: He performed a ritual to <u>exorcise</u> the evil spirits from the haunted house.
+
+### Japanese Translation
+J-1: 彼女は直面して恐怖心を<u>追い払う</u>ことでそれを克服しようとしました。
+J-2: 彼は呪われた家から邪気を<u>祓う</u>ために儀式を行いました。

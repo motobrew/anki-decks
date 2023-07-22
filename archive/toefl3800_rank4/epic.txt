@@ -1,0 +1,8 @@
+# Key:epic
+### English Sentences
+E-1: The adventure movie was an <u>epic</u> journey through time and space.
+E-2: The marathon runner completed an <u>epic</u> feat by finishing in record time.
+
+### Japanese Translation
+J-1: その冒険映画は時間と空間を駆け巡る<u>壮大な</u>旅でした。
+J-2: マラソンランナーは記録的なタイムで完走し、<u>偉業</u>を成し遂げました。

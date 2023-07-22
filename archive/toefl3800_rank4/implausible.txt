@@ -1,0 +1,8 @@
+# Key:implausible
+### English Sentences
+E-1: The detective found the suspect's alibi to be <u>implausible</u>.
+E-2: The teacher dismissed the student's excuse as <u>implausible</u>.
+
+### Japanese Translation
+J-1: 刑事は容疑者のアリバイを<u>信じられないもの</u>と考えました。
+J-2: 先生は生徒の言い訳を<u>信じられないもの</u>として却下しました。

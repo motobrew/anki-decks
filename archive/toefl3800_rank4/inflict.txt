@@ -1,0 +1,8 @@
+# Key:inflict
+### English Sentences
+E-1: The kidnapper planned to <u>inflict</u> harm on his victim.
+E-2: The disease can <u>inflict</u> severe pain and suffering on those affected.
+
+### Japanese Translation
+J-1: 誘拐犯は被害者に<u>傷害を与える</u>つもりで計画を立てました。
+J-2: その病気は罹患者に激しい痛みや苦しみを<u>もたらすこと</u>ができます。

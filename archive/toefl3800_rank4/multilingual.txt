@@ -1,0 +1,8 @@
+# Key:multilingual
+### English Sentences
+E-1: The company is looking for a <u>multilingual</u> customer service representative.
+E-2: She grew up in a <u>multilingual</u> household and speaks five languages fluently.
+
+### Japanese Translation
+J-1: その会社は<u>多言語</u>の顧客サービス担当者を募集しています。
+J-2: 彼女は<u>多言語</u>の家庭で育ち、5つの言語を流暢に話します。

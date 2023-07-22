@@ -1,0 +1,8 @@
+# Key:plod
+### English Sentences
+E-1: She <u>plodded</u> through the mud, exhausted from the long hike.
+E-2: The slow-moving tortoise <u>plodded</u> along, unfazed by the cheering crowd.
+
+### Japanese Translation
+J-1: 彼女は長時間のハイキングで疲れ果て、泥の中を<uゆっくり歩きました</u>。
+J-2: スローペースのカメは、応援する人々に影響されず、<u>のんびり</u>と進んでいきました。

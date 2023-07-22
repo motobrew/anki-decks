@@ -1,0 +1,8 @@
+# Key:forte
+### English Sentences
+E-1: Music is her <u>forte</u>; she can play multiple instruments with ease.
+E-2: Public speaking is not his <u>forte</u>; he gets nervous in front of crowds.
+
+### Japanese Translation
+J-1: 音楽が彼女の<u>得意分野</u>で、彼女は複数の楽器を簡単に演奏できます。
+J-2: 彼の<u>得意なこと</u>ではないが、彼は人前で緊張します。

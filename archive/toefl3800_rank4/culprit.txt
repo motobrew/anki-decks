@@ -1,0 +1,8 @@
+# Key:culprit
+### English Sentences
+E-1: The police are still trying to identify the <u>culprit</u> behind the robbery.
+E-2: After a careful investigation, they found the <u>culprit</u> responsible for the crime.
+
+### Japanese Translation
+J-1: 警察はまだ強盗事件の<u>犯人</u>を特定しようとしている。
+J-2: 徹底的な調査の結果、犯罪の<u>元凶</u>が特定された。

@@ -1,0 +1,8 @@
+# Key:incidence
+### English Sentences
+E-1: The <u>incidence</u> of car accidents increases during rainy weather.
+E-2: The <u>incidence</u> of heart disease is higher in men than in women.
+
+### Japanese Translation
+J-1: 雨の天候下では、自動車事故の<u>発生率</u>が上昇します。
+J-2: 男性の方が女性よりも心臓病の<u>発生率</u>が高いです。

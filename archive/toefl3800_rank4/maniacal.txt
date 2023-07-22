@@ -1,0 +1,8 @@
+# Key:maniacal
+### English Sentences
+E-1: She had a <u>maniacal</u> laugh that sent chills down my spine.
+E-2: The villain had a <u>maniacal</u> plan to take over the world.
+
+### Japanese Translation
+J-1: 彼女は気味が悪いほど<u>狂気じみた</u>笑い方をした。
+J-2: 悪役は世界征服の<u>狂気じみた</u>計画を持っていた。

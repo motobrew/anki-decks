@@ -1,0 +1,8 @@
+# Key:freak
+### English Sentences
+E-1: She's such a <u>freak</u> when it comes to organizing her closet.
+E-2: I can't believe he ate a whole pizza by himself, what a <u>freak</u>!
+
+### Japanese Translation
+J-1: 彼女はクローゼットの整理に関しては本当に<u変り者です</u>。
+J-2: 彼が一人でピザを一枚丸ごと食べたなんて、信じられないくらいの<u食いしん坊だ</u>！

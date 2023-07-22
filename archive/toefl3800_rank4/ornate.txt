@@ -1,0 +1,8 @@
+# Key:ornate
+### English Sentences
+E-1: The walls of the cathedral were adorned with <u>ornate</u> carvings and gold leaf.
+E-2: She wore an <u>ornate</u> tiara on her wedding day.
+
+### Japanese Translation
+J-1: 大聖堂の壁には、華麗な彫刻と金箔が施されていました。
+J-2: 彼女は結婚式の日に華麗なティアラを身につけていました。

@@ -1,0 +1,8 @@
+# Key:benefactor
+### English Sentences
+E-1: The generous millionaire became the <u>benefactor</u> of the local school.
+E-2: The kind stranger acted as a <u>benefactor</u> to the homeless family.
+
+### Japanese Translation
+J-1: 富豪の方が地元の学校の<u>恩人</u>となりました。
+J-2: 親切な見知らぬ人がホームレスの家族の<u>恩人</u>として行動しました。

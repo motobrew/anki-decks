@@ -1,0 +1,8 @@
+# Key:toll
+### English Sentences
+E-1: The pandemic has taken a <u>toll</u> on the global economy.
+E-2: The constant stress of work can <u>take a toll</u> on your mental health.
+
+### Japanese Translation
+J-1: パンデミックは世界経済に<u>打撃を与えました</u>。
+J-2: 仕事の継続的なストレスは、精神的な健康に<u>影響を与えることができます</u>。

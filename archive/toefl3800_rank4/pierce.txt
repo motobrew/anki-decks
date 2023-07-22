@@ -1,0 +1,8 @@
+# Key:pierce
+### English Sentences
+E-1: His piercing stare made me feel uncomfortable.  
+E-2: The sound of a piercing scream filled the air.  
+
+### Japanese Translation
+J-1: 彼の<u>鋭い</u>視線に不快感を覚えた。  
+J-2: 耳をつんざくような悲鳴の音が空中に広がった。

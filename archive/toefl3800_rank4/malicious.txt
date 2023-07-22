@@ -1,0 +1,8 @@
+# Key:malicious
+### English Sentences
+E-1: The <u>malicious</u> virus attacked the computer, causing it to crash.
+E-2: She spread <u>malicious</u> rumors about her coworker to ruin her reputation.
+
+### Japanese Translation
+J-1: <u>悪意のある</u>ウイルスがコンピュータを襲撃し、クラッシュさせました。
+J-2: 彼女は同僚の評判を台無しにするため、<u>悪意のある</u>噂を広めました。

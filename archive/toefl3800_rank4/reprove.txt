@@ -1,0 +1,8 @@
+# Key:reprove
+### English Sentences
+E-1: He <u>reproved</u> his colleague for being consistently late to work.
+E-2: The teacher <u>reproved</u> the students for not paying attention in class.
+
+### Japanese Translation
+J-1: 彼は同僚を<u>叱責しました</u>。毎回遅刻してくるからです。
+J-2: 先生は生徒たちを<u>叱りました</u>。授業中に集中していないからです。

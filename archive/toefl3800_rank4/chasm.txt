@@ -1,0 +1,8 @@
+# Key:chasm
+### English Sentences
+E-1: There is a <u>chasm</u> between their two political ideologies.
+E-2: The economic crisis created a <u>chasm</u> between the rich and the poor.
+
+### Japanese Translation
+J-1: 彼らの2つの政治的イデオロギーの間には<u>溝</u>があります。
+J-2: 経済危機によって、富裕層と貧困層の間に<u>溝</u>が生まれました。

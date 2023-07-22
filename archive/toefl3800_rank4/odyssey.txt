@@ -1,0 +1,8 @@
+# Key:odyssey
+### English Sentences
+E-1: The hero's <u>odyssey</u> took him on a long and arduous journey.
+E-2: She embarked on an <u>odyssey</u> to discover her true identity.
+
+### Japanese Translation
+J-1: 主人公の<u>オデッセイ</u>は、彼を長くて困難な旅に連れて行きました。
+J-2: 彼女は真のアイデンティティを探求する<u>冒険</u>に出発しました。

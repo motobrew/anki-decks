@@ -1,0 +1,8 @@
+# Key:aspiration
+### English Sentences
+E-1: Her lifelong <u>aspiration</u> is to become a successful novelist.
+E-2: The company's main <u>aspiration</u> is to become a global leader in innovation.
+
+### Japanese Translation
+J-1: 彼女の一生の<u>夢</u>は成功した小説家になることです。
+J-2: その会社の主な<u>野望</u>は、イノベーションのグローバルリーダーになることです。

@@ -1,0 +1,8 @@
+# Key:irreverence
+### English Sentences
+E-1: His irreverence towards authority often got him in trouble.
+E-2: The comedian's irreverence made the audience laugh uncontrollably.
+
+### Japanese Translation
+J-1: 彼の<u>無敬意</u>はしばしば彼をトラブルに巻き込んだ。
+J-2: そのコメディアンの<u>無神経さ</u>が観客を抑えきれず笑わせた。

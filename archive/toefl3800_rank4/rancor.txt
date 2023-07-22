@@ -1,0 +1,8 @@
+# Key:rancor
+### English Sentences
+E-1: I could sense the <u>rancor</u> in her voice as she yelled at him.
+E-2: The <u>rancor</u> between the two rival gangs has led to numerous violent confrontations.
+
+### Japanese Translation
+J-1: 彼女が彼に叫びながら<u>憎悪の念</u>を込めて話しているのが分かった。
+J-2: 2つのライバルのギャング間の<u>憎しみ</u>が多くの暴力的な衝突を引き起こしている。

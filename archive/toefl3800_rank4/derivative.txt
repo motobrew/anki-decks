@@ -1,0 +1,8 @@
+# Key:derivative
+### English Sentences
+E-1: The author's writing style is often criticized as being <u>derivative</u>.
+E-2: The movie was accused of being a <u>derivative</u> of previous successful films.
+
+### Japanese Translation
+J-1: その作者の文章スタイルはよく<u>模倣的</u>だと批判されます。
+J-2: その映画は以前の成功した映画の<u>模倣品</u>と非難されました。

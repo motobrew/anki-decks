@@ -1,0 +1,8 @@
+# Key:humus
+### English Sentences
+E-1: I was amazed at how the writer was able to <u>weave</u> humus into her novel.
+E-2: She has a way of <u>transforming</u> everyday experiences into literary humus.
+
+### Japanese Translation
+J-1: その作家が小説に<u>巧みに織り込む</u>ことができるのに驚きました。
+J-2: 彼女は日常の経験を文学的な<u>土壌に変える</u>方法を持っています。

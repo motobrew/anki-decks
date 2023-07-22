@@ -1,0 +1,8 @@
+# Key:reprehensible
+### English Sentences
+E-1: His <u>reprehensible</u> behavior at the party shocked everyone.
+E-2: The company's <u>reprehensible</u> business practices led to its downfall.
+
+### Japanese Translation
+J-1: パーティーでの彼の<u>非難すべき</u>態度はみんなを驚かせた。
+J-2: その会社の<u>非難すべき</u>業務手法がその破滅を招いた。

@@ -1,0 +1,8 @@
+# Key:protocol
+### English Sentences
+E-1: Following proper <u>protocol</u> is essential in a professional setting.
+E-2: The <u>protocol</u> for starting a new project is to gather requirements.
+
+### Japanese Translation
+J-1: プロの場では適切な<u>プロトコル</u>に従うことが不可欠です。
+J-2: 新しいプロジェクトを始めるための<u>手続き</u>は、要件を集めることです。

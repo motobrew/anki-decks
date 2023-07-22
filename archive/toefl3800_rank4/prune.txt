@@ -1,0 +1,8 @@
+# Key:prune
+### English Sentences
+E-1: She decided to <u>prune</u> her schedule to make more time for herself.
+E-2: The manager had to <u>prune</u> the staff to cut down costs.
+
+### Japanese Translation
+J-1: 彼女は自分のためにもっと時間を作るため、スケジュールを<u>絞り込む</u>ことにしました。
+J-2: マネージャーは費用を削減するためにスタッフを<u>削減</u>しなければなりませんでした。

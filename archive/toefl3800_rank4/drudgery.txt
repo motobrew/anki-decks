@@ -1,0 +1,8 @@
+# Key:drudgery
+### English Sentences
+E-1: The mundane <u>drudgery</u> of washing dishes everyday is exhausting.
+E-2: He was tired of the <u>drudgery</u> of his monotonous job.
+
+### Japanese Translation
+J-1: 毎日食器を洗うという<u>退屈な日常の仕事</u>は疲れます。
+J-2: 彼は<u>単調な仕事の退屈さ</u>に嫌気が差していました。

@@ -1,0 +1,8 @@
+# Key:obelisk
+### English Sentences
+E-1: The <u>obelisk</u> stood tall in the city park, shining in the sunlight.
+E-2: Archaeologists uncovered an ancient <u>obelisk</u> during an excavation in Egypt.
+
+### Japanese Translation
+J-1: <u>オベリスク</u>が光り輝く市立公園にそびえ立っていました。
+J-2: エジプトでの発掘調査中、考古学者たちは古代の<u>オベリスク</u>を発見しました。

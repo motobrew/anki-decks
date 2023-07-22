@@ -1,0 +1,8 @@
+# Key:preamble
+### English Sentences
+E-1: The <u>preamble</u> of the speech set the tone for the entire event.
+E-2: The book's <u>preamble</u> explained the historical context of the story.
+
+### Japanese Translation
+J-1: スピーチの<u>前置き</u>がイベント全体の雰囲気を決めました。
+J-2: その本の<u>前書き</u>は物語の歴史的な背景を説明しました。

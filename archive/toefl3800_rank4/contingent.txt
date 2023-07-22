@@ -1,0 +1,8 @@
+# Key:contingent
+### English Sentences
+E-1: The success of the project is <u>contingent</u> on securing funding.
+E-2: The company's growth is <u>contingent</u> upon acquiring new clients.
+
+### Japanese Translation
+J-1: プロジェクトの成功は、資金を確保することに<u>依存しています</u>。
+J-2: 会社の成長は新規クライアントの獲得に<u>左右されています</u>。

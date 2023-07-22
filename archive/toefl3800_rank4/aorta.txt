@@ -1,0 +1,8 @@
+# Key:aorta
+### English Sentences
+E-1: The surgeon successfully repaired a tear in the <u>aorta</u>.
+E-2: High blood pressure can put strain on the <u>aorta</u>.
+
+### Japanese Translation
+J-1: 外科医は<u>大動脈</u>の裂け目を修復しました。
+J-2: 高血圧は<u>大動脈</u>に負担をかけることがあります。

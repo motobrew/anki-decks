@@ -1,0 +1,8 @@
+# Key:weird
+### English Sentences
+E-1: The party was strange, everyone was dressed in <u>weird</u> costumes.
+E-2: She has a <u>weird</u> sense of humor, always laughing at inappropriate times.
+
+### Japanese Translation
+J-1: パーティーは変で、みんなが<u>奇妙な</u>コスチュームを着ていました。
+J-2: 彼女は<u>変わった</u>センスのユーモアを持っていて、いつも不適切なタイミングで笑っています。

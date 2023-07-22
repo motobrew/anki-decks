@@ -1,0 +1,8 @@
+# Key:willow
+### English Sentences
+E-1: The branches of the willow swayed gently in the breeze.
+E-2: She hid her tears behind a willow, away from prying eyes.
+
+### Japanese Translation
+J-1: 柳の枝がそよ風に優しく揺れていました。
+J-2: 彼女は柳の陰に涙を隠し、のぞき見から遠ざけました。

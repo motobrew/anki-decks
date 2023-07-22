@@ -1,0 +1,8 @@
+# Key:plywood
+### English Sentences
+E-1: The carpenter used <u>plywood</u> to build the shelves in the closet.
+E-2: The decorators covered the walls with a layer of <u>plywood</u> before painting.
+
+### Japanese Translation
+J-1: 大工はクローゼットの棚に<u>合板</u>を使って作りました。
+J-2: ペンキを塗る前に、デコレーターたちは壁に<u>合板</u>を貼りました。

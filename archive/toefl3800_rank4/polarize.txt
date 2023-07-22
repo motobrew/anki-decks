@@ -1,0 +1,8 @@
+# Key:polarize
+### English Sentences
+E-1: The controversial issue has <u>polarized</u> the country into two opposing sides.
+E-2: The new policy is expected to <u>polarize</u> the community, with some strongly in favor and others strongly against.
+
+### Japanese Translation
+J-1: その論争のある問題によって、国は二つの対立する陣営に<u>分裂</u>しています。
+J-2: 新しい政策は、賛成派と反対派の意見が強く分かれ、地域社会を<u>分断する</u>と予想されています。

@@ -1,0 +1,8 @@
+# Key:intractable
+### English Sentences
+E-1: The problem was so <u>intractable</u> that no solution could be found.
+E-2: The negotiations between the two countries were <u>intractable</u> and led to no agreement.
+
+### Japanese Translation
+J-1: その問題は<u>解決不可能な</u>ほど難しいため、解決策は見つかりませんでした。
+J-2: 両国の交渉は<u>解決が困難な</u>ものであり、合意に至りませんでした。

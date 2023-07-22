@@ -1,0 +1,8 @@
+# Key:pyrite
+### English Sentences
+E-1: The shiny mineral I found turned out to be <u>pyrite</u>, not gold.
+E-2: His smile is as fake as <u>pyrite</u> jewelry.
+
+### Japanese Translation
+J-1: 私が見つけた輝くミネラルは、ゴールドではなく<u>黄鉄鉱</u>でした。
+J-2: 彼の笑顔は、<u>黄鉄鉱</u>の宝石のように偽物です。

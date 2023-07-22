@@ -1,0 +1,8 @@
+# Key:breathtaking
+### English Sentences
+E-1: The view from the top of the mountain was <u>breathtaking</u>.
+E-2: The performance by the dancers was absolutely <u>breathtaking</u>.
+
+### Japanese Translation
+J-1: 山の頂上からの景色は<u>息をのむような</u>美しさだった。
+J-2: 踊り手のパフォーマンスはまったくもって<u>圧巻の</u>ものだった。

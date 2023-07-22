@@ -1,0 +1,8 @@
+# Key:funnel
+### English Sentences
+E-1: The marketing team used a sales <u>funnel</u> to track customer conversions.
+E-2: The teacher used a teaching <u>funnel</u> to guide students' learning process.
+
+### Japanese Translation
+J-1: マーケティングチームは顧客の変換を追跡するためにセールス<u>ファネル</u>を使用しました。
+J-2: 先生は教育<u>ファネル</u>を使って学生の学習プロセスを導きました。

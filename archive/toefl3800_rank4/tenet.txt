@@ -1,0 +1,8 @@
+# Key:tenet
+### English Sentences
+E-1: The freedom of speech is a fundamental <u>tenet</u> of democracy.
+E-2: The company's guiding <u>tenet</u> is to always prioritize customer satisfaction.
+
+### Japanese Translation
+J-1: 言論の自由は民主主義の基本的な<u>原則</u>です。
+J-2: 会社の指針となる<u>信条</u>は常に顧客満足を優先することです。

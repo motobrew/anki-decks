@@ -1,0 +1,8 @@
+# Key:dint
+### English Sentences
+E-1: We worked hard and by dint of our efforts, we achieved success.
+E-2: He succeeded in his career by dint of his determination and hard work.
+
+### Japanese Translation
+J-1: 私たちは努力のおかげで成功を収めました。
+J-2: 彼は決意と努力によってキャリアで成功しました。

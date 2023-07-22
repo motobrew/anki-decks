@@ -1,0 +1,8 @@
+# Key:engaging
+### English Sentences
+E-1: The teacher used an <u>engaging</u> activity to keep the students interested.
+E-2: The movie had an <u>engaging</u> plot that captivated the audience.
+
+### Japanese Translation
+J-1: 先生は興味を持たせる活動を使って、生徒たちの関心を引きました。
+J-2: その映画は魅力的なプロットで、観客を夢中にさせました。

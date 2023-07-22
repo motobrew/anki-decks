@@ -1,0 +1,8 @@
+# Key:hail
+### English Sentences
+E-1: I was caught in a sudden <u>hail</u> of criticism from my boss.
+E-2: The team <u>hailed</u> their captain as a hero after their victory.
+
+### Japanese Translation
+J-1: 上司からの突然の<u>批判</u>に遭ってしまった。
+J-2: チームは勝利後、キャプテンを英雄と<u>称えた</u>。

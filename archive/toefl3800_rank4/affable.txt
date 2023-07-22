@@ -1,0 +1,8 @@
+# Key:affable
+### English Sentences
+E-1: He was known for his <u>affable</u> personality, always making everyone feel welcome.
+E-2: The salesman greeted us with an <u>affable</u> smile, ready to assist us.
+
+### Japanese Translation
+J-1: 彼は、誰とでも気軽に接する<u>愛想の良い</u>人柄で知られていました。
+J-2: そのセールスマンは<u>親しみやすい</u>笑顔で私たちを出迎え、手助けしようとしていました。

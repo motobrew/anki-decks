@@ -1,0 +1,8 @@
+# Key:franchise
+### English Sentences
+E-1: The fast food restaurant is a popular <u>franchise</u> in our city.
+E-2: She plans to open her own business as a <u>franchise</u> of a well-known clothing brand.
+
+### Japanese Translation
+J-1: そのファストフード店は私たちの街でも人気のある<u>フランチャイズ</u>です。
+J-2: 彼女は有名な衣料品ブランドの<u>フランチャイズ</u>として自分のビジネスを始める予定です。

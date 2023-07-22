@@ -1,0 +1,8 @@
+# Key:earthy
+### English Sentences
+E-1: The soup had an <u>earthy</u> flavor due to the fresh vegetables.
+E-2: Her paintings often have an <u>earthy</u> tone, inspired by nature.
+
+### Japanese Translation
+J-1: 野菜の新鮮さにより、スープには<u>土のような</u>風味がありました。
+J-2: 彼女の絵はよく自然に触発された<u>土っぽい</u>色調があります。

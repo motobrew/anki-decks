@@ -1,0 +1,8 @@
+# Key:robust
+### English Sentences
+E-1: The company has a <u>robust</u> cybersecurity system to protect sensitive data.
+E-2: The new technology will provide a <u>robust</u> solution to the problem.
+
+### Japanese Translation
+J-1: その会社は、機密データを保護するために<u>頑健な</u>セキュリティシステムを持っています。
+J-2: その新しい技術は、問題に<u>強力な</u>解決策を提供します。

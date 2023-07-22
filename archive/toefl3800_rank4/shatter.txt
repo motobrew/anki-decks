@@ -1,0 +1,8 @@
+# Key:shatter
+### English Sentences
+E-1: The news of their breakup <u>shattered</u> her heart into pieces.
+E-2: The sudden death of her father <u>shattered</u> her world completely.
+
+### Japanese Translation
+J-1: 彼らの別れのニュースは彼女の心をバラバラに<u>粉砕しました</u>。
+J-2: 突然の父の死が彼女の世界を完全に<u>打ち砕きました</u>。

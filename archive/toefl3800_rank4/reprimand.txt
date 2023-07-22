@@ -1,0 +1,8 @@
+# Key:reprimand
+### English Sentences
+E-1: My boss gave me a <u>reprimand</u> for being late to work.
+E-2: The teacher issued a <u>reprimand</u> to the student for talking in class.
+
+### Japanese Translation
+J-1: 上司が私に<u>叱責</u>を与えました。遅刻したことで。
+J-2: 先生が生徒に授業中の話し合いに<u>厳重注意</u>を行いました。

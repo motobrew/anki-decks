@@ -1,0 +1,8 @@
+# Key:canvass
+### English Sentences
+E-1: The campaign team went door-to-door to <u>canvass</u> for votes.
+E-2: The salesperson visited multiple businesses to <u>canvass</u> potential customers.
+
+### Japanese Translation
+J-1: 選挙陣営は投票を得るためにドアツードアで<u>訪問活動を行いました</u>。
+J-2: 販売員は潜在的な顧客を<u>訪問しました</u>。

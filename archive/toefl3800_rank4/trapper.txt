@@ -1,0 +1,8 @@
+# Key:trapper
+### English Sentences
+E-1: The trapper set out traps to catch wild animals in the forest.
+E-2: The trapper wore a fur-lined coat to stay warm during his hunts.
+
+### Japanese Translation 
+J-1: トラッパーは森で野生動物を捕まえるためにわなを設置しました。
+J-2: トラッパーは狩猟の間暖かく過ごすために毛皮のライニングのコートを着ていました。

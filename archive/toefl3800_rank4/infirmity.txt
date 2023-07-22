@@ -1,0 +1,8 @@
+# Key:infirmity
+### English Sentences
+E-1: He has an <u>infirmity</u> in his left leg and uses a cane to walk.
+E-2: Her <u>infirmity</u> in remembering names often makes her feel embarrassed.
+
+### Japanese Translation
+J-1: 彼は左足に<u>体の不自由さ</u>があり、杖を使って歩いています。
+J-2: 彼女の名前を覚える<u>力の弱さ</u>は、しばしば彼女を困惑させます。

@@ -1,0 +1,8 @@
+# Key:excise
+### English Sentences
+E-1: The doctor decided to <u>excise</u> the tumor from the patient's body.
+E-2: The government plans to <u>excise</u> certain items from the proposed budget.
+
+### Japanese Translation
+J-1: 医者は患者の体内から腫瘍を<u>切り取ること</u>を決めました。
+J-2: 政府は予算案から特定の項目を<u>削除する予定</u>です。

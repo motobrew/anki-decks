@@ -1,0 +1,8 @@
+# Key:manifesto
+### English Sentences
+E-1: In his <u>manifesto</u>, the author outlines his vision for a better society.
+E-2: The fashion brand's <u>manifesto</u> highlights its commitment to sustainable practices.
+
+### Japanese Translation
+J-1: 著者は彼の<u>マニフェスト</u>で、より良い社会のビジョンを示しています。
+J-2: そのファッションブランドの<u>マニフェスト</u>は、持続可能な取り組みへの取り組みを強調しています。

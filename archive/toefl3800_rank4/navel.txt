@@ -1,0 +1,8 @@
+# Key:navel
+### English Sentences
+E-1: She was born with an <u>outie</u> navel, which is quite rare.
+E-2: He got punched in the stomach and his navel <u>turned inside out</u>.
+
+### Japanese Translation
+J-1: 彼女は珍しいがったんの<u>でっぱりへその</u>で生まれました。
+J-2: 彼はお腹に殴られ、へその<u>裏返り</u>を起こしました。

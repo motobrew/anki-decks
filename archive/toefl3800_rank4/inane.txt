@@ -1,0 +1,8 @@
+# Key:inane
+### English Sentences
+E-1: His comments at the meeting were completely <u>inane</u>.
+E-2: I can't believe she wasted all that time on such an <u>inane</u> conversation.
+
+### Japanese Translation
+J-1: 彼の会議でのコメントは完全に<u>愚かだった</u>。
+J-2: あんなつまらない話に時間を浪費するなんて信じられない。

@@ -1,0 +1,8 @@
+# Key:bicker
+### English Sentences
+E-1: My parents always <u>bicker</u> about petty things like who left the light on.
+E-2: The politicians constantly <u>bicker</u> over small policy details instead of finding common ground.
+
+### Japanese Translation
+J-1: 私の両親はいつも誰が明かりをつけたかといった些細なことで<u>口論する</u>。
+J-2: 政治家たちは常に細かい政策の詳細について<u>言い争って</u>おり、共通点を見つけることをしない。

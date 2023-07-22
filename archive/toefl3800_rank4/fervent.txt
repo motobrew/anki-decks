@@ -1,0 +1,9 @@
+# Key:fervent
+## Response
+### English Sentences
+E-1: She offered a <u>fervent</u> prayer for her mother's recovery.
+E-2: The fans gave a <u>fervent</u> cheer as the team scored the winning goal.
+
+### Japanese Translation
+J-1: 彼女は母の回復のために<u>熱烈な</u>祈りを捧げました。
+J-2: ファンたちはチームが勝ち点を得ると<u>熱烈な</u>声援を送りました。

@@ -1,0 +1,8 @@
+# Key:irate
+### English Sentences
+E-1: The customer became <u>irate</u> when he received poor service.
+E-2: The employee's constant mistakes made the boss <u>irate</u>.
+
+### Japanese Translation
+J-1: お客様は、劣悪なサービスを受けて<u>激怒しました</u>。
+J-2: 従業員の絶え間ないミスが、上司を<u>激高させました</u>。

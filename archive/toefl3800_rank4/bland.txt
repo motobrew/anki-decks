@@ -1,0 +1,8 @@
+# Key:bland
+### English Sentences
+E-1: The dish was incredibly <u>bland</u> and lacked any flavor.
+E-2: The movie had a <u>bland</u> plot and failed to capture my interest.
+
+### Japanese Translation
+J-1: その料理は非常に<u>味気なく</u>、一切の風味がありませんでした。
+J-2: その映画は<u>平凡な</u>プロットで、私の興味を引くことができませんでした。

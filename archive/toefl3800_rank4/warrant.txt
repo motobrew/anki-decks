@@ -1,0 +1,8 @@
+# Key:warrant
+### English Sentences
+E-1: The police obtained a <u>warrant</u> to search the suspect's house.
+E-2: The evidence does not <u>warrant</u> a conviction in this case.
+
+### Japanese Translation
+J-1: 警察は容疑者の家を捜索する<u>令状</u>を入手しました。
+J-2: この事件では証拠は<u>有罪判決に値する</u>ものではありません。

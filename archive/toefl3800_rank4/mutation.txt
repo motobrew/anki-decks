@@ -1,0 +1,8 @@
+# Key:mutation
+### English Sentences
+E-1: The scientist discovered a rare <u>mutation</u> in the DNA sequence.
+E-2: The new strain of the virus has a genetic <u>mutation</u> that makes it more contagious.
+
+### Japanese Translation
+J-1: 科学者はDNA配列の中で稀な<u>変異</u>を発見しました。
+J-2: 新しいウイルス株はより感染力のある<u>突然変異</u>を持っています。

@@ -1,0 +1,8 @@
+# Key:caprice
+### English Sentences
+E-1: She changed her mind frequently, driven by <u>caprice</u>.
+E-2: His decisions are often based on momentary <u>caprices</u>.
+
+### Japanese Translation
+J-1: 彼女はしばしば<u>気まぐれ</u>に心変わりする。
+J-2: 彼の決定はしばしば一瞬の<u>気まぐれ</u>に基づいている。

@@ -1,0 +1,8 @@
+# Key:disputatious
+### English Sentences
+E-1: She always seems to be in a <u>disputatious</u> mood, ready to argue with anyone.
+E-2: The meeting became <u>disputatious</u> as everyone had conflicting opinions.
+
+### Japanese Translation
+J-1: 彼女はいつも<u>議論好き</u>な態度で、誰とでも喧嘩をする準備ができています。
+J-2: 会議は<u>議論好きな</u>雰囲気になり、皆が対立する意見を持っていました。

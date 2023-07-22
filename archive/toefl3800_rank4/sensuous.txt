@@ -1,0 +1,8 @@
+# Key:sensuous
+### English Sentences
+E-1: The velvet dress had a <u>sensuous</u> feel against her skin.
+E-2: The artwork captured the <u>sensuous</u> curves of the human body.
+
+### Japanese Translation
+J-1: ビロードのドレスは、彼女の肌に<u>官能的な</u>感触がありました。
+J-2: その作品は、人体の<u>官能的な</u>曲線を捉えていました。

@@ -1,0 +1,8 @@
+# Key:enervate
+### English Sentences
+E-1: The intense workout had <u>enervated</u> me, leaving me exhausted.
+E-2: The monotonous job tasks <u>enervate</u> her, draining her motivation.
+
+### Japanese Translation
+J-1: 激しいトレーニングで<u>体力が消耗してしまい</u>、疲れ果てました。
+J-2: 単調な仕事のタスクによって<u>彼女のやる気が低下し</u>、モチベーションを奪います。

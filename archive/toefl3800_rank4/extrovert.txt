@@ -1,0 +1,8 @@
+# Key:extrovert
+### English Sentences
+E-1: She is such an <u>extrovert</u>, always surrounded by friends and strangers.
+E-2: As an <u>extrovert</u>, he gains energy from social interactions and group activities.
+
+### Japanese Translation
+J-1: 彼女は本当に<u>外向的な人</u>で、常に友人や見知らぬ人に囲まれています。
+J-2: 彼は<u>外交的な性格</u>であり、社交的な交流や集団活動からエネルギーを得ます。

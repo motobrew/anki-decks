@@ -1,0 +1,8 @@
+# Key:rife
+### English Sentences
+E-1: Corruption is <u>rife</u> in the government officials' ranks.
+E-2: Misinformation about vaccines is <u>rife</u> on social media.
+
+### Japanese Translation
+J-1: 政府関係者の中で腐敗が<u蔓延しています</u>。
+J-2: ワクチンに関する誤った情報がソーシャルメディア上で<u>蔓延しています</u>。

@@ -1,0 +1,8 @@
+# Key:recessive gene
+### English Sentences
+E-1: He inherited the blond hair from his father due to a <u>recessive gene</u>.
+E-2: The doctors determined that the condition was caused by a <u>recessive gene</u>.
+
+### Japanese Translation
+J-1: 彼は<u>劣性遺伝子</u>のために父親から金髪を受け継ぎました。
+J-2: 医師たちはその病状が<u>劣性遺伝子</u>によるものと判断しました。

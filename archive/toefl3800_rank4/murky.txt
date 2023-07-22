@@ -1,0 +1,8 @@
+# Key:murky
+### English Sentences
+E-1:  The details of the deal are still <u>murky</u> and unclear.
+E-2: His intentions for the project remain <u>murky</u> and ambiguous.
+
+### Japanese Translation
+J-1: その取引の詳細はまだ<u>不明瞭で</u>はっきりしていません。
+J-2: 彼のプロジェクトへの意図は<u>不明瞭で</u>明確ではありません。

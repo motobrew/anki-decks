@@ -1,0 +1,8 @@
+# Key:watershed
+### English Sentences
+E-1: The recent scandal was a <u>watershed</u> moment in politics.
+E-2: The invention of the internet was a <u>watershed</u> in communication technology.
+
+### Japanese Translation
+J-1: 最近のスキャンダルは政治の<u>画期的な出来事</u>でした。
+J-2: インターネットの発明は通信技術の<u>転換点</u>でした。

@@ -1,0 +1,8 @@
+# Key:mow
+### English Sentences
+E-1: I need to <u>mow</u> the lawn before the guests arrive.
+E-2: He always tries to <u>mow</u> through his work quickly and efficiently.
+
+### Japanese Translation
+J-1: ゲストが到着する前に芝生を<u>刈らなければなりません</u>。
+J-2: 彼はいつも仕事を<u>素早くかつ効率的に消化しよう</u>とします。

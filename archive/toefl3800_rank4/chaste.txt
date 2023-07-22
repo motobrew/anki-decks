@@ -1,0 +1,8 @@
+# Key:chaste
+### English Sentences
+E-1: She has remained <u>chaste</u> until marriage, as per her religious beliefs.
+E-2: The novel portrays the struggles of a <u>chaste</u> young woman in a society obsessed with sexuality.
+
+### Japanese Translation
+J-1: 彼女は宗教信条に従い、結婚するまで<u>純潔を保っています</u>。
+J-2: その小説は、性に執着する社会で<u>純潔な</u>若い女性の闘いを描いています。

@@ -1,0 +1,8 @@
+# Key:distend
+### English Sentences
+E-1: The doctor was concerned about the <u>distended</u> abdomen of the patient.
+E-2: Overeating can cause the stomach to <u>distend</u> and feel uncomfortable.
+
+### Japanese Translation
+J-1: 医師は患者の<u>張った</u>腹部に心配していました。
+J-2: 過食すると胃が<u>膨張して</u>不快感を覚えることがあります。

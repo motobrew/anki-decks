@@ -1,0 +1,8 @@
+# Key:societal
+### English Sentences
+E-1: The crime rate is a reflection of the <u>societal</u> issues we face.
+E-2: Poverty and inequality are two major <u>societal</u> problems that need to be addressed.
+
+### Japanese Translation
+J-1: 犯罪率は私たちが直面している<u>社会的な</u>問題の反映です。
+J-2: 貧困と不平等は解決すべき<u>社会的な</u>問題です。

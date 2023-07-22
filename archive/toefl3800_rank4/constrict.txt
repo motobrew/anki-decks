@@ -1,0 +1,8 @@
+# Key:constrict
+### English Sentences
+E-1: The tight clothes <u>constrict</u> her movement and make her uncomfortable.
+E-2: Stress can <u>constrict</u> blood vessels and cause health problems.
+
+### Japanese Translation
+J-1: きつい服は彼女の動きを<u>制限して</u>不快さを引き起こします。
+J-2: ストレスは血管を<u>狭めて</u>健康問題を引き起こすことがあります。

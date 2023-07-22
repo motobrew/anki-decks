@@ -1,0 +1,8 @@
+# Key:sidereal
+### English Sentences
+E-1: The <u>sidereal</u> day is determined by the Earth's rotation relative to the stars.
+E-2: Astronomers use <u>sidereal</u> time to track the movement of celestial objects.
+
+### Japanese Translation
+J-1: <u>恒星</u>の回転に対する地球の回転によって、恒星日が決まります。
+J-2: 天文学者は天体の動きを追跡するために<u>恒星時</u>を使用します。

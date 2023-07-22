@@ -1,0 +1,8 @@
+# Key:esoteric
+### English Sentences
+E-1: The professor's lecture was filled with <u>esoteric</u> concepts and theories.
+E-2: The book was difficult to understand because it was written in <u>esoteric</u> language.
+
+### Japanese Translation
+J-1: 教授の講義は<u>難解な</u>概念と理論でいっぱいでした。
+J-2: その本は<u>難解な</u>言語で書かれていたため、理解するのが困難でした。

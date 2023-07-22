@@ -1,0 +1,8 @@
+# Key:precursor
+### English Sentences
+E-1: The discovery of penicillin was a <u>precursor</u> to modern antibiotics.
+E-2: The small earthquake was a <u>precursor</u> to the larger one that followed.
+
+### Japanese Translation
+J-1: ペニシリンの発見は、現代の抗生物質の<u>先駆け</u>となりました。
+J-2: 小さな地震は、それに続く大きな地震の<u>前兆</u>でした。

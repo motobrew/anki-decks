@@ -1,0 +1,8 @@
+# Key:cupidity
+### English Sentences
+E-1: His <u>cupidity</u> for money led him to steal from others.
+E-2: The company's <u>cupidity</u> for profit caused them to exploit their workers.
+
+### Japanese Translation
+J-1: 彼の<u>金への欲望</u>が他人から盗む原因となりました。
+J-2: その会社の<u>利益への強欲</u>が労働者たちを搾取させました。

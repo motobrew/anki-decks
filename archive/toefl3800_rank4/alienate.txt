@@ -1,0 +1,8 @@
+# Key:alienate
+### English Sentences
+E-1: The constant criticism from her colleagues began to <u>alienate</u> her.
+E-2: His arrogant behavior <u>alienated</u> him from his friends.
+
+### Japanese Translation
+J-1: 同僚たちからの絶え間ない批判が彼女を<u>孤立させる</u>始まった。
+J-2: 彼の傲慢な態度が彼を友人たちから<u>遠ざけました</u>。

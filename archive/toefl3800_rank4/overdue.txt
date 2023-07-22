@@ -1,0 +1,8 @@
+# Key:overdue
+### English Sentences
+E-1: The library notified me that the book I borrowed is <u>overdue</u>.
+E-2: The project deadline is <u>overdue</u> and we need to finish it immediately.
+
+### Japanese Translation
+J-1: 図書館から、借りた本が<u>返却期限切れ</u>であることを通知されました。
+J-2: プロジェクトの締め切りが<u>過ぎてしまっており</u>、すぐに終わらせる必要があります。

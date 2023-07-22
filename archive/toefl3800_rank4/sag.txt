@@ -1,0 +1,8 @@
+# Key:sag
+### English Sentences
+E-1: The hiker's shoulders <u>sagged</u> under the weight of his backpack.
+E-2: The deflated balloon <u>sagged</u> to the ground after the party.
+
+### Japanese Translation
+J-1: ハイカーの肩は、バックパックの重さで<u>たれ込んでいました</u>。
+J-2: パーティー後、しぼんだ風船は地面に<u>しぼみました</u>。

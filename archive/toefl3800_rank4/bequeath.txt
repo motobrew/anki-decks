@@ -1,0 +1,8 @@
+# Key:bequeath
+### English Sentences
+E-1: My grandmother <u>bequeathed</u> her antique jewelry to me in her will.
+E-2: The generous philanthropist <u>bequeathed</u> a large sum of money to charity.
+
+### Japanese Translation
+J-1: 私の祖母は遺言で私に彼女のアンティークの宝石を<u>遺贈しました</u>。
+J-2: 寛大な慈善家は大金を<u>寄付することを遺贈しました</u>。

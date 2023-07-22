@@ -1,0 +1,8 @@
+# Key:perennial plant
+### English Sentences
+E-1: The rose is a <u>perennial plant</u> that blooms every spring.
+E-2: We planted some <u>perennial plants</u> in our garden that come back every year.
+
+### Japanese Translation
+J-1: バラは<u>多年生植物</u>で、毎春花が咲きます。
+J-2: 私たちは庭に<u>多年生植物</u>を植えました。毎年戻ってきます。

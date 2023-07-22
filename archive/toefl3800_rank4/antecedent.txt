@@ -1,0 +1,8 @@
+# Key:antecedent
+### English Sentences
+E-1: The <u>antecedent</u> to this problem is a lack of communication.
+E-2: We need to address the <u>antecedent</u> issues before moving forward.
+
+### Japanese Translation
+J-1: この問題の<u>原因</u>はコミュニケーション不足です。
+J-2: 前提となる問題を解決する必要があります。

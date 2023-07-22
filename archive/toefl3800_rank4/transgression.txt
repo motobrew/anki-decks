@@ -1,0 +1,8 @@
+# Key:transgression
+### English Sentences
+E-1: His repeated tardiness was a transgression that could not be overlooked.
+E-2: The student received a disciplinary warning for his transgression of the school rules.
+
+### Japanese Translation
+J-1: 彼の繰り返される遅刻は見逃すことのできない<u>違反</u>でした。
+J-2: 学生は学校の規則に対する<u>犯罪行為</u>のために懲戒警告を受けました。

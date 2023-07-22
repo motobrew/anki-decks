@@ -1,0 +1,8 @@
+# Key:grievance
+### English Sentences
+E-1: She filed a <u>grievance</u> against her employer for unfair treatment.
+E-2: The workers went on strike to address their <u>grievances</u> with management.
+
+### Japanese Translation
+J-1: 彼女は不公平な扱いに対して雇用主に<u>不満</u>を申し立てました。
+J-2: 労働者たちは経営陣との<u>不満点</u>に対処するためにストライキに入りました。

@@ -1,0 +1,8 @@
+# Key:cataclysm
+### English Sentences
+E-1: The earthquake caused a <u>cataclysm</u> that devastated the city.
+E-2: The sudden loss of their star player was a <u>cataclysm</u> for the team.
+
+### Japanese Translation
+J-1: 地震が都市を壊滅させる<u>大災害</u>を引き起こしました。
+J-2: 急なスター選手の喪失は、そのチームにとっての<u>大事件</u>でした。

@@ -1,0 +1,8 @@
+# Key:decoy
+### English Sentences
+E-1: The hunter used a <u>decoy</u> to attract the ducks.
+E-2: The thief left a <u>decoy</u> to distract the security guards.
+
+### Japanese Translation
+J-1: 狩猟者はアヒルを引き寄せるために<u>デコイ</u>を使用しました。
+J-2: 泥棒は警備員の注意を逸らすために<u>デコイ</u>を置きました。

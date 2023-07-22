@@ -1,0 +1,8 @@
+# Key:disinfectant
+### English Sentences
+E-1: The doctor used <u>disinfectant</u> to clean the wound before stitching it up.
+E-2: It is important to regularly use <u>disinfectant</u> to kill germs and prevent illness.
+
+### Japanese Translation
+J-1: 医者は傷を縫う前に<u>消毒液</u>を使って清潔にしました。
+J-2: 病気を予防するため、定期的に<u>除菌剤</u>を使用することが大切です。

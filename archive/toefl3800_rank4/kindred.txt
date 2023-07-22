@@ -1,0 +1,8 @@
+# Key:kindred
+### English Sentences
+E-1: We may not be family, but we are <u>kindred spirits</u>.
+E-2: Their love for nature and adventure made them <u>kindred souls</u>.
+
+### Japanese Translation
+J-1: 私たちは家族ではありませんが、<u>共鳴する魂</u>です。
+J-2: 彼らの自然と冒険への愛が彼らを<u>同じ志を持つ者</u>にしました。

@@ -1,0 +1,8 @@
+# Key:dissipate
+### English Sentences
+E-1: The tension in the room dissipated after they apologized.
+E-2: The heat from the stove slowly dissipates into the air.
+
+### Japanese Translation
+J-1: 彼らが謝罪した後、部屋の緊張感が<u>消えました</u>。
+J-2: コンロからの熱はゆっくりと空気中に<u>拡散していきます</u>。

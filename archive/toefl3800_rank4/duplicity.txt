@@ -1,0 +1,8 @@
+# Key:duplicity
+### English Sentences
+E-1: His friendly demeanor hid a deep <u>duplicity</u> and deceitfulness.
+E-2: She was surprised by the <u>duplicity</u> of her so-called friend.
+
+### Japanese Translation
+J-1: 彼の友好的な態度は、深い<u>二重性格</u>と欺瞞を隠していた。
+J-2: 彼女は自称の友人の<u>二枚舌</u>に驚いた。

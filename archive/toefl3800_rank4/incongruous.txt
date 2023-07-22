@@ -1,0 +1,8 @@
+# Key:incongruous
+### English Sentences
+E-1: The bright pink chair looked <u>incongruous</u> in the elegant dining room.
+E-2: His casual attire was <u>incongruous</u> with the formal dress code of the event.
+
+### Japanese Translation
+J-1: エレガントなダイニングルームに明るいピンクの椅子が<u>似つかわしくない</u>様子で置かれていました。
+J-2: 彼のカジュアルな服装はイベントの厳しいドレスコードと<u>合っていない</u>ようでした。

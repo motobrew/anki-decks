@@ -1,0 +1,8 @@
+# Key:imbalance
+### English Sentences
+E-1: There is an <u>imbalance</u> in the distribution of wealth in this country.
+E-2: The team's poor performance is due to an <u>imbalance</u> in skill levels.
+
+### Japanese Translation
+J-1: この国では富の分配に<u>不均衡</u>があります。
+J-2: チームの低いパフォーマンスは、スキルの<u>バランスの欠如</u>によるものです。

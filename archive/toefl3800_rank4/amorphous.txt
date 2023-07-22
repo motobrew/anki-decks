@@ -1,0 +1,8 @@
+# Key:amorphous
+### English Sentences
+E-1: The laws regarding this issue are <u>amorphous</u> and open to interpretation.
+E-2: The project lacks a clear focus and has an <u>amorphous</u> structure.
+
+### Japanese Translation
+J-1: この問題に関する法律は<u>曖昧</u>で解釈の余地があります。
+J-2: そのプロジェクトは焦点が明確でなく、<u>不定形な</u>構造を持っています。

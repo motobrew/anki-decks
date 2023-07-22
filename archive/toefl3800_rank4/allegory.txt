@@ -1,0 +1,8 @@
+# Key:allegory
+### English Sentences
+E-1: The book "Animal Farm" is an <u>allegory</u> for the Russian Revolution.
+E-2: The movie "The Matrix" can be seen as an <u>allegory</u> for our perception of reality.
+
+### Japanese Translation
+J-1: 『動物農場』という本は、ロシア革命の<u>寓話的な表現</u>です。
+J-2: 映画『マトリックス』は、私たちの現実の認識に対する<u>寓話的な表現</u>とも解釈できます。

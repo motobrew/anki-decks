@@ -1,0 +1,8 @@
+# Key:unkempt
+### English Sentences
+E-1: His <u>unkempt</u> appearance suggested he hadn't slept in days.
+E-2: The <u>unkempt</u> garden was overgrown with weeds and wildflowers.
+
+### Japanese Translation
+J-1: 彼の<u>だらしない</u>外見からは、数日眠っていないのだろうと思われました。
+J-2: その<u>手入れされていない</u>庭は雑草や野草で荒れ放題でした。

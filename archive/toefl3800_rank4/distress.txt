@@ -1,0 +1,8 @@
+# Key:distress
+### English Sentences
+E-1: I could see the <u>distress</u> in her eyes as she told her story.
+E-2: He called for help in a state of extreme <u>distress</u>.
+
+### Japanese Translation
+J-1: 彼女が話す中で、彼女の目に<u>苦悩</u>が見えました。
+J-2: 彼は極度の<u>困難にあって</u>助けを求めました。

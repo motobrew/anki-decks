@@ -1,0 +1,8 @@
+# Key:interminable
+### English Sentences
+E-1: The meeting seemed interminable, dragging on for hours without end.
+E-2: The traffic jam on the highway made the journey feel interminable.
+
+### Japanese Translation
+J-1: 会議は終わりのないように長く感じられ、何時間も続きました。
+J-2: 高速道路の渋滞で、旅行が終わりのないように感じられました。

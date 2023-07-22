@@ -1,0 +1,8 @@
+# Key:guile
+### English Sentences
+E-1: He won the game through his <u>guile</u> and cunning strategies.
+E-2: She deceived him with her <u>guile</u> and made him believe her lies.
+
+### Japanese Translation
+J-1: 彼は彼の賢さと狡猾な戦略でゲームに勝ちました。
+J-2: 彼女は彼を欺いて<u>狡猾さ</u>で嘘を信じさせました。

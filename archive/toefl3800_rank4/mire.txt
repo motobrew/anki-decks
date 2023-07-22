@@ -1,0 +1,8 @@
+# Key:mire
+### English Sentences
+E-1: I found myself stuck in a <u>mire</u> of never-ending paperwork.
+E-2: The team is trying to get out of the <u>mire</u> of a losing streak.
+
+### Japanese Translation
+J-1: 絶え間ない書類作業の<u>泥沼</u>に自分がはまってしまった。
+J-2: チームは負け続けている<u>苦境</u>から抜け出そうとしています。

@@ -1,0 +1,8 @@
+# Key:dichotomy
+### English Sentences
+E-1: The concept of nature versus nurture is a classic <u>dichotomy</u>.
+E-2: The film explores the <u>dichotomy</u> between good and evil.
+
+### Japanese Translation
+J-1: 自然と教育の<u>対立</u>という概念は古典的です。
+J-2: その映画は善と悪の<u>二分法</u>を探求しています。

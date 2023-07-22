@@ -1,0 +1,8 @@
+# Key:polygon
+### English Sentences
+E-1: The company used a <u>polygon</u> to design the new logo.
+E-2: The field was marked with a white <u>polygon</u> for the soccer game.
+
+### Japanese Translation
+J-1: その会社は新しいロゴをデザインするために<u>多角形</u>を使用しました。
+J-2: サッカーゲームのために、そのフィールドは白い<u>多角形</u>でマークされました。

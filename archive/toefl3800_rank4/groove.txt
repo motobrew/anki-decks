@@ -1,0 +1,8 @@
+# Key:groove
+### English Sentences
+E-1: I could hear the band getting into their <u>groove</u> as the song progressed.
+E-2: Once he started dancing, he couldn't help but get into the <u>groove</u>.
+
+### Japanese Translation
+J-1: 曲が進むにつれ、バンドがいい感じの<uリズム</u>になっていくのが聞こえました。
+J-2: 彼が踊り始めると、うっかりその<uリズム</u>にのれないわけがありませんでした。

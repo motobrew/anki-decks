@@ -1,0 +1,8 @@
+# Key:tenure
+### English Sentences
+E-1: He was awarded <u>tenure</u> after teaching at the university for 10 years.
+E-2: Serving as department chair is often a prerequisite for <u>tenure</u>.
+
+### Japanese Translation
+J-1: 彼は大学で10年間教鞭をとった後、<u>永年在職権</u>を授与されました。
+J-2: 学部長を務めることは<u>永年在職権</u>の前提条件であることがよくあります。

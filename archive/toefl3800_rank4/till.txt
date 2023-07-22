@@ -1,0 +1,8 @@
+# Key:till
+### English Sentences
+E-1: The store is open <u>until</u> 9 pm tonight.
+E-2: I will wait <u>until</u> you finish your homework.
+
+### Japanese Translation
+J-1: 今夜は9時までお店は<u>営業しています</u>。
+J-2: あなたが宿題を終わらせる<u>まで待つ</u>よ。

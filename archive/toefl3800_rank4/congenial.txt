@@ -1,0 +1,8 @@
+# Key:congenial
+### English Sentences
+E-1: He is always smiling and has a <u>congenial</u> personality.
+E-2: The team has a <u>congenial</u> atmosphere where everyone gets along.
+
+### Japanese Translation
+J-1: 彼はいつも笑顔で人当たりが良い性格です。
+J-2: チームはみんなが仲良くしている<u>和やかな</u>雰囲気です。

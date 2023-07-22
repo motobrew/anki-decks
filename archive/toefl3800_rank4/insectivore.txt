@@ -1,0 +1,8 @@
+# Key:insectivore
+### English Sentences
+E-1: The hedgehog is an <u>insectivore</u>, meaning it feeds primarily on insects.
+E-2: Bats are another example of <u>insectivores</u>, as they mainly consume insects.
+
+### Japanese Translation
+J-1: ハリネズミは<u>昆虫食</u>動物で、主に昆虫を食べます。
+J-2: コウモリも<u>昆虫食</u>の一例であり、主に昆虫を摂取します。

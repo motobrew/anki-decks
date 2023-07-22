@@ -1,0 +1,8 @@
+# Key:birth rate
+### English Sentences
+E-1: The <u>birth rate</u> in this country has been declining for years.
+E-2: The government implemented policies to increase the country's <u>birth rate</u>.
+
+### Japanese Translation
+J-1: この国の<u>出生率</u>は何年も減少しています。
+J-2: 政府は<u>出生率</u>を上げるための政策を実施しました。

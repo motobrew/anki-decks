@@ -1,0 +1,8 @@
+# Key:fastidious
+### English Sentences
+E-1: She is known for being <u>fastidious</u> about keeping her workspace clean.
+E-2: His <u>fastidious</u> attention to detail made him an excellent designer.
+
+### Japanese Translation
+J-1: 彼女は自分の仕事場をきれいに保つことに<u>こだわりがある</u>として知られています。
+J-2: 彼の<u>細部への注意</u>が優れたデザイナーになることを可能にしました。

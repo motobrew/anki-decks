@@ -1,0 +1,8 @@
+# Key:replete
+### English Sentences
+E-1: The library's shelves are <u>replete</u> with books on history and science.
+E-2: The conference room was <u>replete</u> with professionals from different industries.
+
+### Japanese Translation
+J-1: 図書館の本棚は、歴史や科学に関する本で<u>いっぱいです</u>。
+J-2: 会議室は、さまざまな業界のプロフェッショナルで<u>溢れていました</u>。

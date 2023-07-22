@@ -1,0 +1,8 @@
+# Key:reverent
+### English Sentences
+E-1: He spoke in a <u>reverent</u> tone when discussing his late grandmother.
+E-2: The art gallery was filled with <u>reverent</u> visitors admiring the paintings.
+
+### Japanese Translation
+J-1: 彼は亡くなった祖母について話す際、<u>敬虔な</u>口調で話しました。
+J-2: 美術館には<u>敬虔な</u>来場者が絵を称賛していました。

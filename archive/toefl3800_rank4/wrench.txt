@@ -1,0 +1,8 @@
+# Key:wrench
+### English Sentences
+E-1: She threw a <u>wrench</u> into our plans by canceling at the last minute.
+E-2: The unexpected rainstorm really threw a <u>wrench</u> into our outdoor picnic.
+
+### Japanese Translation
+J-1: 彼女は最後の瞬間にキャンセルすることで私たちの計画を台無しにした。
+J-2: 思いもよらない雨が私たちの野外ピクニックを完全に台無しにした。

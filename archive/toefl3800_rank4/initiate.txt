@@ -1,0 +1,8 @@
+# Key:initiate
+### English Sentences
+E-1: The team needs to <u>initiate</u> the plan before it's too late.
+E-2: She decided to <u>initiate</u> a conversation with her new neighbor.
+
+### Japanese Translation
+J-1: チームは計画を<u>開始</u>する必要があります。遅すぎる前に。
+J-2: 彼女は新しい隣人との会話を<u>始める</u>ことを決めました。

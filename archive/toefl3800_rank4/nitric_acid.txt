@@ -1,0 +1,8 @@
+# Key:nitric acid
+English Sentences:
+E-1: The scientist used <u>nitric acid</u> to dissolve the metal.
+E-2: The spill of <u>nitric acid</u> caused a chemical reaction.
+
+Japanese Translation:
+J-1: 科学者は金属を溶かすために<u>硝酸</u>を使用しました。
+J-2: <u>硝酸</u>のこぼれが化学反応を引き起こしました。

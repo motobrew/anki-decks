@@ -1,0 +1,8 @@
+# Key:reciprocal
+### English Sentences
+E-1: It's important to have <u>reciprocal</u> relationships with our friends.
+E-2: They have a <u>reciprocal</u> agreement to share resources.
+
+### Japanese Translation
+J-1: 友達との関係には<u>相互の</u>信頼が重要です。
+J-2: 彼らは資源を<u>相互に</u>共有するための合意を持っています。

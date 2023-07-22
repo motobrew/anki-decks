@@ -1,0 +1,8 @@
+# Key:amnesia
+### English Sentences
+E-1: He suffered a head injury and now has <u>amnesia</u> about the accident.
+E-2: She woke up with <u>amnesia</u> and couldn't remember anything from the previous day.
+
+### Japanese Translation
+J-1: 彼は頭部の怪我を負って、今ではその事故について<u>記憶喪失</u>状態です。
+J-2: 彼女は<u>記憶喪失</u>で目を覚まし、前日のことを何も覚えていませんでした。

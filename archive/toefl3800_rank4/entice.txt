@@ -1,0 +1,8 @@
+# Key:entice
+### English Sentences
+E-1: The delicious smell of freshly baked cookies <u>enticed</u> me into the bakery.
+E-2: The persuasive advertisement <u>enticed</u> customers to buy the product.
+
+### Japanese Translation
+J-1: 焼きたてのクッキーの美味しい匂いに誘われて、私はパン屋に入りました。
+J-2: 説得力のある広告が顧客を誘って商品を買わせました。

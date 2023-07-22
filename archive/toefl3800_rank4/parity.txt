@@ -1,0 +1,8 @@
+# Key:parity
+### English Sentences
+E-1: The company is committed to achieving <u>gender parity</u> in the workplace.
+E-2: There is a need for <u>parity in funding</u> between urban and rural areas.
+
+### Japanese Translation
+J-1: その会社は職場での<u>性別の平等</u>を実現することに取り組んでいます。
+J-2: 都市部と農村地域の間の<u>資金の均等化</u>が必要です。

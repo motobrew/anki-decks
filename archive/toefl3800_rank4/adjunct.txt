@@ -1,0 +1,8 @@
+# Key:adjunct
+### English Sentences
+E-1: As an <u>adjunct</u> to my main job, I teach yoga part-time.
+E-2: The laptop is just an <u>adjunct</u> to my creative process.
+
+### Japanese Translation
+J-1: 私の本職の<u補助的な仕事</u>として、パートでヨガの指導をしています。
+J-2: ラップトップは私の創造プロセスの<u補足</u>に過ぎません。

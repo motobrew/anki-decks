@@ -1,0 +1,8 @@
+# Key:ridge
+### English Sentences
+E-1: We hiked to the top of the mountain and admired the beautiful <u>ridge</u> below.
+E-2: The argument between my parents created a <u>ridge</u> between them.
+
+### Japanese Translation
+J-1: 私たちは山の頂上までハイキングし、下に広がる美しい<u>尾根</u>を眺めました。
+J-2: 私の両親の間の論争が彼らの間に<u>隔たりを作りました</u>。

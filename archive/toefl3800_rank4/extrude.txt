@@ -1,0 +1,8 @@
+# Key:extrude
+### English Sentences
+E-1: The machine is able to <u>extrude</u> plastic into different shapes.
+E-2: The artist used a special tool to <u>extrude</u> clay from a tube.
+
+### Japanese Translation
+J-1: その機械はプラスチックを異なる形状に<u>押し出す</u>ことができます。
+J-2: その美術家は特別な道具を使って、チューブから粘土を<u>押し出しました</u>。

@@ -1,0 +1,8 @@
+# Key:espouse
+### English Sentences
+E-1: He <u>espouses</u> the belief that education is the key to success.
+E-2: The politician <u>espouses</u> a strong stance on environmental conservation.
+
+### Japanese Translation
+J-1: 彼は教育が成功の鍵であるという信念を<u>公言しています</u>。
+J-2: その政治家は環境保護に強い立場を<u>唱えています</u>。

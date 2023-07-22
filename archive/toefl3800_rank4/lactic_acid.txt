@@ -1,0 +1,8 @@
+# Key:lactic acid
+### English Sentences
+E-1: The burning sensation in my muscles is a result of <u>lactic acid</u> buildup.
+E-2: Incorporating stretching exercises can help reduce <u>lactic acid</u> accumulation.
+
+### Japanese Translation
+J-1: 筋肉の燃えるような痛みは、<u>乳酸</u>の蓄積の結果です。
+J-2: ストレッチを取り入れると、<u>乳酸</u>の蓄積を減らすことができます。

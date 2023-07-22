@@ -1,0 +1,8 @@
+# Key:inarticulate
+### English Sentences
+E-1: He was so nervous during the presentation that he became <u>inarticulate</u>.
+E-2: The toddler's attempts to speak were <u>inarticulate</u> and unintelligible.
+
+### Japanese Translation
+J-1: プレゼン中彼は緊張しすぎて、話すことができなくなりました。
+J-2: 幼児の話し言葉は<u>不明瞭で</u>意味不明でした。

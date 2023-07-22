@@ -1,0 +1,8 @@
+# Key:commensurate
+### English Sentences
+E-1: The size of the bonus was <u>commensurate</u> with her performance.
+E-2: The punishment should be <u>commensurate</u> with the severity of the crime.
+
+### Japanese Translation
+J-1: 彼女のパフォーマンスに応じてボーナスの額が<u>釣り合っていた</u>。
+J-2: 刑罰は犯罪の重大さに<u>見合った</u>ものであるべきです。

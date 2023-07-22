@@ -1,0 +1,8 @@
+# Key:caricature
+### English Sentences
+E-1: The political cartoonist created a <u>caricature</u> of the president.
+E-2: The comedian's impression of the actor was a hilarious <u>caricature</u>.
+
+### Japanese Translation
+J-1: 政治風刺漫画家が大統領の<u>風刺画</u>を作りました。
+J-2: そのコメディアンの俳優のものまねは笑える<u>風刺</u>でした。

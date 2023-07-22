@@ -1,0 +1,8 @@
+# Key:taciturn
+### English Sentences
+E-1: She was known for her <u>taciturn</u> nature, rarely speaking more than a few words.
+E-2: The company's CEO was a <u>taciturn</u> individual, rarely engaging in conversations.
+
+### Japanese Translation
+J-1: 彼女は無口な性格で知られており、数語を超えて話すことはほとんどありませんでした。
+J-2: その会社のCEOは無口な人で、ほとんど会話に参加しませんでした。

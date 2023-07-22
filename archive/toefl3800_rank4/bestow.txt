@@ -1,0 +1,8 @@
+# Key:bestow
+### English Sentences
+E-1: The university <u>bestowed</u> an honorary degree upon the renowned scientist.
+E-2: The queen <u>bestowed</u> a knighthood upon the actor for his contributions to the arts.
+
+### Japanese Translation
+J-1: その有名な科学者に大学は名誉学位を<u>授与しました</u>。
+J-2: 女王はその俳優に芸術への貢献を称えて爵位を<u>与えました</u>。

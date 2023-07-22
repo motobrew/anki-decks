@@ -1,0 +1,8 @@
+# Key:hindmost
+### English Sentences
+E-1: The <u>hindmost</u> runner in the race finished last.
+E-2: I always make sure to lock the <u>hindmost</u> door before leaving.
+
+### Japanese Translation
+J-1: レースの<u>最後尾の</u>ランナーは最後にゴールしました。
+J-2: 出かける前に必ず<u>最後尾の</u>ドアを施錠します。

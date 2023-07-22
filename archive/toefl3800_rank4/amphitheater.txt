@@ -1,0 +1,8 @@
+# Key:amphitheater
+### English Sentences
+E-1: The concert was held in an <u>amphitheater</u> surrounded by mountains.
+E-2: The gladiators fought fiercely in the ancient <u>amphitheater</u>.
+
+### Japanese Translation
+J-1: コンサートは山に囲まれた<u>円形劇場</u>で行われました。
+J-2: 剣闘士たちは古代の<u>円形闘技場</u>で激しく戦った。

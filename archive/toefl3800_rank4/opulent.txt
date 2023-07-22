@@ -1,0 +1,8 @@
+# Key:opulent
+### English Sentences
+E-1: The <u>opulent</u> ballroom was filled with chandeliers and gold decor.
+E-2: She enjoyed a life of <u>opulent</u> luxury, with vacations on private yachts.
+
+### Japanese Translation
+J-1: 豪華な<u>豪勢な</u>バンケットホールはシャンデリアと金の装飾品でいっぱいでした。
+J-2: 彼女は<u>ぜいたくな</u>贅沢な生活を楽しんでおり、プライベートヨットでのバケーションも満喫していました。

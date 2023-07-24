@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-input_file=../data/keys.txt
+input_file=../data/misc/eiken1_idiom.txt
 log_base=../logs
 now_ts=$(date +%Y%m%d_%H%M%S)
 log_dir=$log_base/$now_ts

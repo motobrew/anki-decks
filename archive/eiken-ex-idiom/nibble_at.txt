@@ -1,0 +1,8 @@
+# Key:nibble at
+<h3>English Sentences</h3>
+E-1: The cat would occasionally <u>nibble at</u> my fingers when I played with it.
+E-2: She decided to <u>nibble at</u> the salad instead of eating a full meal.
+
+<h3>Japanese Translation</h3>
+J-1: 私が遊ぶ時に、猫は時々私の指を<u>かじる</u>ことがありました。
+J-2: 彼女は一食分食べる代わりにサラダを<u>かじること</u>にしました。

@@ -1,0 +1,8 @@
+# Key:fire away
+<h3>English Sentences</h3>
+E-1: I have some questions, so feel free to <u>fire away</u>.
+E-2: The teacher asked the students to <u>fire away</u> with their questions.
+
+<h3>Japanese Translation</h3>
+J-1: 質問があるので、どんどん<u>聞いてください</u>。
+J-2: 先生は生徒に質問を<u>どんどんしてもらいました</u>。

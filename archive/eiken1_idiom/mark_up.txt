@@ -1,0 +1,8 @@
+# Key:mark up
+<h3>English Sentences</h3>
+E-1: The store <u>marked up</u> the price of the shirt by 50%.
+E-2: The teacher asked us to <u>mark up</u> the important information in the reading.
+
+<h3>Japanese Translation</h3>
+J-1: その店はそのシャツの値段を50%上げました。
+J-2: 先生は私たちに読み物の重要な情報を<span-1000>マーキングするように</span-1000>頼みました。

@@ -1,0 +1,8 @@
+# Key:bargain on
+<h3>English Sentences</h3>
+E-1: Don't <u>bargain on</u> the weather being sunny for our picnic.
+E-2: You can't <u>bargain on</u> him to always be on time.
+
+<h3>Japanese Translation</h3>
+J-1: ピクニックに行くときは天気が晴れると<u>当てにしないで</u>ください。
+J-2: 彼がいつも時間通りに来ると<u>期待することはできません</u>。

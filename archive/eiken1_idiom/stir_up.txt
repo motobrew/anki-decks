@@ -1,0 +1,8 @@
+# Key:stir up
+<h3>English Sentences</h3>
+E-1: The controversial topic <u>stirred up</u> intense debate among the group.
+E-2: The politician's inflammatory remarks were intended to <u>stir up</u> public outrage.
+
+<h3>Japanese Translation</h3>
+J-1: その物議を醸し出す話題はグループ内で激しい論争を引き起こしました。
+J-2: その政治家の扇動的な発言は、一般市民の怒りを煽るためのものでした。

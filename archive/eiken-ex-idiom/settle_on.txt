@@ -1,0 +1,8 @@
+# Key:settle on
+<h3>English Sentences</h3>
+E-1: I <u>settled on</u> the blue dress for the party.
+E-2: After considering many options, we <u>settled on</u> pizza for dinner.
+
+<h3>Japanese Translation</h3>
+J-1: パーティー用に<u>青いドレス</u>に決めました。
+J-2: 多くの選択肢を考慮した後、晩ご飯は<u>ピザ</u>に決めました。

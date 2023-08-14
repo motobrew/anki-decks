@@ -1,0 +1,8 @@
+# Key:cast off
+<h3>English Sentences</h3>
+E-1: The sailor successfully <u>cast off</u> the ropes and set sail.
+E-2: It's time to <u>cast off</u> the negative thoughts and start fresh.
+
+<h3>Japanese Translation</h3>
+J-1: 船乗りはロープを解き放ち、航海に出た。
+J-2: ネガティブな考えを手放し、新たなスタートを切る時です。

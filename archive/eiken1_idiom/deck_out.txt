@@ -1,0 +1,8 @@
+# Key:deck out
+<h3>English Sentences</h3>
+E-1: I'm going to <u>deck out</u> my room with Christmas decorations.
+E-2: She always likes to <u>deck out</u> in fancy clothes for special occasions.
+
+<h3>Japanese Translation</h3>
+J-1: クリスマスの飾り付けで部屋を<u>華やかに飾るつもりです</u>。
+J-2: 彼女は特別な日にいつも<u>派手な服で身を飾ります</u>。

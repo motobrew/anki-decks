@@ -1,0 +1,8 @@
+# Key:throw out
+<h3>English Sentences</h3>
+E-1: I need to <u>throw out</u> these old clothes and make room for new ones.
+E-2: The coach decided to <u>throw out</u> the play and come up with a new strategy.
+
+<h3>Japanese Translation</h3>
+J-1: これらの古い服を<u>捨ててしまわないと</u>、新しいもののスペースが作れません。
+J-2: コーチはそのプレーを<u>捨ててしまうこと</u>を決めて、新しい戦略を考案しました。

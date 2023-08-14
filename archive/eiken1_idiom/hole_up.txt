@@ -1,0 +1,8 @@
+# Key:hole up
+<h3>English Sentences</h3>
+E-1: They decided to <u>hole up</u> in a cabin in the mountains during the storm.
+E-2: The criminals were forced to <u>hole up</u> in an abandoned warehouse to hide from the police.
+
+<h3>Japanese Translation</h3>
+J-1: 嵐の中、彼らは山の小屋に<u避難することでした。
+J-2: 犯罪者たちは警察から逃れるために廃倉庫に<u>身を隠す</u>必要がありました。

@@ -1,0 +1,8 @@
+# Key:crank out
+<h3>English Sentences</h3>
+E-1: The bakery is able to <u>crank out</u> hundreds of loaves of bread every day.
+E-2: The author was able to <u>crank out</u> three novels in just one year.
+
+<h3>Japanese Translation</h3>
+J-1: そのパン屋は毎日何百ものパンを<u>大量生産すること</u>ができます。
+J-2: その作家はわずか1年で3つの小説を<u>次々と書き上げること</u>ができました。

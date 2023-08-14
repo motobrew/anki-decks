@@ -1,0 +1,8 @@
+# Key:buy off
+<h3>English Sentences</h3>
+E-1: The wealthy politician tried to <u>buy off</u> the journalist with a large sum of money.
+E-2: The company attempted to <u>buy off</u> their competitors by offering them a merger deal.
+
+<h3>Japanese Translation</h3>
+J-1: 裕福な政治家は巨額のお金でそのジャーナリストを<u>買収しよう</u>としました。
+J-2: その企業は合併提案をすることで競合他社を<u>買収しよう</u>としました。

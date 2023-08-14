@@ -1,0 +1,8 @@
+# Key:bargain on
+<h3>English Sentences</h3>
+E-1: I didn't <u>bargain on</u> the price being so high.
+E-2: She didn't <u>bargain on</u> falling in love during her vacation.
+
+<h3>Japanese Translation</h3>
+J-1: その値段がそんなに高いとは<u>予想していなかった</u>。
+J-2: 彼女は休暇中に恋に<u>落ちるとは思っていなかった</u>。

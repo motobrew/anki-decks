@@ -1,0 +1,8 @@
+# Key:reckon on A doing
+<h3>English Sentences</h3>
+E-1: I can <u>reckon on</u> John to always be punctual.
+E-2: You can <u>reckon on</u> the train being crowded during rush hour.
+
+<h3>Japanese Translation</h3>
+J-1: ジョンならいつも時間通りに来ると<u>予想できます</u>。
+J-2: ラッシュアワーには電車が混んでいると<u>予測できます</u>。

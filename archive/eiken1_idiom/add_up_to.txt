@@ -1,0 +1,8 @@
+# Key:add up to
+<h3>English Sentences</h3>
+E-1: The expenses for the party <u>add up to</u> more than I expected.
+E-2: His hard work and dedication <u>add up to</u> success in his career.
+
+<h3>Japanese Translation</h3>
+J-1: パーティーの費用は予想以上に<u>合計する</u>。
+J-2: 彼の努力と献身は彼のキャリアでの成功に<u>つながる</u>。

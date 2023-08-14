@@ -1,0 +1,8 @@
+# Key:shy away from
+<h3>English Sentences</h3>
+E-1: Many people <u>shy away from</u> speaking in public due to fear of judgment.
+E-2: I tend to <u>shy away from</u> spicy food because I can't handle the heat.
+
+<h3>Japanese Translation</h3>
+J-1: 多くの人は、評価されることを恐れて、公の場で話すことを避けます。
+J-2: 私は辛い食べ物にはあまり挑戦しない方です。熱さに耐えられないからです。

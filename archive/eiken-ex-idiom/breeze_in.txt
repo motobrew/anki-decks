@@ -1,0 +1,8 @@
+# Key:breeze in
+<h3>English Sentences</h3>
+E-1: I didn't expect her to <u>breeze in</u> without any notice.
+E-2: He always <u>breezes in</u> late to meetings without apologizing.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女が予告なしに<u>颯爽と現れた</u>のには驚きました。
+J-2: 彼はいつも<u>当然のように</u>遅刻して会議に参加しますが、謝罪することはありません。

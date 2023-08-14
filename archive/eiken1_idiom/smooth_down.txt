@@ -1,0 +1,8 @@
+# Key:smooth down
+<h3>English Sentences</h3>
+E-1: He used a comb to <u>smooth down</u> his unruly hair.
+E-2: The pilot had to <u>smooth down</u> the plane's landing gear before landing.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は櫛を使って髪を<u>整えました</u>。
+J-2: パイロットは着陸前に飛行機の着陸装置を<u>整えなければなりませんでした</u>。

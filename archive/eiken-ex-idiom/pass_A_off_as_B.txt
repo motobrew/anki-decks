@@ -1,0 +1,8 @@
+# Key:pass A off as B
+<h3>English Sentences</h3>
+E-1: He tried to <u>pass off</u> his fake Rolex as authentic.
+E-2: She was able to <u>pass off</u> her bad performance as a technical issue.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は偽物のロレックスを本物だと<u>言い張った</u>。
+J-2: 彼女は自分の演技の下手さを技術的な問題と<u>ごまかすことができました</u>。

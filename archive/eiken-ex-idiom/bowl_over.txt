@@ -1,0 +1,8 @@
+# Key:bowl over
+<h3>English Sentences</h3>
+E-1: The magician managed to <u>bowl over</u> the audience with his amazing tricks.
+E-2: I was completely <u>bowl over</u> when I found out I won the lottery.
+
+<h3>Japanese Translation</h3>
+J-1: そのマジシャンは素晴らしいトリックで観客を<u>驚かせました</u>。
+J-2: 宝くじに当たったことを知って、私は完全に<u>びっくりしました</u>。

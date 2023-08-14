@@ -1,0 +1,8 @@
+# Key:hole up
+<h3>English Sentences</h3>
+E-1: He decided to <u>hole up</u> in a cabin in the mountains to escape the city noise.
+E-2: The fugitive managed to <u>hole up</u> in an abandoned warehouse before the police caught him.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は都会の騒々しさを避けるために山の小屋に<uこもることに></u>決めました。
+J-2: 逃亡者は警察に捕まる前に<u>廃倉庫に身を隠しました</u>。

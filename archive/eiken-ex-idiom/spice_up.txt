@@ -1,0 +1,8 @@
+# Key:spice up
+<h3>English Sentences</h3>
+E-1: Adding some fresh herbs will <u>spice up</u> the flavor of the soup.
+E-2: We should <u>spice up</u> the presentation with some visual aids.
+
+<h3>Japanese Translation</h3>
+J-1: スープの味を<u>引き立てるために</u>、新鮮なハーブを加えましょう。
+J-2: プレゼンテーションにいくつかのビジュアルエイドを<u>取り入れる</u>べきです。

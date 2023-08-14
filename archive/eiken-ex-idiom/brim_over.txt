@@ -1,0 +1,8 @@
+# Key:brim over
+<h3>English Sentences</h3>
+E-1: The storm caused the river to <u>brim over</u> its banks.
+E-2: She was filled with so much joy that it made her heart <u>brim over</u>.
+
+<h3>Japanese Translation</h3>
+J-1: 嵐のせいで川が<u>あふれ出し</u>ました。
+J-2: 彼女はとても喜びに満たされて、心が<u>あふれ出していました</u>。

@@ -1,0 +1,8 @@
+# Key:hang back
+<h3>English Sentences</h3>
+E-1: I decided to <u>hang back</u> and observe the situation before taking action.
+E-2: He tends to <u>hang back</u> during group discussions and avoid sharing his opinions.
+
+<h3>Japanese Translation</h3>
+J-1: 私は行動を起こす前に、状況を<u>じっと見守る</u>ことにしました。
+J-2: 彼はグループ討論の際に<u>控えめになる</u>傾向があり、意見を言わないようにしています。

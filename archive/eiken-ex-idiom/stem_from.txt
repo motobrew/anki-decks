@@ -1,0 +1,8 @@
+# Key:stem from
+<h3>English Sentences</h3>
+E-1: The disagreement between them <u>stemmed from</u> a misunderstanding.
+E-2: The protests <u>stemmed from</u> the government's decision to raise taxes.
+
+<h3>Japanese Translation</h3>
+J-1: 彼らの間の意見の不一致は<u>誤解から生じた</u>ものでした。
+J-2: 抗議活動は、政府が税金を引き上げるという決定に<u>起因していました</u>。

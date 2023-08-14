@@ -1,0 +1,8 @@
+# Key:put forth
+<h3>English Sentences</h3>
+E-1: The company <u>put forth</u> a proposal to increase employee benefits.
+E-2: He <u>put forth</u> his best effort to win the competition.
+
+<h3>Japanese Translation</h3>
+J-1: 会社は従業員の福利厚生を増やす提案を<u>出しました</u>。
+J-2: 彼は競技に勝つために<u>全力を尽くしました</u>。

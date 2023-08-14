@@ -1,0 +1,8 @@
+# Key:come around
+<h3>English Sentences</h3>
+E-1: He didn't believe me at first, but eventually he <u>came around</u> and apologized.
+E-2: The patient was unconscious, but after some time, she <u>came around</u> and regained consciousness.
+
+<h3>Japanese Translation</h3>
+J-1: 最初は彼は私の言葉を信じませんでしたが、最終的には納得して謝罪しました。
+J-2: 患者は意識を失っていましたが、しばらくして意識が戻りました。

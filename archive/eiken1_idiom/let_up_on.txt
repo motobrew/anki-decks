@@ -1,0 +1,8 @@
+# Key:let up on
+<h3>English Sentences</h3>
+E-1: The coach told the team to <u>let up on</u> their intense training schedule.
+E-2: The police officer warned the driver to <u>let up on</u> the accelerator.
+
+<h3>Japanese Translation</h3>
+J-1: コーチはチームに厳しいトレーニングスケジュールを<u>緩める</u>ように言った。
+J-2: 警察官は運転手にアクセルを<u>緩める</u>ように警告した。

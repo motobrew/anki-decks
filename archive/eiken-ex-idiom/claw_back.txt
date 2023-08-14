@@ -1,0 +1,8 @@
+# Key:claw back
+<h3>English Sentences</h3>
+E-1: The company is trying to <u>claw back</u> lost profits from last year.
+E-2: She managed to <u>claw back</u> control of the situation.
+
+<h3>Japanese Translation</h3>
+J-1: その会社は去年の利益を<u>取り戻す</u>ことを試みています。
+J-2: 彼女は状況の<u>制御を取り戻す</u>ことに成功しました。

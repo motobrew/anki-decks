@@ -1,0 +1,8 @@
+# Key:tear into
+<h3>English Sentences</h3>
+E-1: When I arrived home, my dog <u>tore into</u> the toy I bought him.
+E-2: The boss angrily <u>tore into</u> the employee for making a mistake.
+
+<h3>Japanese Translation</h3>
+J-1: 家に着いたとき、私の犬が私が買ってきたおもちゃを<u>ガリガリ噛み始めた</u>。
+J-2: 上司は怒って<u>従業員を厳しく叱りつけた</u>、彼がミスをしたため。

@@ -1,0 +1,8 @@
+# Key:square up
+<h3>English Sentences</h3>
+E-1: The boxer was getting ready to <u>square up</u> with his opponent.
+E-2: He had to <u>square up</u> his debts before moving out of town.
+
+<h3>Japanese Translation</h3>
+J-1: ボクサーは相手と<u>対峙する準備</u>をしていました。
+J-2: 彼は町を出る前に<u>借金を返済する</u>必要がありました。

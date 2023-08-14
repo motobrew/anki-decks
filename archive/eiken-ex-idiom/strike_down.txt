@@ -1,0 +1,8 @@
+# Key:strike down
+<h3>English Sentences</h3>
+E-1: The court <u>struck down</u> the controversial law as unconstitutional.
+E-2: The sudden illness <u>struck down</u> the entire team, causing them to cancel the game.
+
+<h3>Japanese Translation</h3>
+J-1: 法廷はその物議を醸していた法律を違憲として<u>無効にしました</u>。
+J-2: 突然の病気でチーム全体が<u>倒れてしまいました</u>、試合を中止せざるを得ませんでした。

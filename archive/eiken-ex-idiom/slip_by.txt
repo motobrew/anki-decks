@@ -1,0 +1,8 @@
+# Key:slip by
+<h3>English Sentences</h3>
+E-1: The deadline for the project <u>slipped by</u> unnoticed.
+E-2: Time tends to <u>slip by</u> when you're having fun.
+
+<h3>Japanese Translation</h3>
+J-1: プロジェクトの締め切りが<u>見落とされて</u>しまいました。
+J-2: 楽しんでいると時間が<span>あっという間に過ぎて</u>しまう傾向があります。

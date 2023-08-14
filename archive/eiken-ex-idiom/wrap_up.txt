@@ -1,0 +1,8 @@
+# Key:wrap up
+<h3>English Sentences</h3>
+E-1: I need to <u>wrap up</u> this presentation before the meeting starts.
+E-2: The party is over, it's time to <u>wrap up</u> and go home.
+
+<h3>Japanese Translation</h3>
+J-1: 会議が始まる前に、このプレゼンを<u>まとめなければなりません</u>。
+J-2: パーティーは終わったので、<u>片付けて帰る時間です</u>。

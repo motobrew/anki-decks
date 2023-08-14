@@ -1,0 +1,8 @@
+# Key:factor in
+<h3>English Sentences</h3>
+E-1: You need to <u>factor in</u> the cost of transportation when planning your trip.
+E-2: The company's poor reputation may <u>factor in</u> customers' buying decisions.
+
+<h3>Japanese Translation</h3>
+J-1: 旅行計画を立てる際には、交通費を<u>考慮に入れる必要があります</u>。
+J-2: その会社の評判の悪さは、顧客の購買意思決定に<u>影響を及ぼす可能性がある</u>。

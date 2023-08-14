@@ -1,0 +1,8 @@
+# Key:float around
+<h3>English Sentences</h3>
+E-1: The idea of going on a vacation <u>floats around</u> in my mind.
+E-2: Rumors about their relationship <u>float around</u> the office.
+
+<h3>Japanese Translation</h3>
+J-1: 休暇を取るという考えが私の頭の中を<u>浮かびます</u>。
+J-2: 彼らの関係に関する噂がオフィスで<u>広まっています</u>。

@@ -1,0 +1,8 @@
+# Key:drift off
+<h3>English Sentences</h3>
+E-1: I couldn't stay awake any longer and <u>drifted off</u> to sleep.
+E-2: As I was daydreaming, my mind started to <u>drift off</u>.
+
+<h3>Japanese Translation</h3>
+J-1: もう眠くて、目がさらに開けられず、眠りに<u>落ちてしまいました</u>。
+J-2: 空想にふけっていると、心が<u>飛んでいってしまいました</u>。

@@ -1,0 +1,8 @@
+# Key:wear off
+<h3>English Sentences</h3>
+E-1: The effects of the medicine soon <u>wear off</u> and the pain returns.
+E-2: The excitement of the party will eventually <u>wear off</u> and we'll all go home.
+
+<h3>Japanese Translation</h3>
+J-1: 薬の効果はすぐに<u>薄れてしまい</u>、痛みが戻ります。
+J-2: パーティーの興奮はいつか<u>収まり</u>、みんなが帰宅します。

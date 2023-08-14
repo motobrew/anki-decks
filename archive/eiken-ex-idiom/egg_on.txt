@@ -1,0 +1,8 @@
+# Key:egg on
+<h3>English Sentences</h3>
+E-1: The judge <u>egged on</u> the crowd by making controversial statements.
+E-2: He always tries to <u>egg me on</u> to take risks and push my limits.
+
+<h3>Japanese Translation</h3>
+J-1: 審判は物議を醸す発言をして、観衆に<u>煽り立てました</u>。
+J-2: 彼はいつも私にリスクを冒して自分の限界を超えるように<u>けしかけよう</u>とします。

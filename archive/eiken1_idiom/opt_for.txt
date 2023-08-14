@@ -1,0 +1,8 @@
+# Key:opt for
+<h3>English Sentences</h3>
+E-1: We decided to <u>opt for</u> the healthier option at the restaurant.
+E-2: In a difficult situation, sometimes you have to <u>opt for</u> the lesser of two evils.
+
+<h3>Japanese Translation</h3>
+J-1: レストランで健康的なオプションを<u>選ぶこと</u>にしました。
+J-2: 難しい状況では、時には二つの悪中から<u>より良い方を選ぶこと</u>が必要です。

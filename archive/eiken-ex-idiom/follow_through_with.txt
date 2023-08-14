@@ -1,0 +1,8 @@
+# Key:follow through with
+<h3>English Sentences</h3>
+E-1: She promised to <u>follow through with</u> her plan and she actually did it.
+E-2: The company didn't <u>follow through with</u> their promise of a raise for the employees.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は自分の計画を<u>最後までやり遂げること</u>を約束し、実際にそれを実行しました。
+J-2: 会社は従業員への昇給の約束を<u>履行しなかった</u>。

@@ -15,11 +15,12 @@ export async function ask(question: string, model = gptModel) {
 Make two sentences using the words and idioms I am going to tell you.
 These sentences should correspond to the situations in which they are commonly used.
 Also, if a word or idiom has multiple meanings, please create sentences so that the meanings of the words are different.
-Each English sentence should be about 6-10 words.
-In addition to that, enclose in <u> tags both the keyword and corresponding translation.
-Your response must be complied to the following "Result Format".
+Each English sentence should be about 8-10 words.
 
-# word, phrase, idiom or sentence structure
+Your response must be complied to the following "Result Format".
+In addition to that, enclose in <u> tags both the keyword and corresponding translation as the following example.
+
+# word or idiom
 "${question}"
 
 # Result Format ("pop-up" is as sample)

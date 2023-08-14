@@ -1,0 +1,8 @@
+# Key:ease up
+<h3>English Sentences</h3>
+E-1: She needs to <u>ease up</u> on her strict diet and enjoy life more.
+E-2: The boss told his employees to <u>ease up</u> on their workload during the holiday season.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は厳しいダイエットから<u>少し緩和する必要があります</u>、もっと人生を楽しむべきです。
+J-2: ボスは従業員に休暇期間中に仕事量を<u>軽減するように</u>伝えました。

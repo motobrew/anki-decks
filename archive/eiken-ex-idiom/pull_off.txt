@@ -1,0 +1,8 @@
+# Key:pull off
+<h3>English Sentences</h3>
+E-1: She was able to <u>pull off</u> the surprise party without anyone suspecting.
+E-2: Despite his lack of experience, he managed to <u>pull off</u> a stunning performance.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は誰も疑わないまま、驚きのパーティーを成功させることができました。
+J-2: 経験がないにもかかわらず、彼は驚くべき演技を成功させることができました。

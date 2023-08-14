@@ -1,0 +1,8 @@
+# Key:rake in
+<h3>English Sentences</h3>
+E-1: The company <u>raked in</u> millions of dollars in profits last year.
+E-2: The store owner hoped to <u>rake in</u> new customers with a special sale.
+
+<h3>Japanese Translation</h3>
+J-1: その会社は昨年、数百万ドルの利益を<u>稼ぎ出しました</u>。
+J-2: 店のオーナーは特別なセールで新しい顧客を<u>呼び込もうとした</u>。

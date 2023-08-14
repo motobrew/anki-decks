@@ -1,0 +1,8 @@
+# Key:keel over
+<h3>English Sentences</h3>
+E-1: The hiker felt dizzy and <u>keeled over</u> on the trail.
+E-2: When the football player was tackled, he <u>keeled over</u> in pain.
+
+<h3>Japanese Translation</h3>
+J-1: ハイカーはめまいを感じて、トレイル上で<u>倒れ込みました</u>。
+J-2: フットボール選手がタックルされた時、彼は苦痛のために<u>倒れ込んでしまいました</u>。

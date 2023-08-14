@@ -1,0 +1,8 @@
+# Key:act up
+<h3>English Sentences</h3>
+E-1: My computer always <u>acts up</u> when I have an important deadline.
+E-2: The toddler tends to <u>act up</u> when he's tired and cranky.
+
+<h3>Japanese Translation</h3>
+J-1: 重要な締切があるとき、いつも私のコンピュータが<u>調子を悪くする</u>。
+J-2: その幼児は疲れていてむっつりスムスム<u>になりがち</u>です。

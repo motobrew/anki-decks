@@ -1,0 +1,8 @@
+# Key:boil down to
+<h3>English Sentences</h3>
+E-1: The problem <u>boils down to</u> a lack of communication between the departments.
+E-2: After hours of debate, the decision <u>boiled down to</u> one vote.
+
+<h3>Japanese Translation</h3>
+J-1: 問題は、部門間のコミュニケーション不足に<u>帰結する</u>ことがわかりました。
+J-2: 長時間の討論の結果、その決定は一票差で<u>結論付けられた</u>。

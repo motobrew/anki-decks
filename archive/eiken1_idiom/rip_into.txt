@@ -1,0 +1,8 @@
+# Key:rip into
+<h3>English Sentences</h3>
+E-1: The teacher <u>ripped into</u> the student for not completing the assignment.
+E-2: The boss <u>ripped into</u> the employees for their poor performance.
+
+<h3>Japanese Translation</h3>
+J-1: 先生はその生徒を<u>厳しく非難した</u>、宿題をやらなかったために。
+J-2: 上司は従業員たちを<u>厳しく批判した</u>、彼らの低いパフォーマンスのために。

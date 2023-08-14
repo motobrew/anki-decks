@@ -1,0 +1,8 @@
+# Key:belt out
+<h3>English Sentences</h3>
+E-1: She has an amazing voice and can <u>belt out</u> any song.
+E-2: The karaoke bar was filled with people <u>belting out</u> their favorite tunes.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は素晴らしい声を持っており、どんな曲でも<u>力強く歌い上げること</u>ができます。
+J-2: カラオケバーは人々が好きな曲を<u>力強く歌い出している</u>で一杯でした。

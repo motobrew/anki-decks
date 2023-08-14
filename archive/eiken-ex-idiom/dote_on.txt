@@ -1,0 +1,8 @@
+# Key:dote on
+<h3>English Sentences</h3>
+E-1: My grandmother <u>dotes on</u> her grandchildren and spoils them with gifts.
+E-2: He <u>dotes on</u> his vintage car, spending hours polishing and maintaining it.
+
+<h3>Japanese Translation</h3>
+J-1: 私の祖母は孫たちを<u>溺愛</u>し、贈り物で甘やかします。
+J-2: 彼は自分のヴィンテージカーを<u>愛でながら</u>、何時間も磨いて手入れしています。

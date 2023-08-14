@@ -1,0 +1,8 @@
+# Key:head off
+<h3>English Sentences</h3>
+E-1: We need to <u>head off</u> before the traffic gets worse.
+E-2: The police tried to <u>head off</u> the protesters before they reached the city center.
+
+<h3>Japanese Translation</h3>
+J-1: 交通渋滞が悪化する前に、出発しなければなりません。
+J-2: デモ参加者が市中心部に到着する前に、警察が止めようとしました。

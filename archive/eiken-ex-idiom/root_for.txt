@@ -1,0 +1,8 @@
+# Key:root for
+<h3>English Sentences</h3>
+E-1: I always <u>root for</u> the underdog in sports competitions.
+E-2: My family will <u>root for</u> me during my piano recital.
+
+<h3>Japanese Translation</h3>
+J-1: スポーツ競技ではいつも負け犬に<u>応援する</u>。
+J-2: 私のピアノの発表会では家族が<u>私を応援する</u>。

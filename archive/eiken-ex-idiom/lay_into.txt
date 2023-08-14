@@ -1,0 +1,8 @@
+# Key:lay into
+<h3>English Sentences</h3>
+E-1: She <u>laid into</u> him for coming home late again.
+E-2: The boss <u>laid into</u> the employees for their poor performance.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は彼にまた遅く帰ってきたことで<u怒りをぶちまけました</u>。
+J-2: 上司は従業員たちのパフォーマンスの低さに<u>キツく当たりました</u>。

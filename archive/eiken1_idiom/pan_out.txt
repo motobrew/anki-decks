@@ -1,0 +1,8 @@
+# Key:pan out
+<h3>English Sentences</h3>
+E-1: The job interview didn't <u>pan out</u>, so I didn't get the position.
+E-2: I'm not sure if our plan will <u>pan out</u>, but let's give it a try.
+
+<h3>Japanese Translation</h3>
+J-1: 就職面接はうまくいかなかったので、そのポジションを得ることはできませんでした。
+J-2: 私たちの計画がうまくいくかどうかはわかりませんが、試してみましょう。

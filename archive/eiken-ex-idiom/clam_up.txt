@@ -1,0 +1,8 @@
+# Key:clam up
+<h3>English Sentences</h3>
+E-1: She <u>clammed up</u> when the reporter asked her a personal question.
+E-2: Whenever he gets nervous, he tends to <u>clam up</u> and not speak.
+
+<h3>Japanese Translation</h3>
+J-1: 女性は、記者が個人的な質問をしたときに話すのを<u>やめました</u>。
+J-2: 彼は緊張すると、<u>黙り込む</u>傾向があります。

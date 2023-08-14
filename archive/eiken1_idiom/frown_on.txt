@@ -1,0 +1,8 @@
+# Key:frown on
+<h3>English Sentences</h3>
+E-1: My parents <u>frown on</u> me staying out late at night.
+E-2: The company <u>frowns on</u> employees using their personal phones during work hours.
+
+<h3>Japanese Translation</h3>
+J-1: 両親は夜遅くまで外出するのを<u>よく思っていません</u>。
+J-2: 会社では、勤務時間中に個人の携帯電話を使うことは<u>快く思われていません</u>。

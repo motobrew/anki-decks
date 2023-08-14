@@ -1,0 +1,8 @@
+# Key:lean on
+<h3>English Sentences</h3>
+E-1: I always <u>lean on</u> my best friend for support during tough times.
+E-2: He tends to <u>lean on</u> his parents for financial assistance.
+
+<h3>Japanese Translation</h3>
+J-1: 困難な時にはいつも<u>頼りにしています</u>、親友に。
+J-2: 彼はしばしば財政的な援助のために<u>頼りにすることが</u>あります。

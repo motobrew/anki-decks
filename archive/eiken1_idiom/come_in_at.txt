@@ -1,0 +1,8 @@
+# Key:come in at
+<h3>English Sentences</h3>
+E-1: The final score <u>came in at</u> 2-1, securing their victory.
+E-2: She always <u>comes in at</u> the last minute, never on time.
+
+<h3>Japanese Translation</h3>
+J-1: 最終スコアは2-1で<u>報告されました</u>。彼らの勝利が確定しました。
+J-2: 彼女はいつも<u>ギリギリになって</u>、時間通りに来ません。

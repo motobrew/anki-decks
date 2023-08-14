@@ -1,0 +1,8 @@
+# Key:branch out
+<h3>English Sentences</h3>
+E-1: I want to <u>branch out</u> and try new hobbies.
+E-2: The company decided to <u>branch out</u> into a new market.
+
+<h3>Japanese Translation</h3>
+J-1: 私は新しい趣味を試したくて<u>広げてみたい</u>と思っています。
+J-2: 会社は新しい市場に<u>進出する</u>ことを決めました。

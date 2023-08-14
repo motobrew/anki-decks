@@ -1,0 +1,8 @@
+# Key:drag on
+<h3>English Sentences</h3>
+E-1: The meeting seemed to <u>drag on</u> for hours without any progress.
+E-2: The rainy weather made the camping trip <u>drag on</u> and become less enjoyable.
+
+<h3>Japanese Translation</h3>
+J-1: 会議は進展がなく、何時間も<u>長引いているような</u>感じがしました。
+J-2: 雨の天気のせいで、キャンプ旅行が<u>長引き</u>、楽しさが減りました。

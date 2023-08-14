@@ -1,0 +1,8 @@
+# Key:wipe out
+<h3>English Sentences</h3>
+E-1: He fell off his skateboard and <u>wiped out</u> on the sidewalk.
+E-2: The tsunami <u>wiped out</u> the entire coastal village.
+
+<h3>Japanese Translation</h3>
+J-1: 彼はスケートボードから落ちて、歩道で<u>転倒しました</u>。
+J-2: 津波が沿岸の村を<u>完全に壊滅させました</u>。

@@ -1,0 +1,8 @@
+# Key:rifle through
+<h3>English Sentences</h3>
+E-1: I <u>rifled through</u> my drawer searching for my missing keys.
+E-2: The detective <u>rifled through</u> the suspect's belongings looking for evidence.
+
+<h3>Japanese Translation</h3>
+J-1: 鍵を探して、私は引き出しを<u>くまなく探しました</u>。
+J-2: 探偵は犯人の持ち物を<u>ひっくり返して調べました</u>、証拠を探して。

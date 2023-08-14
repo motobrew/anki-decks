@@ -1,0 +1,8 @@
+# Key:gang up on
+<h3>English Sentences</h3>
+E-1: The students decided to <u>gang up on</u> the class bully and confront him together.
+E-2: I felt overwhelmed when everyone seemed to <u>gang up on</u> me during the meeting.
+
+<h3>Japanese Translation</h3>
+J-1: 生徒たちはクラスのいじめっ子に<u>結束し</u>、一緒に彼に立ち向かうことに決めました。
+J-2: 会議中にみんなが私に<u>一斉に攻撃する</u>ような印象を受け、圧倒されました。

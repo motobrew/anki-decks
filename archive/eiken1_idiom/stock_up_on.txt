@@ -1,0 +1,8 @@
+# Key:stock up on
+<h3>English Sentences</h3>
+E-1: Before the storm, people <u>stocked up on</u> water and food supplies.
+E-2: The supermarket had a sale, so I <u>stocked up on</u> canned goods.
+
+<h3>Japanese Translation</h3>
+J-1: 嵐の前に、人々は水や食料品を<u>買いだめしました</u>。
+J-2: スーパーマーケットでセールがあったので、私は<u>缶詰を買いだめしました</u>。

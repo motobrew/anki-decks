@@ -1,0 +1,8 @@
+# Key:sound out
+<h3>English Sentences</h3>
+E-1: I need to <u>sound out</u> my boss before presenting my idea.
+E-2: Can you <u>sound out</u> the new employee to see if they're interested?
+
+<h3>Japanese Translation</h3>
+J-1: アイデアを発表する前に、上司に<u>意見を聞きたい</u>。
+J-2: 新入社員に興味があるかどうか<u>確認してみる</u>ことはできますか？

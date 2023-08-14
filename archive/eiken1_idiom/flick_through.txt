@@ -1,0 +1,8 @@
+# Key:flick through
+<h3>English Sentences</h3>
+E-1: I love to <u>flick through</u> a magazine while waiting.
+E-2: She <u>flicked through</u> the pages of the photo album, reminiscing.
+
+<h3>Japanese Translation</h3>
+J-1: 待っている間に雑誌を<u>パラパラめくる</u>のが好きです。
+J-2: 彼女は写真アルバムのページを<u>素早くめくり</u>ながら、思い出にふけっていた。

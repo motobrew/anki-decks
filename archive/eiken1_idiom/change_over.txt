@@ -1,0 +1,8 @@
+# Key:change over
+<h3>English Sentences</h3>
+E-1: The temperature <u>change over</u> the weekend was drastic, going from hot to cold.
+E-2: She decided to <u>change over</u> to a vegetarian diet for health reasons.
+
+<h3>Japanese Translation</h3>
+J-1: 週末の気温の<u>変動</u>は激しく、暑いから寒いになりました。
+J-2: 彼女は健康上の理由で、ベジタリアンの食事へ<u>切り替えること</u>を決めました。

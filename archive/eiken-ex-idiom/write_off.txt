@@ -1,0 +1,8 @@
+# Key:write off
+<h3>English Sentences</h3>
+E-1: I had to <u>write off</u> my old car because it was beyond repair.
+E-2: The company had to <u>write off</u> a huge debt as a loss.
+
+<h3>Japanese Translation</h3>
+J-1: 私は古い車を<u>処分せざるを得なかった</u>、修理を超えていたので。
+J-2: 会社は巨額の債務を損失として<u>計上しなければなりませんでした</u>。

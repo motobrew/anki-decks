@@ -1,0 +1,8 @@
+# Key:ride out
+<h3>English Sentences</h3>
+E-1: He decided to <u>ride out</u> the storm in his cozy cabin.
+E-2: The team managed to <u>ride out</u> the economic downturn and remain profitable.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は居心地の良い小屋で嵐を<u>しのぎました</u>。
+J-2: チームは経済の低迷期を<u>乗り切り</u>、利益を維持しました。

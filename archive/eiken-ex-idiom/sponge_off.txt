@@ -1,0 +1,8 @@
+# Key:sponge off
+<h3>English Sentences</h3>
+E-1: He always tries to <u>sponge off</u> his friends for free meals.
+E-2: I can't believe she continues to <u>sponge off</u> her parents at her age.
+
+<h3>Japanese Translation</h3>
+J-1: 彼はいつも友達にタダ飯を食べさせてもらおうとしています。
+J-2: 彼女がその年齢でいまだに両親に頼り続けるなんて信じられません。

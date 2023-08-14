@@ -1,0 +1,8 @@
+# Key:dumb down
+<h3>English Sentences</h3>
+E-1: She had to <u>dumb down</u> her presentation for a younger audience.
+E-2: The teacher simplified the lesson to <u>dumb it down</u> for the struggling students.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女はプレゼンテーションを<u>わかりやすくするために</u>、若い観客向けに簡単にしました。
+J-2: 先生は授業を簡素化して、理解が難しい生徒に<u>わかりやすくするために</u>しました。

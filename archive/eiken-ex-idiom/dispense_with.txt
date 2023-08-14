@@ -1,0 +1,8 @@
+# Key:dispense with
+<h3>English Sentences</h3>
+E-1: We can <u>dispense with</u> formalities and get straight to business.
+E-2: It's time to <u>dispense with</u> this old, outdated technology.
+
+<h3>Japanese Translation</h3>
+J-1: 形式ばったことは<u>省いて</u>、すぐに本題に入りましょう。
+J-2: この古くて時代遅れのテクノロジーは<u>廃止する</u>時期です。

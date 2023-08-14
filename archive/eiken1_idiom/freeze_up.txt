@@ -1,0 +1,8 @@
+# Key:freeze up
+<h3>English Sentences</h3>
+E-1: I <u>froze up</u> during the presentation and forgot my lines.
+E-2: The computer <u>froze up</u> and I had to restart it.
+
+<h3>Japanese Translation</h3>
+J-1: プレゼン中に<u>固まってしまいました</u>、セリフを忘れてしまいました。
+J-2: コンピュータが<u>フリーズしてしまいました</u>、再起動しなければなりませんでした。

@@ -1,0 +1,8 @@
+# Key:horse around
+<h3>English Sentences</h3>
+E-1: Don't <u>horse around</u> in the classroom, it's time to focus.
+E-2: The kids love to <u>horse around</u> in the playground after school.
+
+<h3>Japanese Translation</h3>
+J-1: 教室で<u>いたずらしないで</u>、集中する時間ですよ。
+J-2: 子供たちは放課後、遊び場でよく<u>遊びまわります</u>。

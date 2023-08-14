@@ -1,0 +1,8 @@
+# Key:churn out
+<h3>English Sentences</h3>
+E-1: The factory is able to <u>churn out</u> thousands of products each day.
+E-2: The writer has a knack for <u>churning out</u> best-selling novels.
+
+<h3>Japanese Translation</h3>
+J-1: その工場は毎日何千もの製品を<u>生産し続ける</u>ことができます。
+J-2: その作家は一瞬でベストセラー小説を<u>書き上げる</u>才能があります。

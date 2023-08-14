@@ -1,0 +1,8 @@
+# Key:rattle off
+<h3>English Sentences</h3>
+E-1: She can <u>rattle off</u> the names of all the state capitals.
+E-2: He managed to <u>rattle off</u> a list of excuses for being late.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は全ての州都の名前を<u>サラッと言いあげる</u>ことができます。
+J-2: 彼は遅刻の言い訳のリストを<u>さっと述べる</u>ことに成功しました。

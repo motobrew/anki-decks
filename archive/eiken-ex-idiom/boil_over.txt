@@ -1,0 +1,8 @@
+# Key:boil over
+<h3>English Sentences</h3>
+E-1: The pot <u>boiled over</u> and made a mess on the stove.
+E-2: The tension between them <u>boiled over</u> and resulted in a heated argument.
+
+<h3>Japanese Translation</h3>
+J-1: 鍋が<u>沸きすぎて</u>、コンロの上を汚してしまいました。
+J-2: 彼らの間の緊張が<u>爆発して</u>、激しい議論に発展しました。

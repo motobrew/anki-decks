@@ -1,0 +1,8 @@
+# Key:whip up
+<h3>English Sentences</h3>
+E-1: The chef can <u>whip up</u> a delicious meal in no time.
+E-2: She managed to <u>whip up</u> excitement among the crowd with her speech.
+
+<h3>Japanese Translation</h3>
+J-1: シェフはすぐに美味しい料理を<u>作り上げること</u>ができます。
+J-2: 彼女はスピーチで、群衆の間に<u>興奮をかき立てること</u>を成功させました。

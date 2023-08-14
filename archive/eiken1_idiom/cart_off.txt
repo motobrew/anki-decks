@@ -1,0 +1,8 @@
+# Key:cart off
+<h3>English Sentences</h3>
+E-1: The police officers <u>carted off</u> the suspect after arresting him.
+E-2: The construction workers had to <u>cart off</u> the debris from the demolition.
+
+<h3>Japanese Translation</h3>
+J-1: 警察官たちは容疑者を逮捕した後、彼を<u>連行しました</u>。
+J-2: 建設作業員は解体作業の瓦礫を<u>運び出す</u>必要がありました。

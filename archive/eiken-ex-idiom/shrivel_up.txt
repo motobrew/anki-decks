@@ -1,0 +1,8 @@
+# Key:shrivel up
+<h3>English Sentences</h3>
+E-1: The heat made the grapes <u>shrivel up</u> and turn into raisins.
+E-2: The plant will <u>shrivel up</u> if you don't water it regularly.
+
+<h3>Japanese Translation</h3>
+J-1: 熱でブドウが<u>干からび</u>、レーズンになりました。
+J-2: 定期的に水をやらないと、植物は<u>しぼんでしまいます</u>。

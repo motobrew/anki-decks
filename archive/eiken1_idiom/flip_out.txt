@@ -1,0 +1,8 @@
+# Key:flip out
+<h3>English Sentences</h3>
+E-1: I <u>flipped out</u> when I saw the spider crawling on the wall.
+E-2: She <u>flipped out</u> when she found out she won the jackpot.
+
+<h3>Japanese Translation</h3>
+J-1: 壁を這っているクモを見た時、私は<u>びっくりした</u>。
+J-2: 彼女はジャックポットに当選したことを知った時、<u>大興奮した</u>。

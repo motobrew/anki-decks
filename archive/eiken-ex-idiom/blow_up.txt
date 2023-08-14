@@ -1,0 +1,8 @@
+# Key:blow up
+<h3>English Sentences</h3>
+E-1: The angry customer threatened to <u>blow up</u> the store if he didn't get a refund.
+E-2: The balloon slowly inflated and then suddenly <u>blew up</u> with a loud bang.
+
+<h3>Japanese Translation</h3>
+J-1: 怒った客が、払い戻しがなければ店を<u>爆破すると脅した</u>。
+J-2: 風船がゆっくり膨らみ、そして突然、大きな音と共に<u>爆発した</u>。

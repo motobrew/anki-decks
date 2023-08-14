@@ -1,0 +1,8 @@
+# Key:play down
+<h3>English Sentences</h3>
+E-1: He tried to <u>play down</u> the severity of the accident.
+E-2: The politician used humor to <u>play down</u> the controversy surrounding his statement.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は事故の重大性を<u>軽く見せようとしました</u>。
+J-2: 政治家は自身の発言に関する論争を<u>軽視するために</u>ユーモアを使いました。

@@ -1,0 +1,8 @@
+# Key:mull over
+<h3>English Sentences</h3>
+E-1: I need some time to <u>mull over</u> the decision.
+E-2: She asked for my opinion, but I have to <u>mull it over</u> first.
+
+<h3>Japanese Translation</h3>
+J-1: その決定を<u>熟考する</u>ために少し時間が必要です。
+J-2: 彼女は私の意見を尋ねましたが、まず<u>熟考しなければならない</u>。

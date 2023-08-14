@@ -1,0 +1,8 @@
+# Key:sort out
+<h3>English Sentences</h3>
+E-1: I need to <u>sort out</u> my wardrobe and donate clothes I don't wear.
+E-2: We should have a meeting to <u>sort out</u> any issues before the project starts.
+
+<h3>Japanese Translation</h3>
+J-1: 着ない洋服を整理して寄付するために、私はクローゼットを<u>整理しなければなりません</u>。
+J-2: プロジェクトが始まる前に問題を<u>解決するために</u>会議を開くべきです。

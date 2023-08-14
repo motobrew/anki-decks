@@ -1,0 +1,8 @@
+# Key:pass down
+<h3>English Sentences</h3>
+E-1: My grandmother <u>passed down</u> her wedding dress to me.
+E-2: The tradition of storytelling has been <u>passed down</u> through generations.
+
+<h3>Japanese Translation</h3>
+J-1: 私の祖母は私に彼女のウェディングドレスを<u>譲り渡しました</u>。
+J-2: 語り伝えの伝統は世代を<u>超えて伝わってきました</u>。

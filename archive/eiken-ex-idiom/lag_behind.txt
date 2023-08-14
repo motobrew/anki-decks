@@ -1,0 +1,8 @@
+# Key:lag behind
+<h3>English Sentences</h3>
+E-1: My little brother is always <u>lagging behind</u> when we go for a walk.
+E-2: The company's outdated technology is causing them to <u>lag behind</u> their competitors.
+
+<h3>Japanese Translation</h3>
+J-1: 散歩に行くとき、いつも弟が<u>遅れてしまう</u>。
+J-2: その会社の時代遅れの技術によって、競合他社に<u>遅れをとる</u>ことになっています。

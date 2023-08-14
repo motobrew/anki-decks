@@ -1,0 +1,8 @@
+# Key:drag out
+<h3>English Sentences</h3>
+E-1: He <u>dragged out</u> the meeting by going off on tangents.
+E-2: They decided to <u>drag out</u> the negotiations in hopes of getting a better deal.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は、話が脇道にそれたりして、会議を<u>長引かせました</u>。
+J-2: 彼らは、より良い条件を得るために、交渉を<u>長引かせる</u>ことにしました。

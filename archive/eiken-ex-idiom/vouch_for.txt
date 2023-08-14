@@ -1,0 +1,8 @@
+# Key:vouch for
+<h3>English Sentences</h3>
+E-1: I can <u>vouch for</u> her honesty; she would never lie.
+E-2: He offered to <u>vouch for</u> me, so I got the job easily.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女の正直さを<u>保証できます</u>。彼女は決して嘘をつきません。
+J-2: 彼が私の<u>保証をしてくれたので</u>、簡単にその仕事を得ることができました。

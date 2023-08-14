@@ -1,0 +1,8 @@
+# Key:shoot for
+<h3>English Sentences</h3>
+E-1: I'm going to <u>shoot for</u> a perfect score on the test.
+E-2: He always <u>shoots for</u> the stars and never settles for less.
+
+<h3>Japanese Translation</h3>
+J-1: テストで完璧なスコアを<u>目指すつもり</u>です。
+J-2: 彼はいつも一流を<u>目指し</u>て、妥協しない。

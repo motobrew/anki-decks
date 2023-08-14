@@ -1,0 +1,8 @@
+# Key:dabble in
+<h3>English Sentences</h3>
+E-1: She likes to <u>dabble in</u> painting as a hobby.
+E-2: He decided to <u>dabble in</u> the stock market to learn about investing.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は趣味として絵画を<u>ちょっとやってみる</u>ことが好きです。
+J-2: 彼は投資について学ぶために株式市場を<u>ちょっとやってみる</u>ことに決めました。

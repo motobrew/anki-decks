@@ -1,0 +1,8 @@
+# Key:foul up
+<h3>English Sentences</h3>
+E-1: The printer <u>foul up</u> and printed all the pages upside down.
+E-2: Don't let one mistake <u>foul you up</u>, keep moving forward.
+
+<h3>Japanese Translation</h3>
+J-1: プリンターが<u>故障</u>して、すべてのページを逆さまに印刷しました。
+J-2: 一つのミスでくじけずに、前に進み続けてください。

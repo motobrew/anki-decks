@@ -1,0 +1,8 @@
+# Key:stow away
+<h3>English Sentences</h3>
+E-1: The security guard found a <u>stowaway</u> hiding in the cargo hold of the ship.
+E-2: I always <u>stow away</u> some snacks in my bag for emergencies.
+
+<h3>Japanese Translation</h3>
+J-1: 警備員が船の貨物室に隠れている<u>密航者</u>を見つけました。
+J-2: 緊急時のためにいつもバッグにおやつを<u>隠し持っています</u>。

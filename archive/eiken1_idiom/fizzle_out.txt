@@ -1,0 +1,8 @@
+# Key:fizzle out
+<h3>English Sentences</h3>
+E-1: Our plan to go hiking <u>fizzled out</u> due to the heavy rain.
+E-2: The excitement of the party slowly <u>fizzled out</u> as people started leaving.
+
+<h3>Japanese Translation</h3>
+J-1: 大雨のため、私たちのハイキング計画は<u>頓挫しました</u>。
+J-2: 人々が帰り始めると、パーティーの盛り上がりは徐々に<u>衰えていきました</u>。

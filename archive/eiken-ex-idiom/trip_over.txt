@@ -1,0 +1,8 @@
+# Key:trip over
+<h3>English Sentences</h3>
+E-1: I <u>trip over</u> that same step every time I walk down the stairs.
+E-2: Be careful not to <u>trip over</u> your shoelaces while running.
+
+<h3>Japanese Translation</h3>
+J-1: 毎回階段を降りる時に、私はその同じ段差に<u>つまずきます</u>。
+J-2: 走っている間に靴ひもに<u>つまづかないよう</u>に気をつけてください。

@@ -1,0 +1,8 @@
+# Key:blow away
+<h3>English Sentences</h3>
+E-1: The beautiful sunset <u>blew me away</u> with its vibrant colors.
+E-2: The strong wind <u>blew away</u> all the leaves from the trees.
+
+<h3>Japanese Translation</h3>
+J-1: 美しい夕日が鮮やかな色で私を<u>魅了しました</u>。
+J-2: 強い風が木の葉を<u>吹き飛ばしました</u>。

@@ -1,0 +1,8 @@
+# Key:hop off
+<h3>English Sentences</h3>
+E-1: As the bus stopped, I <u>hopped off</u> and ran towards the store.
+E-2: When the roller coaster came to a halt, the passengers <u>hopped off</u> and headed to the exit.
+
+<h3>Japanese Translation</h3>
+J-1: バスが停まると、私は<u>降りて</u>お店に向かいました。
+J-2: ローラーコースターが止まると、乗客たちは<u>降りて</u>出口に向かいました。

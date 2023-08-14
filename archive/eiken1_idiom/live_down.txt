@@ -1,0 +1,8 @@
+# Key:live down
+<h3>English Sentences</h3>
+E-1: I made a really embarrassing mistake that I can't <u>live down</u>.
+E-2: It's been years since that scandal, but it seems like he can't <u>live down</u> his past.
+
+<h3>Japanese Translation</h3>
+J-1: 私は許されることのない恥ずかしいミスをしました。
+J-2: あのスキャンダルから数年経っていますが、彼の過去が埋まらないようです。

@@ -1,0 +1,8 @@
+# Key:poke around
+<h3>English Sentences</h3>
+E-1: I like to <u>poke around</u> in antique shops on the weekends.
+E-2: She decided to <u>poke around</u> in the attic to find old family photos.
+
+<h3>Japanese Translation</h3>
+J-1: 週末には、古道具屋で<u>物色するの</u>が好きです。
+J-2: 彼女は、屋根裏部屋を<u>探索してみること</u>を決め、古い家族の写真を見つけることにしました。

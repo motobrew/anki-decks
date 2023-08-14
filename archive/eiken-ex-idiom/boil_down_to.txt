@@ -1,0 +1,8 @@
+# Key:boil down to
+<h3>English Sentences</h3>
+E-1: The problem <u>boils down to</u> a lack of communication.
+E-2: After much discussion, the decision <u>boiled down to</u> cost and efficiency.
+
+<h3>Japanese Translation</h3>
+J-1: 問題は<u>コミュニケーション不足</u>に帰結する。
+J-2: 多くの議論の結果、結論は<u>費用と効率</u>に集約された。

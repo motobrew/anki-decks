@@ -1,0 +1,8 @@
+# Key:throw out
+<h3>English Sentences</h3>
+E-1: The teacher <u>threw out</u> the student's incorrect answer.
+E-2: I need to <u>throw out</u> these old clothes and make room for new ones.
+
+<h3>Japanese Translation</h3>
+J-1: 先生が生徒の間違った答えを<u>捨てました</u>。
+J-2: 私はこれらの古い服を<u>捨てて</u>、新しいもののためのスペースを作らなければなりません。

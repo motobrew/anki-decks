@@ -1,0 +1,8 @@
+# Key:run up
+<h3>English Sentences</h3>
+E-1: I didn't realize how much I spent until the bills <u>ran up</u>.
+E-2: The team's score <u>ran up</u> quickly in the first half of the game.
+
+<h3>Japanese Translation</h3>
+J-1: 請求書が<u>積み上がる</u>まで、自分がいくら使ったか気づきませんでした。
+J-2: チームのスコアが試合の前半で早くも<u>増えました</u>。

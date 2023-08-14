@@ -1,0 +1,8 @@
+# Key:let down
+<h3>English Sentences</h3>
+E-1: I feel really <u>let down</u> by their lack of support.
+E-2: The team's performance in the match was a <u>let down</u>.
+
+<h3>Japanese Translation</h3>
+J-1: 彼らの支援の不足によって、私は本当に<u>がっかりさせられました</u>。
+J-2: チームの試合でのパフォーマンスは<u>期待を裏切られた感じがしました</u>。

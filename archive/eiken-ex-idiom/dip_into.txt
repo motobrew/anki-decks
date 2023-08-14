@@ -1,0 +1,8 @@
+# Key:dip into
+<h3>English Sentences</h3>
+E-1: She <u>dipped into</u> her savings to pay for the unexpected medical bills.
+E-2: The author's writing style <u>dips into</u> humor and satire throughout the novel.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は予期せぬ医療費を支払うために、貯金に<u>手を付けました</u>。
+J-2: その著者の文章スタイルは小説全体にわたってユーモアと風刺を<u>含んでいます</u>。

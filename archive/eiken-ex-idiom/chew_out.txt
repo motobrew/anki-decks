@@ -1,0 +1,8 @@
+# Key:chew out
+<h3>English Sentences</h3>
+E-1: The manager <u>chewed out</u> the employee for being late.
+E-2: He always <u>chews out</u> his younger brother for making a mess.
+
+<h3>Japanese Translation</h3>
+J-1: 遅刻したことで、マネージャーが従業員を<u>叱りつけました</u>。
+J-2: 彼はいつも弟に<u>怒鳴りつけます</u>うるさくするために。

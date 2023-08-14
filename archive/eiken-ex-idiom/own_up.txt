@@ -1,0 +1,8 @@
+# Key:own up
+<h3>English Sentences</h3>
+E-1: She wouldn't <u>own up</u> to her mistake and tried to blame others.
+E-2: It's time for you to <u>own up</u> and take responsibility for your actions.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は自分のミスを<u>認めようとしなかった</u>し、他人のせいにしようとした。
+J-2: 君が<u>正直になり</u>、行動に責任を取る時だ。

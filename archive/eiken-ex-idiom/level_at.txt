@@ -1,0 +1,8 @@
+# Key:level at
+<h3>English Sentences</h3>
+E-1: The water reached the <u>level at</u> which it started to overflow.
+E-2: I cannot believe he is always operating at such a high <u>level</u> of efficiency.
+
+<h3>Japanese Translation</h3>
+J-1: 水が<u>特定のレベルに達して</u>あふれ始めました。
+J-2: 彼がいつもそんなに高い<u>レベルで</u>効率的に作業していることが信じられません。

@@ -1,0 +1,8 @@
+# Key:pass over
+<h3>English Sentences</h3>
+E-1: I had to <u>pass over</u> several job offers before finding the right one.
+E-2: The detective decided to <u>pass over</u> that suspicious person for now.
+
+<h3>Japanese Translation</h3>
+J-1: 正しいものを見つけるまで、いくつかの仕事のオファーを<u>断りました</u>。
+J-2: その怪しい人物は当面、刑事から<u>見逃されること</u>に決まりました。

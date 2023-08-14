@@ -1,0 +1,8 @@
+# Key:hail from
+<h3>English Sentences</h3>
+E-1: I <u>hail from</u> a small town in the Midwest.
+E-2: The famous actor <u>hails from</u> Australia.
+
+<h3>Japanese Translation</h3>
+J-1: 私は中西部の小さな町<u>出身です</u>。
+J-2: その有名な俳優はオーストラリア<u>出身です</u>。

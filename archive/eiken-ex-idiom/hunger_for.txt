@@ -1,0 +1,8 @@
+# Key:hunger for
+<h3>English Sentences</h3>
+E-1: She has a constant <u>hunger for</u> knowledge and is always reading.
+E-2: The team showed a strong <u>hunger for</u> victory and played their best.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は常に知識に<u>飢えており</u>、いつも読書をしています。
+J-2: チームは強い<u>勝利への渇望</u>を示し、最善を尽くしました。

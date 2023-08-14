@@ -1,0 +1,8 @@
+# Key:frown on
+<h3>English Sentences</h3>
+E-1: My parents <u>frown on</u> staying out late on weekdays.
+E-2: The company policy <u>frowns on</u> employees using social media during work hours.
+
+<h3>Japanese Translation</h3>
+J-1: 平日の夜遅くまで外出することは、私の両親にとっては<u>好ましくないこと</u>です。
+J-2: 会社の規則では、社員が勤務中にソーシャルメディアを使用することは<u>容認されていません</u>。

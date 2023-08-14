@@ -1,0 +1,8 @@
+# Key:palm off
+<h3>English Sentences</h3>
+E-1: He tried to <u>palm off</u> his old car as brand new.
+E-2: Don't try to <u>palm off</u> your responsibilities onto someone else.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は古い車を新品だと<u>偽って売ろうと</u>しました。
+J-2: 自分の責任を他人に<u>押し付けようとするな</u>。

@@ -1,0 +1,8 @@
+# Key:act up
+<h3>English Sentences</h3>
+E-1: My car always seems to <u>act up</u> whenever I have an important meeting.
+E-2: The children were tired and started to <u>act up</u> during the long car ride.
+
+<h3>Japanese Translation</h3>
+J-1: 大事な会議の時に車がいつも<u>故障し始める</u>気がします。
+J-2: 子供たちは疲れて長い車の旅行中に<u>手がつけられなくなりました</u>。

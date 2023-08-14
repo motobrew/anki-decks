@@ -1,0 +1,8 @@
+# Key:farm out
+<h3>English Sentences</h3>
+E-1: We decided to <u>farm out</u> the construction work to a local contractor.
+E-2: The company decided to <u>farm out</u> their customer service department to a third-party call center.
+
+<h3>Japanese Translation</h3>
+J-1: 私たちは建設作業を地元の請負業者に<u>委託すること</u>を決めました。
+J-2: 会社は顧客サービス部門を第三者のコールセンターに<u>外注すること</u>を決定しました。

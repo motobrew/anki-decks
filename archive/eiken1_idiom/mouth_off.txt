@@ -1,0 +1,8 @@
+# Key:mouth off
+<h3>English Sentences</h3>
+E-1: Don't <u>mouth off</u> to your boss if you want to keep your job.
+E-2: The angry customer started to <u>mouth off</u> at the cashier.
+
+<h3>Japanese Translation</h3>
+J-1: 仕事を続けたいなら、上司に<u>横柄な態度を取らないで</u>ください。
+J-2: 怒ったお客さんがレジ係に<u>横柄な言葉を浴びせ始めました</u>。

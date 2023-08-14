@@ -1,0 +1,8 @@
+# Key:head up
+<h3>English Sentences</h3>
+E-1: Keep your <u>head up</u> and stay positive during tough times.
+E-2: The team captain always <u>heads up</u> the pre-game briefing.
+
+<h3>Japanese Translation</h3>
+J-1: 辛い時こそ、<u>前向きに</u>頭を上げていてください。
+J-2: チームのキャプテンはいつも試合前のブリーフィングを<u>リードします</u>。

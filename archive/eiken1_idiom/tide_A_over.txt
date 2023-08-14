@@ -1,0 +1,8 @@
+# Key:tide A over
+<h3>English Sentences</h3>
+E-1: The loan from my friend <u>tided me over</u> until my paycheck arrived.
+E-2: She had to work extra hours to <u>tide her family over</u> during the financial crisis.
+
+<h3>Japanese Translation</h3>
+J-1: 友達からの融資で、給料日まで<u>なんとか凌ぎました</u>。
+J-2: 彼女は金融危機の間、家族を<u>何とかしのがせるために</u>余分な時間を働かなければならなかった。

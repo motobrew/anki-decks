@@ -1,0 +1,8 @@
+# Key:chime in
+<h3>English Sentences</h3>
+E-1: The meeting was getting heated, and then John decided to <u>chime in</u> with his opinion. 
+E-2: As we were discussing our travel plans, Sarah suddenly <u>chimed in</u> and suggested we go to the beach.
+
+<h3>Japanese Translation</h3>
+J-1: 会議が熱を帯びてきた時、ジョンが自分の意見を<u>口に出しました</u>。
+J-2: 旅行計画の話し合い中、サラが突然<u>参加して</u>、ビーチに行こうと提案しました。

@@ -1,0 +1,8 @@
+# Key:drum up
+<h3>English Sentences</h3>
+E-1: She tried to <u>drum up</u> support for her charity event by posting flyers everywhere.
+E-2: The salesman was desperately trying to <u>drum up</u> interest in his new product.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女はチャリティイベントへの支援を<u>集めようと</u>、あらゆる場所にチラシを貼りました。
+J-2: そのセールスマンは新商品に関心を<u>喚起しようと</u>必死でした。

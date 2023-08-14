@@ -1,0 +1,8 @@
+# Key:drag A into B
+<h3>English Sentences</h3>
+E-1: I accidentally <u>dragged my coffee into</u> my laptop, and now it's ruined.
+E-2: Don't <u>drag me into</u> your drama, I want no part in it.
+
+<h3>Japanese Translation</h3>
+J-1: ラップトップにコーヒーを<u>こぼしてしまいました。</u> それで台無しです。
+J-2: 自分のドラマには<u>私を巻き込むな</u>、その一部にはなりたくない。

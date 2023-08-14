@@ -1,0 +1,8 @@
+# Key:bank on
+<h3>English Sentences</h3>
+E-1: You can always <u>bank on</u> John to be late for the meeting.
+E-2: I wouldn't <u>bank on</u> winning the lottery anytime soon.
+
+<h3>Japanese Translation</h3>
+J-1: ミーティングに遅れるのは、いつもジョンに<u>頼んで</u>いいよ。
+J-2: なかなか宝くじに当たるとは<u>期待しない方がいいよ</u>。

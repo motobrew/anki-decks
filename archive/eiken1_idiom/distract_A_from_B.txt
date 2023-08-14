@@ -1,0 +1,8 @@
+# Key:distract A from B
+<h3>English Sentences</h3>
+E-1: The loud noise <u>distracted me from</u> my work.
+E-2: The beautiful scenery <u>distracted her from</u> her worries.
+
+<h3>Japanese Translation</h3>
+J-1: 大きな音が私の仕事を<u>邪魔して</u>しまった。
+J-2: 美しい景色が彼女の心配事を<u>忘れさせ</u>てくれた。

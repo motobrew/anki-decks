@@ -1,0 +1,8 @@
+# Key:mark out
+<h3>English Sentences</h3>
+E-1: Please <u>mark out</u> the items you would like to purchase on the shopping list.
+E-2: The detective was able to <u>mark out</u> the suspect in the surveillance footage.
+
+<h3>Japanese Translation</h3>
+J-1: 買い物リストに購入したいアイテムを<u>マークして</u>ください。
+J-2: 刑事は監視カメラの映像で容疑者を<u>見分けることができました。</u>

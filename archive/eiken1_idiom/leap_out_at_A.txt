@@ -1,0 +1,8 @@
+# Key:leap out at A
+<h3>English Sentences</h3>
+E-1: The answer to the riddle <u>leapt out at me</u> as soon as I heard it.
+E-2: The bright red jumpscare in the horror movie really <u>leapt out at the audience</u>.
+
+<h3>Japanese Translation</h3>
+J-1: ナゾの答えが私に<u>飛び出してきました</u>。聞いた瞬間にわかりました。
+J-2: ホラー映画の明るい赤いジャンプスケアは、観客に<u>飛び出してきました</u>。

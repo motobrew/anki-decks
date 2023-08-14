@@ -1,0 +1,8 @@
+# Key:choke back
+<h3>English Sentences</h3>
+E-1: He had to <u>choke back</u> his tears during the emotional speech.
+E-2: She had to <u>choke back</u> her anger and remain calm.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は感動的なスピーチ中に涙を<u>抑えなければならなかった</u>。
+J-2: 彼女は怒りを<u>抑えなければならず、冷静でいなければならなかった</u>。

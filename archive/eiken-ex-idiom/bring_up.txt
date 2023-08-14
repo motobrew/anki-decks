@@ -1,0 +1,8 @@
+# Key:bring up
+<h3>English Sentences</h3>
+E-1: John decided to <u>bring up</u> his concerns during the team meeting.
+E-2: Sarah's comment during dinner <u>brought up</u> an interesting debate.
+
+<h3>Japanese Translation</h3>
+J-1: ジョンはチームミーティングで自分の懸念を<u>提起する</u>ことにしました。
+J-2: 夕食中のサラの発言が興味深い議論を<u>引き起こしました</u>。

@@ -1,0 +1,8 @@
+# Key:cater to
+<h3>English Sentences</h3>
+E-1: The hotel <u>catered to</u> all of our dietary restrictions during our stay.
+E-2: The fashion brand designs clothes that <u>cater to</u> all body types.
+
+<h3>Japanese Translation</h3>
+J-1: ホテルは私たちの滞在中、すべての食事制限に<u>対応しました</u>。
+J-2: そのファッションブランドは、あらゆるボディタイプに<u>対応</u>する服をデザインしています。

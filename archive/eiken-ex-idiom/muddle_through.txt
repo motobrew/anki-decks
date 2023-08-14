@@ -1,0 +1,8 @@
+# Key:muddle through
+<h3>English Sentences</h3>
+E-1: We didn't have a plan, so we had to <u>muddle through</u> the project.
+E-2: Despite facing numerous challenges, the team managed to <u>muddle through</u> and complete the race.
+
+<h3>Japanese Translation</h3>
+J-1: プランがなかったので、私たちはプロジェクトを<u>なんとか乗り切らなければなら</u>なかった。
+J-2: 多くの課題に直面しながらも、チームは<u>乗り切って</u>レースを完走しました。

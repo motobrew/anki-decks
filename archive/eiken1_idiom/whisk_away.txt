@@ -1,0 +1,8 @@
+# Key:whisk away
+<h3>English Sentences</h3>
+E-1: The magician <u>whisked away</u> the tablecloth, leaving the dishes intact.
+E-2: The prince <u>was whisked away</u> to a secret location for his safety.
+
+<h3>Japanese Translation</h3>
+J-1: 魔法使いがテーブルクロスを<u>瞬時に取り去り</u>、皿はそのままでした。
+J-2: 王子は安全のため<u>秘密の場所に連れて行かれました</u>。

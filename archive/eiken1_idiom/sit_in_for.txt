@@ -1,0 +1,8 @@
+# Key:sit in for
+<h3>English Sentences</h3>
+E-1: Jane asked me to <u>sit in for</u> her at the meeting tomorrow.
+E-2: The substitute teacher will <u>sit in for</u> Mrs. Smith while she is on vacation.
+
+<h3>Japanese Translation</h3>
+J-1: ジェーンが私に明日の会議で<u>彼女の代わりに座るように</u>頼んできました。
+J-2: 代理の先生が、スミス先生の代わりに授業を<u>受け持つことになっています</u>。

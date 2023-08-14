@@ -1,0 +1,8 @@
+# Key:snap off
+<h3>English Sentences</h3>
+E-1: I accidentally <u>snapped off</u> the handle of the coffee mug.
+E-2: The branch <u>snapped off</u> during the storm and fell on the roof.
+
+<h3>Japanese Translation</h3>
+J-1: コーヒーマグのハンドルを<u>折ってしまいました</u>。
+J-2: 嵐の中、枝が折れて屋根に<u>落ちてきました</u>。

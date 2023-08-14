@@ -1,0 +1,8 @@
+# Key:fawn over
+<h3>English Sentences</h3>
+E-1: She tends to <u>fawn over</u> her favorite celebrities on social media.
+E-2: The manager always receives special treatment from his <u>fawning</u> employees.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女はソーシャルメディアでお気に入りの有名人に<u>すっかりほれ込む</u>傾向があります。
+J-2: マネージャーはいつも部下たちから<u>おべっかを使われた</u>特別扱いを受けます。

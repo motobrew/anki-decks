@@ -1,0 +1,8 @@
+# Key:hold down
+<h3>English Sentences</h3>
+E-1: He had to <u>hold down</u> the tent in the strong wind.
+E-2: She has been able to <u>hold down</u> a steady job for five years.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は強風でテントを<u>抑えつける</u>必要がありました。
+J-2: 彼女は5年間安定した仕事を<u>続けることができました</u>。

@@ -1,0 +1,8 @@
+# Key:suck up to
+<h3>English Sentences</h3>
+E-1: He always tries to <u>suck up to</u> the boss in hopes of a promotion.
+E-2: It's not necessary to <u>suck up to</u> others to gain their approval.
+
+<h3>Japanese Translation</h3>
+J-1: 彼はいつも昇進を期待して上司に<u>取り入ろう</u>とします。
+J-2: 承認を得るために他の人に<u>おべっか</u>を使う必要はありません。

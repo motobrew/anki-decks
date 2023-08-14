@@ -1,0 +1,8 @@
+# Key:scrape by
+<h3>English Sentences</h3>
+E-1: My parents had to <u>scrape by</u> during the recession.
+E-2: Even with a part-time job, it's difficult to <u>scrape by</u> in this expensive city.
+
+<h3>Japanese Translation</h3>
+J-1: 両親は景気後退期の間、何とか食いつないでいた。
+J-2: パートタイムの仕事をしていても、この高い都市で生き延びるのは難しい。

@@ -1,0 +1,8 @@
+# Key:store up
+<h3>English Sentences</h3>
+E-1: I need to <u>store up</u> enough food for the winter.
+E-2: He tends to <u>store up</u> his emotions and never express them.
+
+<h3>Japanese Translation</h3>
+J-1: 冬のために十分な食料を<u>蓄える</u>必要があります。
+J-2: 彼は感情を<u>ため込み</u>、決して表現しません。

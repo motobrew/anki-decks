@@ -1,0 +1,8 @@
+# Key:take on
+<h3>English Sentences</h3>
+E-1: His ambitious goals <u>take on</u> immense challenges.
+E-2: I will <u>take on</u> the responsibility of organizing the event.
+
+<h3>Japanese Translation</h3>
+J-1: 彼の野望ある目標は膨大な挑戦を<u>引き受けます</u>。
+J-2: 私はイベントの組織の責任を<u>引き受けます</u>。

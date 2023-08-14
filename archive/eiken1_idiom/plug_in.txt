@@ -1,0 +1,8 @@
+# Key:plug in
+<h3>English Sentences</h3>
+E-1: I forgot to <u>plug in</u> my phone and it died.
+E-2: Let me <u>plug in</u> my laptop so it doesn't run out of battery.
+
+<h3>Japanese Translation</h3>
+J-1: 携帯を<u>充電する</u>のを忘れて、バッテリーが切れてしまった。
+J-2: ノートパソコンを<u>差し込んで充電しましょう</u>，バッテリーが切れるのを防ぎます。

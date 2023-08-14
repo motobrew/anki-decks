@@ -1,0 +1,8 @@
+# Key:flesh out
+<h3>English Sentences</h3>
+E-1: The author needs to <u>flesh out</u> the details of the story.
+E-2: The designer is working on <u>fleshing out</u> the concept for the new product.
+
+<h3>Japanese Translation</h3>
+J-1: 作家は物語の詳細を<u>具体化する</u>必要があります。
+J-2: デザイナーは新製品のコンセプトを<u>詳しく洗練</u>しています。

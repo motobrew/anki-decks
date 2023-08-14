@@ -1,0 +1,8 @@
+# Key:square off
+<h3>English Sentences</h3>
+E-1: My friend and I decided to <u>square off</u> in a friendly game of chess.
+E-2: The two candidates will <u>square off</u> in a debate tomorrow.
+
+<h3>Japanese Translation</h3>
+J-1: 友達と私は、友好的なチェスの試合で<u>対決すること</u>にしました。
+J-2: ２人の候補者は明日、討論会で<u>直接対決します</u>。

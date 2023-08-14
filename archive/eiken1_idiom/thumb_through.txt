@@ -1,0 +1,8 @@
+# Key:thumb through
+<h3>English Sentences</h3>
+E-1: I like to <u>thumb through</u> the pages of a book before buying it.
+E-2: She <u>thumbed through</u> her notes to find the information she needed.
+
+<h3>Japanese Translation</h3>
+J-1: 買う前に本のページを<u>ざっとめくる</u>のが好きです。
+J-2: 彼女は情報を見つけるために<u>手早くノートをめくりました</u>。

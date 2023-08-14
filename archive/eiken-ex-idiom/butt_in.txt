@@ -1,0 +1,8 @@
+# Key:butt in
+<h3>English Sentences</h3>
+E-1: Please don't <u>butt in</u> on our private conversation.
+E-2: He has a tendency to <u>butt in</u> when people are talking.
+
+<h3>Japanese Translation</h3>
+J-1: 私たちのプライベートな会話に<u>割り込まない</u>でください。
+J-2: 人が話している時に彼はよく<u>割り込む癖</u>があります。

@@ -1,0 +1,8 @@
+# Key:pore over
+<h3>English Sentences</h3>
+E-1: He would <u>pore over</u> the details of the contract before signing it.
+E-2: The students had to <u>pore over</u> their textbooks to prepare for the exam.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は契約書の詳細を<u>精読する</u>ことになってからサインします。
+J-2: 生徒たちは試験の準備のために教科書を<u>熟読せざるを得なかった</u>。

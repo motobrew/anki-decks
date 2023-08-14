@@ -1,0 +1,8 @@
+# Key:smooth over
+<h3>English Sentences</h3>
+E-1: We need to <u>smooth over</u> this disagreement and find a compromise.
+E-2: She tried to <u>smooth over</u> the awkwardness by making a joke.
+
+<h3>Japanese Translation</h3>
+J-1: この意見の相違を<u>解消して</u>妥協点を見つける必要があります。
+J-2: 彼女はジョークを言って、その気まずさを<u>和らげようとしました</u>。

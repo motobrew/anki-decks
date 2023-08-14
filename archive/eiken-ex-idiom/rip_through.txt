@@ -1,0 +1,8 @@
+# Key:rip through
+<h3>English Sentences</h3>
+E-1: The tornado <u>ripped through</u> the small town, causing extensive damage.
+E-2: The news of the scandal <u>ripped through</u> the office, creating a chaotic atmosphere.
+
+<h3>Japanese Translation</h3>
+J-1: 竜巻が小さな町を<u>襲った</u>ため、大きな被害が出ました。
+J-2: スキャンダルのニュースがオフィスに<u>広まった</u>ため、混乱した雰囲気になりました。

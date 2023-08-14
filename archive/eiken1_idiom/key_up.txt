@@ -1,0 +1,8 @@
+# Key:key up
+<h3>English Sentences</h3>
+E-1: The loud noises outside <u>keyed me up</u> and made it hard to focus.
+E-2: She always knows how to <u>key up</u> the crowd with her energetic performance.
+
+<h3>Japanese Translation</h3>
+J-1: 外での大きな音が私を<u>興奮させ</u>て、集中が難しくなりました。
+J-2: 彼女はいつもエネルギッシュなパフォーマンスで観客を<u>盛り上げる</u>方法を知っています。

@@ -1,0 +1,8 @@
+# Key:cop out
+<h3>English Sentences</h3>
+E-1: Don't <u>cop out</u> on me now, we need your help.
+E-2: He always finds a way to <u>cop out</u> of his responsibilities.
+
+<h3>Japanese Translation</h3>
+J-1: 今更<u>逃げ出す</u>な、私たちはあなたの助けが必要だよ。
+J-2: 彼はいつも責任を<u>逃れる方法</u>を見つける。

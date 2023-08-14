@@ -1,0 +1,8 @@
+# Key:dwell on
+<h3>English Sentences</h3>
+E-1: I don't want to <u>dwell on</u> the past; I need to move forward.
+E-2: Let's not <u>dwell on</u> our mistakes, but instead focus on finding solutions.
+
+<h3>Japanese Translation</h3>
+J-1: 過去に<u>こだわること</u>はしたくありません。前に進む必要があります。
+J-2: 間違いに<u>こだわらずに</u>、解決策を見つけることに集中しましょう。

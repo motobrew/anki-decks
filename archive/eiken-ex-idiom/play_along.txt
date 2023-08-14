@@ -1,0 +1,8 @@
+# Key:play along
+<h3>English Sentences</h3>
+E-1: I didn't believe him, but I decided to <u>play along</u> with his joke.
+E-2: The teacher asked the class to <u>play along</u> with the pretend game.
+
+<h3>Japanese Translation</h3>
+J-1: 彼の冗談は信じなかったが、私は彼に<u>賛同すること</u>に決めた。
+J-2: 先生はクラスに架空のゲームに<u>参加すること</u>を頼んだ。

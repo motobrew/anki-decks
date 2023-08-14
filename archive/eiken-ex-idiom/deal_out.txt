@@ -1,0 +1,8 @@
+# Key:deal out
+<h3>English Sentences</h3>
+E-1: The teacher <u>dealt out</u> playing cards to each student.
+E-2: The judge <u>dealt out</u> a harsh punishment for the crime.
+
+<h3>Japanese Translation</h3>
+J-1: 先生は各生徒に<u>トランプを配った</u>。
+J-2: 判事はその犯罪に対して<u>厳しい刑罰を宣告した</u>。

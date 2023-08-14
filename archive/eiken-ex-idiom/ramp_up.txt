@@ -1,0 +1,8 @@
+# Key:ramp up
+<h3>English Sentences</h3>
+E-1: The company plans to <u>ramp up</u> production of their latest product.
+E-2: The team needs to <u>ramp up</u> their performance before the big game.
+
+<h3>Japanese Translation</h3>
+J-1: 会社は最新の製品の生産を<u>拡大する</u>計画です。
+J-2: チームは大試合前にパフォーマンスを<u>向上させる</u>必要があります。

@@ -1,0 +1,8 @@
+# Key:fizzle out
+<h3>English Sentences</h3>
+E-1: Their relationship started off strong but eventually <u>fizzled out</u>.
+E-2: The fireworks display <u>fizzled out</u> due to a technical malfunction.
+
+<h3>Japanese Translation</h3>
+J-1: 彼らの関係は最初は強かったが、最終的には<u>次第に終わってしまった</u>。
+J-2: 花火の打ち上げは技術的な故障のために<u>失敗に終わった</u>。

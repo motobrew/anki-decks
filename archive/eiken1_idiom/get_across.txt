@@ -1,0 +1,8 @@
+# Key:get across
+<h3>English Sentences</h3>
+E-1: It's difficult to <u>get across</u> a complex idea to young children.
+E-2: The bridge was closed, so we couldn't <u>get across</u> to the other side.
+
+<h3>Japanese Translation</h3>
+J-1: 幼児に複雑なアイデアを<u>伝えること</u>は難しいです。
+J-2: 橋が閉鎖されていたので、反対側に<u>渡ること</u>ができませんでした。

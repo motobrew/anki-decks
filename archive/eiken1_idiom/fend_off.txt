@@ -1,0 +1,8 @@
+# Key:fend off
+<h3>English Sentences</h3>
+E-1: He used a stick to <u>fend off</u> the attacking dog.
+E-2: She had to constantly <u>fend off</u> unwanted advances from her co-workers.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は棒を使って襲ってくる犬を<u>追い払いました</u>。
+J-2: 彼女は同僚からの望ましくないアプローチを<u>常に防がなければなりませんでした</u>。

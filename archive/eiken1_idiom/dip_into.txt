@@ -1,0 +1,8 @@
+# Key:dip into
+<h3>English Sentences</h3>
+E-1: I just need to <u>dip into</u> my savings to cover the expenses.
+E-2: Let's <u>dip into</u> the topic of climate change during the meeting.
+
+<h3>Japanese Translation</h3>
+J-1: 経費を賄うために、貯金を<u>つかませるだけです</u>。
+J-2: 会議中に、気候変動の話題に<u>触れましょう</u>。

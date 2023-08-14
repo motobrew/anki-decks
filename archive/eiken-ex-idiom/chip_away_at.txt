@@ -1,0 +1,8 @@
+# Key:chip away at
+<h3>English Sentences</h3>
+E-1: The artist diligently <u>chips away at</u> the block of marble.
+E-2: We need to <u>chip away at</u> our debt little by little.
+
+<h3>Japanese Translation</h3>
+J-1: 芸術家は熱心に<u>大理石を削り取っています</u>。
+J-2: 我々は借金を少しずつ<u>削り取る</u>必要があります。

@@ -1,0 +1,8 @@
+# Key:tear down
+<h3>English Sentences</h3>
+E-1: The government decided to <u>tear down</u> the old, abandoned building.
+E-2: She couldn't help but <u>tear down</u> the poster of her favorite band.
+
+<h3>Japanese Translation</h3>
+J-1: 政府は古くて廃墟になった建物を<u>取り壊すことに</u>決定しました。
+J-2: 彼女はお気に入りのバンドのポスターを<u>引き裂かずにはいられなかった</u>。

@@ -1,0 +1,8 @@
+# Key:sail through
+<h3>English Sentences</h3>
+E-1: She studied for hours and <u>sailed through</u> the challenging exam.
+E-2: The experienced pilot was able to <u>sail through</u> the storm with ease.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は数時間勉強して、難しい試験を<u>楽勝で突破しました</u>。
+J-2: 経験豊富なパイロットは簡単に<u>嵐を乗り切ることができました</u>。

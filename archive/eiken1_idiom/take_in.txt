@@ -1,0 +1,8 @@
+# Key:take in
+<h3>English Sentences</h3>
+E-1: The museum tour guide will <u>take us in</u> to see the exhibit.
+E-2: It's important to <u>take in</u> all the information before making a decision.
+
+<h3>Japanese Translation</h3>
+J-1: 博物館のツアーガイドが私たちを案内して、展示物を見せてくれます。
+J-2: 決断する前に、すべての情報を吟味することが重要です。

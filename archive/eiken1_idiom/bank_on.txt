@@ -1,0 +1,8 @@
+# Key:bank on
+<h3>English Sentences</h3>
+E-1: You can always <u>bank on</u> Sarah to be on time for the meeting.
+E-2: I wouldn't <u>bank on</u> winning the lottery - the chances are very slim.
+
+<h3>Japanese Translation</h3>
+J-1: ミーティングにはいつも時間通りに来る<u>ことが期待できます</u>。
+J-2: 宝くじに当たる<u>ことには期待しない方がいい</u>です - 勝算はほとんどありません。

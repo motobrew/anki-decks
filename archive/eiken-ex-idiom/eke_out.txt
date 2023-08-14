@@ -1,0 +1,8 @@
+# Key:eke out
+<h3>English Sentences</h3>
+E-1: She had to <u>eke out</u> a living by working multiple jobs.
+E-2: The hiker managed to <u>eke out</u> a meager existence in the wilderness.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は複数の仕事をして生計を<u>何とか立てる</u>必要がありました。
+J-2: そのハイカーは荒野で貧弱な生活を<u>やっとのことで維持しました</u>。

@@ -1,0 +1,8 @@
+# Key:bear out
+<h3>English Sentences</h3>
+E-1: The data <u>bears out</u> the hypothesis that exercise improves cognitive function.
+E-2: The witness's testimony <u>bore out</u> the defendant's alibi.
+
+<h3>Japanese Translation</h3>
+J-1: データは運動が認知機能を改善するという仮説を<u>裏付けています</u>。
+J-2: 証人の証言は被告のアリバイを<u>証明しました</u>。

@@ -1,0 +1,8 @@
+# Key:fly at
+<h3>English Sentences</h3>
+E-1: The cat suddenly <u>flew at</u> the mouse to catch it.
+E-2: During the argument, she <u>flew at</u> him, throwing insults.
+
+<h3>Japanese Translation</h3>
+J-1: 猫が突然<u>襲ってきて</u>、ネズミを捕まえようとしました。
+J-2: 口論中、彼女が彼に<u>飛びかかり</u>、侮辱を浴びせました。

@@ -1,0 +1,8 @@
+# Key:fall back on
+<h3>English Sentences</h3>
+E-1: When times get tough, some people <u>fall back on</u> their family for support.
+E-2: During the power outage, we had to <u>fall back on</u> candles for light.
+
+<h3>Japanese Translation</h3>
+J-1: 困難な時になると、一部の人々は<u>家族を頼る</u>ことがあります。
+J-2: 停電中は、光を<u>キャンドルに頼らざるを得なかった</u>。

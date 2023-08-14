@@ -1,0 +1,8 @@
+# Key:come in for
+<h3>English Sentences</h3>
+E-1: She always <u>comes in for</u> praise for her outstanding performance.
+E-2: The company <u>came in for</u> criticism for their unethical business practices.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女はいつも優れた演技で称賛<u>されます</u>。
+J-2: その会社は非倫理的な企業活動で非難<u>されました</u>。

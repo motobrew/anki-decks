@@ -1,0 +1,8 @@
+# Key:put out
+<h3>English Sentences</h3>
+E-1: She asked her friend to <u>put out</u> the cigarette in the non-smoking area.
+E-2: The firefighters were able to <u>put out</u> the fire before it spread.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は友人に禁煙エリアでの喫煙を<u>やめるように頼んだ</u>。
+J-2: 消防士たちは火が広がる前に<u>消火することができました</u>。

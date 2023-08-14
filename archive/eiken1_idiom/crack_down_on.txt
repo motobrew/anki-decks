@@ -1,0 +1,8 @@
+# Key:crack down on
+<h3>English Sentences</h3>
+E-1: The government plans to <u>crack down on</u> illegal drug trafficking.
+E-2: The school decided to <u>crack down on</u> students skipping classes.
+
+<h3>Japanese Translation</h3>
+J-1: 政府は違法な麻薬の密売を<u取り締まる</u>計画です。
+J-2: 学校は授業をサボる生徒たちに<u厳しく取り締まる</u>ことを決定しました。

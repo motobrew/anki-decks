@@ -1,0 +1,8 @@
+# Key:hunker down
+<h3>English Sentences</h3>
+E-1: During the hurricane, we had to <u>hunker down</u> in the basement.
+E-2: The company had to <u>hunker down</u> and cut costs during the economic recession.
+
+<h3>Japanese Translation</h3>
+J-1: ハリケーンの間、私たちは地下室に<u身を隠さなければならなかった</u>。
+J-2: 経済の不況の間、会社はコストを削減し<u>頑張らなければならなかった</u>。

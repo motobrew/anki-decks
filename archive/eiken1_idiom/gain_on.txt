@@ -1,0 +1,8 @@
+# Key:gain on
+<h3>English Sentences</h3>
+E-1: He's slowly <u>gaining on</u> the leader in the race.
+E-2: The police car is <u>gaining on</u> the suspect's car.
+
+<h3>Japanese Translation</h3>
+J-1: 彼はレースでリーダーに<u>追いついてきている</u>。
+J-2: パトカーが犯人の車に<u>追いつこうとしている</u>。

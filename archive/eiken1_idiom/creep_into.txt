@@ -1,0 +1,8 @@
+# Key:creep into
+<h3>English Sentences</h3>
+E-1: A thought suddenly <u>creeped into</u> my mind during the meeting.
+E-2: Doubt started to <u>creep into</u> her thoughts as she studied for the exam.
+
+<h3>Japanese Translation</h3>
+J-1: 会議中に突然<u>思い浮かびました</u>。
+J-2: 試験勉強をしている間、彼女の考えに<u>疑念が生じ始めました</u>。

@@ -1,0 +1,8 @@
+# Key:waste away
+<h3>English Sentences</h3>
+E-1: He has been <u>wasting away</u> since he stopped eating.
+E-2: She didn't want to <u>waste away</u> her youth working a job she hated.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は食事をやめてから、ひ弱な体格になっています。
+J-2: 彼女は嫌いな仕事で若さを<u>費やすわけにはいかなかった</u>。

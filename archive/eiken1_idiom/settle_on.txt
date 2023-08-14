@@ -1,0 +1,8 @@
+# Key:settle on
+<h3>English Sentences</h3>
+E-1: After tasting several desserts, he <u>settled on</u> the chocolate cake.
+E-2: The couple <u>settled on</u> a vacation destination after carefully considering their options.
+
+<h3>Japanese Translation</h3>
+J-1: 数種類のデザートを試食した後、彼はチョコレートケーキ<i>を決めました</i>。
+J-2: カップルは慎重に選択肢を考えた後、バケーション先を<i>決めることにしました</i>。

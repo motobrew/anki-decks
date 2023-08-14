@@ -1,0 +1,8 @@
+# Key:scoot over
+<h3>English Sentences</h3>
+E-1: I asked him to <u>scoot over</u> and make some space for me.
+E-2: The cat loves to <u>scoot over</u> and sit next to me on the couch.
+
+<h3>Japanese Translation</h3>
+J-1: 彼に<u>ちょっと寄って</u>もらって、私にスペースを作ってもらいました。
+J-2: その猫は私の隣に<u>寄ってきて</u>、ソファに座るのが大好きです。

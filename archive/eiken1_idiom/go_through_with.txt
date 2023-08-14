@@ -1,0 +1,8 @@
+# Key:go through with
+<h3>English Sentences</h3>
+E-1: I'm nervous, but I've decided to <u>go through with</u> the job interview.
+E-2: Despite the challenges, they managed to <u>go through with</u> their plan.
+
+<h3>Japanese Translation</h3>
+J-1: 緊張していますが、面接を<u>通すことに</u>決めました。
+J-2:困難があったにもかかわらず、彼らは計画を<u>実行すること</u>に成功しました。

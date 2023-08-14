@@ -1,0 +1,8 @@
+# Key:horse around
+<h3>English Sentences</h3>
+E-1: I love to <u>horse around</u> with my younger siblings on the weekends.
+E-2: The teacher warned the students not to <u>horse around</u> during class.
+
+<h3>Japanese Translation</h3>
+J-1: 週末には、弟妹と一緒に<u>騒ぐの</u>が大好きです。
+J-2: 先生は生徒たちに授業中に<u>馬鹿なことをするの</u>はやめるよう注意しました。

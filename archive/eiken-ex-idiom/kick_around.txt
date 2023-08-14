@@ -1,0 +1,8 @@
+# Key:kick around
+<h3>English Sentences</h3>
+E-1: We always <u>kick around</u> ideas during team brainstorming sessions.
+E-2: The old football has been <u>kicked around</u> so much that it's almost flat.
+
+<h3>Japanese Translation</h3>
+J-1: チームのブレストセッション中はいつもアイデアを<u>話し合います</u>。
+J-2: 昔のフットボールは<u>何度も蹴られた</u>ので、ほとんど平らになっています。

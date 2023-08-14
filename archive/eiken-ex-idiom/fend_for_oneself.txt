@@ -1,0 +1,8 @@
+# Key:fend for oneself
+<h3>English Sentences</h3>
+E-1: In college, you have to learn how to <u>fend for yourself</u>.
+E-2: After leaving home, I had to <u>fend for myself</u> and learn how to cook.
+
+<h3>Japanese Translation</h3>
+J-1: 大学では、自分で<u>自立する</u>方法を学ばなければなりません。
+J-2: 家を出てから、自分で<u>頼れるようになる</u>ために、料理を学ぶ必要がありました。

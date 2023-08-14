@@ -1,0 +1,8 @@
+# Key:squeeze in
+<h3>English Sentences</h3>
+E-1: I need to <u>squeeze in</u> a quick shower before we leave.
+E-2: Let me see if I can <u>squeeze you in</u> for an appointment tomorrow.
+
+<h3>Japanese Translation</h3>
+J-1: 出かける前に、手早くシャワーを<u>済ませなきゃ</u>。
+J-2: 明日の予約に、どうにか<u>あなたを詰め込めるか</u>見てみましょう。

@@ -1,0 +1,8 @@
+# Key:bottom out
+<h3>English Sentences</h3>
+E-1: The stock market <u>bottomed out</u> after months of decline.
+E-2: When the economy <u>bottoms out</u>, many people lose their jobs.
+
+<h3>Japanese Translation</h3>
+J-1: 株式市場は数か月の下落の後に<u>底を打ちました</u>。
+J-2: 経済が<u>底をつくと</u>、多くの人々が仕事を失います。

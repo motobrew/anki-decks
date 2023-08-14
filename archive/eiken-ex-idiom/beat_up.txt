@@ -1,0 +1,8 @@
+# Key:beat up
+<h3>English Sentences</h3>
+E-1: He was badly <u>beat up</u> by a group of bullies.
+E-2: The old car <u>beat up</u> and struggled to start.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は一団のいたずらっ子にひどく<uいじめられました</u>。
+J-2: 古い車は<u>使い古されており</u>、なかなかエンジンがかからなかった。

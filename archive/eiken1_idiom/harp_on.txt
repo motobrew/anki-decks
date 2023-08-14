@@ -1,0 +1,8 @@
+# Key:harp on
+<h3>English Sentences</h3>
+E-1: Don't <u>harp on</u> about that mistake, it's in the past now.
+E-2: She always <u>harps on</u> about her achievements, it's annoying.
+
+<h3>Japanese Translation</h3>
+J-1: あのミスについて<uこだわらないで</u>、もう過去のことだよ。
+J-2: 彼女はいつも自分の成果に<u>こだわる</u>ので、うっとうしい。

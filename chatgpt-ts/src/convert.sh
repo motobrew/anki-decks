@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-target_dir=../archive/toefl3800_rank4
+target_dir=../archive/eiken-ex-idiom
 
 ls -tr $target_dir | while read file
 do

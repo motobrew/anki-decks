@@ -1,0 +1,8 @@
+# Key:sort out
+<h3>English Sentences</h3>
+E-1: I need to <u>sort out</u> my closet and donate some clothes.
+E-2: They promised to <u>sort out</u> the issue and find a solution.
+
+<h3>Japanese Translation</h3>
+J-1: 私はクローゼットを<u>整理する</u>必要があり、服を寄付する予定です。
+J-2: 彼らは問題を<u>解決し</u>、解決策を見つけると約束しました。

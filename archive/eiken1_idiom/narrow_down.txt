@@ -1,0 +1,8 @@
+# Key:narrow down
+<h3>English Sentences</h3>
+E-1: I need to <u>narrow down</u> my options before making a decision.
+E-2: The detective managed to <u>narrow down</u> the list of suspects.
+
+<h3>Japanese Translation</h3>
+J-1: 決断をする前に、選択肢を<u>絞り込む</u>必要があります。
+J-2: 刑事は容疑者のリストを<u>絞り込んだ</u>。

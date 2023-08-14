@@ -1,0 +1,8 @@
+# Key:trickle down
+<h3>English Sentences</h3>
+E-1: The rain came in a <u>trickle down</u> the windowpane.
+E-2: The economic benefits of the policy did not <u>trickle down</u> to the lower class.
+
+<h3>Japanese Translation</h3>
+J-1: 雨が窓ガラスを<u>滴り落ちる</u>ように降ってきた。
+J-2: その政策の経済的なメリットは、下層階級には<u>行き渡らなかった</u>。

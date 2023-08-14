@@ -1,0 +1,8 @@
+# Key:let on
+<h3>English Sentences</h3>
+E-1: I didn't want to <u>let on</u> that I knew about the surprise party.
+E-2: He tried to hide his disappointment, but his face <u>let on</u>.
+
+<h3>Japanese Translation</h3>
+J-1: 私はサプライズパーティーのことを知っていることを<u>明かさないように</u>しました。
+J-2: 彼は失望を隠そうとしましたが、顔からは<u>わかってしまいました</u>。

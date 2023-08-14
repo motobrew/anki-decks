@@ -1,0 +1,8 @@
+# Key:let down
+<h3>English Sentences</h3>
+E-1: I was really <u>let down</u> when my friend didn't show up to the party.
+E-2: The poor quality of the product <u>let me down</u>.
+
+<h3>Japanese Translation</h3>
+J-1: 友達がパーティーに来なかったので、私は本当にがっかりしました。
+J-2: その商品の品質の悪さに私はがっかりしました。

@@ -1,0 +1,8 @@
+# Key:side with A
+<h3>English Sentences</h3>
+E-1: She always <u>sides with</u> her best friend in arguments.
+E-2: The judge <u>sided with</u> the prosecution in the court case.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女はいつも口論で<u>彼女の親友の味方をする</u>。
+J-2: 判事は裁判で<u>検察側に同調した</u>。

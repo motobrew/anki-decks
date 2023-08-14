@@ -1,0 +1,8 @@
+# Key:tamper with
+<h3>English Sentences</h3>
+E-1: Don't <u>tamper with</u> the evidence, it's important for the investigation.
+E-2: I heard someone trying to <u>tamper with</u> the lock on my car.
+
+<h3>Japanese Translation</h3>
+J-1: 証拠を<u>改ざんしないで</u>ください、それは捜査に重要です。
+J-2: 私の車のロックを<u>いじっている</u>人を聞いた。

@@ -1,0 +1,8 @@
+# Key:fork out
+<h3>English Sentences</h3>
+E-1: I had to <u>fork out</u> a lot of money for a new computer.
+E-2: He always complains about having to <u>fork out</u> for dinner.
+
+<h3>Japanese Translation</h3>
+J-1: 新しいパソコンに多額のお金を<u>払い</u>ました。
+J-2: 彼はいつも夕食代を<u>出さなければならない</u>と不満を言います。

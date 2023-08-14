@@ -1,0 +1,8 @@
+# Key:fan out
+<h3>English Sentences</h3>
+E-1: We watched as the birds <u>fan out</u> across the sky.
+E-2: The search party decided to <u>fan out</u> and cover more ground.
+
+<h3>Japanese Translation</h3>
+J-1: 鳥たちが空に<u>広がっていく</u>のを見ました。
+J-2: 捜索隊は<u>分散し</u>、より広い地域をカバーすることにしました。

@@ -1,0 +1,8 @@
+# Key:bunch up
+<h3>English Sentences</h3>
+E-1: A <u>bunch of</u> flowers was delivered to her office.
+E-2: The students <u>bunch up</u> in the hallway before class.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女のオフィスには<u>花束</u>が届けられました。
+J-2: 生徒たちは授業前に廊下に<u>まとまって立っている</u>。

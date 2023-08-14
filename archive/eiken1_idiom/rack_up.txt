@@ -1,0 +1,8 @@
+# Key:rack up
+<h3>English Sentences</h3>
+E-1: The basketball player <u>racked up</u> 30 points in the game.
+E-2: I'm going to <u>rack up</u> some credit card debt if I keep shopping like this.
+
+<h3>Japanese Translation</h3>
+J-1: バスケットボール選手は試合で30点<u>を獲得しました</u>。
+J-2: こんな買い物を続けたら、クレジットカードの借金<u>を増やす</u>ことになる。

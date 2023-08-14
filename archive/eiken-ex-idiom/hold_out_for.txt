@@ -1,0 +1,8 @@
+# Key:hold out for
+<h3>English Sentences</h3>
+E-1: She decided to <u>hold out for</u> a better job offer.
+E-2: The negotiator was determined to <u>hold out for</u> a fair settlement.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女はより良い仕事のオファーを<u>待ち続けること</u>に決めました。
+J-2: 交渉人は公正な合意を<u>得るために頑張りました</u>。

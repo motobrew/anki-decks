@@ -1,0 +1,8 @@
+# Key:throw in
+<h3>English Sentences</h3>
+E-1: I wasn't expecting him to <u>throw in</u> such a personal question during the interview.
+E-2: The seller decided to <u>throw in</u> a free accessory with the purchase.
+
+<h3>Japanese Translation</h3>
+J-1: 私は面接中に彼がそんな個人的な質問を<u>ふりかざす</u>とは思っていませんでした。
+J-2: 販売者は無料のアクセサリーを<u>つけてもらう</u>ことを決めました。

@@ -1,0 +1,8 @@
+# Key:bawl out
+<h3>English Sentences</h3>
+E-1: My boss <u>bawled out</u> the employee for making a mistake.
+E-2: The child started to cry after his mother <u>bawled him out</u> for misbehaving.
+
+<h3>Japanese Translation</h3>
+J-1: 上司がその従業員を<u>叱りつけました</u>、彼がミスをしたからです。
+J-2: その子供は、母親に行儀の悪さで<u>叱られた後</u>泣き始めました。

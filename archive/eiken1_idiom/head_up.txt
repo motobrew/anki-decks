@@ -1,0 +1,8 @@
+# Key:head up
+<h3>English Sentences</h3>
+E-1: I need to <u>head up</u> this project and make sure it stays on track.
+E-2: She always walks with confidence, <u>head held up</u>, no matter the situation.
+
+<h3>Japanese Translation</h3>
+J-1: このプロジェクトを<u>リードして</u>、進捗が順調になるようにしなければならない。
+J-2: 彼女は常に自信を持って歩き、状況に関係なく<u>高く顎を引き上げて</u>歩く。

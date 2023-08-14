@@ -1,0 +1,8 @@
+# Key:keel over
+<h3>English Sentences</h3>
+E-1: The old man suddenly <u>keeled over</u> while gardening.
+E-2: The team was so exhausted, they could just <u>keel over</u> at any moment.
+
+<h3>Japanese Translation</h3>
+J-1: 老人が庭いじり中に突然<u>倒れてしまった</u>。
+J-2: チームはとても疲れていて、いつでも<u>くたばりそうだった</u>。

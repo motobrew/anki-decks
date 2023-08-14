@@ -1,0 +1,8 @@
+# Key:clog up
+<h3>English Sentences</h3>
+E-1: Traffic in the city tends to <u>clog up</u> during rush hour.
+E-2: Leaves from the trees can <u>clog up</u> the gutters of a house.
+
+<h3>Japanese Translation</h3>
+J-1: 都市の交通はラッシュアワーに<u>混雑しがちです</u>。
+J-2: 木の葉が家の雨どいを<u>詰まらせることがあります</u>。

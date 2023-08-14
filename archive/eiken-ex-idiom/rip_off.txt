@@ -1,0 +1,8 @@
+# Key:rip off
+<h3>English Sentences</h3>
+E-1: That restaurant is a total <u>rip off</u>. The prices are way too high for the quality of the food.
+E-2: I accidentally <u>ripped off</u> the button of my favorite shirt while trying to unbutton it.
+
+<h3>Japanese Translation</h3>
+J-1: そのレストランはすごく<u>ぼったくり</u>だ。料理の品質に対して値段が高すぎる。
+J-2: お気に入りのシャツのボタンを外そうとしたら、うっかり<u>引きちぎってしまいました</u>。

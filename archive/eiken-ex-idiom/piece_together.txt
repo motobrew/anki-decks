@@ -1,0 +1,8 @@
+# Key:piece together
+<h3>English Sentences</h3>
+E-1: I had to <u>piece together</u> the puzzle to see the complete picture.
+E-2: The detective tried to <u>piece together</u> the clues to solve the crime.
+
+<h3>Japanese Translation</h3>
+J-1: 私はパズルを<u>組み合わせて</u>全体の絵を見る必要がありました。
+J-2: 刑事は犯罪を解決するために手がかりを<u>組み合わせよう</u>としました。

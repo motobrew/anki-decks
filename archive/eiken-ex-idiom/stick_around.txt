@@ -1,0 +1,8 @@
+# Key:stick around
+<h3>English Sentences</h3>
+E-1: I'll <u>stick around</u> after the meeting in case anyone has questions.
+E-2: She asked me to <u>stick around</u> while she finished her phone call.
+
+<h3>Japanese Translation</h3>
+J-1: 会議の後、誰か質問があるかもしれないので<u>そのまま残ります</u>。
+J-2: 彼女は電話を終わらせるまで<u>その場にいて欲しいと頼まれました</u>。

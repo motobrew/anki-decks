@@ -1,0 +1,8 @@
+# Key:toy with
+<h3>English Sentences</h3>
+E-1: Don't <u>toy with</u> his feelings, it's not fair to him.
+E-2: She likes to <u>toy with</u> different ideas before making a decision.
+
+<h3>Japanese Translation</h3>
+J-1: 彼の気持ちを<u>弄る</u>なんて、彼にとっては不公平だよ。
+J-2: 彼女は決断する前に、様々な考えを<u>いじるのが好き</u>だ。

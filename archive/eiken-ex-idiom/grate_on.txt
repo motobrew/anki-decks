@@ -1,0 +1,8 @@
+# Key:grate on
+<h3>English Sentences</h3>
+E-1: The sound of nails on a chalkboard can really <u>grate on</u> my nerves.
+E-2: Her constant complaining tends to <u>grate on</u> my patience.
+
+<h3>Japanese Translation</h3>
+J-1: 黒板に爪が走る音は本当に<u>イライラさせる</u>。
+J-2: 彼女の絶え間ない不満は私の忍耐力を<u>試す</u>傾向があります。

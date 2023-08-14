@@ -1,0 +1,8 @@
+# Key:bubble over
+<h3>English Sentences</h3>
+E-1: The excitement <u>bubbled over</u> and everyone started cheering.
+E-2: She couldn't contain her laughter and it <u>bubbled over</u> during the serious meeting.
+
+<h3>Japanese Translation</h3>
+J-1: 興奮が<u>あふれ出し</u>、みんなが歓声を上げ始めました。
+J-2: 彼女は笑いを抑えることができず、真面目な会議中に<u>あふれ出てしまいました</u>。

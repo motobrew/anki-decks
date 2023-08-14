@@ -1,0 +1,8 @@
+# Key:crop up
+<h3>English Sentences</h3>
+E-1: A small issue <u>cropped up</u> during the meeting and delayed the progress.
+E-2: Whenever we plan a trip, unexpected expenses <u>crop up</u> and make us revise our budget.
+
+<h3>Japanese Translation</h3>
+J-1: 会議中に小さな問題が<u>現れて</u>、進捗が遅れました。
+J-2: 旅行を計画する度に、予期せぬ出費が<u>出てきて</u>、予算を見直させられます。

@@ -1,0 +1,8 @@
+# Key:walk out on
+<h3>English Sentences</h3>
+E-1: She <u>walked out on</u> her husband after years of arguments.
+E-2: The audience <u>walked out on</u> the performance due to technical difficulties.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は数年にわたる口論の末、夫を<u>捨てた</u>。
+J-2: 技術的な問題があったため、観客は公演を<u>中断して</u>出て行った。

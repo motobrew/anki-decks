@@ -1,0 +1,8 @@
+# Key:phase out
+<h3>English Sentences</h3>
+E-1: The company plans to <u>phase out</u> the use of plastic straws.
+E-2: She decided to <u>phase out</u> her old wardrobe and buy new clothes.
+
+<h3>Japanese Translation</h3>
+J-1: その会社はプラスチックストローの使用を<u>段階的に廃止する予定です</u>。
+J-2: 彼女は古い洋服を<u>徐々に廃止して</u>新しい服を買うことにしました。

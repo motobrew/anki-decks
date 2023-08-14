@@ -1,0 +1,8 @@
+# Key:pine for
+<h3>English Sentences</h3>
+E-1: She <u>pines for</u> her hometown and misses her family.
+E-2: He <u>pined for</u> her affection, but she never noticed him.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は故郷を<u>懐かしく思っていて</u>、家族が恋しいです。
+J-2: 彼は彼女の愛情を<u>切望していました</u>が、彼女は彼に気づかなかった。

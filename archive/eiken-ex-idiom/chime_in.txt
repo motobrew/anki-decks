@@ -1,0 +1,8 @@
+# Key:chime in
+<h3>English Sentences</h3>
+E-1: I heard someone <u>chime in</u> with their opinion during the meeting.
+E-2: As soon as I mentioned the topic, she decided to <u>chime in</u> with her own experience.
+
+<h3>Japanese Translation</h3>
+J-1: 会議中、誰かが自分の意見を<u>出しました</u>。
+J-2: 私がその話題を出すとすぐに、彼女は<u>自分の経験を話し始めました</u>。

@@ -1,0 +1,8 @@
+# Key:pay off
+<h3>English Sentences</h3>
+E-1: It took years of hard work, but it finally <u>paid off</u>.
+E-2: I'm hoping this investment will <u>pay off</u> in the long run.
+
+<h3>Japanese Translation</h3>
+J-1: 多くの努力を重ねた結果、ついに<u>報われました</u>。
+J-2: 長期的には、この投資が<u>利益を生むことを期待しています</u>。

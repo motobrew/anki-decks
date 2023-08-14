@@ -1,0 +1,8 @@
+# Key:lay out
+<h3>English Sentences</h3>
+E-1: She <u>laid out</u> all the ingredients before starting to cook.
+E-2: The architect <u>laid out</u> the plans for the new building.
+
+<h3>Japanese Translation</h3>
+J-1: 料理を始める前に、彼女は材料を<u>並べました</u>。
+J-2: 建築家は新しい建物の計画を<u>立案しました</u>。

@@ -1,0 +1,8 @@
+# Key:push for
+<h3>English Sentences</h3>
+E-1: The company has been <u>pushing for</u> new environmental policies.
+E-2: She is determined to <u>push for</u> equal pay in the workplace.
+
+<h3>Japanese Translation</h3>
+J-1: その会社は新しい環境政策を<u>推進しようとしています</u>。
+J-2: 彼女は職場での同一賃金を<u>求めるために</u>決意しています。

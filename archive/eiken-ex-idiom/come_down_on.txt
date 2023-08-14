@@ -1,0 +1,8 @@
+# Key:come down on
+<h3>English Sentences</h3>
+E-1: The teacher <u>came down on</u> the student for cheating on the test.
+E-2: The rain <u>came down</u> just as we were about to leave.
+
+<h3>Japanese Translation</h3>
+J-1: 先生はテストでのカンニングに対して生徒を<u叱責しました。</u>
+J-2: 私たちが出かけようとしたとき、雨が<u>降り出しました。</u>

@@ -1,0 +1,8 @@
+# Key:flare up
+<h3>English Sentences</h3>
+E-1: The fire <u>flare up</u> suddenly and engulfed the entire building.
+E-2: She has a tendency to <u>flare up</u> when someone criticizes her work.
+
+<h3>Japanese Translation</h3>
+J-1: 火事が突然<u>燃え上がり</u>、建物全体を飲み込みました。
+J-2: 彼女は自分の仕事を批判されると、<u>怒り出す</u>傾向があります。

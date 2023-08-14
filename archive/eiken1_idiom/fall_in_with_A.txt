@@ -1,0 +1,8 @@
+# Key:fall in with A
+<h3>English Sentences</h3>
+E-1: I <u>fell in with a group</u> of hikers on the trail.
+E-2: She decided to <u>fall in with his plans</u> and go to the same party.
+
+<h3>Japanese Translation</h3>
+J-1: トレイルでハイカーのグループに<u>加わりました</u>。
+J-2: 彼の計画に<u>賛同して</u>、同じパーティーに行くことにしました。

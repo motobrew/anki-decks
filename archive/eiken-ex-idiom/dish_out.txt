@@ -1,0 +1,8 @@
+# Key:dish out
+<h3>English Sentences</h3>
+E-1: The restaurant <u>dished out</u> a delicious three-course meal.
+E-2: The coach <u>dishes out</u> tough training sessions to the players.
+
+<h3>Japanese Translation</h3>
+J-1: レストランはおいしい3コースの料理を<u>提供しました</u>。
+J-2: コーチは選手たちにハードなトレーニングを<u>与えます</u>。

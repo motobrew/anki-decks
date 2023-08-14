@@ -1,0 +1,8 @@
+# Key:back down
+<h3>English Sentences</h3>
+E-1: I won't <u>back down</u> from this challenge, no matter what.
+E-2: He is stubborn and never likes to <u>back down</u> from an argument.
+
+<h3>Japanese Translation</h3>
+J-1: どんなことがあっても、私はこの挑戦に<u>引き下がらない</u>つもりです。
+J-2: 彼は頑固で、口論からは<u>決して引き下がりません</u>。

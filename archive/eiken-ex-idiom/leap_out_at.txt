@@ -1,0 +1,8 @@
+# Key:leap out at
+<h3>English Sentences</h3>
+E-1: The answer to the puzzle <u>leapt out at</u> me suddenly.
+E-2: The vibrant colors of the flowers <u>leap out at</u> you in the garden.
+
+<h3>Japanese Translation</h3>
+J-1: パズルの答えが突然<u>見つけられました</u>。
+J-2: 庭で花々の鮮やかな色が目に<u>飛び込んできます</u>。

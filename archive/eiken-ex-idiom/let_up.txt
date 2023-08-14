@@ -1,0 +1,8 @@
+# Key:let up
+<h3>English Sentences</h3>
+E-1: The rain finally <u>let up</u> and we were able to go outside.
+E-2: I hope my boss <u>lets up</u> on the strict deadlines soon.
+
+<h3>Japanese Translation</h3>
+J-1: 雨がようやく<u>止んで</u>、外に出ることができました。
+J-2: 上司が厳しい締め切りを<u>緩めてくれる</u>ことを願っています。

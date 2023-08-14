@@ -1,0 +1,8 @@
+# Key:bottle up
+<h3>English Sentences</h3>
+E-1: She <u>bottles up</u> her emotions and never shows her true feelings.
+E-2: It's not healthy to <u>bottle up</u> your anger; it's better to express it.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は感情を<u>押し込めて</u>、本当の気持ちを決して示しません。
+J-2: 怒りを<u>押し込める</u>のは健康に良くないです。表現する方がいいですよ。

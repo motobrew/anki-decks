@@ -1,0 +1,8 @@
+# Key:swear by
+<h3>English Sentences</h3>
+E-1: Many people <u>swear by</u> drinking apple cider vinegar for its health benefits.
+E-2: My grandmother always <u>swears by</u> her homemade remedy for a sore throat.
+
+<h3>Japanese Translation</h3>
+J-1: 多くの人が、健康効果のためにリンゴ酢を<u>信じています</u>。
+J-2: 私のおばあちゃんは、風邪の痛みに対する手作りの薬を<u>絶対に使います</u>。

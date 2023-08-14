@@ -1,0 +1,8 @@
+# Key:sift through
+<h3>English Sentences</h3>
+E-1: She began to <u>sift through</u> the stack of papers to find the important document.
+E-2: It takes time to <u>sift through</u> all the information and make a decision.
+
+<h3>Japanese Translation</h3>
+J-1: 重要な書類を見つけるために、彼女は山積みの書類を<u>見ていきました</u>。
+J-2: すべての情報を<u>見極めて</u>、決定するのに時間がかかります。

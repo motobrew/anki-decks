@@ -1,0 +1,8 @@
+# Key:crack up
+<h3>English Sentences</h3>
+E-1: I couldn't help but <u>crack up</u> when I saw the funny video.
+E-2: The pressure was too much and I started to <u>crack up</u> during the speech.
+
+<h3>Japanese Translation</h3>
+J-1: その面白いビデオを見て、私は思わず笑い<u>崩れました</u>。
+J-2: プレッシャーが強すぎて、スピーチ中に<u>崩れ出してしまいました</u>。

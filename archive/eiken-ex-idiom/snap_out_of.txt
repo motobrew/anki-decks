@@ -1,0 +1,8 @@
+# Key:snap out of
+<h3>English Sentences</h3>
+E-1: She was feeling down, but her friends helped her <u>snap out of</u> it.
+E-2: I need to <u>snap out of</u> my laziness and start studying.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は落ち込んでいたが、友達が彼女を元気づけた。
+J-2: 私は怠惰から抜け出して勉強を始める必要がある。

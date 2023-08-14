@@ -1,0 +1,8 @@
+# Key:weigh in
+<h3>English Sentences</h3>
+E-1: The doctor asked me to <u>weigh in</u> before my appointment.
+E-2: Let's <u>weigh in</u> on the decision before moving forward.
+
+<h3>Japanese Translation</h3>
+J-1: 医者は診察前に私に<u>体重を測定するように</u>頼みました。
+J-2: 進む前に、私たちが<u>意見を述べる</u>ことにしましょう。

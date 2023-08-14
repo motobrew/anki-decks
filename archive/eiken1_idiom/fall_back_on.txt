@@ -1,0 +1,8 @@
+# Key:fall back on
+<h3>English Sentences</h3>
+E-1: When I couldn't find my keys, I had to <u>fall back on</u> my spare set.
+E-2: Since the restaurant was closed, we had to <u>fall back on</u> making dinner at home.
+
+<h3>Japanese Translation</h3>
+J-1: 鍵が見つからない時は、予備の鍵を<u>頼るしかなかった。</u>
+J-2: レストランが閉まっていたので、家での夕食に<u>退路を頼ることに</u>なりました。

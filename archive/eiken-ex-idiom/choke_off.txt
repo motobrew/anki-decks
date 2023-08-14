@@ -1,0 +1,8 @@
+# Key:choke off
+<h3>English Sentences</h3>
+E-1: The crowd cheered as the team managed to <u>choke off</u> their opponents in the final minutes.
+E-2: She had to <u>choke off</u> her tears and pretend everything was fine.
+
+<h3>Japanese Translation</h3>
+J-1: チームが最後の数分で相手を<u>押さえつけることで</u>、観衆が声援を送りました。
+J-2: 彼女は涙を<u>堪えずに</u>、すべてがうまくいっているように見せなければならなかった。

@@ -1,0 +1,8 @@
+# Key:knuckle down
+<h3>English Sentences</h3>
+E-1: I need to <u>knuckle down</u> and study for my exam.
+E-2: The team needs to <u>knuckle down</u> and finish the project on time.
+
+<h3>Japanese Translation</h3>
+J-1: 私は集中して試験勉強を<u>しなければなりません</u>。
+J-2: チームは時間通りにプロジェクトを<u>終わらせるために取り組む必要があります</u>。

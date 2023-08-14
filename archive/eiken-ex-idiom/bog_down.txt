@@ -1,0 +1,8 @@
+# Key:bog down
+<h3>English Sentences</h3>
+E-1: I was working on a project, but I started to <u>bog down</u> with all the research.
+E-2: The heavy rain caused the car to <u>bog down</u> in the mud.
+
+<h3>Japanese Translation</h3>
+J-1: 私はプロジェクトに取り組んでいましたが、あまりの調査で<u>手詰まり</u>になりました。
+J-2: 大雨で車が泥に<u>はまってしまいました</u>。

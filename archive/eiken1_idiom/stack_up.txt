@@ -1,0 +1,8 @@
+# Key:stack up
+<h3>English Sentences</h3>
+E-1: The plates <u>stack up</u> in the sink when no one does the dishes.
+E-2: I have a lot of work, so tasks tend to <u>stack up</u> quickly.
+
+<h3>Japanese Translation</h3>
+J-1: 誰も皿洗いをしないので、皿がシンクに<u>積み上がっています</u>。
+J-2: 仕事がたくさんあるので、タスクはすぐに<u>積み重なる</u>傾向があります。

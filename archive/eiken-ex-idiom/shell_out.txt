@@ -1,0 +1,8 @@
+# Key:shell out
+<h3>English Sentences</h3>
+E-1: I had to <u>shell out</u> $100 to get my car fixed.
+E-2: He always refuses to <u>shell out</u> money for lunch.
+
+<h3>Japanese Translation</h3>
+J-1: 車を修理するために<u>100ドル出さなければなりませんでした</u>。
+J-2: 彼はいつもランチ代を<u>出すのを拒みます</u>。

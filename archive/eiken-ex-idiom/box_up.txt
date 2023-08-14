@@ -1,0 +1,8 @@
+# Key:box up
+<h3>English Sentences</h3>
+E-1: Please help me <u>box up</u> these books for donation.
+E-2: She wanted to <u>box up</u> her old clothes and store them in the attic.
+
+<h3>Japanese Translation</h3>
+J-1: これらの本を寄付するために<u>箱に詰めて</u>手伝ってください。
+J-2: 彼女は古い服を<u>箱に詰めて</u>屋根裏に保管したかった。

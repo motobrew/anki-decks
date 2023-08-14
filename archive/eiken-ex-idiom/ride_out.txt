@@ -1,0 +1,8 @@
+# Key:ride out
+<h3>English Sentences</h3>
+E-1: The storm was approaching, but we decided to <u>ride out</u> the bad weather.
+E-2: Despite the difficulties, we will <u>ride out</u> this tough situation together.
+
+<h3>Japanese Translation</h3>
+J-1: 嵐が近づいてきましたが、私たちは悪天候を<u>乗り切ることに</u>決めました。
+J-2: 困難があるにもかかわらず、私たちはこの厳しい状況を一緒に<u>乗り越えます</u>。

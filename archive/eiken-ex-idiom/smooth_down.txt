@@ -1,0 +1,8 @@
+# Key:smooth down
+<h3>English Sentences</h3>
+E-1: I use a comb to <u>smooth down</u> my hair in the morning.
+E-2: The police officer tried to <u>smooth down</u> the situation by talking calmly.
+
+<h3>Japanese Translation</h3>
+J-1: 朝、私は髪を<u>なでつける</u>ためにコームを使います。
+J-2: 警察官は穏やかに話すことで、事態を<u>おさめよう</u>としました。

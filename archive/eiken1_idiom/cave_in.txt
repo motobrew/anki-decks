@@ -1,0 +1,8 @@
+# Key:cave in
+<h3>English Sentences</h3>
+E-1: I decided to <u>cave in</u> and buy the expensive shoes.
+E-2: The roof started to <u>cave in</u> due to the heavy rain.
+
+<h3>Japanese Translation</h3>
+J-1: 高い靴を購入することを<uあきらめてお買い求めになりました</u>。
+J-2: 強い雨で屋根が<u>崩れ始めました</u>。

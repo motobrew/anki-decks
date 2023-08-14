@@ -1,0 +1,8 @@
+# Key:interfere with
+<h3>English Sentences</h3>
+E-1: The loud music <u>interfered with</u> my ability to concentrate.
+E-2: Please don't <u>interfere with</u> my plans for the weekend.
+
+<h3>Japanese Translation</h3>
+J-1: 大音量の音楽が私の集中力に<u>干渉しました</u>。
+J-2: 週末の予定を<u>邪魔しないでください</u>。

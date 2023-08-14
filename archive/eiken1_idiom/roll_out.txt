@@ -1,0 +1,8 @@
+# Key:roll out
+<h3>English Sentences</h3>
+E-1: The new product will <u>roll out</u> next month.
+E-2: We need to <u>roll out</u> our marketing campaign before the launch.
+
+<h3>Japanese Translation</h3>
+J-1: 新製品は来月<u>発売されます</u>。
+J-2: ローンチ前にマーケティングキャンペーンを<u>展開</u>する必要があります。

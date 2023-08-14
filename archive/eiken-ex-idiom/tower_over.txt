@@ -1,0 +1,8 @@
+# Key:tower over
+<h3>English Sentences</h3>
+E-1: The skyscraper <u>towers over</u> the surrounding buildings in the city.
+E-2: His charismatic presence <u>towers over</u> everyone else in the room.
+
+<h3>Japanese Translation</h3>
+J-1: その摩天楼は街の周りの建物に<u>ひしめき立っています</u>。
+J-2: 彼のカリスマ性のある存在感は、他の人々よりも<u>突出しています</u>。

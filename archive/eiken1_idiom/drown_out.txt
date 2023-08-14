@@ -1,0 +1,8 @@
+# Key:drown out
+<h3>English Sentences</h3>
+E-1: The loud music <u>drowned out</u> the noise from the construction site.
+E-2: She wore headphones to <u>drown out</u> her roommate's snoring.
+
+<h3>Japanese Translation</h3>
+J-1: 高い音楽が工事現場の騒音を<u>かき消しました</u>。
+J-2: 彼女はイヤホンをしてルームメイトのいびきを<u>聞こえなくさせました</u>。

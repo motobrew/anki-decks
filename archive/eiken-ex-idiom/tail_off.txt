@@ -1,0 +1,8 @@
+# Key:tail off
+<h3>English Sentences</h3>
+E-1: The music slowly <u>tails off</u> as the concert ends.
+E-2: His interest in the project <u>tails off</u> after a few weeks.
+
+<h3>Japanese Translation</h3>
+J-1: コンサートが終わると、音楽が徐々に<u>薄れていきます</u>。
+J-2: 彼のプロジェクトへの興味は数週間後に<u>薄れていきます</u>。

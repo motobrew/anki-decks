@@ -1,0 +1,8 @@
+# Key:draw in
+<h3>English Sentences</h3>
+E-1: The breathtaking sunset <u>drew me in</u> with its vibrant colors.
+E-2: The clever marketing campaign was designed to <u>draw in</u> new customers.
+
+<h3>Japanese Translation</h3>
+J-1: 色彩豊かな夕日が私を<u魅了しました</u>。
+J-2: 巧妙なマーケティングキャンペーンで新しい顧客を<u>引き寄せる</u>ように設計されました。

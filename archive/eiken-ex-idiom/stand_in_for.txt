@@ -1,0 +1,8 @@
+# Key:stand in for
+<h3>English Sentences</h3>
+E-1: My friend couldn't make it to the meeting, so I had to <u>stand in for</u> her.
+E-2: The actor who was supposed to play the lead role got sick, so they found someone to <u>stand in for</u> him.
+
+<h3>Japanese Translation</h3>
+J-1: 友達が会議に来れなかったので、彼女の<u>代わりを務める</u>ことになりました。
+J-2: 主役を演じるはずだった俳優が病気になったので、彼の<u>代役を見つけました</u>。

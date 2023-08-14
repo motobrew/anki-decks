@@ -1,0 +1,8 @@
+# Key:choke off
+<h3>English Sentences</h3>
+E-1: The police officer tried to <u>choke off</u> the protesters from entering the building.
+E-2: The lack of funding is threatening to <u>choke off</u> the development of the project.
+
+<h3>Japanese Translation</h3>
+J-1: 警察官はデモ隊をビルに入らせないために<u>排除しようとした</u>。
+J-2: 資金不足がプロジェクトの発展を<u>阻害する</u>おそれがあります。

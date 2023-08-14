@@ -1,0 +1,8 @@
+# Key:coop up
+<h3>English Sentences</h3>
+E-1: The children were <u>cooped up</u> in the house all day due to the rain.
+E-2: The chickens were <u>cooped up</u> in a small enclosure.
+
+<h3>Japanese Translation</h3>
+J-1: 子供たちは雨のために一日中家の中に<u閉じ込められました</u>。
+J-2: ニワトリたちは小さな囲いの中に<u>閉じ込められていました</u>。

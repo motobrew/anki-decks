@@ -1,0 +1,8 @@
+# Key:scoot over
+<h3>English Sentences</h3>
+E-1: Could you please <u>scoot over</u> and make some space for me on the bench?
+E-2: We had to <u>scoot over</u> to the side of the road to let the ambulance pass.
+
+<h3>Japanese Translation</h3>
+J-1: ベンチで私のためにちょっと<u>寄っていって</u>スペースを作ってもらえませんか？
+J-2: 救急車が通るために、私たちは道の端に<u>寄っていかなければなりませんでした</u>。

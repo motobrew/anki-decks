@@ -1,0 +1,8 @@
+# Key:soften up
+<h3>English Sentences</h3>
+E-1: The boss tried to <u>soften up</u> his employees by praising their hard work.
+E-2: She decided to <u>soften up</u> the steak by marinating it overnight.
+
+<h3>Japanese Translation</h3>
+J-1: 上司は従業員を褒めて職場の雰囲気を<u>和らげようとしました</u>。
+J-2: 彼女はステーキを一晩漬けることで、それを<u>柔らかくすること</u>を決めました。

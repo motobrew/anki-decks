@@ -1,0 +1,8 @@
+# Key:throw in the towel
+<h3>English Sentences</h3>
+E-1: After struggling for hours, he decided to <u>throw in the towel</u> and give up.
+E-2: The team was losing by a large margin, so the coach told them to <u>throw in the towel</u> and stop trying.
+
+<h3>Japanese Translation</h3>
+J-1: 数時間も苦労した後、彼は<u>諦めること</u>を決めました。
+J-2: チームは大差で負けていたので、コーチは彼らに<u>諦めること</u>を告げて試合をやめさせました。

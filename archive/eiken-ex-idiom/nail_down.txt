@@ -1,0 +1,8 @@
+# Key:nail down
+<h3>English Sentences</h3>
+E-1: The detective finally <u>nailed down</u> the suspect's alibi.
+E-2: We need to <u>nail down</u> the details of the contract before signing.
+
+<h3>Japanese Translation</h3>
+J-1: 刑事はついに容疑者のアリバイを<u>はっきりさせました</u>。
+J-2: 契約を署名する前に、細部を<u>しっかりと決める</u>必要があります。

@@ -1,0 +1,8 @@
+# Key:gnaw at
+<h3>English Sentences</h3>
+E-1: The taste of that delicious treat continues to <u>gnaw at</u> me.
+E-2: The guilt from lying <u>gnawed at</u> her conscience.
+
+<h3>Japanese Translation</h3>
+J-1: あの美味しいお菓子の味が私の口の中で<u>ずっと引っかかっている</u>。
+J-2: 嘘をついたことに対する罪悪感が彼女の良心を<u>むしり取るようになっていた</u>。

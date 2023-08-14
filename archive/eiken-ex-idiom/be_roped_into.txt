@@ -1,0 +1,8 @@
+# Key:be roped into
+<h3>English Sentences</h3>
+E-1: I didn't want to go, but I was <u>roped into</u> attending the party.
+E-2: She always manages to <u>rope me into</u> doing her chores for her.
+
+<h3>Japanese Translation</h3>
+J-1: 行きたくなかったけど、私はパーティーに<u>強制参加させられた</u>んだ。
+J-2: 彼女はいつも私に彼女の家事を<u>手伝わせる</u>方法を見つける。

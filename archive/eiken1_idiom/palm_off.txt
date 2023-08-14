@@ -1,0 +1,8 @@
+# Key:palm off
+<h3>English Sentences</h3>
+E-1: He tried to <u>palm off</u> his old phone as brand new.
+E-2: The salesman tried to <u>palm off</u> the fake product as genuine.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は古い携帯を新品だと<u>ごまかそうとしました</u>。
+J-2: そのセールスマンは偽物を本物だと<u>ごまかそうとしました</u>。

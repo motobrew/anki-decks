@@ -1,0 +1,8 @@
+# Key:whip up
+<h3>English Sentences</h3>
+E-1: She can <u>whip up</u> a delicious meal in just minutes.
+E-2: The strong winds began to <u>whip up</u> the waves in the ocean.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女はわずか数分で美味しい食事を<u>作り上げることができます</u>。
+J-2: 強風が海の波を<u>かき立て始めました</u>。

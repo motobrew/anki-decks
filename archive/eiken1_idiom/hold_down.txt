@@ -1,0 +1,8 @@
+# Key:hold down
+<h3>English Sentences</h3>
+E-1: He can <u>hold down</u> a job and be financially independent.
+E-2: The heavy books on the shelf will <u>hold down</u> the stack of papers.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は仕事を<u>続けることができ</u>、経済的に自立することができます。
+J-2: 棚の上の重い本が、紙の束を<u>押さえて</u>います。

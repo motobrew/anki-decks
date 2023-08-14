@@ -1,0 +1,8 @@
+# Key:leap up to
+<h3>English Sentences</h3>
+E-1: I <u>leaped up to</u> catch the flying ball.
+E-2: The stock prices <u>leaped up to</u> record highs.
+
+<h3>Japanese Translation</h3>
+J-1: 私は飛んでくるボールを<u>捕まえるためにジャンプしました</u>。
+J-2: 株価は<u>記録的な高値に急上昇しました</u>。

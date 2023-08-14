@@ -1,0 +1,8 @@
+# Key:gloss over
+<h3>English Sentences</h3>
+E-1: The teacher tried to <u>gloss over</u> the fact that we failed the test.
+E-2: Let's not <u>gloss over</u> the important details of the plan.
+
+<h3>Japanese Translation</h3>
+J-1: 先生は、私たちがテストに失敗したという事実を<u>ごまかそうとしました</u>。
+J-2: 重要な計画の詳細を<u>軽視しない</u>ようにしましょう。

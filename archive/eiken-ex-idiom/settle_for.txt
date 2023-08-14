@@ -1,0 +1,8 @@
+# Key:settle for
+<h3>English Sentences</h3>
+E-1: He wanted a promotion, but he had to <u>settle for</u> a pay raise.
+E-2: I was hoping for a window seat, but I had to <u>settle for</u> an aisle seat.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は昇進を希望していたが、給料の増加に<u>妥協するしかなかった</u>。
+J-2: 私は窓側の席を希望していたが、通路側の席に<u>甘んじることになった</u>。

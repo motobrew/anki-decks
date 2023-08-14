@@ -1,0 +1,8 @@
+# Key:scrimp on
+<h3>English Sentences</h3>
+E-1: They always <u>scrimp on</u> quality to save money.
+E-2: Don't <u>scrimp on</u> sleep, it's important for your health.
+
+<h3>Japanese Translation</h3>
+J-1: 彼らはいつも品質をお粗末にしてお金を節約します。
+J-2: 睡眠をケチらないでください、それは健康にとって重要です。

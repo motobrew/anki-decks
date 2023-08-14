@@ -1,0 +1,8 @@
+# Key:flare up
+<h3>English Sentences</h3>
+E-1: My skin tends to <u>flare up</u> whenever I eat spicy food.
+E-2: The argument between the two friends <u>flared up</u> and resulted in a fight.
+
+<h3>Japanese Translation</h3>
+J-1: 私の肌は辛い食べ物を食べると<u>かぶれが出る</u>傾向があります。
+J-2: 2人の友達の間の論争が<u>激しくなり</u>、喧嘩になりました。

@@ -1,0 +1,8 @@
+# Key:skim off
+<h3>English Sentences</h3>
+E-1: She used a ladle to <u>skim off</u> the fat from the soup.
+E-2: The company CEO would <u>skim off</u> part of the profits for personal use.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女はスープから脂肪を取り除くためにおたまを使いました。
+J-2: 会社のCEOは利益の一部を個人的な目的でつまみ取りました。

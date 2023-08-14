@@ -1,0 +1,8 @@
+# Key:ease up on
+<h3>English Sentences</h3>
+E-1: Please <u>ease up on</u> the criticism, it's not helping.
+E-2: I need to <u>ease up on</u> my workload or I'll burn out.
+
+<h3>Japanese Translation</h3>
+J-1: 批判を<u>控えめにしてください</u>、それは役に立ちません。
+J-2: 仕事量を<u>減らさないと</u>、燃え尽きてしまいます。

@@ -1,0 +1,8 @@
+# Key:butter up
+<h3>English Sentences</h3>
+E-1: I need to <u>butter up</u> my boss before asking for a raise.
+E-2: Lisa always tries to <u>butter up</u> her teachers so she can get better grades.
+
+<h3>Japanese Translation</h3>
+J-1: 昇給を頼む前に、上司に<u>取り入る</u>必要があります。
+J-2: リサはいつも自分の成績を上げるために、先生に<u>取り入ろうとする</u>。

@@ -1,0 +1,8 @@
+# Key:kick in
+<h3>English Sentences</h3>
+E-1: The side effects of the medication will <u>kick in</u> within an hour.
+E-2: Once the caffeine starts to <u>kick in</u>, I'll have more energy.
+
+<h3>Japanese Translation</h3>
+J-1: 薬の副作用は1時間以内に<u>効果を発揮します</u>。
+J-2: カフェインが<u>効き始める</u>と、エネルギーが増えます。

@@ -1,0 +1,8 @@
+# Key:skim off
+<h3>English Sentences</h3>
+E-1: She always tries to <u>skim off</u> the cream from the top of the milk.
+E-2: The company was caught trying to <u>skim off</u> funds from their investors.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女はいつも牛乳の上のクリームを<u>取り除こうとします</u>。
+J-2: その会社は投資家から資金を<u>横領しようとしている</u>のが発覚しました。

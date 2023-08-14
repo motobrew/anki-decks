@@ -1,0 +1,8 @@
+# Key:stumble on
+<h3>English Sentences</h3>
+E-1: While hiking, I <u>stumbled on</u> a hidden waterfall in the forest.
+E-2: I was browsing the internet when I <u>stumbled on</u> an interesting article about space exploration.
+
+<h3>Japanese Translation</h3>
+J-1: ハイキング中、森の中で隠れた滝に<u>偶然出くわしました</u>。
+J-2: インターネットを閲覧していたら、宇宙探査に関する興味深い記事に<u>偶然出くわしました</u>。

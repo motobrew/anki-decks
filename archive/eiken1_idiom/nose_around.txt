@@ -1,0 +1,8 @@
+# Key:nose around
+<h3>English Sentences</h3>
+E-1: I saw my sister <u>nose around</u> in my drawers, looking for something.
+E-2: The detective decided to <u>nose around</u> the crime scene for evidence.
+
+<h3>Japanese Translation</h3>
+J-1: 私は姉が私の引き出しを<u>そっと調べ回している</u>のを見ました。
+J-2: 刑事は証拠を見つけるために、犯罪現場を<u>探ることにしました</u>。

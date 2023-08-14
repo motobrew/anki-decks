@@ -1,0 +1,8 @@
+# Key:iron out
+<h3>English Sentences</h3>
+E-1: We need to have a meeting to <u>iron out</u> the details of the project.
+E-2: It took us a while to <u>iron out</u> our differences and come to a resolution.
+
+<h3>Japanese Translation</h3>
+J-1: プロジェクトの詳細を<u>詰めるために</u>会議を開かなければなりません。
+J-2: 互いの意見の違いを<u>解決するのに</u>時間がかかりました。

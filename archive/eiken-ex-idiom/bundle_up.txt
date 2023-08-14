@@ -1,0 +1,8 @@
+# Key:bundle up
+<h3>English Sentences</h3>
+E-1: It's cold outside, so make sure to <u>bundle up</u> before going out.
+E-2: She <u>bundled up</u> all the clothes and donated them to charity. 
+
+<h3>Japanese Translation</h3>
+J-1: 外は寒いので、外出する前に<u>暖かく着込む</u>ようにしてください。
+J-2: 彼女は全ての服を<u>まとめて包んで</u>、慈善団体に寄付しました。

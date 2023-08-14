@@ -1,0 +1,8 @@
+# Key:belt out
+<h3>English Sentences</h3>
+E-1: The singer <u>belted out</u> a powerful ballad during the concert.
+E-2: She <u>belts out</u> her opinions without any filter.
+
+<h3>Japanese Translation</h3>
+J-1: 歌手はコンサートで力強いバラードを<u>熱唱しました</u>。
+J-2: 彼女はフィルターなしで意見を<u>力強く述べる</u>。

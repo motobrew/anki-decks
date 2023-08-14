@@ -1,0 +1,8 @@
+# Key:make off with
+<h3>English Sentences</h3>
+E-1: The thief managed to <u>make off with</u> the valuable jewelry.
+E-2: The children decided to <u>make off with</u> some cookies from the kitchen.
+
+<h3>Japanese Translation</h3>
+J-1: 泥棒は貴重な宝石を<u>持ち去ることに成功しました</u>。
+J-2: 子供たちは台所からクッキーを<u>持ち去ること</u>にしました。

@@ -1,0 +1,8 @@
+# Key:egg on
+<h3>English Sentences</h3>
+E-1: His constant teasing really <u>egged me on</u> to push myself harder.
+E-2: The group of friends decided to <u>egg on</u> the performer to do an encore.
+
+<h3>Japanese Translation</h3>
+J-1: 彼の繰り返しのからかいは私に本気で取り組むよう<u>促す</u>ためになりました。
+J-2: 友達のグループはパフォーマーにアンコールを要求し<u>励ます</u>ことにしました。

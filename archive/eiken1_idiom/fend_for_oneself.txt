@@ -1,0 +1,8 @@
+# Key:fend for oneself
+<h3>English Sentences</h3>
+E-1: In college, I had to <u>fend for myself</u> and learn to do my own laundry.
+E-2: After their parents passed away, the children had to <u>fend for themselves</u> and take care of each other.
+
+<h3>Japanese Translation</h3>
+J-1: 大学生の時、自分でやるように頑張って洗濯を学ばなければならなかった。
+J-2: 親が亡くなった後、子どもたちは自力で生活し合いました。

@@ -1,0 +1,8 @@
+# Key:ease off
+<h3>English Sentences</h3>
+E-1: She asked her boyfriend to <u>ease off</u> when he was being too clingy.
+E-2: The nurse gently told the patient to <u>ease off</u> the pain medication.
+
+<h3>Japanese Translation</h3>
+J-1: 彼がくっつきすぎているとき、彼女は彼に<u>距離を置くように</u>頼みました。
+J-2: 看護師は優しく患者に薬の<u>使用量を減らすように</u>おっしゃいました。

@@ -1,0 +1,8 @@
+# Key:mouth off
+<h3>English Sentences</h3>
+E-1: He got in trouble for <u>mouthing off</u> to his teacher.
+E-2: I don't appreciate it when people <u>mouth off</u> without thinking.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は先生に<u>口答え</u>したことでトラブルになった。
+J-2: 考えずに<u>口答えする</u>人には感謝していません。

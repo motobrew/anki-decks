@@ -1,0 +1,8 @@
+# Key:chug along
+<h3>English Sentences</h3>
+E-1: The old car <u>chugs along</u> the bumpy road.
+E-2: Despite the setbacks, we must <u>chug along</u> towards our goal.
+
+<h3>Japanese Translation</h3>
+J-1: 古い車はでこぼこ道を<u>グズグズと進みます</u>。
+J-2: 妨害があっても、私たちは目標に向かって<u>進んでいかなければなりません</u>。

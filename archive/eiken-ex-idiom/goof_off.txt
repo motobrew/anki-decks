@@ -1,0 +1,8 @@
+# Key:goof off
+<h3>English Sentences</h3>
+E-1: He likes to <u>goof off</u> and play video games all day.
+E-2: She was scolded by her boss for <u>goofing off</u> during work hours.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は一日中<u>だらだらと遊ぶ</u>のが好きです。
+J-2: 彼女は仕事中に<u>サボっていた</u>ので、上司から叱られました。

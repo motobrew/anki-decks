@@ -1,0 +1,8 @@
+# Key:come around
+<h3>English Sentences</h3>
+E-1: He didn't agree at first, but eventually he <u>came around</u> to my point of view.
+E-2: I was feeling down, but my friends helped me <u>come around</u> and feel better.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は最初は同意しなかったが、最終的には私の意見を<u>受け入れるようになった</u>。
+J-2: 私は落ち込んでいたが、友達が助けてくれて気持ちを<u>立ち直らせた</u>。

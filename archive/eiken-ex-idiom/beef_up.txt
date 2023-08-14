@@ -1,0 +1,8 @@
+# Key:beef up
+<h3>English Sentences</h3>
+E-1: He decided to <u>beef up</u> his security measures after the break-in.
+E-2: The company needs to <u>beef up</u> its marketing strategy to attract more customers.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は侵入事件の後、セキュリティ対策を<u>強化すること</u>に決めました。
+J-2: その会社はより多くのお客様を引き付けるために、マーケティング戦略を<u>強化する必要があります</u>。

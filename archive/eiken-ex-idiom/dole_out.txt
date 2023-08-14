@@ -1,0 +1,8 @@
+# Key:dole out
+<h3>English Sentences</h3>
+E-1: The teacher <u>dole out</u> assignments to each student.
+E-2: The company decided to <u>dole out</u> generous bonuses to its employees.
+
+<h3>Japanese Translation</h3>
+J-1: 先生は各生徒に課題を<u>配布しました</u>。
+J-2: その会社は従業員に対して寛大なボーナスを<u>支給することに</u>決めました。

@@ -1,0 +1,8 @@
+# Key:lag behind
+<h3>English Sentences</h3>
+E-1: Our team always seems to <u>lag behind</u> in the relay race.
+E-2: The company's outdated technology is causing it to <u>lag behind</u> its competitors.
+
+<h3>Japanese Translation</h3>
+J-1: 私たちのチームはいつもリレー競技で<u>遅れをとってしまう</u>ようです。
+J-2: その会社の時代遅れの技術は、競合他社に<u>遅れを取る</u>原因となっています。

@@ -1,0 +1,8 @@
+# Key:chase up
+<h3>English Sentences</h3>
+E-1: I need to <u>chase up</u> that missing package with the courier.
+E-2: Don't forget to <u>chase up</u> on the status of your job application.
+
+<h3>Japanese Translation</h3>
+J-1: 私はその見当たらない荷物を配達業者に<u>追跡</u>してもらう必要があります。
+J-2: あなたの就職申請の状況を<u>追跡</u>するのを忘れないでください。

@@ -1,0 +1,8 @@
+# Key:spur on
+<h3>English Sentences</h3>
+E-1: The coach's pep talk really <u>spurred on</u> the team to victory.
+E-2: The deadline approaching quickly <u>spurred me on</u> to work faster.
+
+<h3>Japanese Translation</h3>
+J-1: コーチのパフォーマンスは本当にチームを勝利に<u>駆り立てました</u>。
+J-2: 迫り来る締め切りが私に速く働くよう<u>促しました</u>。

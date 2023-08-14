@@ -1,0 +1,8 @@
+# Key:trip up
+<h3>English Sentences</h3>
+E-1: He <u>tripped up</u> on the uneven pavement and fell.
+E-2: The witness tried to <u>trip up</u> the suspect with her testimony.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は凸凹した歩道で<u>つまずいて</u>倒れました。
+J-2: 目撃者は証言で容疑者を<u>窮地に追い込もう</u>としました。

@@ -1,0 +1,8 @@
+# Key:choke back
+<h3>English Sentences</h3>
+E-1: She couldn't <u>choke back</u> her laughter at the hilarious joke.
+E-2: He had to <u>choke back</u> his tears during the emotional farewell.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は面白いジョークに<u>笑いを抑えることが</u>できませんでした。
+J-2: 感動的な別れの際、彼は涙を<u>抑えなければならなかった</u>。

@@ -1,0 +1,8 @@
+# Key:barge through
+<h3>English Sentences</h3>
+E-1: You can't just <u>barge through</u> the door without knocking.
+E-2: He always tries to <u>barge through</u> our conversations and dominate them.
+
+<h3>Japanese Translation</h3>
+J-1: ノックせずにドアを<u>乱暴に開ける</u>わけにはいかないよ。
+J-2: 彼はいつも私たちの会話に<u>押し入ろうとして</u>、支配しようとするの。

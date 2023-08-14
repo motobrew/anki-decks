@@ -1,0 +1,8 @@
+# Key:fade in
+<h3>English Sentences</h3>
+E-1: The sun began to <u>fade in</u> as the day turned into evening.
+E-2: The music <u>faded in</u> slowly, creating a mesmerizing atmosphere.
+
+<h3>Japanese Translation</h3>
+J-1: 日が傾くにつれて、太陽が<u>薄れていきました</u>。
+J-2: 音楽がゆっくりと<u>フェードイン</u>し、魅惑的な雰囲気が生まれました。

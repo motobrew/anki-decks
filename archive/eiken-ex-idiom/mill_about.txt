@@ -1,0 +1,8 @@
+# Key:mill about
+<h3>English Sentences</h3>
+E-1: The students began to <u>mill about</u> in the hallway between classes.
+E-2: We decided to go to a busy city square and just <u>mill about</u> to people-watch.
+
+<h3>Japanese Translation</h3>
+J-1: 生徒たちは授業の合間に廊下で<u>うろうろし始めた</u>。
+J-2: 私たちは賑やかな都市の広場に行って、ただ<u>うろつきながら人々を見物する</u>ことにしました。

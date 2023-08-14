@@ -1,0 +1,8 @@
+# Key:stick around
+<h3>English Sentences</h3>
+E-1: Don't leave just yet, <u>stick around</u> and join the party!
+E-2: I need someone to <u>stick around</u> and help me with this project.
+
+<h3>Japanese Translation</h3>
+J-1: まだ出かけないで、<u>ここに残って</u>パーティーに参加しよう！
+J-2: このプロジェクトの手伝いを<u>してくれる人が</u>必要です。

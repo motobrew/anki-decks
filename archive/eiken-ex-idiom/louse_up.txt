@@ -1,0 +1,8 @@
+# Key:louse up
+<h3>English Sentences</h3>
+E-1: Don't ask him to fix it, he'll just <u>louse up</u> the whole thing.
+E-2: I hope I don't <u>louse up</u> the presentation with my nervousness.
+
+<h3>Japanese Translation</h3>
+J-1: 彼に直してもらわないで、彼は全体を<u>台無し</u>にします。
+J-2: 緊張からプレゼンテーションを<u>台無しにしないこと</u>を願っています。

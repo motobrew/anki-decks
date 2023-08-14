@@ -1,0 +1,8 @@
+# Key:stow away
+<h3>English Sentences</h3>
+E-1: He managed to <u>stow away</u> on the ship and hide until it reached land.
+E-2: The flight attendant asked us to <u>stow away</u> our carry-on luggage in the overhead bin.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は船に<u>密航すること</u>に成功し、陸地に到着するまで隠れていました。
+J-2: フライトアテンダントは私たちに手荷物を上の棚に<u>収納するように</u>頼んだ。

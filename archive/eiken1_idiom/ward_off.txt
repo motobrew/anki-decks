@@ -1,0 +1,8 @@
+# Key:ward off
+<h3>English Sentences</h3>
+E-1: The strong smell of garlic helps to <u>ward off</u> vampires.
+E-2: I always carry bug spray to <u>ward off</u> mosquitoes on camping trips.
+
+<h3>Japanese Translation</h3>
+J-1: ニンニクの強い匂いは吸血鬼を<u>寄せ付けない</u>効果があります。
+J-2: キャンプ旅行ではいつも蚊を<u>寄せ付けないように</u>虫除けスプレーを持ち歩いています。

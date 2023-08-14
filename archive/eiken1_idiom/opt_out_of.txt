@@ -1,0 +1,8 @@
+# Key:opt out of
+<h3>English Sentences</h3>
+E-1: I decided to <u>opt out of</u> the team bonding activity.
+E-2: She chose to <u>opt out of</u> the company's retirement plan.
+
+<h3>Japanese Translation</h3>
+J-1: 私はチームの親睦活動を<u>辞退しました</u>。
+J-2: 彼女は会社の退職プランから<u>抜けることを選びました</u>。

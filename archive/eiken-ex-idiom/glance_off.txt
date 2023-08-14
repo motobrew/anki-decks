@@ -1,0 +1,8 @@
+# Key:glance off
+<h3>English Sentences</h3>
+E-1: The bullet <u>glanced off</u> the wall and missed me.
+E-2: His comments always seem to <u>glance off</u> her without affecting her.
+
+<h3>Japanese Translation</h3>
+J-1: 弾丸が壁に<u>はね返り</u>、私を外れました。
+J-2: 彼のコメントはいつも、彼女に<u>影響を与えず</u>にすぐに忘れられます。

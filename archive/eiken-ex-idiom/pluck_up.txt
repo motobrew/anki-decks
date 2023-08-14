@@ -1,0 +1,8 @@
+# Key:pluck up
+<h3>English Sentences</h3>
+E-1: She had to <u>pluck up</u> the courage to speak in public.
+E-2: The farmer <u>plucked up</u> the ripe apples from the tree.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は公の場で話す勇気を<u>出さなければなりませんでした</u>。
+J-2: 農夫は木から熟れたリンゴを<u>摘み取りました</u>。

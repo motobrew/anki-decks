@@ -1,0 +1,8 @@
+# Key:dawn on
+<h3>English Sentences</h3>
+E-1: It suddenly <u>dawned on</u> me that I had forgotten my keys.
+E-2: The realization of her mistake slowly <u>dawned on</u> her.
+
+<h3>Japanese Translation</h3>
+J-1: 鍵を忘れたことが突然<u>わかった</u>。
+J-2: 彼女はゆっくりと自分のミスに<u>気付いてきた</u>。

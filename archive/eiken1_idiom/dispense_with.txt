@@ -1,0 +1,8 @@
+# Key:dispense with
+<h3>English Sentences</h3>
+E-1: We can <u>dispense with</u> formalities and get straight to the point.
+E-2: I don't have time to wait, let's <u>dispense with</u> the pleasantries.
+
+<h3>Japanese Translation</h3>
+J-1: 形式ばらずに本題に入りましょう。
+J-2: 待つ時間はありません、おしゃべりはやめましょう。

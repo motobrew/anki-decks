@@ -1,0 +1,8 @@
+# Key:buckle down
+<h3>English Sentences</h3>
+E-1: I need to <u>buckle down</u> and finish this project by tomorrow.
+E-2: He decided to <u>buckle down</u> and study for the exam.
+
+<h3>Japanese Translation</h3>
+J-1: 明日までにこのプロジェクトを<u>しっかりやり始める</u>必要がある。
+J-2: 彼は<u>真剣に取り組む</u>ことに決め、試験勉強をすることにした。

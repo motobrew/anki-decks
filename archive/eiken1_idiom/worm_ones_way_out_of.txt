@@ -1,0 +1,8 @@
+# Key:worm one's way out of
+<h3>English Sentences</h3>
+E-1: She always tries to <u>worm her way out of</u> doing chores.
+E-2: He managed to <u>worm his way out of</u> taking responsibility for the mistake.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女はいつも家事を<u>逃げる方法を見つけようとします</u>。
+J-2: 彼はそのミスの責任を<u>逃れる方法を見つける</u>ことに成功しました。

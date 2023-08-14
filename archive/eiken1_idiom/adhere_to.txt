@@ -1,0 +1,8 @@
+# Key:adhere to
+<h3>English Sentences</h3>
+E-1: You must <u>adhere to</u> the rules of the competition.
+E-2: It's important to <u>adhere to</u> a healthy diet for good health.
+
+<h3>Japanese Translation</h3>
+J-1: 大会のルールに<u>従わなければなりません</u>。
+J-2: 健康のためには、健康的な食事に<u>従うことが重要です</u>。

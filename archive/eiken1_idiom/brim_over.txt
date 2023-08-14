@@ -1,0 +1,8 @@
+# Key:brim over
+<h3>English Sentences</h3>
+E-1: Her enthusiasm for dance <u>brimmed over</u> as she twirled on stage.
+E-2: The dam was about to <u>brim over</u> with the heavy rainfall.
+
+<h3>Japanese Translation</h3>
+J-1: ステージ上で回転しながら、彼女のダンスへの情熱が<u>あふれ出た</u>。
+J-2: 激しい雨でダムが<u>溢れそうに</u>なっていました。

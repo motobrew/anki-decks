@@ -1,0 +1,8 @@
+# Key:limber up
+<h3>English Sentences</h3>
+E-1: I need to <u>limber up</u> before starting my workout routine.
+E-2: The team did some warm-up exercises to <u>limber up</u> for the game.
+
+<h3>Japanese Translation</h3>
+J-1: ワークアウトを始める前に、体を<u>ほぐす</u>必要があります。
+J-2: チームは試合に向けて体を<u>ほぐす</u>ためにウォームアップをしました。

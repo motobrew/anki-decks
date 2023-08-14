@@ -1,0 +1,8 @@
+# Key:pitch in
+<h3>English Sentences</h3>
+E-1: I asked my friends to <u>pitch in</u> for the birthday gift.
+E-2: Everyone needs to <u>pitch in</u> and help with the cleanup.
+
+<h3>Japanese Translation</h3>
+J-1: 誕生日プレゼントのために友達に<u>協力してもらいました</u>。
+J-2: みんなが<u>協力して手伝う</u>必要があります。

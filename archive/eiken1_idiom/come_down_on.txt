@@ -1,0 +1,8 @@
+# Key:come down on
+<h3>English Sentences</h3>
+E-1: The teacher <u>came down on</u> the student for not completing the assignment.
+E-2: The rain <u>came down</u> heavily and soaked everyone at the picnic.
+
+<h3>Japanese Translation</h3>
+J-1: 先生は宿題を完成しなかった生徒に<u厳しく対応しました</u>。
+J-2: 雨が豪雨と<u>なり</u>、ピクニックに参加した人たちをずぶ濡れにした。

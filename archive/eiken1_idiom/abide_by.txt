@@ -1,0 +1,8 @@
+# Key:abide by
+<h3>English Sentences</h3>
+E-1: We must <u>abide by</u> the rules set by the teacher.
+E-2: He will not <u>abide by</u> their decision and will fight it.
+
+<h3>Japanese Translation</h3>
+J-1: 私たちは先生が定めたルールに<u>従わなければなりません</u>。
+J-2: 彼は彼らの決定に<u>従わず、それに対抗する</u>つもりです。

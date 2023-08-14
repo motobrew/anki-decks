@@ -1,0 +1,8 @@
+# Key:stumble upon
+<h3>English Sentences</h3>
+E-1: I was exploring the woods when I <u>stumbled upon</u> a hidden cave.
+E-2: While cleaning the attic, I <u>stumbled upon</u> a box of old photographs.
+
+<h3>Japanese Translation</h3>
+J-1: 私が森を探検している時に、隠れた洞窟に<u>偶然出会いました</u>。
+J-2: 屋根裏を掃除している最中、<u>偶然</u>昔の写真の箱を見つけました。

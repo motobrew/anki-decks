@@ -1,0 +1,8 @@
+# Key:pile in
+<h3>English Sentences</h3>
+E-1: We couldn't find any seats, so we had to <u>pile in</u> the car.
+E-2: The children were excited and all <u>piled in</u> to see the new puppy.
+
+<h3>Japanese Translation</h3>
+J-1: 座席が見つからなかったので、私たちは車に<u>詰め込まれました</u>。
+J-2: 子供たちは興奮して、新しい子犬を見に<u>一斉に入りました</u>。

@@ -1,0 +1,8 @@
+# Key:barge through
+<h3>English Sentences</h3>
+E-1: He <u>barge through</u> the crowd to catch his train.
+E-2: The bulldozer <u>barged through</u> the wall, demolishing it completely.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は電車に間に合うために、人ごみを<u>突き抜けました</u>。
+J-2: ブルドーザーが壁を<u>突き破り</u>、完全に取り壊しました。

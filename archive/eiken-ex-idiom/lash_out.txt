@@ -1,0 +1,8 @@
+# Key:lash out
+<h3>English Sentences</h3>
+E-1: He tends to <u>lash out</u> when he's feeling stressed.
+E-2: The angry customer <u>lashed out</u> at the store manager for the poor service.
+
+<h3>Japanese Translation</h3>
+J-1: 彼はストレスを感じているときに<u>感情的になることが</u>あります。
+J-2: 怒ったお客様が悪いサービスのために店長に<u>激しく反応した</u>。

@@ -1,0 +1,8 @@
+# Key:dwell on
+<h3>English Sentences</h3>
+E-1: I try not to <u>dwell on</u> past mistakes and focus on the present.
+E-2: She tends to <u>dwell on</u> negative thoughts and worries too much.
+
+<h3>Japanese Translation</h3>
+J-1: 過去の過ちに<uこだわること</u>せず、現在に集中しようとする。
+J-2: 彼女はネガティブな考えや心配事に<u悩んでしまう傾向が</u>あります。

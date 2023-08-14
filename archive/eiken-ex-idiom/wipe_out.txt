@@ -1,0 +1,8 @@
+# Key:wipe out
+<h3>English Sentences</h3>
+E-1: The storm <u>wiped out</u> the entire village, leaving it devastated.
+E-2: He invested all his savings in that business and it <u>wiped him out</u>.
+
+<h3>Japanese Translation</h3>
+J-1: 嵐がその村全体を<u>壊滅させ</u>、取り残されました。
+J-2: 彼はその事業に全貯金を投資し、<u>破滅させられました</u>。

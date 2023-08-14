@@ -1,0 +1,8 @@
+# Key:pin down
+<h3>English Sentences</h3>
+E-1: It's difficult to <u>pin down</u> the exact date of the event.
+E-2: The witness couldn't <u>pin down</u> the suspect's description.
+
+<h3>Japanese Translation</h3>
+J-1: そのイベントの正確な日付を<u>特定する</u>のは難しいです。
+J-2: 証人は容疑者の特徴を<u>明確にすることができませんでした</u>。

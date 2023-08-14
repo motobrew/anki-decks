@@ -1,0 +1,8 @@
+# Key:let on
+<h3>English Sentences</h3>
+E-1: She didn't <u>let on</u> that she knew about the surprise party.
+E-2: He tries to act tough, but his smile <u>lets on</u> that he's actually friendly.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女はサプライズパーティーのことを知っていたことを<u>バレないように</u>しませんでした。
+J-2: 彼は強そうに振る舞おうとしますが、彼の笑顔は彼が実際には優しいことを<u>教えてくれます</u>。

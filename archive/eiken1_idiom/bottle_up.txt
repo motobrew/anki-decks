@@ -1,0 +1,8 @@
+# Key:bottle up
+<h3>English Sentences</h3>
+E-1: She tried to <u>bottle up</u> her emotions and put on a brave face.
+E-2: The pressure kept building up inside him until it finally <u>bottled up</u> and he exploded in anger.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は感情を<u>押し込める</u>ようにし、勇敢な顔をしていました。
+J-2: 彼の中でプレッシャーが高まり続け、ついに<u>我慢が限界に達して</u>怒りを爆発させた。

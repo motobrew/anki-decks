@@ -1,0 +1,8 @@
+# Key:fuss over
+<h3>English Sentences</h3>
+E-1: My mother always <u>fusses over</u> me before I leave the house.
+E-2: The restaurant manager tended to <u>fuss over</u> every customer at their table.
+
+<h3>Japanese Translation</h3>
+J-1: 私が家を出る前にいつも母は<u>私にうるさく言います</u>。
+J-2: レストランのマネージャーは、テーブルに座っているお客様一人一人に<u>過剰な配慮をしました</u>。

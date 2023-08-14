@@ -1,0 +1,8 @@
+# Key:square up
+<h3>English Sentences</h3>
+E-1: He owed me money, so we had to <u>square up</u> before he left.
+E-2: The two competitors decided to <u>square up</u> and settle their differences in a fair fight.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は私にお金を借りていたので、彼が出発する前に<u>清算</u>しなければなりませんでした。
+J-2: 2人の競争相手は<u>対決して</u>、公平な戦いで争いを解決することにしました。

@@ -1,0 +1,8 @@
+# Key:wriggle out of
+<h3>English Sentences</h3>
+E-1: He always tries to <u>wriggle out of</u> taking responsibility for his mistakes.
+E-2: After many attempts, the fish finally managed to <u>wriggle out of</u> the hook.
+
+<h3>Japanese Translation</h3>
+J-1: 彼はいつも自分の過ちに対する責任を<u>逃れようとします</u>。
+J-2: 多くの試みの後、その魚はついに針から<u>抜け出すことに</u>成功しました。

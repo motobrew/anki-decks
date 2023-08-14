@@ -1,0 +1,8 @@
+# Key:tap into
+<h3>English Sentences</h3>
+E-1: She always knows how to <u>tap into</u> her creativity when painting.
+E-2: The speaker was able to <u>tap into</u> the audience's emotions with her powerful speech.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は、絵を描く際にいつも自分の創造力に<u>アクセスする</u>方法を知っています。
+J-2: そのスピーカーは、感動的なスピーチで聴衆の感情に<u>訴えること</u>ができました。

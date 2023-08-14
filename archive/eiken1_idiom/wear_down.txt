@@ -1,0 +1,8 @@
+# Key:wear down
+<h3>English Sentences</h3>
+E-1: The constant friction <u>wore down</u> the car's tires.
+E-2: The long hike <u>wore John down</u> and he needed a break.
+
+<h3>Japanese Translation</h3>
+J-1: 継続的な摩擦によって、車のタイヤが<u>すり減ってしまいました</u>。
+J-2: 長いハイキングで、ジョンは<u>疲れ果てた</u>ため、休憩が必要でした。

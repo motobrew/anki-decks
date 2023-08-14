@@ -1,0 +1,8 @@
+# Key:put forward
+<h3>English Sentences</h3>
+E-1: She <u>put forward</u> her idea during the team meeting.
+E-2: The company decided to <u>put forward</u> a proposal for a new project.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女はチームミーティングで彼女のアイデアを<u>提案しました</u>。
+J-2: 会社は新しいプロジェクトの提案を<u>出すことにしました</u>。

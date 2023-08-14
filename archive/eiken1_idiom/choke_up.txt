@@ -1,0 +1,8 @@
+# Key:choke up
+<h3>English Sentences</h3>
+E-1: The emotional speech made him <u>choke up</u> with tears.
+E-2: He tends to <u>choke up</u> when he talks about his past.
+
+<h3>Japanese Translation</h3>
+J-1: 彼の感情的なスピーチで彼は涙で<u>声を詰まらせました</u>。
+J-2: 彼は過去のことについて話すと<u>しばしば口ごもってしまいます</u>。

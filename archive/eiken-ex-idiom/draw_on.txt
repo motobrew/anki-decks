@@ -1,0 +1,8 @@
+# Key:draw on
+<h3>English Sentences</h3>
+E-1: I need to <u>draw on</u> my reserves of strength to get through this.
+E-2: The author often <u>draws on</u> personal experiences for inspiration.
+
+<h3>Japanese Translation</h3>
+J-1: これを乗り越えるために、私は持ち合わせている力を<u>駆使しなければなりません</u>。
+J-2: その作家はしばしば個人的な経験を<u>参考にしています</u>。

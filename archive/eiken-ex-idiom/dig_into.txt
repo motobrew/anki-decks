@@ -1,0 +1,8 @@
+# Key:dig into
+<h3>English Sentences</h3>
+E-1: He eagerly <u>digs into</u> the pile of presents on Christmas morning.
+E-2: She loves to <u>dig into</u> a juicy steak at her favorite restaurant.
+
+<h3>Japanese Translation</h3>
+J-1: クリスマスの朝、彼はうきうきしてプレゼントの山に手をつける。
+J-2: 彼女はお気に入りのレストランでジューシーなステーキをたいらげるのが大好きです。

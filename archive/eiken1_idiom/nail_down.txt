@@ -1,0 +1,8 @@
+# Key:nail down
+<h3>English Sentences</h3>
+E-1: It took some time, but we finally <u>nailed down</u> the details.
+E-2: We need to <u>nail down</u> a time for our meeting.
+
+<h3>Japanese Translation</h3>
+J-1: それには時間がかかりましたが、ようやく詳細を<u>確定</u>しました。
+J-2: 会議の時間を<u>確定</u>しなければなりません。

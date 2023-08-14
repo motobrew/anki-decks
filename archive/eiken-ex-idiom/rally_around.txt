@@ -1,0 +1,8 @@
+# Key:rally around
+<h3>English Sentences</h3>
+E-1: The community <u>rallied around</u> the family after the devastating fire.
+E-2: The team <u>rallied around</u> their injured captain to support him.
+
+<h3>Japanese Translation</h3>
+J-1: 壊滅的な火事の後、地域の人々がその家族に<u協力した></u>。
+J-2: チームは負傷したキャプテンを<u>支えるために団結しました。</u>。

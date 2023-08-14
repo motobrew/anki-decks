@@ -1,0 +1,8 @@
+# Key:root out
+<h3>English Sentences</h3>
+E-1: It took a lot of effort to <u>root out</u> the weeds from the garden.
+E-2: The investigation aims to <u>root out</u> corruption within the company.
+
+<h3>Japanese Translation</h3>
+J-1: 庭から雑草を<u>徹底的に取り除く</u>のに多くの努力が必要でした。
+J-2: その調査は、会社内の腐敗を<u>根絶する</u>ことを目指しています。

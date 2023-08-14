@@ -1,0 +1,8 @@
+# Key:carve up
+<h3>English Sentences</h3>
+E-1: The chef skillfully <u>carves up</u> the roasted turkey for Thanksgiving dinner.
+E-2: The siblings always <u>carve up</u> the pizza equally to make sure everyone gets a fair share.
+
+<h3>Japanese Translation</h3>
+J-1: シェフは上手に焼き鳥を<u>切り分けます</u>。感謝祭のディナーです。
+J-2: 兄弟はいつもピザを公平に<u>分け合います</u>。

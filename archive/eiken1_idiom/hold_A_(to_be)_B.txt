@@ -1,0 +1,8 @@
+# Key:hold A (to be) B
+<h3>English Sentences</h3>
+E-1: I <u>hold</u> him <u>to be</u> the most talented musician in the world.
+E-2: The evidence <u>holds</u> him <u>to be</u> guilty of the crime.
+
+<h3>Japanese Translation</h3>
+J-1: 私は彼を世界で最も才能のある音楽家と<u>考えています</u>。
+J-2: 証拠は彼を犯罪者と<u>断定します</u>。

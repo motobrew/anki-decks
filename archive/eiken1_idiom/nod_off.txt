@@ -1,0 +1,8 @@
+# Key:nod off
+<h3>English Sentences</h3>
+E-1: I was so tired during the lecture that I started to <u>nod off</u>.
+E-2: The baby finally <u>nods off</u> after being rocked to sleep.
+
+<h3>Japanese Translation</h3>
+J-1: 講義中にとても疲れていたので、うとうとと<u>居眠り</u>を始めました。
+J-2: 赤ちゃんは揺られて眠りにつくと、ついに<u>うたた寝</u>をしました。

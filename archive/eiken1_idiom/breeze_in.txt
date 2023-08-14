@@ -1,0 +1,8 @@
+# Key:breeze in
+<h3>English Sentences</h3>
+E-1: She always manages to <u>breeze in</u> right when the meeting ends.
+E-2: You can <u>breeze in</u> through that book in just a few hours.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女はいつもミーティングが終わった直後に<u>突然現れる</u>。
+J-2: その本は数時間で<u>さくっと読み終われる</u>。

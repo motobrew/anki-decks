@@ -1,0 +1,8 @@
+# Key:patch up
+<h3>English Sentences</h3>
+E-1: They decided to <u>patch up</u> their friendship and move forward.
+E-2: The mechanic was able to <u>patch up</u> the hole in the tire.
+
+<h3>Japanese Translation</h3>
+J-1: 彼らは友情を<u>修復する</u>ことを決め、前に進むことにしました。
+J-2: その整備士はタイヤの穴を<u>修復する</u>ことができました。

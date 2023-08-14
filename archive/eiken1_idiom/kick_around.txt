@@ -1,0 +1,8 @@
+# Key:kick around
+<h3>English Sentences</h3>
+E-1: We used to <u>kick around</u> ideas for our next project.
+E-2: He has been <u>kicking around</u> Europe for the past month.
+
+<h3>Japanese Translation</h3>
+J-1: 次のプロジェクトのアイデアを<u>模索していました</u>。
+J-2: 彼は過去の1か月間、ヨーロッパを<u>放浪していました</u>。

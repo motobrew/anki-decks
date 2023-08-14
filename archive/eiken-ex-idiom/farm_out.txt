@@ -1,0 +1,8 @@
+# Key:farm out
+<h3>English Sentences</h3>
+E-1: The company decided to <u>farm out</u> the production of their products to a factory in China.
+E-2: As a busy entrepreneur, he often has to <u>farm out</u> tasks to his team members.
+
+<h3>Japanese Translation</h3>
+J-1: 会社は製品の生産を中国の工場に<u>外部委託</u>することを決めました。
+J-2: 忙しい起業家として、彼はよくタスクを<u>他のメンバーに委託</u>しなければなりません。

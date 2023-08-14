@@ -1,0 +1,8 @@
+# Key:go through with
+<h3>English Sentences</h3>
+E-1: He decided to <u>go through with</u> the surgery despite his fears.
+E-2: She was nervous, but she knew she had to <u>go through with</u> the presentation.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は恐怖を抱きながらも手術を<u>受けることに</u>決めました。
+J-2: 彼女は緊張していましたが、プレゼンを<u>やり遂げなければならない</u>とわかっていました。

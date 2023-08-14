@@ -1,0 +1,8 @@
+# Key:take to
+<h3>English Sentences</h3>
+E-1: She quickly <u>took to</u> playing the piano and became an accomplished musician.
+E-2: The stray kitten <u>took to</u> its new home and quickly bonded with the family.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女はすぐにピアノの演奏に<u>のめり込み</u>、熟練したミュージシャンとなりました。
+J-2: 野良猫は新しい家に<u>なじんでいき</u>、すぐに家族との絆を築きました。

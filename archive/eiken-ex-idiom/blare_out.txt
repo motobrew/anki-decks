@@ -1,0 +1,8 @@
+# Key:blare out
+<h3>English Sentences</h3>
+E-1: The music was so loud that it <u>blared out</u> of the speakers.
+E-2: The headlines of the newspaper <u>blare out</u> the latest scandal.
+
+<h3>Japanese Translation</h3>
+J-1: 音楽がとても大きかったので、スピーカーから<u>大音量で流れました</u>。
+J-2: 新聞の見出しは最新のスキャンダルを<u>大々的に報じています</u>。

@@ -1,0 +1,8 @@
+# Key:pine for
+<h3>English Sentences</h3>
+E-1: She <u>pines for</u> her distant lover every night.
+E-2: The prisoner <u>pine for</u> his freedom while in jail.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は毎晩遠く離れた恋人を<u>切望しています</u>。
+J-2: 囚人は獄中で自由を<u>切望</u>しています。

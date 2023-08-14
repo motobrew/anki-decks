@@ -1,0 +1,8 @@
+# Key:mill about
+<h3>English Sentences</h3>
+E-1: Tourists <u>mill about</u> the famous landmark, taking photos and enjoying the view.
+E-2: The students were unsure about their next steps and began to <u>mill about</u> in confusion.
+
+<h3>Japanese Translation</h3>
+J-1: 観光客が有名なランドマークの周りを<u>歩き回っています</u>。写真を撮ったり景色を楽しんだりしています。
+J-2: 生徒たちは次のステップについて自信を持っておらず、混乱して<u>彷徨い始めました</u>。

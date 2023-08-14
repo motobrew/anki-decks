@@ -1,0 +1,8 @@
+# Key:eke out
+<h3>English Sentences</h3>
+E-1: The marathon runner had to <u>eke out</u> every last bit of energy to make it to the finish line.
+E-2: The family managed to <u>eke out</u> a living by growing their own food.
+
+<h3>Japanese Translation</h3>
+J-1: マラソンランナーはゴールラインにたどり着くために最後のエネルギーを<u>だしぬかなければならなかった</u>。
+J-2: その家族は自分たちの食べ物を育てることで生計を<u>しのいだ</u>。

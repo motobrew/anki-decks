@@ -1,0 +1,8 @@
+# Key:leaf through
+<h3>English Sentences</h3>
+E-1: I like to <u>leaf through</u> fashion magazines for style inspiration.
+E-2: She quickly <u>leafed through</u> the pages of the book to find the answer.
+
+<h3>Japanese Translation</h3>
+J-1: スタイルのインスピレーションを得るために、ファッション雑誌を<u>眺めるのが好きです</u>。
+J-2: 彼女は答えを見つけるために、本のページを<u>さっとめくりました</u>。

@@ -1,0 +1,8 @@
+# Key:bunch up
+<h3>English Sentences</h3>
+E-1: A <u>bunch of flowers</u> was delivered to my office today.
+E-2: Don't <u>bunch up</u> too closely together, give each other some space.
+
+<h3>Japanese Translation</h3>
+J-1: 今日、オフィスに<u>花束</u>が届きました。
+J-2: あまり<u>密集</u>しないでください、お互いに少し距離を取ってください。

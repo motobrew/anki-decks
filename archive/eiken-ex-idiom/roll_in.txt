@@ -1,0 +1,8 @@
+# Key:roll in
+<h3>English Sentences</h3>
+E-1: The waves were so strong that they would <u>roll in</u> and crash onto the shore.
+E-2: The money started to <u>roll in</u> after the new product launch.
+
+<h3>Japanese Translation</h3>
+J-1: 波はとても強く、浜辺に<u>押し寄せて</u>はね返っていました。
+J-2: 新製品の発売後、お金がどんどん<u>入ってくるようになりました</u>。

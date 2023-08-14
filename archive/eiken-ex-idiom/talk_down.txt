@@ -1,0 +1,8 @@
+# Key:talk down
+<h3>English Sentences</h3>
+E-1: He always tries to <u>talk down</u> the price when bargaining.
+E-2: We need someone who can <u>talk down</u> an angry customer.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は値切る時にいつも<u>値下げ交渉をする</u>。
+J-2: 怒ったお客を<u>なだめることができる</u>人が必要です。

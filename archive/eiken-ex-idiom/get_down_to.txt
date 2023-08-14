@@ -1,0 +1,8 @@
+# Key:get down to
+<h3>English Sentences</h3>
+E-1: Let's <u>get down to</u> business and discuss the project.
+E-2: After procrastinating for a long time, she finally <u>got down to</u> studying for the exam.
+
+<h3>Japanese Translation</h3>
+J-1: プロジェクトについて<u>本論に入ろう</u>としましょう。
+J-2: 長い間延期していた後、彼女はついに試験勉強に<u>取りかかりました</u>。

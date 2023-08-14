@@ -1,0 +1,8 @@
+# Key:stave off
+<h3>English Sentences</h3>
+E-1: She took vitamin C to <u>stave off</u> the cold.
+E-2: The company implemented cost-cutting measures to <u>stave off</u> bankruptcy.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は風邪を<u>しのぐために</u>ビタミンCを摂りました。
+J-2: 会社は倒産を<u>防ぐために</u>節約策を実施しました。

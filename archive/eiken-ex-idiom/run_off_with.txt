@@ -1,0 +1,8 @@
+# Key:run off with
+<h3>English Sentences</h3>
+E-1: She <u>ran off with</u> all the money and disappeared.
+E-2: The dog <u>ran off with</u> my shoe and started chewing it.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は全てのお金を持ち逃げして、姿を消しました。
+J-2: 犬が私の靴を持ち逃げして、噛み始めました。

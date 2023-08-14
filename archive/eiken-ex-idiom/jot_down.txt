@@ -1,0 +1,8 @@
+# Key:jot down
+<h3>English Sentences</h3>
+E-1: I need to <u>jot down</u> some notes before I forget.
+E-2: Can you please <u>jot down</u> the address for me?
+
+<h3>Japanese Translation</h3>
+J-1: 忘れないうちに、メモを<u>書き留め</u>なければなりません。
+J-2: その住所を<u>書き留めて</u>いただけますか？

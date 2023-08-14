@@ -1,0 +1,8 @@
+# Key:rig up
+<h3>English Sentences</h3>
+E-1: The students <u>rigged up</u> a makeshift shelter for their camping trip.
+E-2: The kids always <u>rig up</u> creative games to entertain themselves.
+
+<h3>Japanese Translation</h3>
+J-1: 生徒たちはキャンプ旅行のために仮設の避難所を<u>作りました</u>。
+J-2: 子供たちはいつも自分たちで創造的なゲームを<u>作り出します</u>。

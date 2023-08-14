@@ -1,0 +1,8 @@
+# Key:scratch out
+<h3>English Sentences</h3>
+E-1: I need to <u>scratch out</u> the incorrect answer and write the correct one.
+E-2: He tried to <u>scratch out</u> his ex-girlfriend's name from his memory.
+
+<h3>Japanese Translation</h3>
+J-1: 間違った答えを<u>取り消して</u>正しい答えを書かなければなりません。
+J-2: 彼は元カノの名前を記憶から<u>消そうとしました</u>。

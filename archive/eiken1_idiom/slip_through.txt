@@ -1,0 +1,8 @@
+# Key:slip through
+<h3>English Sentences</h3>
+E-1: The cat managed to <u>slip through</u> the small gap in the fence.
+E-2: He tried to catch the ball, but it <u>slipped through</u> his fingers.
+
+<h3>Japanese Translation</h3>
+J-1: 猫がフェンスの小さな隙間を<u>くぐり抜けました</u>。
+J-2: 彼はボールをキャッチしようとしたが、指の間を<u>すり抜けてしまいました</u>。

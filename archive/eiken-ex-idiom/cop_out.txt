@@ -1,0 +1,8 @@
+# Key:cop out
+<h3>English Sentences</h3>
+E-1: He always tries to <u>cop out</u> of his responsibilities at work.
+E-2: Don't try to <u>cop out</u> of the challenge, face it head-on.
+
+<h3>Japanese Translation</h3>
+J-1: 彼はいつも仕事の責任から<u逃げよう</u>とします。
+J-2: チャレンジから<u>逃げること</u>はせず、真正面から立ち向かいなさい。

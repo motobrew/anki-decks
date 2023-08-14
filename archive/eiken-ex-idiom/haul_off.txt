@@ -1,0 +1,8 @@
+# Key:haul off
+<h3>English Sentences</h3>
+E-1: He <u>hauls off</u> and throws the ball with all his strength.
+E-2: The driver had to <u>haul off</u> to avoid hitting the pedestrian.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は全力でボールを<u>投げ飛ばしました</u>。
+J-2: 歩行者にぶつからないよう、運転手は急いで<u>避ける必要がありました</u>。

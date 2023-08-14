@@ -1,0 +1,8 @@
+# Key:head off
+<h3>English Sentences</h3>
+E-1: I need to <u>head off</u> to the airport before rush hour.
+E-2: The teacher tried to <u>head off</u> the argument before it escalated.
+
+<h3>Japanese Translation</h3>
+J-1: ラッシュアワー前に空港に<u>向かわなければなりません</u>。
+J-2: 教師は議論がエスカレートする前に<u>それを食い止めようとしました</u>。

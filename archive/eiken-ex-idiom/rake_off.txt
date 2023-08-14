@@ -1,0 +1,8 @@
+# Key:rake off
+<h3>English Sentences</h3>
+E-1: The thief quickly <u>raked off</u> with the stolen jewels.
+E-2: She decided to <u>rake off</u> some of the frosting from the cake.
+
+<h3>Japanese Translation</h3>
+J-1: 泥棒は素早く盗まれた宝石を持ち逃げしました。
+J-2: 彼女はケーキからいくらかのフロスティングを取り除くことにしました。

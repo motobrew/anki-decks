@@ -1,0 +1,8 @@
+# Key:gear up
+<h3>English Sentences</h3>
+E-1: We need to <u>gear up</u> for the big game tomorrow.
+E-2: The company is <u>gearing up</u> for a major product launch.
+
+<h3>Japanese Translation</h3>
+J-1: 明日のビッグゲームに<u>備える</u>必要があります。
+J-2: その会社は重要な製品発売に<u>向けて準備</u>しています。

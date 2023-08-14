@@ -1,0 +1,8 @@
+# Key:rail against
+<h3>English Sentences</h3>
+E-1: She constantly <u>rails against</u> the unfairness of the system.
+E-2: The protesters <u>railed against</u> the government's new policies.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女はシステムの不公平さに<u>繰り返し抗議しています</u>。
+J-2: 抗議者たちは政府の新しい政策に<u>猛反対した</u>。

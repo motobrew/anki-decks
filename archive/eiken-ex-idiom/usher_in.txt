@@ -1,0 +1,8 @@
+# Key:usher in
+<h3>English Sentences</h3>
+E-1: The bells <u>ushered in</u> the new year at midnight.
+E-2: The reforms are expected to <u>usher in</u> a new era of prosperity.
+
+<h3>Japanese Translation</h3>
+J-1: 鐘が真夜中に響き、新年を<u>迎えました</u>。
+J-2: 改革は<u>繁栄の新時代を招く</u>と期待されています。

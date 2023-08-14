@@ -1,0 +1,8 @@
+# Key:descend on
+<h3>English Sentences</h3>
+E-1: Customers <u>descend on</u> the store during the Black Friday sale.
+E-2: Chaos <u>descends on</u> the city after a major natural disaster.
+
+<h3>Japanese Translation</h3>
+J-1: ブラックフライデーセールの間、顧客が店舗に<u押し寄せます</u>。
+J-2: 大規模な自然災害後、混乱が都市に<u>広がることがあります</u>。

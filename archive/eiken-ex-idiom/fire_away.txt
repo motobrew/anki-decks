@@ -1,0 +1,8 @@
+# Key:fire away
+<h3>English Sentences</h3>
+E-1: I have a lot of questions, so feel free to <u>fire away</u>.
+E-2: The boss started the meeting by saying, "Okay, <u>fire away</u> with your ideas."
+
+<h3>Japanese Translation</h3>
+J-1: 質問がたくさんあるので、どんどん質問してください。
+J-2: ボスはミーティングを始めると「さあ、アイデアをどんどん出してください」と言いました。

@@ -1,0 +1,8 @@
+# Key:zero in on
+<h3>English Sentences</h3>
+E-1: I <u>zeroed in on</u> the correct answer after multiple attempts.
+E-2: The detective was able to <u>zero in on</u> the suspect through eyewitness testimonies.
+
+<h3>Japanese Translation</h3>
+J-1: 数回の試みの後、私は正しい答えに<u>絞り込みました</u>。
+J-2: 探偵は、目撃証言を通じて容疑者を<u>特定することができました</u>。

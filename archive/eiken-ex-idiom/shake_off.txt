@@ -1,0 +1,8 @@
+# Key:shake off
+<h3>English Sentences</h3>
+E-1: After a long day of work, I need to <u>shake off</u> the stress.
+E-2: He tried to <u>shake off</u> the feeling of disappointment and move on.
+
+<h3>Japanese Translation</h3>
+J-1: 長い一日の仕事の後、ストレスを<u>払いのける</u>必要があります。
+J-2: 彼は失望感を<u>振り払おうと</u>し、前に進もうとしました。

@@ -1,0 +1,8 @@
+# Key:patch up
+<h3>English Sentences</h3>
+E-1: After a big fight, they decided to <u>patch up</u> their relationship.
+E-2: The tailor was able to <u>patch up</u> the tear in my favorite shirt.
+
+<h3>Japanese Translation</h3>
+J-1: 大きな喧嘩の後、彼らは関係を<u>修復する</u>ことに決めました。
+J-2: その仕立屋は、お気に入りのシャツの穴を<u>補修する</u>ことができました。

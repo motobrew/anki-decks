@@ -1,0 +1,8 @@
+# Key:tap into
+<h3>English Sentences</h3>
+E-1: He was able to <u>tap into</u> his creative side and come up with unique ideas.
+E-2: The company wants to <u>tap into</u> the international market and expand its business.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は自分の創造力に<u>アクセス</u>して、ユニークなアイデアを思いつくことができました。
+J-2: その会社は国際市場に<u>参入</u>し、事業を拡大したいと考えています。

@@ -1,0 +1,8 @@
+# Key:single out
+<h3>English Sentences</h3>
+E-1: The teacher <u>single out</u> the student for their outstanding performance.
+E-2: It's not fair to <u>single out</u> one person for the team's failure.
+
+<h3>Japanese Translation</h3>
+J-1: 先生はその生徒を<u>特に評価しました</u>その素晴らしい成績のために。
+J-2: チームの失敗を<u>一人だれかを非難する</u>のは公平ではありません。

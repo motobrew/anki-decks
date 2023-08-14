@@ -1,0 +1,8 @@
+# Key:strike on
+<h3>English Sentences</h3>
+E-1: The workers decided to <u>strike on</u> Monday to protest unfair treatment.
+E-2: The boxer delivered a powerful <u>strike on</u> his opponent's chin.
+
+<h3>Japanese Translation</h3>
+J-1: 労働者たちは不公平な扱いに抗議するため、月曜日に<u>ストライキを行うことに</u>決めました。
+J-2: ボクサーは相手のあごに強力な<u>打撃を与えました</u>。

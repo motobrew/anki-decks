@@ -1,0 +1,8 @@
+# Key:snuff out
+<h3>English Sentences</h3>
+E-1: The detective was able to <u>snuff out</u> the candle before it burned down the house.
+E-2: It's important to <u>snuff out</u> any rumors before they spread.
+
+<h3>Japanese Translation</h3>
+J-1: 探偵はろうそくが家を焼き尽くす前に、それを<u>消し止めました</u>。
+J-2: うわさが広まる前に、<u>噂を排除すること</u>は重要です。

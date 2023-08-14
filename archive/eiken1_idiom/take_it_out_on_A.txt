@@ -1,0 +1,8 @@
+# Key:take it out on A
+<h3>English Sentences</h3>
+E-1: John is in a bad mood today, so he's <u>taking it out on his coworkers</u>.
+E-2: Sarah had a fight with her boyfriend and now she's <u>taking it out on her roommates</u>.
+
+<h3>Japanese Translation</h3>
+J-1: ジョンは今日機嫌が悪いので、同僚に<u>当たっている</u>。
+J-2: サラは彼氏と喧嘩をしたので、今ルームメイトに<u>当たっている</u>。

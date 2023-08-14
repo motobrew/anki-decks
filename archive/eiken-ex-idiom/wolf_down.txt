@@ -1,0 +1,8 @@
+# Key:wolf down
+<h3>English Sentences</h3>
+E-1: I was so hungry that I decided to <u>wolf down</u> my dinner.
+E-2: He would always <u>wolf down</u> his food, barely taking time to chew.
+
+<h3>Japanese Translation</h3>
+J-1: お腹が空いていたので、夕食を<u>がつがつ食べました</u>。
+J-2: 彼はいつも<u>がっつり食べてしまい</u>、噛む時間さえあまり取りませんでした。

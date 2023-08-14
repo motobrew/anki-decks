@@ -1,0 +1,8 @@
+# Key:wallow in
+<h3>English Sentences</h3>
+E-1: He loves to <u>wallow in</u> self-pity whenever something goes wrong.
+E-2: The pigs were happy to <u>wallow in</u> the muddy pond on a hot day.
+
+<h3>Japanese Translation</h3>
+J-1: 何か問題が起きると彼は自己哀れに<u>ふけること</u>が好きです。
+J-2: 暑い日に豚たちは泥んこの池で<u>びしょぬれになること</u>を楽しんでいました。

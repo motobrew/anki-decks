@@ -1,0 +1,8 @@
+# Key:fall through
+<h3>English Sentences</h3>
+E-1: Our plans to go to the beach <u>fell through</u> due to the bad weather.
+E-2: The company's agreement with their supplier <u>fell through</u> at the last minute.
+
+<h3>Japanese Translation</h3>
+J-1: 悪天候のため、私たちのビーチへの計画は<u>頓挫しました</u>。
+J-2: 会社とサプライヤーの契約は、ギリギリで<u>失敗しました</u>。

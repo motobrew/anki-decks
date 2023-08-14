@@ -1,0 +1,8 @@
+# Key:shell out
+<h3>English Sentences</h3>
+E-1: I had to <u>shell out</u> a lot of money for that new computer.
+E-2: Don't worry, I'll <u>shell out</u> for dinner tonight.
+
+<h3>Japanese Translation</h3>
+J-1: あの新しいコンピューターのためにたくさんのお金を<u>払わなければならなかった</u>。
+J-2: 心配しないで、今夜のディナーは私が<u>立て替えます</u>。

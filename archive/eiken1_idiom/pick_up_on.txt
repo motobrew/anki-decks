@@ -1,0 +1,8 @@
+# Key:pick up on
+<h3>English Sentences</h3>
+E-1: I <u>pick up on</u> subtle hints that people drop.
+E-2: The dog can <u>pick up on</u> the scent of a rabbit from miles away.
+
+<h3>Japanese Translation</h3>
+J-1: 私は人々がさりげなく示すヒントに<u>気づく</u>ことができます。
+J-2: その犬はマイル先からウサギの匂いを<u>感知する</u>ことができます。

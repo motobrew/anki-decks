@@ -1,0 +1,8 @@
+# Key:fritter away
+<h3>English Sentences</h3>
+E-1: He <u>frittered away</u> his money on useless gadgets.
+E-2: Don't <u>fritter away</u> your time on meaningless tasks.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は無駄なガジェットにお金を<u>散財しました</u>。
+J-2: 意味のないタスクに時間を<u>無駄にしないでください</u>。

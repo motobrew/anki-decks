@@ -1,0 +1,8 @@
+# Key:simmer down
+<h3>English Sentences</h3>
+E-1: He needs to <u>simmer down</u> and stop getting so angry over small things.
+E-2: The argument began to <u>simmer down</u> when they realized it wasn't worth it.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は怒りっぽくなるのをやめて、冷静になる必要があります。
+J-2: 彼らはそれがそれほど価値がないことに気づいたとき、口論が収まり始めました。

@@ -1,0 +1,8 @@
+# Key:sink in
+<h3>English Sentences</h3>
+E-1: The news took a while to <u>sink in</u> and for me to comprehend.
+E-2: The reality of the situation began to <u>sink in</u> and I felt overwhelmed.
+
+<h3>Japanese Translation</h3>
+J-1: そのニュースは理解するまで時間がかかりました。
+J-2: 状況の現実が理解され始め、私は圧倒されました。

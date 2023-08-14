@@ -1,0 +1,8 @@
+# Key:coast along
+<h3>English Sentences</h3>
+E-1: He likes to <u>coast along</u> and let others do the work.
+E-2: The company decided to <u>coast along</u> and not make any major changes.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は他の人に仕事を任せて、<u>手抜きする</u>のが好きです。
+J-2: 会社は大きな変更をせずに<u>そのままでいくこと</u>を決定しました。

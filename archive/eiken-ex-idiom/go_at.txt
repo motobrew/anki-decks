@@ -1,0 +1,8 @@
+# Key:go at
+<h3>English Sentences</h3>
+E-1: I saw a <u>sweet deal</u> online for a vacation package.
+E-2: After a long day at work, I usually <u>crash out</u> on the couch.
+
+<h3>Japanese Translation</h3>
+J-1: ウェブ上で<u>お得な情報</u>を見つけました。
+J-2: 仕事の後、私は通常、ソファで<u>寝込むようになります</u>。

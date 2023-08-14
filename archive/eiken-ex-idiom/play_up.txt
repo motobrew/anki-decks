@@ -1,0 +1,8 @@
+# Key:play up
+<h3>English Sentences</h3>
+E-1: The printer is <u>playing up</u> again and not printing properly.
+E-2: Don't <u>play up</u> your accomplishments just to impress others.
+
+<h3>Japanese Translation</h3>
+J-1: プリンターがまた調子を<u>崩している</u>し、きちんと印刷されません。
+J-2: 他人を感心させるために自分の成果を<u>誇張しないでください</u>。

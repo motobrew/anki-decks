@@ -1,0 +1,8 @@
+# Key:bowl over
+<h3>English Sentences</h3>
+E-1: The magician's trick <u>bowl over</u> the audience with surprise.
+E-2: The team's performance in the game <u>bowl them over</u> with their excellent skills.
+
+<h3>Japanese Translation</h3>
+J-1: 魔術師のトリックは観客を驚かせて<u>感動させました</u>。
+J-2: チームの試合の演技は、素晴らしい技術で彼らを<u>驚かせました</u>。

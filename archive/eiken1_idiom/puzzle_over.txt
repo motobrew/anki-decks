@@ -1,0 +1,8 @@
+# Key:puzzle over
+<h3>English Sentences</h3>
+E-1: I've been <u>puzzling over</u> this math problem for hours.
+E-2: She <u>puzzled over</u> his sudden change in behavior. 
+
+<h3>Japanese Translation</h3>
+J-1: 数時間もかけて、私はこの数学の問題に<u>頭を悩ませています</u>。
+J-2: 彼の突然の態度の変化に<u>首をかしげた</u>。

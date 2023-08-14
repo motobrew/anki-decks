@@ -1,0 +1,8 @@
+# Key:scrape by
+<h3>English Sentences</h3>
+E-1: We had to <u>scrape by</u> with what little money we had.
+E-2: Despite the difficult circumstances, she managed to <u>scrape by</u> and make ends meet.
+
+<h3>Japanese Translation</h3>
+J-1: わずかなお金で<u>何とかやりくり</u>しなければなりませんでした。
+J-2: 困難な状況にもかかわらず、彼女は必死に努力して<u>生計を立て続けました</u>。

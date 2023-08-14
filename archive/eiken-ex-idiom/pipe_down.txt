@@ -1,0 +1,8 @@
+# Key:pipe down
+<h3>English Sentences</h3>
+E-1: The teacher told the students to <u>pipe down</u> and focus on their work.
+E-2: The crowd at the football game didn't <u>pipe down</u> until the winning goal was scored.
+
+<h3>Japanese Translation</h3>
+J-1: 先生は生徒たちに<u>静かにして</u>仕事に集中するように言った。
+J-2: サッカーの試合の観客は、勝ちゴールが決まるまで<u>おとなしくならなかった</u>。

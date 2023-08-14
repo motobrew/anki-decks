@@ -1,0 +1,8 @@
+# Key:key up
+<h3>English Sentences</h3>
+E-1: The loud noise <u>keyed up</u> the dog and made him bark.
+E-2: I always feel <u>keyed up</u> before an important presentation.
+
+<h3>Japanese Translation</h3>
+J-1: 大きな音が犬を<u>興奮させ、吠えさせました</u>。
+J-2: 大切なプレゼンの前にいつも<u>緊張しています</u>。

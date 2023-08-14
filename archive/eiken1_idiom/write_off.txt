@@ -1,0 +1,8 @@
+# Key:write off
+<h3>English Sentences</h3>
+E-1: The car was severely damaged in the accident and the insurance company decided to <u>write it off</u>.
+E-2: I'm going to <u>write off</u> that restaurant from my list of places to try.
+
+<h3>Japanese Translation</h3>
+J-1: その事故で車はひどく損傷し、保険会社はその車を<u>廃車扱いにする</u>ことにしました。
+J-2: 私はそのレストランを試す場所のリストから<u>削除する</u>つもりです。

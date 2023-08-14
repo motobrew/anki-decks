@@ -1,0 +1,8 @@
+# Key:puzzle over
+<h3>English Sentences</h3>
+E-1: I <u>puzzle over</u> the solution to this math problem.
+E-2: He tends to <u>puzzle over</u> the meaning of life.
+
+<h3>Japanese Translation</h3>
+J-1: 私はこの数学の問題の解法に<u>頭を悩ませています</u>。
+J-2: 彼は人生の意味について<u>頭を悩ませる</u>傾向があります。

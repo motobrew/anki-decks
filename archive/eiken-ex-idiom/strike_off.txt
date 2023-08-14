@@ -1,0 +1,8 @@
+# Key:strike off
+<h3>English Sentences</h3>
+E-1: The accountant will <u>strike off</u> the incorrect entries in the ledger.
+E-2: The surgeon had to <u>strike off</u> a few options before performing the surgery.
+
+<h3>Japanese Translation</h3>
+J-1: 会計士は元帳の誤った項目を<u>取り消します</u>。
+J-2: 外科医は手術を行う前にいくつかの選択肢を<u>除外しなければなりませんでした</u>。

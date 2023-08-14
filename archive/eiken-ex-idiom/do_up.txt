@@ -1,0 +1,8 @@
+# Key:do up
+<h3>English Sentences</h3>
+E-1: She always <u>does up</u> her hair nicely for special occasions.
+E-2: The old house has been renovated and <u>done up</u> beautifully.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女はいつも特別な場合に髪を<u>きちんとまとめる</u>。
+J-2: 古い家は改装されて、美しく<u>飾り付けられています</u>。

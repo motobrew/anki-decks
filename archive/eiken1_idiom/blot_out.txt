@@ -1,0 +1,8 @@
+# Key:blot out
+<h3>English Sentences</h3>
+E-1: The tall building <u>blot out</u> the sun, casting a shadow below.
+E-2: He made a mistake, but his success <u>blots out</u> his failures.
+
+<h3>Japanese Translation</h3>
+J-1: 高い建物が太陽を<u>隠す</u>ので、下に影ができました。
+J-2: 彼は失敗をしましたが、彼の成功がその失敗を<u>消し去っています</u>。

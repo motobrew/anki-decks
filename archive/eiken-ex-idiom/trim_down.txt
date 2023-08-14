@@ -1,0 +1,8 @@
+# Key:trim down
+<h3>English Sentences</h3>
+E-1: She decided to <u>trim down</u> her wardrobe and donate the clothes she no longer wore.
+E-2: I need to <u>trim down</u> my expenses in order to save money for our vacation.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は自分の洋服を<u>整理して</u>、もう着ない服を寄付することにしました。
+J-2: バケーションのためにお金を貯めるためには、出費を<u>削減しなければいけません</u>。

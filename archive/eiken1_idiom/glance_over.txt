@@ -1,0 +1,8 @@
+# Key:glance over
+<h3>English Sentences</h3>
+E-1: I just <u>glanced over</u> the document and didn't read it thoroughly.
+E-2: When I walked into the room, she quickly <u>glanced over</u> at me.
+
+<h3>Japanese Translation</h3>
+J-1: 私はその文書をざっと<u>目を通した</u>だけで、詳細には読んでいません。
+J-2: 部屋に入ったとき、彼女は私に<u>ちらりと見向きした</u>。

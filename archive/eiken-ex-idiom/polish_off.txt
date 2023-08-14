@@ -1,0 +1,8 @@
+# Key:polish off
+<h3>English Sentences</h3>
+E-1: He <u>polished off</u> his plate of spaghetti in record time.
+E-2: After a long day of work, he <u>polished off</u> a bottle of wine.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は記録的な速さでスパゲッティの皿を<u>食べきりました</u>。
+J-2: 仕事の長い一日の後、彼はワインのボトルを<u>がぶ飲みしました</u>。

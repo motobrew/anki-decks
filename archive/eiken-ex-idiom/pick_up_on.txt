@@ -1,0 +1,8 @@
+# Key:pick up on
+<h3>English Sentences</h3>
+E-1: I didn't <u>pick up on</u> the sarcasm in his comment.
+E-2: She has an amazing ability to quickly <u>pick up on</u> new skills.
+
+<h3>Japanese Translation</h3>
+J-1: 彼のコメントの皮肉に<u>気づかなかった</u>。
+J-2: 彼女は新しいスキルをすばやく<u>身につけることができる</u>能力がある。

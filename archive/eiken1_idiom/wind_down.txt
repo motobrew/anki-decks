@@ -1,0 +1,8 @@
+# Key:wind down
+<h3>English Sentences</h3>
+E-1: I like to <u>wind down</u> by reading a book before bed.
+E-2: After a long day, I enjoy taking a walk to <u>wind down</u>.
+
+<h3>Japanese Translation</h3>
+J-1: 私は寝る前に本を読むことで<u>リラックスする</u>のが好きです。
+J-2: 長い一日の後、散歩に行って<u>リラックスする</u>のが楽しみです。

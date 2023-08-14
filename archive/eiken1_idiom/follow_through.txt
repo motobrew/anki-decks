@@ -1,0 +1,8 @@
+# Key:follow through
+<h3>English Sentences</h3>
+E-1: He always promises to help, but never <u>follows through</u>.
+E-2: It's important to <u>follow through</u> with your plans and goals.
+
+<h3>Japanese Translation</h3>
+J-1: 彼はいつも手伝うと約束するけれど、結局はやらないんだ。
+J-2: 自分の計画や目標を<u>最後までやり遂げる</u>ことが重要です。

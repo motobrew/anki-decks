@@ -1,0 +1,8 @@
+# Key:revel in
+<h3>English Sentences</h3>
+E-1: She <u>revels in</u> the freedom of being her own boss.
+E-2: The children <u>revel in</u> the excitement of Christmas morning.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は自分自身のボスである自由を<u>満喫しています</u>。
+J-2: 子供たちはクリスマスの朝の興奮を<u>楽しんでいます</u>。

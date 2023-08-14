@@ -1,0 +1,8 @@
+# Key:shrug off
+<h3>English Sentences</h3>
+E-1: He always <u>shrugs off</u> criticism and never takes it to heart.
+E-2: Even though he was tired, he managed to <u>shrug off</u> the pain and continue running.
+
+<h3>Japanese Translation</h3>
+J-1: 彼はいつも批判を<u>はねのけて</u>、心にも留めません。
+J-2: 疲れていたけれど、彼は痛みを<u>軽視して</u>走り続けることができました。

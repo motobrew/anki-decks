@@ -1,0 +1,8 @@
+# Key:let up on
+<h3>English Sentences</h3>
+E-1: The teacher should <u>let up on</u> the students and give them a break.
+E-2: The rain doesn't seem to <u>let up</u> anytime soon.
+
+<h3>Japanese Translation</h3>
+J-1: 先生は生徒たちに<u>甘くして</u>、休息を与えるべきです。
+J-2: 雨はなかなか<u>やむ気配がありません</u>。

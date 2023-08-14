@@ -1,0 +1,8 @@
+# Key:set back
+<h3>English Sentences</h3>
+E-1: The heavy rain <u>set back</u> our outdoor picnic plans.
+E-2: The construction delay <u>set back</u> the completion date of the project.
+
+<h3>Japanese Translation</h3>
+J-1: 激しい雨が私たちの野外ピクニック計画を<u>台無しにした</u>。
+J-2: 工事の遅れがプロジェクトの完成予定日を<u>遅らせた</u>。

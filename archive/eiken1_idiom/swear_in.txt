@@ -1,0 +1,8 @@
+# Key:swear in
+<h3>English Sentences</h3>
+E-1: They will <u>swear in</u> the newly elected president tomorrow.
+E-2: The judge asked the witness to <u>swear in</u> before testifying.
+
+<h3>Japanese Translation</h3>
+J-1: 彼らは明日、新しく選ばれた大統領を<u>宣誓させる</u>予定です。
+J-2: 判事は証人に証言する前に<u>宣誓するように</u>頼みました。

@@ -1,0 +1,8 @@
+# Key:rig up
+<h3>English Sentences</h3>
+E-1: He managed to <u>rig up</u> a temporary shelter using branches and tarp.
+E-2: The construction crew will <u>rig up</u> the stage for the music festival.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は枝とタープを使って仮設のシェルターを<u>設置することができました</u>。
+J-2: 施工現場のクルーが音楽フェスティバルのためにステージを<u>組み立てる予定です</u>。

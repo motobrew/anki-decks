@@ -1,0 +1,8 @@
+# Key:roll back
+<h3>English Sentences</h3>
+E-1: The government decided to <u>roll back</u> the new tax regulations.
+E-2: After the accident, the car started to <u>roll back</u> down the hill.
+
+<h3>Japanese Translation</h3>
+J-1: 政府は新しい税制改正を<u取り消すこと</u>を決定しました。
+J-2: 事故後、車は丘を<u>後ろに転がっていきました</u>。

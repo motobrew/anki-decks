@@ -1,0 +1,8 @@
+# Key:plow through
+<h3>English Sentences</h3>
+E-1: I need to <u>plow through</u> this stack of paperwork before the deadline.
+E-2: Despite feeling tired, he managed to <u>plow through</u> the last few miles of the race.
+
+<h3>Japanese Translation</h3>
+J-1: 締め切り前にこの山の書類を<u>片付けなければならない</u>。
+J-2: 疲れていたにもかかわらず、彼はレースの最後の数マイルを<u>突破すること</u>に成功しました。

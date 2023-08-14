@@ -1,0 +1,8 @@
+# Key:fly at
+<h3>English Sentences</h3>
+E-1: The angry dog suddenly <u>fly at</u> the intruder.
+E-2: Whenever there is a bug, he always <u>flies at</u> it with a swatter.
+
+<h3>Japanese Translation</h3>
+J-1: 怒った犬が突然<u>襲いかかった</u>。
+J-2: 虫がいるといつも彼は羽音をたてて<u>その虫に襲いかかる</u>。

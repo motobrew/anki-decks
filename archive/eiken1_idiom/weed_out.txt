@@ -1,0 +1,8 @@
+# Key:weed out
+<h3>English Sentences</h3>
+E-1: The company implemented a rigorous interview process to <u>weed out</u> unqualified candidates.
+E-2: The teacher used a series of difficult questions to <u>weed out</u> the students who didn't study.
+
+<h3>Japanese Translation</h3>
+J-1: その会社は非適任な候補者を<u>除外するために</u>厳格な面接プロセスを導入しました。
+J-2: 先生は勉強をしなかった生徒を<u>弾くために</u>難しい問題の連続を使用しました。

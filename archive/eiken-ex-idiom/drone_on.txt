@@ -1,0 +1,8 @@
+# Key:drone on
+<h3>English Sentences</h3>
+E-1: My professor tends to <u>drone on</u> about irrelevant topics during class.
+E-2: The speaker at the conference started to <u>drone on</u> and lost the audience's attention.
+
+<h3>Japanese Translation</h3>
+J-1: 私の教授は授業中に関係ない話を<u>延々と続ける</u>傾向があります。
+J-2: そのカンファレンスのスピーカーは話が長くなり、聴衆の関心を失ってしまいました。

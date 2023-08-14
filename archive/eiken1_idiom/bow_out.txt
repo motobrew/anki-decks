@@ -1,0 +1,8 @@
+# Key:bow out
+<h3>English Sentences</h3>
+E-1: She gracefully <u>bowed out</u> of the competition due to an injury.
+E-2: It's time for him to <u>bow out</u> of his role as CEO.
+
+<h3>Japanese Translation</h3>
+J-1: 怪我のため、彼女は優雅にコンテストから<u>辞退しました</u>。
+J-2: CEOとしての役割から<u>退く時</u>が来ました。

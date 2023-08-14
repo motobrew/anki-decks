@@ -1,0 +1,8 @@
+# Key:side with
+<h3>English Sentences</h3>
+E-1: I always <u>side with</u> my sister in family arguments.
+E-2: The jury decided to <u>side with</u> the prosecution and convict the defendant.
+
+<h3>Japanese Translation</h3>
+J-1: 私はいつも家族の口論で<u>姉と同じ立場に立ちます</u>。
+J-2: 陪審団は告訴側を<u>支持し、被告を有罪と判断しました</u>。

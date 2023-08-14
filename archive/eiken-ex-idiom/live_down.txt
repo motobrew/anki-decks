@@ -1,0 +1,8 @@
+# Key:live down
+<h3>English Sentences</h3>
+E-1: I said something embarrassing and I can't <u>live it down</u>.
+E-2: He made a mistake and it will take time to <u>live down</u> his reputation.
+
+<h3>Japanese Translation</h3>
+J-1: 私は恥ずかしいことを言ってしまって、それを<u>忘れさせること</u>ができないだろう。
+J-2: 彼はミスをしたので、その評判を<u>払拭するのに</u>時間がかかるだろう。

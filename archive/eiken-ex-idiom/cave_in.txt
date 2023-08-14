@@ -1,0 +1,8 @@
+# Key:cave in
+<h3>English Sentences</h3>
+E-1: I won't <u>cave in</u> to their demands. 
+E-2: The roof started to <u>cave in</u> after the heavy rainfall.
+
+<h3>Japanese Translation</h3>
+J-1: 彼らの要求には<u>屈しない</u>つもりです。
+J-2: 大雨の後、屋根が<u>陥没し始めました</u>。

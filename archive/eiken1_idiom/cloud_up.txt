@@ -1,0 +1,8 @@
+# Key:cloud up
+<h3>English Sentences</h3>
+E-1: The sun began to set, causing the sky to <u>cloud up</u> with dark, ominous clouds.
+E-2: Whenever she starts talking about her ex-boyfriend, you can see his face <u>cloud up</u> with anger.
+
+<h3>Japanese Translation</h3>
+J-1: 太陽が沈み始め、空が暗くて不気味な雲で<u>覆われ始めました</u>。
+J-2: 彼女が元カレのことについて話し始めると、彼の顔に怒りが<u>広がるのが見えます</u>。

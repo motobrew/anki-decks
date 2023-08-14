@@ -1,0 +1,8 @@
+# Key:abide by
+<h3>English Sentences</h3>
+E-1: We must <u>abide by</u> the rules of the competition.
+E-2: Even in difficult times, we need to <u>abide by</u> our values.
+
+<h3>Japanese Translation</h3>
+J-1: 私達は競技のルールを<u>守らなければなりません</u>。
+J-2: 困難な時でも、私達は自分の価値観に<u>固執しなければなりません</u>。

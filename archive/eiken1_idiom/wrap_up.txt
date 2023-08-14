@@ -1,0 +1,8 @@
+# Key:wrap up
+<h3>English Sentences</h3>
+E-1: The weather is getting cold, so remember to <u>wrap up</u> before going outside.
+E-2: Let's <u>wrap up</u> this meeting with a final decision.
+
+<h3>Japanese Translation</h3>
+J-1: 天気が寒くなってきたので、外出する前に<u>防寒対策をし</u>てください。
+J-2: 最終的な決断で<u>会議をまとめましょ</u>う。

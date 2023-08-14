@@ -1,0 +1,8 @@
+# Key:lap up
+<h3>English Sentences</h3>
+E-1: The dog eagerly <u>lapped up</u> the water from the bowl.
+E-2: The actor was happy to <u>lap up</u> all the attention from the fans.
+
+<h3>Japanese Translation</h3>
+J-1: 犬はボウルから水を熱心に<u>飲み込みました</u>。
+J-2: その俳優はファンたちからの注目を喜んで<u>受け止めました</u>。

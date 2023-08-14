@@ -1,0 +1,8 @@
+# Key:jockey for
+<h3>English Sentences</h3>
+E-1: The two politicians were <u>jockeying for</u> position in the upcoming election.
+E-2: The competitors were <u>jockeying for</u> the best spot at the start of the race.
+
+<h3>Japanese Translation</h3>
+J-1: その2人の政治家は、今回の選挙で地位を<u>競っていました</u>。
+J-2: レースのスタート地点で、競技者たちは最高の位置を<u>争っていました</u>。

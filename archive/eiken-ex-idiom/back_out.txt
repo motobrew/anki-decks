@@ -1,0 +1,8 @@
+# Key:back out
+<h3>English Sentences</h3>
+E-1: I had to <u>back out</u> of the meeting due to a scheduling conflict.
+E-2: She was too scared to <u>back out</u> of the bungee jumping experience.
+
+<h3>Japanese Translation</h3>
+J-1: スケジュールの都合で、会議から<u>取り下がらなければならなかった</u>。
+J-2: 彼女はバンジージャンプの体験から<u>引き返すこと</u>ができなかった。

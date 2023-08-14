@@ -1,0 +1,8 @@
+# Key:snuff out
+<h3>English Sentences</h3>
+E-1: The wind <u>snuffed out</u> the candles on the table.
+E-2: The police managed to <u>snuff out</u> the criminal organization.
+
+<h3>Japanese Translation</h3>
+J-1: 風がテーブルのろうそくを<u>消しました</u>。
+J-2: 警察は犯罪組織を<u>鎮圧しました</u>。

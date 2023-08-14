@@ -1,0 +1,8 @@
+# Key:soak up
+<h3>English Sentences</h3>
+E-1: I love going to the beach to <u>soak up</u> the sun.
+E-2: After a long day of work, I like to <u>soak up</u> in a hot bath.
+
+<h3>Japanese Translation</h3>
+J-1: 太陽を<u>浴びるために</u>ビーチに行くのが大好きです。
+J-2: 長い一日の後、熱いお風呂に<u>浸かりたい</u>です。

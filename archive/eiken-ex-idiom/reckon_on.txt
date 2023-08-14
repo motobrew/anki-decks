@@ -1,0 +1,8 @@
+# Key:reckon on
+<h3>English Sentences</h3>
+E-1: I <u>reckon on</u> you to finish the project on time.
+E-2: We can always <u>reckon on</u> her to bring extra snacks.
+
+<h3>Japanese Translation</h3>
+J-1: プロジェクトを時間通りに終わらせることをあなたに<u>期待しています</u>。
+J-2: 彼女はいつも余分なお菓子を持ってくると<u>確信しています</u>。

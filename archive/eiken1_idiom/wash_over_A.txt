@@ -1,0 +1,8 @@
+# Key:wash over A
+<h3>English Sentences</h3>
+E-1: A feeling of happiness <u>washed over</u> me when I received the good news.
+E-2: As the waves crashed against the shore, a sense of calmness <u>washed over</u> me.
+
+<h3>Japanese Translation</h3>
+J-1: 嬉しい知らせを受けた時、幸福感が<u>押し寄せました</u>。
+J-2: 波が海岸に激しく打ち付ける中、落ち着きが<u>広がっていきました</u>。

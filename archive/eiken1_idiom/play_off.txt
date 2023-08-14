@@ -1,0 +1,8 @@
+# Key:play off
+<h3>English Sentences</h3>
+E-1: The baseball game went into a <u>play off</u> to determine the winner.
+E-2: The team had to <u>play off</u> against their rival for a spot in the championship.
+
+<h3>Japanese Translation</h3>
+J-1: 野球の試合は<u>プレーオフ</u>に入り、勝者を決定しました。
+J-2: チームはチャンピオンシップの出場権をかけてライバルと<u>対戦しなければ</u>なりませんでした。

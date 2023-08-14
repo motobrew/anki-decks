@@ -1,0 +1,8 @@
+# Key:cater to
+<h3>English Sentences</h3>
+E-1: The restaurant specializes in <u>catering to</u> vegetarian customers.
+E-2: The hotel's services are designed to <u>cater to</u> the needs of business travelers.
+
+<h3>Japanese Translation</h3>
+J-1: そのレストランは、ベジタリアンのお客様に<u>対応する</u>ことを専門としています。
+J-2: そのホテルのサービスは、ビジネス旅行者のニーズに<u>応えること</u>を目指しています。

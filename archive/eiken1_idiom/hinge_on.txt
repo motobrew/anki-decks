@@ -1,0 +1,8 @@
+# Key:hinge on
+<h3>English Sentences</h3>
+E-1: The success of the project <u>hinges on</u> securing funding.
+E-2: The outcome of the court case <u>hinges on</u> the credibility of the witnesses.
+
+<h3>Japanese Translation</h3>
+J-1: プロジェクトの成功は資金の確保に<u>かかっています</u>。
+J-2: 裁判の結果は、証人の信頼性に<u>よって変わる</u>ことがあります。

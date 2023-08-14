@@ -1,0 +1,8 @@
+# Key:waste away
+<h3>English Sentences</h3>
+E-1: He was so sick that he began to <u>waste away</u> before our eyes.
+E-2: It's a shame to see such talent <u>waste away</u> due to lack of opportunity.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は病気で、目の前で<b>やせ衰えてい</b>きました。
+J-2: 機会不足のために、そんな才能が<b>無駄になってい</b>くのは残念です。

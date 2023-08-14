@@ -1,0 +1,8 @@
+# Key:chip away at
+<h3>English Sentences</h3>
+E-1: We need to <u>chip away at</u> the project one step at a time.
+E-2: Their constant criticism started to <u>chip away at</u> her self-confidence.
+
+<h3>Japanese Translation</h3>
+J-1: プロジェクトを一歩ずつ<u>進めていく</u>必要があります。
+J-2: 彼らの継続的な批判が彼女の自信を<u>むしばむ</u>始めました。

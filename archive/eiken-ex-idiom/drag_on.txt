@@ -1,0 +1,8 @@
+# Key:drag on
+<h3>English Sentences</h3>
+E-1: The meeting <u>dragged on</u> for hours, making everyone tired.
+E-2: The project's completion is <u>dragging on</u> longer than expected.
+
+<h3>Japanese Translation</h3>
+J-1: 会議が何時間も<u>引きずられて</u>、みんな疲れました。
+J-2: プロジェクトの完了が予想よりも<u>長引いています</u>。

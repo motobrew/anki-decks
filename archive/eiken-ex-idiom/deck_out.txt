@@ -1,0 +1,8 @@
+# Key:deck out
+<h3>English Sentences</h3>
+E-1: She always <u>decks out</u> her house with elaborate Halloween decorations.
+E-2: He decided to <u>deck out</u> in a tuxedo for the formal event.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女はいつも凝ったハロウィンの飾りで家を<u>飾り立てます</u>。
+J-2: 彼はフォーマルなイベントのためにタキシードで<u>身を飾ること</u>に決めました。

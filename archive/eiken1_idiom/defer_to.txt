@@ -1,0 +1,8 @@
+# Key:defer to
+<h3>English Sentences</h3>
+E-1: I <u>defer to</u> my manager's decision in matters like this.
+E-2: She always <u>defers to</u> her parents when making important decisions.
+
+<h3>Japanese Translation</h3>
+J-1: このようなことについては、私は上司の意思に<u>従います</u>。
+J-2: 彼女は重要な決定をする際にはいつも<u>両親に従います</u>。

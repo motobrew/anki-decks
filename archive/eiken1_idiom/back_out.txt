@@ -1,0 +1,8 @@
+# Key:back out
+<h3>English Sentences</h3>
+E-1: The driver decided to <u>back out</u> of the parking space.
+E-2: She made a promise, but then she <u>backed out</u> at the last minute.
+
+<h3>Japanese Translation</h3>
+J-1: 運転手は駐車スペースから<u>バックアウトする</u>ことに決めました。
+J-2: 彼女は約束をしましたが、最後の瞬間に<u>取り消しました</u>。

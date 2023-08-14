@@ -1,0 +1,8 @@
+# Key:level off
+<h3>English Sentences</h3>
+E-1: The stock prices have <u>leveled off</u> after a period of rapid growth.
+E-2: After climbing uphill for hours, the trail finally <u>leveled off</u> and became easier to walk.
+
+<h3>Japanese Translation</h3>
+J-1: 株価は急速な上昇の後に<u>横ばい状態</u>になりました。
+J-2: 数時間の登り坂の後、ついに道が<u>平らになり</u>、歩きやすくなりました。

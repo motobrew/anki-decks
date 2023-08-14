@@ -1,0 +1,8 @@
+# Key:spruce up
+<h3>English Sentences</h3>
+E-1: I'm going to <u>spruce up</u> my living room with some new furniture.
+E-2: He always likes to <u>spruce up</u> his appearance before going out.
+
+<h3>Japanese Translation</h3>
+J-1: 新しい家具を使って、リビングルームを<u>リフォーム</u>しようと思っています。
+J-2: 彼は外出する前にいつも見た目を<u>整えたがります</u>。

@@ -1,0 +1,8 @@
+# Key:root for A
+<h3>English Sentences</h3>
+E-1: I always <u>root for</u> the underdog in sports.
+E-2: The crowd began to <u>root for</u> the home team as they scored.
+
+<h3>Japanese Translation</h3>
+J-1: スポーツではいつもアンダードッグを<u>応援します</u>。
+J-2: ホームチームが得点をすると、観客は応援を始めました。

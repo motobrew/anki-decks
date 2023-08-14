@@ -1,0 +1,8 @@
+# Key:drone on
+<h3>English Sentences</h3>
+E-1: My professor tends to <u>drone on</u> about the same topic for hours.
+E-2: I couldn't focus on the presentation because the speaker kept <u>droning on</u> with irrelevant details.
+
+<h3>Japanese Translation</h3>
+J-1: 私の教授は同じトピックについて何時間も<u>延々と話し続ける</u>傾向があります。
+J-2: スピーカーが関係ない詳細について<u>延々と話し続けた</u>ため、プレゼンに集中できませんでした。

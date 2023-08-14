@@ -1,0 +1,8 @@
+# Key:fawn over
+<h3>English Sentences</h3>
+E-1: She always <u>fawns over</u> her adorable puppy.
+E-2: Don't <u>fawn over</u> him too much, he's just a regular guy.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女はいつも可愛い子犬に<u>うっとりする</u>。
+J-2: 彼にあまり<u>すがりすぎる</u>な、彼はただの普通の男だよ。

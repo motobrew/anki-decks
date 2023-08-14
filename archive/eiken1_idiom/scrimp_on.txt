@@ -1,0 +1,8 @@
+# Key:scrimp on
+<h3>English Sentences</h3>
+E-1: They <u>scrimp on</u> groceries to save money for rent.
+E-2: Don't <u>scrimp on</u> safety when it comes to your children.
+
+<h3>Japanese Translation</h3>
+J-1: 家賃のために、彼らは食料品に<u>ケチをつけて</u>お金を節約します。
+J-2: 子供に関わる場合、安全を<u>省かないで</u>ください。

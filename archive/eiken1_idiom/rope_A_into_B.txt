@@ -1,0 +1,8 @@
+# Key:rope A into B
+<h3>English Sentences</h3>
+E-1: He always tries to <u>rope me into</u> doing his homework.
+E-2: She managed to <u>rope her friends into</u> helping with the charity event.
+
+<h3>Japanese Translation</h3>
+J-1: 彼はいつも私を<u>巻き込もうと</u>して宿題をやらせようとします。
+J-2: 彼女は友達を<u>巻き込んで</u>チャリティイベントの手伝いをさせました。

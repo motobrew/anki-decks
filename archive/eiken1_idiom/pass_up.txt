@@ -1,0 +1,8 @@
+# Key:pass up
+<h3>English Sentences</h3>
+E-1: I can't <u>pass up</u> the opportunity to travel to Japan.
+E-2: He always manages to <u>pass up</u> on doing his chores.
+
+<h3>Japanese Translation</h3>
+J-1: 日本へ旅行するというチャンスは<u>逃せません</u>。
+J-2: 彼はいつも家事をすることを<u>避ける方法を見つけます</u>。

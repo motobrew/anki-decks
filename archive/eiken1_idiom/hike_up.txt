@@ -1,0 +1,8 @@
+# Key:hike up
+<h3>English Sentences</h3>
+E-1: The company <u>hiked up</u> the prices of their products.
+E-2: We decided to <u>hike up</u> the mountain to enjoy the view.
+
+<h3>Japanese Translation</h3>
+J-1: その会社は自社製品の価格を<u>引き上げました</u>。
+J-2: 私たちは景色を楽しむために山を<u>登り上がる</u>ことにしました。

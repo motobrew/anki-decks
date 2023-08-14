@@ -1,0 +1,8 @@
+# Key:while away
+<h3>English Sentences</h3>
+E-1: We went to the park to <u>while away</u> the sunny afternoon.
+E-2: He loves to play video games to <u>while away</u> his free time.
+
+<h3>Japanese Translation</h3>
+J-1: 私たちは公園に行って、晴れた午後を<u>過ごしました</u>。
+J-2: 彼は暇な時間を<u>つぶすために</u>ビデオゲームをするのが好きです。

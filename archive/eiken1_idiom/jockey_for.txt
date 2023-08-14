@@ -1,0 +1,8 @@
+# Key:jockey for
+<h3>English Sentences</h3>
+E-1: The two runners are <u>jockeying for</u> the lead position in the race.
+E-2: The politicians are constantly <u>jockeying for</u> power and influence.
+
+<h3>Japanese Translation</h3>
+J-1: 二人のランナーがレースで先頭のポジションをに<u>競い合っている</u>。
+J-2: 政治家たちは常に権力と影響力を<u>争っている</u>。

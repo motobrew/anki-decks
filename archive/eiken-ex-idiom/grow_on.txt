@@ -1,0 +1,8 @@
+# Key:grow on
+<h3>English Sentences</h3>
+E-1: His artistry and talent really <u>grew on</u> me over time.
+E-2: The idea of living in a big city didn't <u>grow on</u> her.
+
+<h3>Japanese Translation</h3>
+J-1: 彼の芸術性と才能は、時間が経つにつれて私に <u>身についていきました</u>。
+J-2: 大都市での生活のアイデアは彼女には <u>魅力的には思えなかった</u>。

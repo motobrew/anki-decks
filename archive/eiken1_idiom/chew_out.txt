@@ -1,0 +1,8 @@
+# Key:chew out
+<h3>English Sentences</h3>
+E-1: The teacher <u>chewed out</u> the student for being disruptive in class.
+E-2: My boss will definitely <u>chew me out</u> if I'm late again.
+
+<h3>Japanese Translation</h3>
+J-1: 先生が授業中に騒いでいた生徒に<u>叱りつけました</u>。
+J-2: もし再び遅刻したら、上司に<u>厳しく叱られること</u>間違いありません。

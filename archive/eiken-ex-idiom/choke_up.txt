@@ -1,0 +1,8 @@
+# Key:choke up
+<h3>English Sentences</h3>
+E-1: The athlete <u>choked up</u> on the pressure and missed the shot.
+E-2: When she saw the video of the proposal, she couldn't help but <u>choke up</u> with emotion.
+
+<h3>Japanese Translation</h3>
+J-1: アスリートはプレッシャーに<u>圧倒されて</u>ショットを外しました。
+J-2: プロポーズのビデオを見た彼女は、感動して<u>言葉に詰まってしまいました</u>。

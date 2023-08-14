@@ -1,0 +1,8 @@
+# Key:stake out
+<h3>English Sentences</h3>
+E-1: The detective decided to <u>stake out</u> the bank to catch the robbers.
+E-2: We need to <u>stake out</u> our territory before others claim it.
+
+<h3>Japanese Translation</h3>
+J-1: 刑事は泥棒を捕まえるために、その銀行を<u>張り込むこと</u>に決めました。
+J-2: 他の人に先を越されないために、当地を<u>確保すること</u>が必要です。

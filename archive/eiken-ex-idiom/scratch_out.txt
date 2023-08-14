@@ -1,0 +1,8 @@
+# Key:scratch out
+<h3>English Sentences</h3>
+E-1: I accidentally <u>scratched out</u> the wrong answer on the test.
+E-2: He decided to <u>scratch out</u> his previous plans and start fresh.
+
+<h3>Japanese Translation</h3>
+J-1: テストで誤って<u>消し忘れ</u>た回答をしました。
+J-2: 彼は以前の計画を<u>取り消して</u>新たに始めることにしました。

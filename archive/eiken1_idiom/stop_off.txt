@@ -1,0 +1,8 @@
+# Key:stop off
+<h3>English Sentences</h3>
+E-1: I need to <u>stop off</u> at the grocery store before going home. 
+E-2: Let's <u>stop off</u> at the coffee shop for a quick break.
+
+<h3>Japanese Translation</h3>
+J-1: 家に帰る前にスーパーで<u>ちょっと寄る</u>必要があります。
+J-2: ちょっと休憩するためにコーヒーショップで<u>立ち寄りましょう</u>。

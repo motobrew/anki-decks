@@ -1,0 +1,8 @@
+# Key:sound out
+<h3>English Sentences</h3>
+E-1: He asked his friends to <u>sound out</u> his plan before presenting it to the team.
+E-2: The teacher used flashcards to help the students <u>sound out</u> the words.
+
+<h3>Japanese Translation</h3>
+J-1: 彼はチームに提案する前に、友人に自分の計画を<u>相談しました</u>。
+J-2: 先生は生徒が単語を<u>発音できるように</u>、フラッシュカードを使いました。

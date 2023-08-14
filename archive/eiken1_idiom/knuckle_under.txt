@@ -1,0 +1,8 @@
+# Key:knuckle under
+<h3>English Sentences</h3>
+E-1: He didn't want to <u>knuckle under</u> to the demands of his boss.
+E-2: Despite the pressure, she refused to <u>knuckle under</u> and stood her ground.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は上司の要求に<u>従うことをしぶった</u>。
+J-2: 圧力にもかかわらず、彼女は<u>屈服せずに</u>立ち向かった。

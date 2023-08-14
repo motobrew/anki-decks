@@ -1,0 +1,8 @@
+# Key:get away with
+<h3>English Sentences</h3>
+E-1: He always manages to <u>get away with</u> skipping work.
+E-2: She tried to steal, but didn't <u>get away with</u> it.
+
+<h3>Japanese Translation</h3>
+J-1: 彼はいつも仕事をサボって<u>うまく逃げて</u>います。
+J-2: 彼女は盗みを試みましたが、<u>うまく逃げることはできませんでした</u>。

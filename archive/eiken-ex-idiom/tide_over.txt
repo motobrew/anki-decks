@@ -1,0 +1,8 @@
+# Key:tide over
+<h3>English Sentences</h3>
+E-1: I borrowed some money from my friend to <u>tide over</u> until I get paid.
+E-2: The snack I had before lunch helped to <u>tide me over</u> until dinner.
+
+<h3>Japanese Translation</h3>
+J-1: 私は友達から少しのお金を借りて、給料が入るまで<u>しのぎました</u>。
+J-2: 昼食前に食べたおやつは、夕食まで<u>間に合うようにしてくれました</u>。

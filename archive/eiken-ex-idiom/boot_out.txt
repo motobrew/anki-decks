@@ -1,0 +1,8 @@
+# Key:boot out
+<h3>English Sentences</h3>
+E-1: We need to <u>boot out</u> those rowdy party guests.
+E-2: The company decided to <u>boot out</u> the underperforming employees.
+
+<h3>Japanese Translation</h3>
+J-1: われらが騒がしいパーティーの客を<u>追い出す</u>必要があります。
+J-2: 会社は、成績不振の従業員を<u>排除する</u>ことに決めた。

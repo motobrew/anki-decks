@@ -1,0 +1,8 @@
+# Key:tip off
+<h3>English Sentences</h3>
+E-1: The police received a <u>tip-off</u> about a possible robbery.
+E-2: The informant decided to <u>tip off</u> the authorities about the illegal activities.
+
+<h3>Japanese Translation</h3>
+J-1: 警察は強盗の可能性についての<u>密告</u>を受けました。
+J-2: 情報提供者は違法な活動について警察に<u>密告すること</u>を決めました。

@@ -1,0 +1,8 @@
+# Key:louse up
+<h3>English Sentences</h3>
+E-1: She always manages to <u>louse up</u> her presentations with technical issues.
+E-2: I don't want to <u>louse up</u> this opportunity, so I'll make sure to prepare well.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女はいつも技術的な問題で彼女のプレゼンを<u>台無しにしてしまいます</u>。
+J-2: このチャンスを<u>台無しに</u>したくないので、よく準備します。

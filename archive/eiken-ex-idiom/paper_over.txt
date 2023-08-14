@@ -1,0 +1,8 @@
+# Key:paper over
+<h3>English Sentences</h3>
+E-1: They tried to <u>paper over</u> the cracks, but the issue persisted.
+E-2: The management team decided to <u>paper over</u> the financial losses in their report.
+
+<h3>Japanese Translation</h3>
+J-1: 問題は続いていましたが、彼らは争点を<u>ごまかそう</u>としました。
+J-2: 経営陣は報告書で財務上の損失を<u>隠そうと</u>決めました。

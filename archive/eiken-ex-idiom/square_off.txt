@@ -1,0 +1,8 @@
+# Key:square off
+<h3>English Sentences</h3>
+E-1: The two boxers are about to <u>square off</u> in the ring.
+E-2: My neighbor and I often <u>square off</u> in a friendly game of chess.
+
+<h3>Japanese Translation</h3>
+J-1: 2人のボクサーがリングで<u>対決する</u>予定です。
+J-2: 私の隣人と私はよくチェスの友好的なゲームで<u>対戦する</u>ことがあります。

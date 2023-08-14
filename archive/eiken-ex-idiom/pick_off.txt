@@ -1,0 +1,8 @@
+# Key:pick off
+<h3>English Sentences</h3>
+E-1: The sniper was able to <u>pick off</u> two enemy soldiers with one shot.
+E-2: The coach instructed the team to <u>pick off</u> the opposing team's best player.
+
+<h3>Japanese Translation</h3>
+J-1: スナイパーは一発で敵兵2人を<u>撃ち落とすことができました</u>。
+J-2: コーチはチームに指示して、相手チームのエースプレイヤーを<u>狙い取るように</u>と言いました。

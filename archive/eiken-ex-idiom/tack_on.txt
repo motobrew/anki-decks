@@ -1,0 +1,8 @@
+# Key:tack on
+<h3>English Sentences</h3>
+E-1: The company decided to <u>tack on</u> an extra fee for the additional service.
+E-2: She always tries to <u>tack on</u> unnecessary comments during meetings.
+
+<h3>Japanese Translation</h3>
+J-1: 会社は追加のサービスに対して追加料金を<u>付け加えること</u>を決めました。
+J-2: 彼女はいつもミーティング中に不必要なコメントを<u>付け加えようとします</u>。

@@ -1,0 +1,8 @@
+# Key:saddle A with B
+<h3>English Sentences</h3>
+E-1: The company <u>saddled me with</u> a heavy workload.
+E-2: She was <u>saddled with</u> the responsibility of organizing the event.
+
+<h3>Japanese Translation</h3>
+J-1: 会社は私に<u>重い仕事を押し付けました</u>。
+J-2: 彼女はイベントの組織の責任を<u>負わされました</u>。

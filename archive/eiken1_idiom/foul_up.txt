@@ -1,0 +1,8 @@
+# Key:foul up
+<h3>English Sentences</h3>
+E-1: He always manages to <u>foul up</u> even the simplest tasks.
+E-2: The heavy rainstorm <u>fouled up</u> our plans for a picnic.
+
+<h3>Japanese Translation</h3>
+J-1: 彼はいつも最も簡単な作業さえ<u>台無しにしてしまいます</u>。
+J-2: 大雨が降り、<u>ピクニックの計画を台無しにしました</u>。

@@ -1,0 +1,8 @@
+# Key:creep in
+<h3>English Sentences</h3>
+E-1: Doubts and insecurities tend to <u>creep in</u> when facing a difficult decision.
+E-2: The feeling of exhaustion starts to <u>creep in</u> after hours of nonstop work.
+
+<h3>Japanese Translation</h3>
+J-1: 困難な決断を迫られると、疑念と不安が<u>忍び寄る</u>傾向があります。
+J-2: 絶え間ない仕事の数時間後、疲労感が<u>じわじわと現れてくる</u>。

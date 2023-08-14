@@ -1,0 +1,8 @@
+# Key:filter out
+<h3>English Sentences</h3>
+E-1: The water is dirty, so we need to <u>filter out</u> the impurities.
+E-2: It's important to <u>filter out</u> unnecessary information when conducting research.
+
+<h3>Japanese Translation</h3>
+J-1: 水が汚れているので、不純物を<u>除去する</u>必要があります。
+J-2: 研究を行う際には、不要な情報を<u>除外する</u>ことが重要です。

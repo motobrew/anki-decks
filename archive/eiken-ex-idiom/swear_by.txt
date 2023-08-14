@@ -1,0 +1,8 @@
+# Key:swear by
+<h3>English Sentences</h3>
+E-1: My grandmother <u>swears by</u> drinking warm milk before bed to help with sleep.
+E-2: Many athletes <u>swear by</u> the benefits of a daily stretching routine.
+
+<h3>Japanese Translation</h3>
+J-1: 私の祖母は、よく眠るために寝る前に温かいミルクを飲むことを<u>絶対のこととして信じています</u>。
+J-2: 多くのアスリートは、毎日のストレッチの効果を<u>確信しています</u>。

@@ -1,0 +1,8 @@
+# Key:front for
+<h3>English Sentences</h3>
+E-1: The charity organization was just a <u>front for</u> money laundering.
+E-2: The beautiful shop was just a <u>front for</u> an illegal operation.
+
+<h3>Japanese Translation</h3>
+J-1: その慈善団体はただの金融洗浄の<u手口</u>だった。
+J-2: その美しい店は違法な取引の<uカムフラージュ</u>だった。

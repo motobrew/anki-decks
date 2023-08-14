@@ -1,0 +1,8 @@
+# Key:dole out
+<h3>English Sentences</h3>
+E-1: The teacher <u>dole out</u> assignments to the students.
+E-2: He always <u>dole out</u> advice without anyone asking for it.
+
+<h3>Japanese Translation</h3>
+J-1: 先生は生徒たちに課題を<u>配布する</u>。
+J-2: 彼はいつも自分から頼まれていないのにアドバイスを<u>押し付ける</u>。

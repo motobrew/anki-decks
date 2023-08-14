@@ -1,0 +1,8 @@
+# Key:flood in
+<h3>English Sentences</h3>
+E-1: The heavy rainfall caused a <u>flood in</u> the streets.
+E-2: A lot of orders <u>flood in</u> during the holiday season.
+
+<h3>Japanese Translation</h3>
+J-1: 激しい雨で街路が<u>洪水になりました</u>。
+J-2: クリスマスシーズンにはたくさんの注文が<u>殺到します</u>。

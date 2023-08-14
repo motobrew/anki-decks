@@ -1,0 +1,8 @@
+# Key:level with
+<h3>English Sentences</h3>
+E-1: He was honest and <u>leveled with</u> his employees about the company's financial difficulties.
+E-2: It's always better to <u>level with</u> your friends instead of hiding the truth.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は正直で、会社の財政的な困難について従業員たちに<u>正直に話しました</u>。
+J-2: 友達には真実を隠すよりも<u>正直に話す方がいつも良いです</u>。

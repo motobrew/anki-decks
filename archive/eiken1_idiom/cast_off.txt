@@ -1,0 +1,8 @@
+# Key:cast off
+<h3>English Sentences</h3>
+E-1: He <u>cast off</u> the rope and set sail on his boat.
+E-2: It's time to <u>cast off</u> old habits and start fresh.
+
+<h3>Japanese Translation</h3>
+J-1: 彼はロープを<u>解き放ち</u>、船で航海を始めました。
+J-2: 古い習慣を<u>捨て去り</u>、新たにスタートする時です。

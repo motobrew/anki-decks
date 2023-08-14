@@ -1,0 +1,8 @@
+# Key:pay off
+<h3>English Sentences</h3>
+E-1: It took years of hard work, but it finally <u>paid off</u> when she got promoted.
+E-2: He borrowed money to start his business, and now it's starting to <u>pay off</u>.
+
+<h3>Japanese Translation</h3>
+J-1: 年月の努力の結果、彼女は昇進することができ<u>ました。</u>
+J-2: 彼はビジネスを始めるためにお金を借りましたが、今は徐々に<u>利益が出始めています。</u>

@@ -1,0 +1,8 @@
+# Key:fork out
+<h3>English Sentences</h3>
+E-1: I had to <u>fork out</u> $50 to fix my flat tire.
+E-2: He always tries to avoid <u>forking out</u> money for dinner.
+
+<h3>Japanese Translation</h3>
+J-1: タイヤを修理するために50ドル<u>出さなければなりませんでした</u>。
+J-2: 彼はいつも夕食代を<u>出さずに済ませようとします</u>。

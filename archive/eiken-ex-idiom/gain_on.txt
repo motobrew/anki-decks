@@ -1,0 +1,8 @@
+# Key:gain on
+<h3>English Sentences</h3>
+E-1: I'm starting to <u>gain on</u> the leader in the race.
+E-2: He needs to work harder if he wants to <u>gain on</u> his competitors.
+
+<h3>Japanese Translation</h3>
+J-1: 私はレースのリーダーに<u>追いつこう</u>としています。
+J-2: 彼は競争相手に<u>追いつく</u>ためにもっと頑張る必要があります。

@@ -1,0 +1,8 @@
+# Key:bail out
+<h3>English Sentences</h3>
+E-1: The government decided to <u>bail out</u> the struggling company.
+E-2: The pilot had to <u>bail out</u> of the damaged aircraft.
+
+<h3>Japanese Translation</h3>
+J-1: 政府は苦境にある会社を<u>救済する</u>ことに決めました。
+J-2: パイロットは故障した航空機から<u>脱出せざるを得ませんでした</u>。

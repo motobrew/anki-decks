@@ -1,0 +1,8 @@
+# Key:tamper with
+<h3>English Sentences</h3>
+E-1: He was caught trying to <u>tamper with</u> the evidence.
+E-2: Please don't <u>tamper with</u> the thermostat; it's already set.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は証拠をいじくろうとしているのが見つかりました。
+J-2: エアコンの温度設定を<u>いじらないで</u>ください。もう設定済みです。

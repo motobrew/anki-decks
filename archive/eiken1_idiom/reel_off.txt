@@ -1,0 +1,8 @@
+# Key:reel off
+<h3>English Sentences</h3>
+E-1: I can <u>reel off</u> the names of all the U.S. presidents.
+E-2: She can <u>reel off</u> a list of all the countries in Africa.
+
+<h3>Japanese Translation</h3>
+J-1: 私はアメリカ合衆国の大統領の名前を<u>スラスラと言えます</u>。
+J-2: 彼女はアフリカの全ての国を<u>あっという間に言えます</u>。

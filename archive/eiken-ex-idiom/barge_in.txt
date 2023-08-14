@@ -1,0 +1,8 @@
+# Key:barge in
+<h3>English Sentences</h3>
+E-1: The door was open, so I decided to <u>barge in</u> without knocking.
+E-2: He always likes to <u>barge in</u> on our conversations without being invited.
+
+<h3>Japanese Translation</h3>
+J-1: ドアが開いていたので、ノックせずに<u>突撃しました</u>。
+J-2: 彼は招待されていないのにいつも<u>私たちの会話に割って入りたがります</u>。

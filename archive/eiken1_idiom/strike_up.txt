@@ -1,0 +1,8 @@
+# Key:strike up
+<h3>English Sentences</h3>
+E-1: He approached her and <u>struck up</u> a conversation.
+E-2: The band decided to <u>strike up</u> their famous song at midnight.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は彼女に近寄り、会話を<u>始めました</u>。
+J-2: バンドは真夜中に彼らの有名な曲を<u>演奏し始めました</u>。

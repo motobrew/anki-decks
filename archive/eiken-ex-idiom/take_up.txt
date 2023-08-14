@@ -1,0 +1,8 @@
+# Key:take up
+<h3>English Sentences</h3>
+E-1: I'm thinking of <u>taking up</u> playing the guitar as a hobby.
+E-2: She decided to <u>take up</u> the offer to study abroad.
+
+<h3>Japanese Translation</h3>
+J-1: 趣味としてギターを<u>始めること</u>を考えています。
+J-2: 彼女は留学の申し出を<u>受けること</u>に決めました。

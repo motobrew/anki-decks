@@ -1,0 +1,8 @@
+# Key:churn out
+<h3>English Sentences</h3>
+E-1: The factory <u>churns out</u> hundreds of products every day.
+E-2: He can <u>churn out</u> a new song in just a few hours.
+
+<h3>Japanese Translation</h3>
+J-1: その工場は毎日数百の製品を<u>生産しています</u>。
+J-2: 彼はたった数時間で新しい曲を<u>作り出せます</u>。

@@ -1,0 +1,8 @@
+# Key:cash in on
+<h3>English Sentences</h3>
+E-1: Companies are always looking for ways to <u>cash in on</u> the latest trends.
+E-2: He tried to <u>cash in on</u> his connections to get a job.
+
+<h3>Japanese Translation</h3>
+J-1: 企業は常に最新のトレンドを<u>利用して儲けようとしています</u>。
+J-2: 彼は自分のコネクションを<u>利用して仕事を得ようと</u>しました。

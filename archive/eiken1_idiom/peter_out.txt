@@ -1,0 +1,8 @@
+# Key:peter out
+<h3>English Sentences</h3>
+E-1: The campfire started to <u>peter out</u> as the night grew colder.
+E-2: The excitement of the party began to <u>peter out</u> after midnight.
+
+<h3>Japanese Translation</h3>
+J-1: 夜が冷え込むにつれて、キャンプファイヤーは<u>徐々に弱まっていきました</u>。
+J-2: パーティーの盛り上がりは深夜になってから<u>次第になくなっていきました</u>。

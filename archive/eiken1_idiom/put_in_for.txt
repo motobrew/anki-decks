@@ -1,0 +1,8 @@
+# Key:put in for
+<h3>English Sentences</h3>
+E-1: I need to <u>put in for</u> some vacation days next month.
+E-2: She decided to <u>put in for</u> a promotion at work.
+
+<h3>Japanese Translation</h3>
+J-1: 来月は休暇を<u>申請しなければなりません</u>。
+J-2: 彼女は職場で<b>昇進を申請する</u>ことに決めた。

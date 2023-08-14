@@ -1,0 +1,8 @@
+# Key:storm out
+<h3>English Sentences</h3>
+E-1: She was so angry that she <u>stormed out</u> of the meeting.
+E-2: The thunder echoed as the dark clouds <u>stormed out</u> overhead.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は怒っていて、会議から<u>立ち去りました</u>。
+J-2: 暗い雲が頭上を<u>通り過ぎる中で、雷が鳴り響きました</u>。

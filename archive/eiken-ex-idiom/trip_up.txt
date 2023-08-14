@@ -1,0 +1,8 @@
+# Key:trip up
+<h3>English Sentences</h3>
+E-1: I always <u>trip up</u> on the last step of the staircase.
+E-2: Don't let your nerves <u>trip you up</u> during the interview.
+
+<h3>Japanese Translation</h3>
+J-1: 私はいつも階段の最後の段で<u>つまずいてしまいます</u>。
+J-2: 面接中に緊張して<u>失敗しないように</u>してください。

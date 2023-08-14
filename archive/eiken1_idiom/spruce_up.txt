@@ -1,0 +1,8 @@
+# Key:spruce up
+<h3>English Sentences</h3>
+E-1: I need to <u>spruce up</u> my resume before the job interview.
+E-2: Let's <u>spruce up</u> the living room before guests arrive.
+
+<h3>Japanese Translation</h3>
+J-1: 就職面接前に履歴書を<u>手直し</u>しなければなりません。
+J-2: ゲストが到着する前にリビングルームを<u>整えましょう</u>。

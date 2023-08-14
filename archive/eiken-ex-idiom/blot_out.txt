@@ -1,0 +1,8 @@
+# Key:blot out
+<h3>English Sentences</h3>
+E-1: The rain was so heavy that it <u>blotted out</u> the sunlight.
+E-2: She tried to <u>blot out</u> the painful memories from her mind.
+
+<h3>Japanese Translation</h3>
+J-1: 雨がとても激しくて、日光が<u>覆い隠されました</u>。
+J-2: 彼女はつらい思い出を<u>忘れようとした</u>。

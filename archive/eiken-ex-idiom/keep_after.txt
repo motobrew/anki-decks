@@ -1,0 +1,8 @@
+# Key:keep after
+<h3>English Sentences</h3>
+E-1: The teacher had to <u>keep after</u> the students to submit their assignments on time.
+E-2: I need to <u>keep after</u> my brother to clean up his room.
+
+<h3>Japanese Translation</h3>
+J-1: 先生は生徒たちに宿題を時間通りに提出するよう<u>しつこく言いつけました。</u>
+J-2: 兄に部屋の片付けを<u>しつこく言い続ける</u>必要があります。

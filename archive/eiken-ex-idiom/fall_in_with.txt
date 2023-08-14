@@ -1,0 +1,8 @@
+# Key:fall in with
+<h3>English Sentences</h3>
+E-1: I <u>fell in with</u> a group of musicians and joined their band.
+E-2: Sarah <u>fell in with</u> a bad crowd and started getting into trouble.
+
+<h3>Japanese Translation</h3>
+J-1: 私は音楽家のグループに<u>出会って</u>、そのバンドに加入しました。
+J-2: サラは<u>悪い仲間に入って</u>、トラブルに巻き込まれ始めました。

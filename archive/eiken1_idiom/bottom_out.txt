@@ -1,0 +1,8 @@
+# Key:bottom out
+<h3>English Sentences</h3>
+E-1: The stock market <u>bottomed out</u> after a sudden drop in prices.
+E-2: She hit rock bottom after losing her job and getting divorced.
+
+<h3>Japanese Translation</h3>
+J-1: 株式市場は価格の急落後、<u>底をつきました</u>。
+J-2: 彼女は仕事を失い離婚した後、<u>最低の状態になりました</u>。

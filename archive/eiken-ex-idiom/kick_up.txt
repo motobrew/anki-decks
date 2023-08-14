@@ -1,0 +1,8 @@
+# Key:kick up
+<h3>English Sentences</h3>
+E-1: The wind <u>kicked up</u> and blew my hat off.
+E-2: The storm <u>kicked up</u> huge waves in the ocean.
+
+<h3>Japanese Translation</h3>
+J-1: 風が<u>強風になって</u>、帽子が飛んでいきました。
+J-2: 嵐のために、海には大きな波が<u>立ちました</u>。

@@ -1,0 +1,8 @@
+# Key:squeak by
+<h3>English Sentences</h3>
+E-1: The mouse managed to <u>squeak by</u> the cat without being noticed.
+E-2: We barely <u>squeaked by</u> in the exam with the minimum passing score.
+
+<h3>Japanese Translation</h3>
+J-1: ネズミは猫に気づかれずに<u>かすかに抜け</u>ることができました。
+J-2: 私たちは試験でかろうじて<u>最低合格点</u>で合格しました。

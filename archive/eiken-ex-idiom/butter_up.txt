@@ -1,0 +1,8 @@
+# Key:butter up
+<h3>English Sentences</h3>
+E-1: She always tries to <u>butter up</u> her boss by complimenting his work.
+E-2: He tried to <u>butter up</u> his parents by offering to do all the household chores.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女はいつも上司を褒めていつもります、上司に<u>お世辞を言って</u>。
+J-2: 彼は両親に全ての家事をやると申し出て、彼らを<u>ごまかそうとしました</u>。

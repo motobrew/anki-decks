@@ -1,0 +1,8 @@
+# Key:flesh out
+<h3>English Sentences</h3>
+E-1: We need more details to <u>flesh out</u> our business plan.
+E-2: The author will <u>flesh out</u> the characters in the next chapter.
+
+<h3>Japanese Translation</h3>
+J-1: ビジネスプランを<u>詳しく具体化</u>するために、もっと詳細が必要です。
+J-2: 著者は、次の章でキャラクターを<u>詳細に描写する</u>予定です。

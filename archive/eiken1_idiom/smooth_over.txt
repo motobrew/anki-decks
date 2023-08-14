@@ -1,0 +1,8 @@
+# Key:smooth over
+<h3>English Sentences</h3>
+E-1: I had to <u>smooth over</u> the misunderstanding between them.
+E-2: They tried to <u>smooth over</u> their disagreement before the meeting.
+
+<h3>Japanese Translation</h3>
+J-1: 彼らの誤解を<u>取り持つ</u>必要がありました。
+J-2: 会議前に彼らは意見の相違を<u>なだめようとしました</u>。

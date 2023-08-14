@@ -1,0 +1,8 @@
+# Key:clog up
+<h3>English Sentences</h3>
+E-1: The drain was <u>clogged up</u> with hair and soap scum.
+E-2: The traffic is always <u>clogged up</u> during rush hour.
+
+<h3>Japanese Translation</h3>
+J-1: 排水口が<u>髪の毛と石けんカスで詰まってしまった</u>。
+J-2: ラッシュアワーにはいつも<u>交通渋滞している</u>。

@@ -1,0 +1,8 @@
+# Key:stamp out
+<h3>English Sentences</h3>
+E-1: The government is determined to <u>stamp out</u> corruption in the country.
+E-2: We need to work together to <u>stamp out</u> bullying in schools.
+
+<h3>Japanese Translation</h3>
+J-1: 政府は国内の腐敗を<u>根絶する</u>決意を持っています。
+J-2: 学校でのいじめを<u>根絶する</u>ために私たちは協力する必要があります。

@@ -1,0 +1,8 @@
+# Key:spring up
+<h3>English Sentences</h3>
+E-1: Beautiful flowers <u>spring up</u> in our garden every spring.
+E-2: The new shopping mall has <u>sprung up</u> in the city center.
+
+<h3>Japanese Translation</h3>
+J-1: 毎年春に美しい花が私たちの庭に<u>咲き始めます</u>。
+J-2: 新しいショッピングモールが市の中心部に<u>急に建設されました</u>。

@@ -1,0 +1,8 @@
+# Key:perk up
+<h3>English Sentences</h3>
+E-1: She <u>perked up</u> when she heard her favorite song playing.
+E-2: The coffee helped him to <u>perk up</u> after a long day at work.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女はお気に入りの曲が流れると<u>元気づけられました</u>。
+J-2: 彼は長い一日の後、コーヒーで<u>活気づけました</u>。

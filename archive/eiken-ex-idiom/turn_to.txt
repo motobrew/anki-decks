@@ -1,0 +1,8 @@
+# Key:turn to
+<h3>English Sentences</h3>
+E-1: I often <u>turn to</u> my parents for advice when I am unsure.
+E-2: When times get tough, some people <u>turn to</u> comfort food for solace.
+
+<h3>Japanese Translation</h3>
+J-1: 私は迷った時によく<u>相談する</u>ために両親に頼ります。
+J-2: 困難な時に、何人かの人は<u>慰めの食べ物</u>に走ることがあります。

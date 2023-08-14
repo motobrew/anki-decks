@@ -1,0 +1,8 @@
+# Key:beef up
+<h3>English Sentences</h3>
+E-1: He decided to <u>beef up</u> his workout routine to get stronger.
+E-2: The company needs to <u>beef up</u> security measures to prevent cyber attacks.
+
+<h3>Japanese Translation</h3>
+J-1: 彼はもっと強くなるために、トレーニングを<u>強化する</u>ことにしました。
+J-2: 企業はサイバー攻撃を防ぐために、セキュリティ対策を<u>強化する</u>必要があります。

@@ -1,0 +1,8 @@
+# Key:crank out
+<h3>English Sentences</h3>
+E-1: The bakery <u>cranks out</u> hundreds of loaves of bread every day.
+E-2: He can <u>crank out</u> a song in just a few minutes.
+
+<h3>Japanese Translation</h3>
+J-1: そのパン屋は、毎日何百ものパンを<u>製造しています</u>。
+J-2: 彼はわずか数分で曲を<u>作り出すことができます</u>。

@@ -1,0 +1,8 @@
+# Key:etch A into B
+<h3>English Sentences</h3>
+E-1: She <u>etched her name</u> into the tree trunk with a knife.
+E-2: The artist used a chisel to <u>etch a beautiful design</u> into the marble sculpture.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女はナイフで木の幹に<u>彼女の名前を刻み込んだ</u>。
+J-2: その芸術家は彫刻刀を使って大理石の彫刻に<u>美しいデザインを刻んだ</u>。

@@ -1,0 +1,8 @@
+# Key:stand in for A
+<h3>English Sentences</h3>
+E-1: The teacher couldn't come, so I had to <u>stand in for him</u>.
+E-2: She asked her sister to <u>stand in for her</u> at the meeting.
+
+<h3>Japanese Translation</h3>
+J-1: 先生が来られなかったので、私が<u>彼の代わりに立つ</u>必要がありました。
+J-2: 彼女は姉に会議で<u>彼女の代わりをしてもらいました</u>。

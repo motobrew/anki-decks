@@ -1,0 +1,8 @@
+# Key:crack up
+<h3>English Sentences</h3>
+E-1: The comedian's joke made the entire audience <u>crack up</u> with laughter.
+E-2: The car <u>cracked up</u> after crashing into a tree.
+
+<h3>Japanese Translation</h3>
+J-1: そのコメディアンのジョークで全ての観客が爆笑しました。
+J-2: 車が木に衝突した後、壊れてしまいました。

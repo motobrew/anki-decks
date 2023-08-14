@@ -1,0 +1,8 @@
+# Key:prop up
+<h3>English Sentences</h3>
+E-1: She used cushions to <u>prop up</u> the sagging mattress.
+E-2: The government's economic policies are designed to <u>prop up</u> the struggling industry.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女はクッションを使ってたるみのあるマットレスを<u>支えました</u>。
+J-2: 政府の経済政策は苦境にある産業を<u>支える</u>ように設計されています。

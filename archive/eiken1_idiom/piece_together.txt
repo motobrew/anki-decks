@@ -1,0 +1,8 @@
+# Key:piece together
+<h3>English Sentences</h3>
+E-1: After researching, I was able to <u>piece together</u> the sequence of events.
+E-2: The detective used the clues to <u>piece together</u> the criminal's motive.
+
+<h3>Japanese Translation</h3>
+J-1: 調査した後、私は出来事の経緯を<u>つなぎ合わせる</u>ことができました。
+J-2: 刑事は手がかりを使って犯人の動機を<u>組み立てました</u>。

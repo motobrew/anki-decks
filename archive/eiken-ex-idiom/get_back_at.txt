@@ -1,0 +1,8 @@
+# Key:get back at
+<h3>English Sentences</h3>
+E-1: I need to <u>get back at</u> my sister for ruining my favorite sweater.
+E-2: He wants to <u>get back at</u> his boss for treating him unfairly.
+
+<h3>Japanese Translation</h3>
+J-1: 私のお気に入りのセーターを台無しにした妹に<u>仕返し</u>をしなければなりません。
+J-2: 彼は上司が不公平に扱ったことに<u>報復</u>したいと思っています。

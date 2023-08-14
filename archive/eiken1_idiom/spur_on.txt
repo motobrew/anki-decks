@@ -1,0 +1,8 @@
+# Key:spur on
+<h3>English Sentences</h3>
+E-1: The coach's motivational speech really <u>spurred me on</u> to do my best.
+E-2: The success of my colleagues <u>spurred me on</u> to work harder.
+
+<h3>Japanese Translation</h3>
+J-1: コーチのやる気を引き出すスピーチは、私に最善を尽くすように<u>駆り立てました</u>。
+J-2: 同僚の成功は、もっと一生懸命働くように<u>刺激を与えました</u>。

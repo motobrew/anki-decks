@@ -1,0 +1,8 @@
+# Key:fall flat
+<h3>English Sentences</h3>
+E-1: The comedian's joke <u>fell flat</u> and no one laughed.
+E-2: The new marketing campaign <u>fell flat</u> and did not attract any customers.
+
+<h3>Japanese Translation</h3>
+J-1: そのコメディアンのジョークは<u>空振りでした</u>、誰も笑いませんでした。
+J-2: 新しいマーケティングキャンペーンは<u>うまくいかず</u>、顧客を引き付けませんでした。

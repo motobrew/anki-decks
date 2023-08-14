@@ -1,0 +1,8 @@
+# Key:butt in
+<h3>English Sentences</h3>
+E-1: My little brother always tries to <u>butt in</u> on my conversations.
+E-2: I don't appreciate it when people <u>butt in</u> while I'm speaking.
+
+<h3>Japanese Translation</h3>
+J-1: 私の弟はいつも私の会話に<u>割り込んで</u>きます。
+J-2: 私が話している時に人が<u>口を挟む</u>ことは好きではありません。

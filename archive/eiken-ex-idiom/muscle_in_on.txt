@@ -1,0 +1,8 @@
+# Key:muscle in on
+<h3>English Sentences</h3>
+E-1: He always tries to <u>muscle in on</u> our conversations, interrupting us.
+E-2: The big corporation has been trying to <u>muscle in on</u> the market, pushing out smaller competitors.
+
+<h3>Japanese Translation</h3>
+J-1: 彼はいつも私たちの会話に<u>割り込もう</u>として、私たちを邪魔します。
+J-2: 大手企業が市場に<u>進出しよう</u>としており、小規模な競合他社を駆逐しています。

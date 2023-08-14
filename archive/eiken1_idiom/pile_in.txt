@@ -1,0 +1,8 @@
+# Key:pile in
+<h3>English Sentences</h3>
+E-1: We all <u>piled into</u> the car for a road trip.
+E-2: The school bus arrived and the children <u>piled in</u> one by one.
+
+<h3>Japanese Translation</h3>
+J-1: 私たちは皆、ロードトリップのために車に<u>詰め込みました</u>。
+J-2: 学校のバスが到着し、子供たちは一人ずつ<u>乗り込みました</u>。

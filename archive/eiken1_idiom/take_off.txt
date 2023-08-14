@@ -1,0 +1,8 @@
+# Key:take off
+<h3>English Sentences</h3>
+E-1: I need to <u>take off</u> my shoes before entering the house.
+E-2: The plane was delayed due to bad weather, so it couldn't <u>take off</u> on time.
+
+<h3>Japanese Translation</h3>
+J-1: 家に入る前に、靴を<u>脱がなければなりません</u>。
+J-2: 悪天候のため、飛行機は定刻に<u>離陸できませんでした</u>。

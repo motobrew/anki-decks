@@ -1,0 +1,8 @@
+# Key:break down
+<h3>English Sentences</h3>
+E-1: My car <u>broke down</u> on the way to the airport.
+E-2: It's important to take breaks to avoid <u>breaking down</u> mentally.
+
+<h3>Japanese Translation</h3>
+J-1: 空港へ行く途中で車が<u故障しました</u>。
+J-2: 精神的に<u>破壊される</u>のを避けるために、休憩を取ることは重要です。

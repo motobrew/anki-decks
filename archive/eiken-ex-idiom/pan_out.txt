@@ -1,0 +1,8 @@
+# Key:pan out
+<h3>English Sentences</h3>
+E-1: I hope everything <u>pan out</u> well with your new business venture.
+E-2: Despite our efforts, the plan didn't <u>pan out</u> as we had hoped.
+
+<h3>Japanese Translation</h3>
+J-1: あなたの新しいビジネスの試みがうまくいくことを願っています。
+J-2: 私たちの努力にもかかわらず、計画は私たちの期待どおりにはうまくいきませんでした。

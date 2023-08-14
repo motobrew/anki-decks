@@ -1,0 +1,8 @@
+# Key:crouch down
+<h3>English Sentences</h3>
+E-1: The hiker had to <u>crouch down</u> to fit through the narrow cave entrance.
+E-2: The suspect tried to <u>crouch down</u> to avoid being seen by the police.
+
+<h3>Japanese Translation</h3>
+J-1: 登山者は狭い洞窟の入り口に入るために<u>かがまなければならなかった</u>。
+J-2: 犯人は警察に見つからないように<u>しゃがみ込む</u>ことを試みた。

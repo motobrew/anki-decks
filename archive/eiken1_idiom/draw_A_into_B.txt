@@ -1,0 +1,8 @@
+# Key:draw A into B
+<h3>English Sentences</h3>
+E-1: The children's book <u>drew</u> me <u>into</u> a magical world of adventure.
+E-2: She tried to <u>draw</u> him <u>into</u> the conversation, but he remained silent.
+
+<h3>Japanese Translation</h3>
+J-1: 子供の本は私を魔法の冒険の世界に<u>引き込みました</u>。
+J-2: 彼女は彼を会話に<u>巻き込もうとしました</u>が、彼は黙っていました。

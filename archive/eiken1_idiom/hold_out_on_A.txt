@@ -1,0 +1,8 @@
+# Key:hold out on A
+<h3>English Sentences</h3>
+E-1: My friend always <u>holds out on me</u> and never shares her dessert.
+E-2: The suspect refused to talk and <u>held out on the police</u> during questioning.
+
+<h3>Japanese Translation</h3>
+J-1: 友達はいつも私に対して出し惜しみをして、デザートを共有しません。
+J-2:容疑者は口を割らず、尋問中に警察に情報をくれませんでした。

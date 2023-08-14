@@ -1,0 +1,8 @@
+# Key:push for
+<h3>English Sentences</h3>
+E-1: The CEO is determined to <u>push for</u> a higher budget for the project.
+E-2: The protesters are rallying to <u>push for</u> stricter gun control laws.
+
+<h3>Japanese Translation</h3>
+J-1: CEOはプロジェクトの予算を増やすために<u>進んで取り組んでいます</u>。
+J-2: デモ参加者はより厳しい銃規制法を<u>求めてがんばっています</u>。

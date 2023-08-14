@@ -1,0 +1,8 @@
+# Key:rifle through
+<h3>English Sentences</h3>
+E-1: I need to <u>rifle through</u> my drawers to find my keys.
+E-2: The detective decided to <u>rifle through</u> the suspect's belongings for evidence.
+
+<h3>Japanese Translation</h3>
+J-1: 鍵を見つけるために引き出しを<u>くまなくあさらなければならない</u>。
+J-2: 刑事は証拠を見つけるために容疑者の持ち物を<u>じっくり調べることにした</u>。

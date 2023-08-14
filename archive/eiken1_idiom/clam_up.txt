@@ -1,0 +1,8 @@
+# Key:clam up
+<h3>English Sentences</h3>
+E-1: He tends to <u>clam up</u> when he's asked personal questions.
+E-2: The witness decided to <u>clam up</u> during the trial.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は個人的な質問をされると<u>黙り込む</u>傾向があります。
+J-2: その目撃者は、裁判中に<u>黙ること</u>を決めました。

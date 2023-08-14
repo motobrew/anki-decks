@@ -1,0 +1,8 @@
+# Key:shy away from
+<h3>English Sentences</h3>
+E-1: Don't <u>shy away from</u> taking risks; it can lead to great opportunities.
+E-2: She tends to <u>shy away from</u> public speaking due to her stage fright.
+
+<h3>Japanese Translation</h3>
+J-1: 大胆なリスクを<u>避けること</u>はせず、それは素晴らしい機会につながる可能性があります。
+J-2: 彼女は舞台恐怖症のため、公の場でのスピーチを<u>避けること</u>が多いです。

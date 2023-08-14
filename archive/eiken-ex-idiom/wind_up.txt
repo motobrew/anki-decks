@@ -1,0 +1,8 @@
+# Key:wind up
+<h3>English Sentences</h3>
+E-1: Don't <u>wind up</u> the baby, it's bedtime.
+E-2: I didn't mean to <u>wind him up</u>, I was just joking.
+
+<h3>Japanese Translation</h3>
+J-1: 赤ちゃんを<u>泣かせること</u>になるから、寝かせる時間だよ。
+J-2: 冗談を言っただけで<u>彼をいらつかせるつもりはなかった</u>。

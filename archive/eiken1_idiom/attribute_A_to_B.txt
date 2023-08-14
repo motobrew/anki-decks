@@ -1,0 +1,8 @@
+# Key:attribute A to B
+<h3>English Sentences</h3>
+E-1: He <u>attributed his success to</u> hard work and determination.
+E-2: The professor <u>attributed the student's failure to</u> lack of preparation.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は、成功を<u>努力と決断力によるものだと</u>考えました。
+J-2: 教授は、学生の失敗を<u>準備不足に帰すること</u>にしました。

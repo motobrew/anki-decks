@@ -1,0 +1,8 @@
+# Key:wolf down
+<h3>English Sentences</h3>
+E-1: He always <u>wolfed down</u> his food as if he was starving.
+E-2: The children <u>wolfed down</u> their ice cream before it melted.
+
+<h3>Japanese Translation</h3>
+J-1: 彼はいつも食事を<u>がつがつ食べて</u>いるかのようでした。
+J-2: 子供たちはアイスクリームを溶ける前に<u>がめつく食べました</u>。

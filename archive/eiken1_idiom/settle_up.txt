@@ -1,0 +1,8 @@
+# Key:settle up
+<h3>English Sentences</h3>
+E-1: We need to <u>settle up</u> the bill before leaving the restaurant.
+E-2: They had a disagreement, but eventually they <u>settled up</u> and became friends again.
+
+<h3>Japanese Translation</h3>
+J-1: レストランを出る前に、勘定を<u>精算</u>しなければなりません。
+J-2: 彼らは意見の不一致がありましたが、最終的には<u>和解して</u>再び友達になりました。

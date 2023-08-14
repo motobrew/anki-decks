@@ -1,0 +1,8 @@
+# Key:strike up
+<h3>English Sentences</h3>
+E-1: We should <u>strike up</u> a conversation with our new neighbors.
+E-2: The band <u>struck up</u> a lively tune and the crowd started dancing.
+
+<h3>Japanese Translation</h3>
+J-1: 新しい隣人との会話を<u>始めましょう</u>。
+J-2: バンドが元気な曲を<u>奏し始めて</u>、観衆が踊り出しました。

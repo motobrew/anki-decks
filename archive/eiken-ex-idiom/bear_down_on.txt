@@ -1,0 +1,8 @@
+# Key:bear down on
+<h3>English Sentences</h3>
+E-1: The storm cloud started to <u>bear down on</u> the small town.
+E-2: The deadline is approaching and the pressure is starting to <u>bear down on</u> me.
+
+<h3>Japanese Translation</h3>
+J-1: 嵐の雲が小さな町に<u>押し寄せてきた</u>。
+J-2: 〆切が近づき、プレッシャーが私に<u>重くのしかかってくる</u>。

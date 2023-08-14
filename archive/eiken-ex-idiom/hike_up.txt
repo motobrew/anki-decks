@@ -1,0 +1,8 @@
+# Key:hike up
+<h3>English Sentences</h3>
+E-1: The tour guide advised us to <u>hike up</u> our pants before crossing the river.
+E-2: The company decided to <u>hike up</u> the prices of their products due to increased production costs.
+
+<h3>Japanese Translation</h3>
+J-1: ツアーガイドは川を渡る前に、ズボンを<u>まくり上げるように</u>勧めました。
+J-2: 企業は生産コストの増加を理由に、製品の価格を<u>値上げすることにしました</u>。

@@ -1,0 +1,8 @@
+# Key:hold off
+<h3>English Sentences</h3>
+E-1: Can you <u>hold off</u> on making that decision until tomorrow?
+E-2: The rain showers should <u>hold off</u> until later this afternoon.
+
+<h3>Japanese Translation</h3>
+J-1: その決定を明日まで<u>延期してくれますか</u>？
+J-2: 雨の降りが午後の後半まで<u>保たれるはずです</u>。

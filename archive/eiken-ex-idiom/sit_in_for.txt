@@ -1,0 +1,8 @@
+# Key:sit in for
+<h3>English Sentences</h3>
+E-1: I had to <u>sit in for</u> my colleague while she was on a vacation.
+E-2: The boss asked me to <u>sit in for</u> him during the important meeting.
+
+<h3>Japanese Translation</h3>
+J-1: 同僚が休暇中だったため、私は<u>代わりを務める</u>必要がありました。
+J-2: ボスは大事な会議で私に<u>代わって座るよう頼みました</u>。

@@ -1,0 +1,8 @@
+# Key:fend off
+<h3>English Sentences</h3>
+E-1: She used a broom to <u>fend off</u> the attacking dogs.
+E-2: The company is trying to <u>fend off</u> the competition by lowering prices.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は襲ってくる犬たちを<u>撃退する</u>ためにほうきを使いました。
+J-2: その会社は価格を下げることで競争相手を<u>撃退しよう</u>としています。

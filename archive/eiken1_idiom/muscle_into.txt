@@ -1,0 +1,8 @@
+# Key:muscle into
+<h3>English Sentences</h3>
+E-1: He always tries to <u>muscle into</u> other people's conversations.
+E-2: The large corporation wants to <u>muscle into</u> the market dominated by small businesses.
+
+<h3>Japanese Translation</h3>
+J-1: 彼はいつも他人の会話に<strong>割り込もう</strong>とします。
+J-2: その大企業は、小規模企業が支配している市場に<strong>進出しよう</strong>としています。

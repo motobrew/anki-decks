@@ -1,0 +1,8 @@
+# Key:blurt out
+<h3>English Sentences</h3>
+E-1: I didn't mean to <u>blurt out</u> the surprise party plan.
+E-2: Emily always <u>blurted out</u> her thoughts without thinking first.
+
+<h3>Japanese Translation</h3>
+J-1: 私はサプライズパーティーの計画を<u>うっかり口走って</u>しまったつもりはありませんでした。
+J-2: エミリーはいつも<u>考えずに思ったことを口に出してしまいました</u>。

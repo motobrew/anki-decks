@@ -1,0 +1,8 @@
+# Key:get in on
+<h3>English Sentences</h3>
+E-1: I want to <u>get in on</u> the excitement and join the dance competition.
+E-2: The kids always try to <u>get in on</u> their parents' conversation and share their opinions.
+
+<h3>Japanese Translation</h3>
+J-1: 私もその興奮に<u>参加したい</u>し、ダンスコンテストに参加したいです。
+J-2: 子供たちはいつも両親の会話にうまく<u>参加しよう</u>として、自分の意見を共有します。

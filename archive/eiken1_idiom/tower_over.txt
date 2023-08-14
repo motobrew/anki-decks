@@ -1,0 +1,8 @@
+# Key:tower over
+<h3>English Sentences</h3>
+E-1: The <u>tower over</u> the city provided a breathtaking view.
+E-2: His charisma and confidence allowed him to <u>tower over</u> his competitors.
+
+<h3>Japanese Translation</h3>
+J-1: 市街地を<u>見下ろす</u>塔からは息をのむような景色が広がっていました。
+J-2: 彼のカリスマと自信によって、彼は競争相手たちを<u>圧倒していました</u>。

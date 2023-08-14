@@ -1,0 +1,8 @@
+# Key:rope in
+<h3>English Sentences</h3>
+E-1: The teacher decided to <u>rope in</u> a guest speaker for the class.
+E-2: My friends always try to <u>rope me in</u> to their crazy adventures.
+
+<h3>Japanese Translation</h3>
+J-1: 先生はクラスのために<u>ゲストスピーカーを招くことに決めました</u>。
+J-2: 友達はいつも私を<u>彼らの狂った冒険に巻き込もうとします</u>。

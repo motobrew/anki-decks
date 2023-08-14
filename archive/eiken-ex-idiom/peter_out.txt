@@ -1,0 +1,8 @@
+# Key:peter out
+<h3>English Sentences</h3>
+E-1: The music started to <u>peter out</u> as the concert ended.
+E-2: Our enthusiasm for the project began to <u>peter out</u> after several setbacks.
+
+<h3>Japanese Translation</h3>
+J-1: コンサートが終わると音楽は<u>徐々に弱くなっていきました</u>。
+J-2: いくつかの逆風の後、私たちのプロジェクトへの熱意は<u>だんだんと失われていきました</u>。

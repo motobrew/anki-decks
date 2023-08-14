@@ -1,0 +1,8 @@
+# Key:carve up
+<h3>English Sentences</h3>
+E-1: The chef will <u>carve up</u> the turkey for Thanksgiving dinner.
+E-2: The siblings would often <u>carve up</u> the cake to share among themselves.
+
+<h3>Japanese Translation</h3>
+J-1: シェフは感謝祭のディナーで七面鳥を<u>切り分けます</u>。
+J-2: 兄弟はよくケーキを<u>分割して</u>分け合った。

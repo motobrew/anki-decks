@@ -1,0 +1,8 @@
+# Key:weigh in
+<h3>English Sentences</h3>
+E-1: I need to <u>weigh in</u> on this decision before we finalize it.
+E-2: The athlete will <u>weigh in</u> before the boxing match tomorrow.
+
+<h3>Japanese Translation</h3>
+J-1: 私はこの決定に<u>意見を言わなければならない</u>ので、最終決定する前に。
+J-2: アスリートは明日のボクシング試合の前に<u>体重を計る</u>ことになります。

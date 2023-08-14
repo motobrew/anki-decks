@@ -1,0 +1,8 @@
+# Key:bail out
+<h3>English Sentences</h3>
+E-1: We had to <u>bail out</u> the boat after it started taking on water.
+E-2: The government decided to <u>bail out</u> the struggling company with a financial rescue package.
+
+<h3>Japanese Translation</h3>
+J-1: ボートが水を浸し始めたので、私たちは<u>救助作業を行う</u>必要がありました。
+J-2: 政府は財政支援パッケージで<u>経営危機にある企業を救済する</u>ことにしました。

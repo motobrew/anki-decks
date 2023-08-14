@@ -1,0 +1,8 @@
+# Key:sift through
+<h3>English Sentences</h3>
+E-1: I need to <u>sift through</u> all these documents to find the right one.
+E-2: She had to <u>sift through</u> a lot of information before making a decision.
+
+<h3>Japanese Translation</h3>
+J-1: 正しいものを見つけるために、私はこれらの文書を<u>選り分ける</u>必要があります。
+J-2: 彼女は意思決定する前に、多くの情報を<u>整理しなければ</u>ならなかった。

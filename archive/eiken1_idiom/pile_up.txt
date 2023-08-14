@@ -1,0 +1,8 @@
+# Key:pile up
+<h3>English Sentences</h3>
+E-1: A <u>pile up</u> of cars caused a huge traffic jam.
+E-2: If you don't do your laundry, it will <u>pile up</u> and become overwhelming.
+
+<h3>Japanese Translation</h3>
+J-1: 車が<u>積み重なり</u>大渋滞を引き起こしました。
+J-2: 洗濯をしないと、洗濯物が<u>積み重なって</u>圧倒的になります。

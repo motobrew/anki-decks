@@ -1,0 +1,8 @@
+# Key:zero in on
+<h3>English Sentences</h3>
+E-1: The detective was able to <u>zero in on</u> the suspect's location.
+E-2: When giving a presentation, it's important to <u>zero in on</u> the key points.
+
+<h3>Japanese Translation</h3>
+J-1: 探偵は容疑者の場所を<u>厳密に特定</u>することができた。
+J-2: プレゼンテーションをする際には、重要なポイントに<u>的を絞る</u>ことが重要です。

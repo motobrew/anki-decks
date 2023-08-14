@@ -1,0 +1,8 @@
+# Key:mete out
+<h3>English Sentences</h3>
+E-1: The judge <u>meted out</u> a harsh punishment for the crime.
+E-2: The coach will <u>mete out</u> equal playing time to all the team members.
+
+<h3>Japanese Translation</h3>
+J-1: 判事はその犯罪に対して厳しい刑罰を<u>与えました</u>。
+J-2: コーチは全てのチームメンバーに公平なプレー時間を<u>割り当てる</u>予定です。

@@ -1,0 +1,8 @@
+# Key:settle up
+<h3>English Sentences</h3>
+E-1: The bill came, and it was time to <u>settle up</u> with the restaurant.
+E-2: After a long argument, they finally decided to <u>settle up</u> and end the dispute.
+
+<h3>Japanese Translation</h3>
+J-1: 勘定がやってきて、レストランで<u>支払いを済ませる</u>時がきました。
+J-2: 長い論争の後、彼らはついに<u>落ち着いて終わらせる</u>ことに決めました。

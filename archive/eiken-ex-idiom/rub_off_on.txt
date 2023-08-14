@@ -1,0 +1,8 @@
+# Key:rub off on
+<h3>English Sentences</h3>
+E-1: His positive attitude really <u>rubs off on</u> the rest of the team.
+E-2: Spending time with her adventurous friends <u>rubs off on</u> me, and now I love hiking too.
+
+<h3>Japanese Translation</h3>
+J-1: 彼のポジティブな態度はチームの他のメンバーに<u>感化されます</u>。
+J-2: 彼女の冒険好きな友達と時間を過ごすと、私にもそれが<u>影響を与えて</u>今ではハイキングが好きです。

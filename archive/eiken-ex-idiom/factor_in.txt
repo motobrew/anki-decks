@@ -1,0 +1,8 @@
+# Key:factor in
+<h3>English Sentences</h3>
+E-1: We need to <u>factor in</u> the cost of transportation when determining the final price.
+E-2: To solve the equation, we have to <u>factor in</u> the variable terms.
+
+<h3>Japanese Translation</h3>
+J-1: 最終価格を決定する際には、交通費を<u>考慮に入れる</u>必要があります。
+J-2: 方程式を解くためには、変数項を<u>因数分解に含める</u>必要があります。

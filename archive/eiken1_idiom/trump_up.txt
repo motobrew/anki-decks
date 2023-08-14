@@ -1,0 +1,8 @@
+# Key:trump up
+<h3>English Sentences</h3>
+E-1: The prosecutor tried to <u>trump up</u> charges against the innocent man.
+E-2: She decided to <u>trump up</u> an excuse to skip the meeting.
+
+<h3>Japanese Translation</h3>
+J-1: 検察官は無実の男に対して罪を<u>でっち上げようとしました</u>。
+J-2: 彼女は会議を休むための言い訳を<u>でっち上げることを決めました</u>。

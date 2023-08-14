@@ -1,0 +1,8 @@
+# Key:whisk off
+<h3>English Sentences</h3>
+E-1: The magician <u>whisked off</u> the tablecloth without disturbing the dishes.
+E-2: She was <u>whisked off</u> to a secret location for her surprise birthday party.
+
+<h3>Japanese Translation</h3>
+J-1: マジシャンは料理を乱さずにテーブルクロスを<u>一気に引き上げました</u>。
+J-2: 彼女はサプライズの誕生日パーティーのため、秘密の場所に<u>連れて行かれました</u>。

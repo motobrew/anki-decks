@@ -1,0 +1,8 @@
+# Key:strike on
+<h3>English Sentences</h3>
+E-1: The workers decided to <u>strike on</u> Monday to protest their unfair wages.
+E-2: The news of a potential storm caused panic and everyone started to <u>strike on</u> their preparations.
+
+<h3>Japanese Translation</h3>
+J-1: 労働者たちは公正な賃金を求めて月曜日から<u>ストライキを行うこと</u>を決めました。
+J-2: 潜在的な嵐のニュースがパニックを引き起こし、皆が準備を<u>始めること</u>になりました。

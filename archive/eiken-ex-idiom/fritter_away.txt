@@ -1,0 +1,8 @@
+# Key:fritter away
+<h3>English Sentences</h3>
+E-1: He always <u>fritters away</u> his time playing video games.
+E-2: Don't <u>fritter away</u> your money on unnecessary things.
+
+<h3>Japanese Translation</h3>
+J-1: 彼はいつもビデオゲームをしていて時間を<u>浪費する</u>。
+J-2: 無駄なものにお金を<u>使い果たさないで</u>ください。

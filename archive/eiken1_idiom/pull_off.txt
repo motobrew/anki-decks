@@ -1,0 +1,8 @@
+# Key:pull off
+<h3>English Sentences</h3>
+E-1: He was able to <u>pull off</u> a surprise party for his wife successfully.
+E-2: Despite the difficult challenge, she managed to <u>pull off</u> a spectacular performance.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は妻のために成功裏にサプライズパーティを<u>成功させること</u>ができました。
+J-2: 困難な課題にもかかわらず、彼女は見事なパフォーマンスを<u>成し遂げること</u>ができました。

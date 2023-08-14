@@ -1,0 +1,8 @@
+# Key:load up on
+<h3>English Sentences</h3>
+E-1: Before going on a long road trip, we should <u>load up on</u> snacks and drinks.
+E-2: The supermarket is having a sale, so I'm going to <u>load up on</u> groceries.
+
+<h3>Japanese Translation</h3>
+J-1: 長距離のカーティップに行く前に、お菓子と飲み物を<u>たくさん買っておく</u>べきです。
+J-2: スーパーマーケットでセールをやっているので、我々は食料品を<u>たくさん買い込む予定です</u>。

@@ -1,0 +1,8 @@
+# Key:level off
+<h3>English Sentences</h3>
+E-1: The stock market has <u>leveled off</u> after weeks of volatility.
+E-2: After climbing steadily, sales <u>leveled off</u> in the third quarter.
+
+<h3>Japanese Translation</h3>
+J-1: 株式市場は、数週間の変動の後、<u>安定しました</u>。
+J-2: 安定的に上昇した後、売上は３四半期で<u>横ばい</u>となりました。

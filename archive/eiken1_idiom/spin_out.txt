@@ -1,0 +1,8 @@
+# Key:spin out
+<h3>English Sentences</h3>
+E-1: The car lost control on the icy road and <u>spun out</u> into a ditch.
+E-2: The company's financial troubles caused their stocks to <u>spin out</u> of control.
+
+<h3>Japanese Translation</h3>
+J-1: 車は凍った道路でコントロールを失い、側溝に<u>スピンアウト</u>しました。
+J-2: 会社の財務的な問題が株価を<u>制御不能にした</u>。

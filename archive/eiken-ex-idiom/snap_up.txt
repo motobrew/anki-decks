@@ -1,0 +1,8 @@
+# Key:snap up
+<h3>English Sentences</h3>
+E-1: I managed to <u>snap up</u> the last ticket for the concert.
+E-2: The sale started at 10am and all the items were <u>snapped up</u> within minutes.
+
+<h3>Japanese Translation</h3>
+J-1: 私はコンサートの最後のチケットを<u>ゲットすることができました</u>。
+J-2: セールが午前10時に始まり、すべての商品が数分で<u>なくなりました</u>。

@@ -1,0 +1,8 @@
+# Key:hunker down
+<h3>English Sentences</h3>
+E-1: We need to <u>hunker down</u> and wait out the storm in this shelter.
+E-2: He decided to <u>hunker down</u> and study all night for the exam.
+
+<h3>Japanese Translation</h3>
+J-1: 私たちはこの避難所で嵐を<u>しのぎながら</u>待つ必要があります。
+J-2: 彼は試験のために一晩中勉強して<u>じっくり取り組む</u>ことに決めました。

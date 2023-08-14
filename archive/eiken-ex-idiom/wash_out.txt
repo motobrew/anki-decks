@@ -1,0 +1,8 @@
+# Key:wash out
+<h3>English Sentences</h3>
+E-1: The rainstorm <u>washed out</u> the baseball game.
+E-2: The ink <u>washed out</u> of my shirt after I spilled coffee on it.
+
+<h3>Japanese Translation</h3>
+J-1: 大雨のため、野球の試合が<u>中止になりました</u>。
+J-2: シャツにコーヒーをこぼした後、インクが<u>落ちました</u>。

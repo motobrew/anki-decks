@@ -1,0 +1,8 @@
+# Key:polish up
+<h3>English Sentences</h3>
+E-1: She decided to <u>polish up</u> her piano skills before the recital.
+E-2: The old furniture just needs a little <u>polishing up</u> to look brand new again.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は発表会前にピアノの腕を<u>磨くこと</u>に決めました。
+J-2: その古い家具は、見た目を再び新品のようにするためにちょっとした<u>手入れが必要です</u>。

@@ -1,0 +1,8 @@
+# Key:squeak by
+<h3>English Sentences</h3>
+E-1: We managed to <u>squeak by</u> with just enough money to pay rent.
+E-2: The team <u>squeaked by</u> with a one-point victory in the last minute.
+
+<h3>Japanese Translation</h3>
+J-1: 家賃を支払うために、何とかお金が<u>ぎりぎりで足りる</u>ことができました。
+J-2: チームは最後の一分間の試合で１点差で勝ちを<u>もぎ取る</u>ことができました。

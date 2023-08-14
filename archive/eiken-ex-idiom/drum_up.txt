@@ -1,0 +1,8 @@
+# Key:drum up
+<h3>English Sentences</h3>
+E-1: We need to <u>drum up</u> support for the charity event.
+E-2: The sales team worked hard to <u>drum up</u> new business opportunities.
+
+<h3>Japanese Translation</h3>
+J-1: 私たちはチャリティイベントへの支援を<u>呼びかける</u>必要があります。
+J-2: 営業チームは新しいビジネスの機会を<u>創出する</u>ために頑張りました。

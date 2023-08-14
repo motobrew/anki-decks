@@ -1,0 +1,8 @@
+# Key:lay down
+<h3>English Sentences</h3>
+E-1: He <u>lay down</u> on the soft grass and stared at the clouds above.
+E-2: Before going to bed, I always <u>lay down</u> my clothes for the next day.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は柔らかい草の上に<u>横になりました</u>、上の雲を見つめました。
+J-2: 寝る前に、いつも次の日の洋服を<u>床に並べます</u>。

@@ -1,0 +1,8 @@
+# Key:bawl out
+<h3>English Sentences</h3>
+E-1: The teacher <u>bawled out</u> the student for not completing their homework.
+E-2: When the referee made a bad call, the coach <u>bawled them out</u> from the sidelines.
+
+<h3>Japanese Translation</h3>
+J-1: 教師が生徒の宿題をやらなかったことで<u>叱責しました</u>。
+J-2: レフリーが悪い判定をしたとき、コーチはサイドラインから<u>怒鳴りつけました</u>。

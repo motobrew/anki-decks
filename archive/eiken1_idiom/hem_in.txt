@@ -1,0 +1,8 @@
+# Key:hem in
+<h3>English Sentences</h3>
+E-1: The police <u>hemmed in</u> the suspect, preventing his escape.
+E-2: I feel <u>hemmed in</u> by all the work and responsibilities.
+
+<h3>Japanese Translation</h3>
+J-1: 警察は容疑者を<u>包囲しました</u>、逃走を防ぎました。
+J-2: 仕事や責任で<u>窮屈さを感じています</u>。

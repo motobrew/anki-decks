@@ -1,0 +1,8 @@
+# Key:fork over
+<h3>English Sentences</h3>
+E-1: He refused to <u>fork over</u> the money he owed me.
+E-2: The company had no choice but to <u>fork over</u> a large settlement.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は私に借金のお金を<u>支払うことを</u>拒みました。
+J-2: 会社は大きな和解金を<u>支払うしかなかった</u>。

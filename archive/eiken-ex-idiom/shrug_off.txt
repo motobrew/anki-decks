@@ -1,0 +1,8 @@
+# Key:shrug off
+<h3>English Sentences</h3>
+E-1: I tried to <u>shrug off</u> his rude comment and not let it bother me.
+E-2: She couldn't <u>shrug off</u> the feeling of unease after hearing the unsettling news.
+
+<h3>Japanese Translation</h3>
+J-1: 彼の失礼なコメントを<u>気にせずに</u>、私は無視しようとしました。
+J-2: 不安なニュースを聞いた後、彼女は不安な気持ちを<u>振り払うことができませんでした</u>。

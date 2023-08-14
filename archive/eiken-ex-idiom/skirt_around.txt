@@ -1,0 +1,8 @@
+# Key:skirt around
+<h3>English Sentences</h3>
+E-1: She didn't want to address the issue directly, so she tried to <u>skirt around</u> it.
+E-2: The politician gave a vague answer to <u>skirt around</u> the controversial topic.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女はその問題を直接的に取り上げたくなかったので、それを避けようとしました。
+J-2: その政治家は物議を醸すトピックを避けるためにあいまいな回答をしました。

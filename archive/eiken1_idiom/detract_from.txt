@@ -1,0 +1,8 @@
+# Key:detract from
+<h3>English Sentences</h3>
+E-1: The bright colors of the artwork <u>detract from</u> the overall design.
+E-2: The noise from the construction site <u>detracted from</u> my ability to concentrate.
+
+<h3>Japanese Translation</h3>
+J-1: アート作品の鮮やかな色は全体のデザインを<u>損ないます</u>。
+J-2: 建設現場の騒音は集中力を<u>妨げました</u>。

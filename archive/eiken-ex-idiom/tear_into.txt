@@ -1,0 +1,8 @@
+# Key:tear into
+<h3>English Sentences</h3>
+E-1: Joe <u>tore into</u> his steak with enthusiasm and hunger.
+E-2: The teacher <u>tore into</u> the student's sloppy essay during class.
+
+<h3>Japanese Translation</h3>
+J-1: ジョーは熱意とおなかがすいた状態でステーキを<u>かきまわしました</u>。
+J-2: 先生は授業中に生徒のだらしないエッセイを<u>厳しく批判しました</u>。

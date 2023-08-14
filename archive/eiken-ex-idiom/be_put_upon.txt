@@ -1,0 +1,8 @@
+# Key:be put upon
+<h3>English Sentences</h3>
+E-1: My friend always <u>puts upon</u> me to lend him money.
+E-2: She feels overwhelmed because she is constantly <u>being put upon</u> by her demanding boss.
+
+<h3>Japanese Translation</h3>
+J-1: 友達はいつも私にお金を貸して欲しいと<u>頼んできます</u>。
+J-2: 彼女は要求の多い上司に<u>いつも頼られている</u>ため、押し潰されているようです。

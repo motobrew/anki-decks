@@ -1,0 +1,8 @@
+# Key:hold out on
+<h3>English Sentences</h3>
+E-1: He kept <u>holding out on</u> his secret until the very end.
+E-2: Don't <u>hold out on</u> me, tell me the truth!
+
+<h3>Japanese Translation</h3>
+J-1: 彼は最後までその秘密を<b>隠し続けました</b>。
+J-2: <b>私に情報を与えないで</b>、真実を教えて！

@@ -1,0 +1,8 @@
+# Key:go at
+<h3>English Sentences</h3>
+E-1: I'm going to <u>go at</u> the project with full dedication and focus.
+E-2: The two friends decided to <u>go at</u> each other over a disagreement.
+
+<h3>Japanese Translation</h3>
+J-1: 私はそのプロジェクトに全力で取り組むつもりです。
+J-2: その2人の友達は意見の違いで激しく互いに反論することになりました。

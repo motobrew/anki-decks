@@ -1,0 +1,8 @@
+# Key:nod off
+<h3>English Sentences</h3>
+E-1: I was so tired that I <u>nodded off</u> during the movie.
+E-2: The boring lecture made several students <u>nod off</u>.
+
+<h3>Japanese Translation</h3>
+J-1: 映画を見ている間に、私はとても疲れて<u>うとうとしてしまいました</u>。
+J-2: 退屈な講義で、何人かの学生が<u>居眠りしてしまいました</u>。

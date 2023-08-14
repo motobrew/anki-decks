@@ -1,0 +1,8 @@
+# Key:wriggle out of
+<h3>English Sentences</h3>
+E-1: He always tries to <u>wriggle out of</u> doing his chores.
+E-2: The suspect tried to <u>wriggle out of</u> answering the detective's questions.
+
+<h3>Japanese Translation</h3>
+J-1: 彼はいつも家事を<u>逃げるように避ける</u>ようにします。
+J-2:容疑者は刑事の質問に<u>逃れようと</u>しました。

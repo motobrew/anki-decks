@@ -1,0 +1,8 @@
+# Key:buy off
+<h3>English Sentences</h3>
+E-1: The company attempted to <u>buy off</u> the whistleblower to keep the truth hidden.
+E-2: He managed to <u>buy off</u> the protestors by offering them compensation.
+
+<h3>Japanese Translation</h3>
+J-1: その会社は真実を隠すために告発者を<u>買収しようとしました</u>。
+J-2: 彼は示談金を提示して抗議者を<u>なだめることに成功しました</u>。

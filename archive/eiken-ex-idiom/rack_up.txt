@@ -1,0 +1,8 @@
+# Key:rack up
+<h3>English Sentences</h3>
+E-1: He managed to <u>rack up</u> a high score in the video game.
+E-2: The student has started to <u>rack up</u> absences in school.
+
+<h3>Japanese Translation</h3>
+J-1: 彼はビデオゲームで高得点を<u>稼いだ</u>。
+J-2: その生徒は学校を欠席し始めて<u>いる</u>。

@@ -1,0 +1,8 @@
+# Key:flip out
+<h3>English Sentences</h3>
+E-1: I <u>flipped out</u> when I saw the mouse in the kitchen.
+E-2: The kids will <u>flip out</u> when they see the surprise gift.
+
+<h3>Japanese Translation</h3>
+J-1: キッチンでネズミを見たとき、私は<uパニックになった</u>。
+J-2: 子供たちはサプライズの贈り物を見たときに<u>大はしゃぎする</u>でしょう。

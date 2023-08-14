@@ -1,0 +1,8 @@
+# Key:rub off on A
+<h3>English Sentences</h3>
+E-1: Her positive attitude <u>rubs off on me</u> and makes me feel happier.
+E-2: Spending time with my friend who loves to read, has <u>rubbed off on me</u> and now I enjoy reading too.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女の前向きな態度が私に<u>感染し</u>、幸せな気持ちになります。
+J-2: 読書が好きな友達と一緒に時間を過ごすことで、私にも<u>影響を与え</u>、今では読書が楽しいです。

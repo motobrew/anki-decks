@@ -1,0 +1,8 @@
+# Key:soak up
+<h3>English Sentences</h3>
+E-1: The beach is the perfect place to <u>soak up</u> the sun.
+E-2: She always carries a notebook to <u>soak up</u> knowledge during lectures.
+
+<h3>Japanese Translation</h3>
+J-1: ビーチは太陽をたっぷり<u>浴びる</u>のに最適な場所です。
+J-2: 彼女はいつも授業中に知識を<u>吸収する</u>ためにノートを持ち歩いています。

@@ -1,0 +1,8 @@
+# Key:trail off
+<h3>English Sentences</h3>
+E-1: The sound of their voices gradually <u>trailed off</u> as they walked away.
+E-2: His sentence suddenly <u>trailed off</u>, leaving us wondering what he meant.
+
+<h3>Japanese Translation</h3>
+J-1: 彼らが去って行くと、徐々に<u>声が消えていきました</u>。
+J-2: 彼の文が突然<u>途切れ、我々は彼が何を言いたかったのか不思議に思いました</u>。

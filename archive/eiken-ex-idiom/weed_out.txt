@@ -1,0 +1,8 @@
+# Key:weed out
+<h3>English Sentences</h3>
+E-1: The hiring manager will <u>weed out</u> unqualified candidates during the interview process.
+E-2: The coach is trying to <u>weed out</u> players who don't show enough commitment.
+
+<h3>Japanese Translation</h3>
+J-1: 面接過程で採用担当者は<u>適切でない候補者を排除</u>します。
+J-2: コーチは、十分なコミットメントを示さない選手を<u>淘汰しよう</u>としています。

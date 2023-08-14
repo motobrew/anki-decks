@@ -1,0 +1,8 @@
+# Key:coast along
+<h3>English Sentences</h3>
+E-1: We don't have a set plan, we're just going to <u>coast along</u> and see what happens.
+E-2: After finishing the project, I decided to <u>coast along</u> and take a break.
+
+<h3>Japanese Translation</h3>
+J-1: 私たちは決まった計画がないので、ただ<u>そのまま進み</u>、何が起こるかを見ます。
+J-2: プロジェクトを終えた後、私は<u>のんびりと過ごし</u>、休憩しました。

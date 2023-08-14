@@ -1,0 +1,8 @@
+# Key:wear through
+<h3>English Sentences</h3>
+E-1: The constant rubbing <u>wore through</u> the fabric of my jeans.
+E-2: After many hours of use, the batteries finally <u>wore through</u>.
+
+<h3>Japanese Translation</h3>
+J-1: 繰り返しの摩擦が、ジーンズの生地を<u>すり抜けさせました</u>。
+J-2: 長時間の使用の後、ついにバッテリーが<u>消耗し尽くしました</u>。

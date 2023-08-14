@@ -1,0 +1,8 @@
+# Key:rein in
+<h3>English Sentences</h3>
+E-1: The reckless driver must <u>rein in</u> his speed.
+E-2: The company needs to <u>rein in</u> their expenses to stay afloat.
+
+<h3>Japanese Translation</h3>
+J-1: 無謀な運転手は速度を<u>抑える</u>必要があります。
+J-2: 会社は存続するために支出を<u>絞らなければなりません</u>。

@@ -1,0 +1,8 @@
+# Key:pass up
+<h3>English Sentences</h3>
+E-1: I <u>passed up</u> the chance to study abroad and now I regret it.
+E-2: She <u>passes up</u> dessert because she's on a diet.
+
+<h3>Japanese Translation</h3>
+J-1: 留学するチャンスを<u>見送ってしまいました</u>が、今は後悔しています。
+J-2: 彼女はダイエット中なので、デザートを<u>断ります</u>。

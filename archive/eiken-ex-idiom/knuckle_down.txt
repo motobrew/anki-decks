@@ -1,0 +1,8 @@
+# Key:knuckle down
+<h3>English Sentences</h3>
+E-1: I need to <u>knuckle down</u> and finish this assignment tonight.
+E-2: He finally decided to <u>knuckle down</u> and start studying for the exam.
+
+<h3>Japanese Translation</h3>
+J-1: 今夜、この課題を<u>がんばって仕上げる</u>必要があります。
+J-2: 彼はついに<u>がんばり始めて</u>、試験の勉強を開始しました。

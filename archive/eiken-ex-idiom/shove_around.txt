@@ -1,0 +1,8 @@
+# Key:shove around
+<h3>English Sentences</h3>
+E-1: He is always trying to <u>shove around</u> his coworkers to get what he wants.
+E-2: The school bully likes to <u>shove around</u> smaller kids on the playground.
+
+<h3>Japanese Translation</h3>
+J-1: 彼はいつも同僚を<u>いじめて</u>自分の望む通りにしようとしています。
+J-2: 学校のいじめっ子は遊び場で小さな子供たちを<u>いじめる</u>のが好きです。

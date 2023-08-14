@@ -1,0 +1,8 @@
+# Key:own up to
+<h3>English Sentences</h3>
+E-1: She had to <u>own up to</u> her mistake and apologize.
+E-2: It's time for him to <u>own up to</u> his responsibilities and face the consequences.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は自分のミスを認め、謝罪しなければなりませんでした。
+J-2: 彼は責任を認識し、結果に立ち向かう時が来ました。

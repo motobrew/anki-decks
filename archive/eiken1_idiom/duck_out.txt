@@ -1,0 +1,8 @@
+# Key:duck out
+<h3>English Sentences</h3>
+E-1: I need to <u>duck out</u> of the meeting early for another appointment.
+E-2: He tried to <u>duck out</u> of paying the bill by pretending to forget his wallet.
+
+<h3>Japanese Translation</h3>
+J-1: もう一つの予定があるため、会議から<u>早めに抜け出さなければならない</u>。
+J-2: 彼は財布を忘れたふりをして、支払いから<u>逃れようと試みました</u>。

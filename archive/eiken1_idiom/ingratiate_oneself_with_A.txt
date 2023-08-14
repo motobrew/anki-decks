@@ -1,0 +1,8 @@
+# Key:ingratiate oneself with A
+<h3>English Sentences</h3>
+E-1: I tried to <u>ingratiate myself with the boss</u> by complimenting his work.
+E-2: The politician hoped to win votes by <u>ingratiating himself with the voters</u>.
+
+<h3>Japanese Translation</h3>
+J-1: 私は上司に<u>取り入るために</u>、彼の仕事を褒めた。
+J-2: 政治家は有権者に<u>取り入ることで</u>得票を狙った。

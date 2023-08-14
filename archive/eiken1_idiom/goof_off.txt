@@ -1,0 +1,8 @@
+# Key:goof off
+<h3>English Sentences</h3>
+E-1: I like to <u>goof off</u> and watch movies on weekends.
+E-2: My boss gets angry when I <u>goof off</u> at work.
+
+<h3>Japanese Translation</h3>
+J-1: 週末には<u>サボって</u>映画を見るのが好きです。
+J-2: 上司は私が仕事中に<u>サボると</u>怒ります。

@@ -1,0 +1,8 @@
+# Key:front for
+<h3>English Sentences</h3>
+E-1: The charity organization was just a <u>front for</u> illegal activities.
+E-2: He used his position as a volunteer as a <u>front for</u> his personal agenda.
+
+<h3>Japanese Translation</h3>
+J-1: その慈善団体は違法な活動の<u隠れみの</u>でした。
+J-2: 彼はボランティアの地位を個人的な目的の<u隠れ蓑</u>に利用しました。

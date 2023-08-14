@@ -1,0 +1,8 @@
+# Key:kick off
+<h3>English Sentences</h3>
+E-1: The game will <u>kick off</u> at 7 PM tonight.
+E-2: He will <u>kick off</u> the company's annual conference with a keynote speech.
+
+<h3>Japanese Translation</h3>
+J-1: 今夜、試合が19時に<u>開始されます</u>。
+J-2: 彼は基調講演で会社の年次大会を<u>始めます</u>。

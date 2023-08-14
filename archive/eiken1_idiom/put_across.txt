@@ -1,0 +1,8 @@
+# Key:put across
+<h3>English Sentences</h3>
+E-1: I tried my best to <u>put across</u> my point, but they didn't understand.
+E-2: The teacher used different examples to <u>put the concept across</u> to the students.
+
+<h3>Japanese Translation</h3>
+J-1:私は自分の意見を<u>伝えようとしました</u>が、彼らは理解してくれませんでした。
+J-2: 先生は様々な例を使って、生徒たちに<u>概念を理解してもらおうとしました</u>。

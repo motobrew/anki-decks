@@ -1,0 +1,8 @@
+# Key:taper off
+<h3>English Sentences</h3>
+E-1: The rain began to <u>taper off</u> as we drove home.
+E-2: He decided to <u>taper off</u> his medication under his doctor's guidance.
+
+<h3>Japanese Translation</h3>
+J-1: 帰る途中、雨が<u>小降りになり始めました</u>。
+J-2: 彼は医師の指導のもと、薬を<u>徐々に減らすことに</u>決めました。

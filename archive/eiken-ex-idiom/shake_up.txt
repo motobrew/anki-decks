@@ -1,0 +1,8 @@
+# Key:shake up
+<h3>English Sentences</h3>
+E-1: She gave the bottle a quick <u>shake up</u> before opening it.
+E-2: The company underwent a major restructuring to <u>shake up</u> its operations.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女はボトルを素早く<u>振り上げ</u>てから開けた。
+J-2: その会社はオペレーションを<u>変革するために</u>大規模な再編成を行った。

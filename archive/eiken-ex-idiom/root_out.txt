@@ -1,0 +1,8 @@
+# Key:root out
+<h3>English Sentences</h3>
+E-1: We need to <u>root out</u> the source of the problem.
+E-2: It is important to <u>root out</u> any weeds from the garden.
+
+<h3>Japanese Translation</h3>
+J-1: 問題の原因を<u>突き止めなければ</u>なりません。
+J-2: 庭から雑草を<u>取り除く</u>ことが重要です。

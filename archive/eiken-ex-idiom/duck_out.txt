@@ -1,0 +1,8 @@
+# Key:duck out
+<h3>English Sentences</h3>
+E-1: I'm going to <u>duck out</u> early from the meeting; I don't want to stay late.
+E-2: The runner had to <u>duck out</u> of the race because of an injury.
+
+<h3>Japanese Translation</h3>
+J-1: ミーティングから<u>早退</u>しようと思います。遅くまでいたくないです。
+J-2: 選手は怪我のため、レースから<u>棄権</u>しなければなりませんでした。

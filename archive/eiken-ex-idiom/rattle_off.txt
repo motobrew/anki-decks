@@ -1,0 +1,8 @@
+# Key:rattle off
+<h3>English Sentences</h3>
+E-1: He can <u>rattle off</u> the capitals of all 50 states.
+E-2: The comedian can <u>rattle off</u> jokes without even pausing.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は50州の首都を<u>ネタ振りなしで</u>答えることができる。
+J-2: そのコメディアンはジョークを<p>rattle off</u>することができる。

@@ -1,0 +1,8 @@
+# Key:box up
+<h3>English Sentences</h3>
+E-1: I need to <u>box up</u> these books before moving them.
+E-2: She always tries to <u>box me up</u> and control my actions.
+
+<h3>Japanese Translation</h3>
+J-1: これらの本を移動する前に<u>箱に詰めなければなりません</u>。
+J-2: 彼女はいつも私を<u>縛り付けて</u>私の行動を制御しようとする。

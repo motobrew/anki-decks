@@ -1,0 +1,8 @@
+# Key:coop up
+<h3>English Sentences</h3>
+E-1: He has been <u>cooped up</u> in his apartment all day due to the bad weather.
+E-2: The little bird was <u>cooped up</u> in a small cage.
+
+<h3>Japanese Translation</h3>
+J-1: 悪天候のため、彼は一日中アパートに<u閉じこめられました。</u>
+J-2: 小さい鳥は<u>小さなケージ</u>に閉じこめられていました。

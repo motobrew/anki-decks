@@ -1,0 +1,8 @@
+# Key:fall through
+<h3>English Sentences</h3>
+E-1: Our plans to go to the beach on Saturday <u>fell through</u> due to bad weather.
+E-2: They had a great idea for a business, but it eventually <u>fell through</u> due to lack of funding.
+
+<h3>Japanese Translation</h3>
+J-1: 土曜日にビーチに行く予定が、悪天候のため<u>中止になりました</u>。
+J-2: 彼らは素晴らしいビジネスのアイデアを持っていましたが、最終的には<u>資金不足のために頓挫しました</u>。

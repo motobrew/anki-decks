@@ -1,0 +1,8 @@
+# Key:drown out
+<h3>English Sentences</h3>
+E-1: The loud music helped <u>drown out</u> the sound of the construction.
+E-2: She turned up the volume to <u>drown out</u> her thoughts.
+
+<h3>Japanese Translation</h3>
+J-1: 建設音を<u>かき消す</u>ために、大音量の音楽をかけました。
+J-2: 彼女は考え事を<u>かき消す</u>ため、音量を上げました。

@@ -1,0 +1,8 @@
+# Key:snap out of
+<h3>English Sentences</h3>
+E-1: She told him to <u>snap out of</u> his bad mood and start enjoying the party.
+E-2: I couldn't <u>snap out of</u> my anxiety until I received some good news.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は彼に言った、「悪い気分から<u>抜け出して</u>パーティを楽しんで」と。
+J-2: いくらか良い知らせが入るまで、私は不安から<u>抜けられませんでした</u>。

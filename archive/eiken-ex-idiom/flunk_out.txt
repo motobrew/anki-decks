@@ -1,0 +1,8 @@
+# Key:flunk out
+<h3>English Sentences</h3>
+E-1: I studied really hard, but I still managed to <u>flunk out</u> of college.
+E-2: If you don't start studying, you're going to <u>flunk out</u> of school.
+
+<h3>Japanese Translation</h3>
+J-1: 一生懸命勉強したけど、大学に<u>落第してしまいました</u>。
+J-2: もし勉強しないなら、学校から<u>退学</u>されるよ。

@@ -1,0 +1,8 @@
+# Key:ease off
+<h3>English Sentences</h3>
+E-1: I need to <u>ease off</u> the gas pedal to slow down.
+E-2: He should <u>ease off</u> and take a break from work.
+
+<h3>Japanese Translation</h3>
+J-1: スピードを落とすためにアクセルを<u>緩める</u>必要があります。
+J-2: 彼は仕事から<u>一休み</u>するべきです。

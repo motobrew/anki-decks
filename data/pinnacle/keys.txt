@@ -108,7 +108,7 @@ buoy
 exalt
 dwarf
 voracious
-instiable
+insatiable
 gluttony
 devour
 destitution
@@ -130,7 +130,7 @@ fledgling
 inception
 inauguration
 vandalize
-obiterate
+obliterate
 annihilation
 engulf
 penchant

@@ -43,7 +43,7 @@ impromptu
 pivotal
 elicit
 propensity
-hailmark
+hallmark
 deadlock
 gridlock
 covet
@@ -51,7 +51,7 @@ elusive
 entrenched
 far-fetched
 meddle
-exaperate
+exasperate
 vexing
 baffle
 evict
@@ -86,7 +86,7 @@ rampant
 cultter
 antagonism
 animosity
-hoathe
+loathe
 xenophobia
 calamity
 havoc

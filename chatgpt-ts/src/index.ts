@@ -12,15 +12,15 @@ const gptModel = "gpt-3.5-turbo-0613";
 export async function ask(question: string, model = gptModel) {
   const content = `
 # Instruction
-Make two sentences using the words and idioms I am going to tell you.
+Make two sentences using the word, phrase or idiom that I am going to tell you.
 These sentences should correspond to the situations in which they are commonly used.
-Also, if a word or idiom has multiple meanings, please create sentences so that the meanings of the words are different.
+Also, if the word or idiom has multiple meanings, please create sentences so that the meanings of the words are different.
 Each English sentence should be about 8-10 words.
 
 Your response must be complied to the following "Result Format".
 In addition to that, enclose in <u> tags both the keyword and corresponding translation as the following example.
 
-# word or idiom
+# word, phrase or idiom
 "${question}"
 
 # Result Format ("pop-up" is as sample)

@@ -1,0 +1,8 @@
+# Key:fervent
+<h3>English Sentences</h3>
+E-1: She is a <u>fervent</u> supporter of the local soccer team.
+E-2: He gave a <u>fervent</u> plea for help to the community.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は地元のサッカーチームの<u>熱烈な</u>支持者です。
+J-2: 彼は地域の人々に対して助けを懇願する<u>熱意のある</u>訴えを行いました。

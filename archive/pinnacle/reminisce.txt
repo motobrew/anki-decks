@@ -1,0 +1,8 @@
+# Key:reminisce
+<h3>English Sentences</h3>
+E-1: We spent the evening <u>reminiscing</u> about our childhood memories.
+E-2: As we sorted through old photos, the memories <u>reminisced</u> back to us.
+
+<h3>Japanese Translation</h3>
+J-1: 私たちは夕べ、子供時代の思い出を<u>追憶しながら</u>過ごしました。
+J-2: 古い写真を整理しているうちに、その思い出が私たちに<u>よみがえりました</u>。

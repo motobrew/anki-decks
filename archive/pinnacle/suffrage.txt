@@ -1,0 +1,8 @@
+# Key:suffrage
+<h3>English Sentences</h3>
+E-1: Women fought tirelessly for <u>suffrage</u> rights in the early 20th century.
+E-2: The country celebrated the centenary of women's <u>suffrage</u> last year.
+
+<h3>Japanese Translation</h3>
+J-1: 女性たちは20世紀初頭に<u>参政権</u>を求めてたゆまず戦いました。
+J-2: その国は昨年、女性の<u>選挙権</u>100周年を祝いました。

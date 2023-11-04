@@ -1,0 +1,8 @@
+# Key:galvanize
+<h3>English Sentences</h3>
+E-1: The summer heat <u>soared</u> and everyone sought shade and cold drinks.
+E-2: The bird <u>soared</u> through the sky, gracefully gliding on the wind.
+
+<h3>Japanese Translation</h3>
+J-1: 夏の暑さが<u>急上昇しました</u>、みんなが日陰と冷たい飲み物を求めました。
+J-2: 鳥が空を<u>舞い上がりました</u>、風に優雅に滑っていきました。

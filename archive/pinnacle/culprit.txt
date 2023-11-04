@@ -1,0 +1,8 @@
+# Key:culprit
+<h3>English Sentences</h3>
+E-1: The detective finally caught the <u>culprit</u> behind the robbery.
+E-2: The broken vase was a <u>culprit</u> in the prank gone wrong.
+
+<h3>Japanese Translation</h3>
+J-1: 刑事はついに強盗の<u>犯人</u>を捕まえました。
+J-2: 壊れた花瓶はいたずらが失敗した<u>原因</u>でした。

@@ -1,0 +1,8 @@
+# Key:blatant
+<h3>English Sentences</h3>
+E-1: The speaker's <u>blatant</u> lies were obvious to everyone in the audience.
+E-2: The company's decision to close the factory was a <u>blatant</u> disregard for the workers' rights.
+
+<h3>Japanese Translation</h3>
+J-1: スピーカーの<u>明らかな</u>嘘は、聴衆の誰にでも明らかでした。
+J-2: 会社が工場を閉鎖するという決定は、労働者の権利を<u>露骨に</u>無視したものでした。

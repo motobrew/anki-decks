@@ -1,0 +1,8 @@
+# Key:demeanor
+<h3>English Sentences</h3>
+E-1: The teacher's calm <u>demeanor</u> helped ease the students' anxiety.
+E-2: Despite the stressful situation, she maintained a composed <u>demeanor</u>.
+
+<h3>Japanese Translation</h3>
+J-1: 先生の落ち着いた<u>態度</u>が生徒たちの不安を和らげるのに役立ちました。
+J-2: ストレスのある状況にもかかわらず、彼女は落ち着いた<u振る舞い</u>を保ちました。

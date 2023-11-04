@@ -1,0 +1,8 @@
+# Key:vandalize
+<h3>English Sentences</h3>
+E-1: The students attempted to <u>vandalize</u> the school walls with graffiti.
+E-2: The police arrested the vandals who were caught <u>vandalizing</u> the park.
+
+<h3>Japanese Translation</h3>
+J-1: 生徒たちは落書きで学校の壁を<u>破壊しようとしました</u>。
+J-2: 警察は公園を<u>破壊する</u>悪漢を逮捕しました。

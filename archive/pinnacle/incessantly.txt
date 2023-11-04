@@ -1,0 +1,8 @@
+# Key:incessantly
+<h3>English Sentences</h3>
+E-1: The rain fell <u>incessantly</u> for hours, causing flooding in the streets.
+E-2: Despite her efforts, her daughter <u>incessantly</u> kept asking for a toy.
+
+<h3>Japanese Translation</h3>
+J-1: 雨が何時間も<u>絶え間なく</u>降り続き、街中が洪水になった。
+J-2: 彼女の努力にもかかわらず、彼女の娘は<u>絶えず</u>おもちゃを求め続けた。

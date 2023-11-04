@@ -1,0 +1,8 @@
+# Key:simmer
+<h3>English Sentences</h3>
+E-1: The soup needs to simmer for at least two hours.
+E-2: We could hear the simmer of anger in her voice.
+
+<h3>Japanese Translation</h3>
+J-1: スープは少なくとも2時間は煮込む必要があります。
+J-2: 彼女の声に怒りが漂っているのが感じられました。

@@ -1,0 +1,8 @@
+# Key:insidious
+<h3>English Sentences</h3>
+E-1: The <u>insidious</u> disease spread silently through the village, infecting many.
+E-2: The <u>insidious</u> plot unraveled slowly, revealing a web of deceit.
+
+<h3>Japanese Translation</h3>
+J-1: その<u>陰湿な</u>病気は村中に黙って広がり、多くの人々を感染させました。
+J-2: その<u>陰湿な</u>計画はゆっくりと明らかになり、欺瞞の網が明らかになりました。

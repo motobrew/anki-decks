@@ -1,0 +1,8 @@
+# Key:arduous
+<h3>English Sentences</h3>
+E-1: The <u>arduous</u> hike to the summit was worth the stunning view.
+E-2: She faced an <u>arduous</u> task of studying for five exams in one week.
+
+<h3>Japanese Translation</h3>
+J-1: 目指す山頂までの<u>困難な</u>ハイキングは、息をのむ景色に値しました。
+J-2: 彼女は1週間で5つの試験勉強という<u>困難な</u>課題に立ち向かいました。

@@ -1,0 +1,8 @@
+# Key:unwittingly
+<h3>English Sentences</h3>
+E-1: The detective <u>unwittingly</u> left behind a crucial piece of evidence.
+E-2: She <u>unwittingly</u> offended her friend with her thoughtless comment.
+
+<h3>Japanese Translation</h3>
+J-1: 探偵はうっかりして<u>無意識に</u>重要な証拠を残してしまった。
+J-2: 彼女は軽率な発言で<u>知らずに</u>友人を怒らせてしまった。

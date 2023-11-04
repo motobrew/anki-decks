@@ -1,0 +1,8 @@
+# Key:neurotic
+<h3>English Sentences</h3>
+E-1: She's so <u>neurotic</u>, she worries about every little thing.
+E-2: His <u>neurotic</u> tendencies often lead to irrational behavior.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女はとても<u>神経質</u>で、些細なことでも心配します。
+J-2: 彼の<u>神経質</u>な傾向はしばしば非合理な行動に繋がります。

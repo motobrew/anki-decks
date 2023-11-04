@@ -1,0 +1,8 @@
+# Key:elusive
+<h3>English Sentences</h3>
+E-1: The <u>elusive</u> butterfly was difficult to catch as it fluttered away.
+E-2: The criminal was known for his <u>elusive</u> nature, always evading capture.
+
+<h3>Japanese Translation</h3>
+J-1: その<u>はかなげな</u>蝶は飛び去るので捕まえるのが難しかった。
+J-2: その犯罪者は<u>逃げ足の速い</u>性格で知られていて、いつも逮捕をかわしていた。

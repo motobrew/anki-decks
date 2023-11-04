@@ -1,0 +1,8 @@
+# Key:crux
+<h3>English Sentences</h3>
+E-1: The <u>crux</u> of the problem was a lack of communication.
+E-2: She summed up her argument in the <u>crux</u> of the matter.
+
+<h3>Japanese Translation</h3>
+J-1: 問題の<u>核心</u>はコミュニケーションの欠如でした。
+J-2: 彼女は自分の主張を問題の<u>核心</u>にまとめました。

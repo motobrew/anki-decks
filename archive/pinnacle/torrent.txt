@@ -1,0 +1,8 @@
+# Key:torrent
+<h3>English Sentences</h3>
+E-1: I've been experiencing a <u>downpour</u> of rain every day this week.
+E-2: When I told her the news, a <u>downpour</u> of tears followed.
+
+<h3>Japanese Translation</h3>
+J-1: 今週は毎日<u>大雨</u>に見舞われています。
+J-2: 彼女にそのニュースを伝えると、<u>涙の雨</u>が降りました。

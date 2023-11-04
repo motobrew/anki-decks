@@ -1,0 +1,8 @@
+# Key:clamor
+<h3>English Sentences</h3>
+E-1: The students' <u>clamor</u> for recess could be heard throughout the classroom.
+E-2: The protesters' <u>clamor</u> for justice echoed through the streets.
+
+<h3>Japanese Translation</h3>
+J-1: 教室中に広がる生徒たちの<u>大騒ぎ</u>が聞こえました。
+J-2: プロテスターたちの<u>正義を求める叫び声</u>が通り一帯に響き渡った。

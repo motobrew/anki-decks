@@ -1,0 +1,8 @@
+# Key:daunting
+<h3>English Sentences</h3>
+E-1: The sheer size of the project was <u>daunting</u> to the team.
+E-2: He faced the <u>daunting</u> task of starting his own business.
+
+<h3>Japanese Translation</h3>
+J-1: プロジェクトの膨大な規模は、チームにとって<u>困難な</u>ものでした。
+J-2: 彼は自分のビジネスを始めるという<u>難しい</u>課題に直面しました。

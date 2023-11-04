@@ -1,0 +1,8 @@
+# Key:rampant
+<h3>English Sentences</h3>
+E-1: The news of the <u>rampant</u> forest fires spread quickly through the town.
+E-2: The lion is known for its <u>rampant</u> behavior in the wild.
+
+<h3>Japanese Translation</h3>
+J-1: 森林火災の<u>蔓延</u>のニュースが町中に速く広まった。
+J-2: ライオンは野生での<u>暴れん坊な</u>行動で知られている。

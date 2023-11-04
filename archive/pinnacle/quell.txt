@@ -1,0 +1,8 @@
+# Key:quell
+<h3>English Sentences</h3>
+E-1: The police were able to <u>quell</u> the protest before it turned violent.
+E-2: She took a deep breath to <u>quell</u> her nerves before the performance.
+
+<h3>Japanese Translation</h3>
+J-1: 警察は暴動が暴力沙汰になる前に<u鎮圧することでした</u>。
+J-2: 彼女はパフォーマンス前に<u>不安を抑えるために</u>深呼吸をしました。

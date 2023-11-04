@@ -1,0 +1,8 @@
+# Key:antagonism
+<h3>English Sentences</h3>
+E-1: There was a high level of <u>antagonism</u> between the two rival teams.
+E-2: The politician's controversial statement created <u>antagonism</u> among voters.
+
+<h3>Japanese Translation</h3>
+J-1: 2つのライバルチームの間には<u>対立</u>が高まっていました。
+J-2: 政治家の物議を醸す発言が有権者の<u>敵意</u>を生み出しました。

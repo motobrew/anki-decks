@@ -1,0 +1,8 @@
+# Key:orchestrate
+<h3>English Sentences</h3>
+E-1: The conductor began to <u>orchestrate</u> the symphony with his baton.
+E-2: The event planner worked tirelessly to <u>orchestrate</u> a flawless wedding.
+
+<h3>Japanese Translation</h3>
+J-1: 指揮者がバトンを振って交響曲を<u>指揮しました</u>。
+J-2: イベントプランナーは欠点のない結婚式を<u>徹底的に計画しました</u>。

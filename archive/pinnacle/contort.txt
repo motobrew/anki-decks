@@ -1,0 +1,8 @@
+# Key:contort
+<h3>English Sentences</h3>
+E-1: The magician <u>contorted</u> his body into impossible positions.
+E-2: Her face <u>contorted</u> with anger when she heard the news.
+
+<h3>Japanese Translation</h3>
+J-1: 魔術師は自分の体を不可能なポーズに<uねじった</u>。
+J-2: 彼女はそのニュースを聞いたときに怒りで顔を<uゆがめた</u>。

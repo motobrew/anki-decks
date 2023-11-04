@@ -1,0 +1,8 @@
+# Key:antidote
+<h3>English Sentences</h3>
+E-1: The doctor prescribed an <u>antidote</u> to counteract the poison.
+E-2: Music is an <u>antidote</u> for stress and anxiety.
+
+<h3>Japanese Translation</h3>
+J-1: 医師は毒を中和するための<u>解毒剤</u>を処方しました。
+J-2: 音楽はストレスや不安の<u>解毒剤</u>です。

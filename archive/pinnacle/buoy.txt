@@ -1,0 +1,8 @@
+# Key:buoy
+<h3>English Sentences</h3>
+E-1: The surfer clung to the <u>buoy</u> to stay afloat in the rough sea.
+E-2: The lighthouse is marked with a red and white <u>buoy</u>.
+
+<h3>Japanese Translation</h3>
+J-1: サーファーは荒れた海で浮かび続けるために<u>ブイ</u>にしがみついた。
+J-2: 灯台は赤と白の<u>浮標</u>でマークされている。

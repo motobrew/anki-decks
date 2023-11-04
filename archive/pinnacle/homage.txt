@@ -1,0 +1,8 @@
+# Key:homage
+<h3>English Sentences</h3>
+E-1: The athlete paid <u>homage</u> to his coach by dedicating his victory to him.
+E-2: The museum had an exhibit that paid <u>homage</u> to famous artists.
+
+<h3>Japanese Translation</h3>
+J-1: そのアスリートはコーチへの感謝の意を表すために、自身の勝利を彼に捧げました。
+J-2: その美術館は有名な芸術家たちへの敬意を表す展示会を開催しました。

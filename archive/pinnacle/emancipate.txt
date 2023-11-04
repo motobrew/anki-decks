@@ -1,0 +1,8 @@
+# Key:emancipate
+<h3>English Sentences</h3>
+E-1: We need to <u>emancipate</u> ourselves from societal expectations and norms.
+E-2: The abolitionist movement sought to <u>emancipate</u> enslaved individuals.
+
+<h3>Japanese Translation</h3>
+J-1: 私たちは社会的な期待や規範から<u>自由になる</u>必要があります。
+J-2: 奴隷制を<u>廃止して</u>解放することを目指した運動がありました。

@@ -1,0 +1,8 @@
+# Key:vehement
+<h3>English Sentences</h3>
+E-1: She made a <u>vehement</u> argument in defense of her position.
+E-2: The protesters were <u>vehement</u> in their demands for justice.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は自分の立場を守るために<u>激しい</u>論述を行った。
+J-2: 抗議者たちは正義を求めて<u>激しい</u>意見を持っていました。

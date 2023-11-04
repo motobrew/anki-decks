@@ -1,0 +1,8 @@
+# Key:loathe
+<h3>English Sentences</h3>
+E-1: I <u>loathe</u> having to wake up early in the morning.
+E-2: The last thing I want to do is <u>loathe</u> over my mistakes.
+
+<h3>Japanese Translation</h3>
+J-1: 朝早く起きるのが嫌いです。
+J-2: 私がした失敗を嘆くことはしたくありません。

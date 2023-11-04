@@ -1,0 +1,8 @@
+# Key:construe
+<h3>English Sentences</h3>
+E-1: The witness's testimony is open to <u>construe</u> in different ways.
+E-2: Please <u>construe</u> my silence as agreement to your proposal.
+
+<h3>Japanese Translation</h3>
+J-1: 証人の証言は、いくつかの異なる方法で<u>解釈</u>できます。
+J-2: 私の沈黙をあなたの提案に同意すると<u>解釈</u>してください。

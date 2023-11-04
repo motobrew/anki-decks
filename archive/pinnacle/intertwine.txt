@@ -1,0 +1,8 @@
+# Key:intertwine
+<h3>English Sentences</h3>
+E-1: The two rivers <u>intertwine</u> as they flow towards the sea.
+E-2: Their lives <u>intertwine</u> as they work together for a common goal.
+
+<h3>Japanese Translation</h3>
+J-1: 二つの川は海に向かって<u>絡み合って</u>流れます。
+J-2: 彼らの人生は共通の目標のために協力する中で<u>絡み合って</u>います。

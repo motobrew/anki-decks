@@ -1,0 +1,8 @@
+# Key:havoc
+<h3>English Sentences</h3>
+E-1: The thunderstorm caused <u>havoc</u> in the city, damaging buildings and trees.
+E-2: When my younger cousins came over, they created <u>havoc</u> in my room, leaving toys everywhere.
+
+<h3>Japanese Translation</h3>
+J-1: 雷雨が都市で<u>大混乱</u>を引き起こし、建物や木々に被害を与えました。
+J-2: 弟たちが遊びに来た時、彼らは私の部屋で<u>大混乱</u>を引き起こし、あちこちにおもちゃを残しました。

@@ -1,0 +1,8 @@
+# Key:contentious
+<h3>English Sentences</h3>
+E-1: The team had a <u>contentious</u> debate about the project's direction.
+E-2: The court case became <u>contentious</u> as both sides argued their points.
+
+<h3>Japanese Translation</h3>
+J-1: チームはプロジェクトの進め方について<u>議論の的となる</u>論争を行いました。
+J-2: 両者が主張し合うため、裁判の件は<u>論争が絶えない</u>ものになりました。

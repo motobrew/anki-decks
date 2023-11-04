@@ -1,0 +1,8 @@
+# Key:panacea
+<h3>English Sentences</h3>
+E-1: A <u>panacea</u> does not exist for all of life's problems.
+E-2: She hoped that the new medication would be a <u>panacea</u> for her illness.
+
+<h3>Japanese Translation</h3>
+J-1: 人生のすべての問題のための<u>万能薬</u>は存在しません。
+J-2: 彼女は新しい薬が彼女の病気の<u>万能の治療法</u>になることを期待していました。

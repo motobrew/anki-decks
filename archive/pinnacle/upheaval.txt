@@ -1,0 +1,8 @@
+# Key:upheaval
+<h3>English Sentences</h3>
+E-1: The political <u>upheaval</u> caused instability in the country.
+E-2: The sudden resignation of the CEO created an <u>upheaval</u> in the company.
+
+<h3>Japanese Translation</h3>
+J-1: 政治的な<u>動揺</u>が国内で不安定さを引き起こしました。
+J-2: CEOの突然の辞任は会社内に<u>大きな変動</u>をもたらしました。

@@ -1,0 +1,8 @@
+# Key:rapport
+<h3>English Sentences</h3>
+E-1: The salesperson quickly established a <u>rapport</u> with the customer.
+E-2: Building a strong <u>rapport</u> is essential for effective teamwork.
+
+<h3>Japanese Translation</h3>
+J-1: 接客係は迅速に顧客との<u>信頼関係</u>を築きました。
+J-2: 効果的なチームワークのためには、強固な<u>人間関係</u>を築くことが重要です。

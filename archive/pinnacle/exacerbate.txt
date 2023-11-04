@@ -1,0 +1,8 @@
+# Key:exacerbate
+<h3>English Sentences</h3>
+E-1: The heavy rain will <u>exacerbate</u> the flooding in the area.
+E-2: His careless comments only served to <u>exacerbate</u> the situation.
+
+<h3>Japanese Translation</h3>
+J-1: 激しい雨はその地域の洪水を<u>悪化させる</u>だろう。
+J-2: 彼の軽率な発言は、状況を<u>さらに悪化させる</u>だけだった。

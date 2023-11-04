@@ -1,0 +1,8 @@
+# Key:inception
+<h3>English Sentences</h3>
+E-1: The <u>inception</u> of a great idea can lead to success.
+E-2: The movie explored the concept of <u>inception</u> and dreams within dreams.
+
+<h3>Japanese Translation</h3>
+J-1: 優れたアイデアの<u>始まり</u>は成功につながることがあります。
+J-2: その映画は<u>起源</u>と夢の中の夢の概念を探求しました。

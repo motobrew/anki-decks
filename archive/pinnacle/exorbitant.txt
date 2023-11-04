@@ -1,0 +1,8 @@
+# Key:exorbitant
+<h3>English Sentences</h3>
+E-1: The price for that luxury car is absolutely <u>exorbitant</u>.
+E-2: The hotel charged an <u>exorbitant</u> amount for a simple meal.
+
+<h3>Japanese Translation</h3>
+J-1: その高級車の値段は本当に<u>法外な</u>ものです。
+J-2: ホテルがシンプルな食事に<u>過剰な</u>料金を請求しました。

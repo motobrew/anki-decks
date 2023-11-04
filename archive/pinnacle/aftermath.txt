@@ -1,0 +1,8 @@
+# Key:aftermath
+<h3>English Sentences</h3>
+E-1: The <u>aftermath</u> of the tornado left a trail of destruction.
+E-2: The team had to deal with the <u>aftermath</u> of their loss.
+
+<h3>Japanese Translation</h3>
+J-1: 竜巻の<u>後始末</u>で大きな被害が出ました。
+J-2: チームは敗北の<u>直後の状況</u>に対処しなければなりませんでした。

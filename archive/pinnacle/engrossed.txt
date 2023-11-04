@@ -1,0 +1,8 @@
+# Key:engrossed
+<h3>English Sentences</h3>
+E-1: She was <u>engrossed</u> in a good book and didn't notice the time.
+E-2: The meeting was <u>engrossed</u> in a heated debate on the new proposal.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は面白い本に夢中になって、時間を気づかなかった。
+J-2: 会議は新たな提案についての激しい議論に没頭していました。

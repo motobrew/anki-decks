@@ -1,0 +1,8 @@
+# Key:affinity
+<h3>English Sentences</h3>
+E-1: She has a strong <u>affinity</u> for music and enjoys playing instruments.
+E-2: The children showed an instant <u>affinity</u> towards their new teacher.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は音楽への強い<u>愛着</u>を持ち、楽器を演奏することを楽しんでいます。
+J-2: 子供たちは新しい先生に対して即座に<u>親近感</u>を示しました。

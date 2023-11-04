@@ -1,0 +1,8 @@
+# Key:flimsy
+<h3>English Sentences</h3>
+E-1: The wind blew away the <u>flimsy</u> paper from my hand.
+E-2: I don't trust him, his promises are <u>flimsy</u> and unreliable.
+
+<h3>Japanese Translation</h3>
+J-1: 風が吹いて手から<u>薄っぺらい</u>紙が飛ばされた。
+J-2: 彼を信用しない、彼の約束は<u>頼りなくて</u>信じられない。

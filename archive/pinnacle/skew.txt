@@ -1,0 +1,8 @@
+# Key:skew
+<h3>English Sentences</h3>
+E-1: The chef used a <u>skewer</u> to grill the kebabs.
+E-2: The data was <u>skewed</u> by a few outlying values.
+
+<h3>Japanese Translation</h3>
+J-1: シェフは串を使ってケバブを焼きました。
+J-2: いくつかの外れ値によってデータが歪んでいました。

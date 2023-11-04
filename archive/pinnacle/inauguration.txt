@@ -1,0 +1,8 @@
+# Key:inauguration
+<h3>English Sentences</h3>
+E-1: The <u>inauguration</u> ceremony marked the beginning of his presidency.
+E-2: The new restaurant had a successful <u>inauguration</u> with a full house.
+
+<h3>Japanese Translation</h3>
+J-1: 就任式は彼の大統領就任の始まりを示しました。
+J-2: 新しいレストランは満席で成功した就任式を迎えました。

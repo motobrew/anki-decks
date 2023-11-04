@@ -1,0 +1,8 @@
+# Key:appalling
+<h3>English Sentences</h3>
+E-1: The service at the restaurant was appalling; I will never go back.
+E-2: He made an appalling mistake that cost the company millions.
+
+<h3>Japanese Translation</h3>
+J-1: そのレストランのサービスは<u>ひどかったです</u>。二度と行かないでしょう。
+J-2: 彼は<u>ひどいミス</u>をして、会社に何百万もの損害を与えました。

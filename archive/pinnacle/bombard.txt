@@ -1,0 +1,8 @@
+# Key:bombard
+<h3>English Sentences</h3>
+E-1: The weather reporter said a <u>storm front</u> was moving in.
+E-2: The soldiers stood at the <u>front</u> of the line, ready for battle.
+
+<h3>Japanese Translation</h3>
+J-1: 気象予報士は<u>前線</u>が接近していると言っていました。
+J-2: 兵士たちは列の<u>前線</u>に立ち、戦闘の準備ができていました。

@@ -1,0 +1,8 @@
+# Key:baffle
+<h3>English Sentences</h3>
+E-1: The magician's trick completely <u>baffled</u> the audience.
+E-2: The complex math problem continues to <u>baffle</u> me.
+
+<h3>Japanese Translation</h3>
+J-1: 魔術師のトリックは観客を完全に<u>困惑させました</u>。
+J-2: その複雑な数学の問題は私を<u>まったく困惑させる</u>。

@@ -1,0 +1,8 @@
+# Key:seismic
+<h3>English Sentences</h3>
+E-1: The <u>seismic</u> activity caused multiple buildings to collapse.
+E-2: Her sudden resignation had a <u>seismic</u> impact on the company.
+
+<h3>Japanese Translation</h3>
+J-1: <u>地震</u>の活動が原因で、複数の建物が崩壊しました。
+J-2: 彼女の突然の辞職は、会社に<u>大きな動揺を与えました。</u>

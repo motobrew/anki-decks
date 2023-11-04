@@ -1,0 +1,8 @@
+# Key:avid
+<h3>English Sentences</h3>
+E-1: He is an <u>avid</u> reader and always carries a book with him.
+E-2: She is an <u>avid</u> hiker and spends every weekend on the trails.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は<u>熱心な</u>読書家で、いつも本を持ち歩いています。
+J-2: 彼女は<u>熱心な</u>ハイカーで、毎週末をトレイルで過ごします。

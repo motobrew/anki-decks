@@ -1,0 +1,8 @@
+# Key:posit
+<h3>English Sentences</h3>
+E-1: The <u>posit</u> of the chair allowed me to sit comfortably.
+E-2: She always tries to <u>posit</u> herself as the victim in every situation.
+
+<h3>Japanese Translation</h3>
+J-1: イスの<u座面</u>は快適に座ることができました。
+J-2: 彼女はいつも自分自身を状況の被害者として<u>主張</u>しようとします。

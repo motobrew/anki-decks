@@ -1,0 +1,8 @@
+# Key:placid
+<h3>English Sentences</h3>
+E-1: The <u>placid</u> lake reflected the towering mountains in its surface.
+E-2: Despite the chaos around her, she remained <u>placid</u> and composed.
+
+<h3>Japanese Translation</h3>
+J-1: <u>穏やかな</u>湖はその表面にそびえ立つ山々を映し出していた。
+J-2: 彼女は周りが混乱しているにも関わらず、<u>穏やかで冷静</u>だった。

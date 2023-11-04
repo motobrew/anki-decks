@@ -1,0 +1,8 @@
+# Key:torment
+<h3>English Sentences</h3>
+E-1: The children's laughter <u>echoed</u> through the empty hallways of the school.
+E-2: The sound of the thunder <u>echoed</u> in the mountains.
+
+<h3>Japanese Translation</h3>
+J-1: 子供たちの笑い声が学校の空っぽの廊下に<u>響き渡った</u>。
+J-2: 雷の音が山々に<u>反響しました</u>。

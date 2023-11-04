@@ -1,0 +1,8 @@
+# Key:devour
+<h3>English Sentences</h3>
+E-1: The lion started to <u>devour</u> its prey after a long chase.
+E-2: She <u>devoured</u> all the books in the library over the summer.
+
+<h3>Japanese Translation</h3>
+J-1: 長い追いかけの末、ライオンは獲物を<u>むさぼり食べました</u>。
+J-2: 彼女は夏に図書館の本を<u>一冊残らず読み尽くしました</u>。

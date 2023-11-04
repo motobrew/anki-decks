@@ -1,0 +1,8 @@
+# Key:impoverished
+<h3>English Sentences</h3>
+E-1: The <u>impoverished</u> family struggled to afford basic necessities.
+E-2: The war has left many people <u>impoverished</u> and in need of assistance.
+
+<h3>Japanese Translation</h3>
+J-1: 生活が困窮している家族は、生活必需品を買うのに苦労しました。
+J-2: その戦争により多くの人々が貧困化し、支援を必要としています。

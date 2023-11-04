@@ -1,0 +1,8 @@
+# Key:entrenched
+<h3>English Sentences</h3>
+E-1: The idea of changing the law is deeply <u>entrenched</u> in their minds.
+E-2: The beliefs of different cultures can be <u>entrenched</u> and hard to change.
+
+<h3>Japanese Translation</h3>
+J-1: 法律を変えるという考えは彼らの心に深く<u>定着しています</u>。
+J-2: 異なる文化の信念は<u>根強く</u>変わりにくいことがあります。

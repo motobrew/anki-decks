@@ -1,0 +1,8 @@
+# Key:backdrop
+<h3>English Sentences</h3>
+E-1: The hotel room had a beautiful <u>backdrop</u> of the ocean.
+E-2: The political scandal served as a troubling <u>backdrop</u> to the upcoming election.
+
+<h3>Japanese Translation</h3>
+J-1: ホテルの部屋からは美しい<u>背景</u>として海が広がっていた。
+J-2: 政治的なスキャンダルは、今度の選挙にとって心配な<u>状況</u>となった。

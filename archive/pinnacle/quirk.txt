@@ -1,0 +1,8 @@
+# Key:quirk
+<h3>English Sentences</h3>
+E-1: She always has a <u>quirk</u> of playing with her hair when she's nervous.
+E-2: One <u>quirk</u> of the new software is that it crashes often.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は緊張するといつも<u>癖</u>で髪を触っている。
+J-2: 新しいソフトウェアの<u>特徴</u>の一つは、頻繁にクラッシュすることです。

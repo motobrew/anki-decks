@@ -1,0 +1,8 @@
+# Key:idiosyncratic
+<h3>English Sentences</h3>
+E-1: Her painting style is so <u>idiosyncratic</u>, it's unlike anything I've seen before.
+E-2: John has a few <u>idiosyncratic</u> habits, like wearing mismatched socks.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女の絵画スタイルはとても<u>独特</u>で、今まで見たことのないものです。
+J-2: ジョンには、靴下をミスマッチに履くなど、いくつか<u>特異な</u>習慣があります。

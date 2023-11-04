@@ -1,0 +1,8 @@
+# Key:epitomize
+<h3>English Sentences</h3>
+E-1: The grand cathedral <u>epitomizes</u> Gothic architecture with its soaring spires.
+E-2: Her dedication and hard work <u>epitomize</u> what it means to be a successful entrepreneur.
+
+<h3>Japanese Translation</h3>
+J-1: 高い尖塔で有名な大聖堂は、ゴシック建築を<u>象徴しています</u>。
+J-2: 彼女の献身と努力は、成功した起業家であることの<u>典型であります</u>。

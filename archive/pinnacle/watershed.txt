@@ -1,0 +1,8 @@
+# Key:watershed
+<h3>English Sentences</h3>
+E-1: I had a <u>watershed</u> moment that changed my life forever.
+E-2: The discovery of the vaccine was a <u>watershed</u> in medical history.
+
+<h3>Japanese Translation</h3>
+J-1: 私は一生を変えた<u>画期的な瞬間</u>を経験しました。
+J-2: ワクチンの発見は医学史の<u>転換点</u>でした。

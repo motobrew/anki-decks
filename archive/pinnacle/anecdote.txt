@@ -1,0 +1,8 @@
+# Key:anecdote
+<h3>English Sentences</h3>
+E-1: I have a great <u>appetite</u> after a long day of hiking.
+E-2: Her <u>appetite</u> for success is what drives her to work hard.
+
+<h3>Japanese Translation</h3>
+J-1: ハイキングの後、私は<u>食欲</u>がすごくあります。
+J-2: 彼女の成功への<u>欲求</u>が彼女を一生懸命働かせます。

@@ -1,0 +1,8 @@
+# Key:cumulative
+<h3>English Sentences</h3>
+E-1: The <u>cumulative</u> effect of stress can be detrimental to one's health.
+E-2: The score is calculated by adding up the <u>cumulative</u> points.
+
+<h3>Japanese Translation</h3>
+J-1: ストレスの<u>蓄積</u>が健康に悪影響を与えることがあります。
+J-2: スコアは<u>累積</u>ポイントを合算して計算されます。

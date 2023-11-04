@@ -1,0 +1,8 @@
+# Key:strenuous
+<h3>English Sentences</h3>
+E-1: He found the hike to the mountain peak too <u>strenuous</u> for his fitness level.
+E-2: The <u>strenuous</u> workout left her feeling exhausted and sore.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は自分のフィットネスレベルに比べて山頂へのハイキングがあまりにも<u>厳しい</u>と感じました。
+J-2: その<u>過酷な</u>トレーニングで彼女は疲れ切って筋肉痛になりました。

@@ -1,0 +1,8 @@
+# Key:seminal
+<h3>English Sentences</h3>
+E-1: The new novel by Jane Austen was a <u>seminal</u> work in English literature.
+E-2: The scientist published a <u>seminal</u> research paper that revolutionized the field.
+
+<h3>Japanese Translation</h3>
+J-1: ジェーン・オースティンの新しい小説は英文学における<u>画期的な</u>作品でした。
+J-2: その科学者は、その分野を革新した<u>画期的な</u>研究論文を発表しました。

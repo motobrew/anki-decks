@@ -1,0 +1,8 @@
+# Key:staunch
+<h3>English Sentences</h3>
+E-1: A <u>staunch</u> supporter of the team, he never missed a game.
+E-2: Despite the criticism, she remained <u>staunch</u> in her beliefs.
+
+<h3>Japanese Translation</h3>
+J-1: 彼はチームの<u>忠実な</u>支持者で、一度も試合を欠かさなかった。
+J-2: 批判にもかかわらず、彼女は自分の信念を<u>断固として</u>守り続けた。

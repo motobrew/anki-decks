@@ -1,0 +1,8 @@
+# Key:dwarf
+<h3>English Sentences</h3>
+E-1: The <u>dwarf</u> stood next to Snow White, looking cheerful.
+E-2: The mountain range was <u>dwarfed</u> by the vastness of the ocean.
+
+<h3>Japanese Translation</h3>
+J-1: <u>小人</u>はスノーホワイトの隣に立ち、元気そうにしていました。
+J-2: 広大な海によって、その山脈は<u>小さく見えました</u>。

@@ -1,0 +1,8 @@
+# Key:evict
+<h3>English Sentences</h3>
+E-1: The landlord decided to <u>evict</u> the tenants for non-payment of rent.
+E-2: The government is planning to <u>evict</u> the illegal squatters from the vacant building.
+
+<h3>Japanese Translation</h3>
+J-1: 家賃の未払いを理由に、大家は入居者を<u>立ち退かせる</u>ことにしました。
+J-2: 政府は空きビルに不法占拠者がいるため、<u>立ち退かせる</u>計画を立てています。

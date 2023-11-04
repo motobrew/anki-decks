@@ -1,0 +1,8 @@
+# Key:gridlock
+<h3>English Sentences</h3>
+E-1: The <u>gridlock</u> in the city caused massive traffic jams.
+E-2: The negotiation reached a <u>gridlock</u> as neither party would compromise.
+
+<h3>Japanese Translation</h3>
+J-1: 都市での<u>渋滞</u>が大規模な交通渋滞を引き起こしました。
+J-2: 交渉は、どちらの当事者も妥協しないため、<u>行き詰まり</u>に達しました。

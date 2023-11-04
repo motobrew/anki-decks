@@ -1,0 +1,8 @@
+# Key:pivotal
+<h3>English Sentences</h3>
+E-1: The <u>pivotal</u> game-winning goal was scored in the final minute.
+E-2: His decision to join the company was <u>pivotal</u> in its success.
+
+<h3>Japanese Translation</h3>
+J-1: 決定的なゴールが最終分に決まりました。
+J-2: 彼が会社に参加する決断がその成功にとって重要でした。

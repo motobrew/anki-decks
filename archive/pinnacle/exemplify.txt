@@ -1,0 +1,8 @@
+# Key:exemplify
+<h3>English Sentences</h3>
+E-1: The team captain should <u>exemplify</u> good sportsmanship and leadership.
+E-2: The museum exhibits <u>exemplify</u> the style of the Renaissance period.
+
+<h3>Japanese Translation</h3>
+J-1: チームキャプテンは、良いスポーツマンシップとリーダーシップを<u>体現</u>すべきです。
+J-2: その美術館の展示は、ルネサンス期のスタイルを<u>象徴しています</u>。

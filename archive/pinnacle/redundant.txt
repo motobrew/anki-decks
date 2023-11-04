@@ -1,0 +1,8 @@
+# Key:redundant
+<h3>English Sentences</h3>
+E-1: They conducted <u>redundant</u> experiments to ensure the accuracy of the results.
+E-2: Due to budget cuts, many employees were declared <u>redundant</u>.
+
+<h3>Japanese Translation</h3>
+J-1: 結果の正確性を保証するために、彼らは<u>冗長な</u>実験を行いました。
+J-2: 予算削減のため、多くの従業員が<u>不要になった</u>とされました。

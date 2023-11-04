@@ -1,0 +1,8 @@
+# Key:exalt
+<h3>English Sentences</h3>
+E-1: The team's victory <u>exalted</u> the fans and brought them great joy.
+E-2: The author's beautifully written poem <u>exalts</u> the beauty of nature.
+
+<h3>Japanese Translation</h3>
+J-1: チームの勝利はファンたちを<u>うれしくさせ、喜びをもたらしました</u>。
+J-2: その著者の美しく書かれた詩は自然の美しさを<u>称えています</u>。

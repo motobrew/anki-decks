@@ -1,0 +1,8 @@
+# Key:dissect
+<h3>English Sentences</h3>
+E-1: I carefully <u>dissected</u> the frog to study its anatomy.
+E-2: The detective began to <u>dissect</u> the evidence to solve the crime.
+
+<h3>Japanese Translation</h3>
+J-1: 私は蛙の解剖をして、その解剖学を研究しました。
+J-2: 刑事は、犯罪を解決するために証拠を徹底的に分析し始めました。

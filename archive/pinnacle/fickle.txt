@@ -1,0 +1,8 @@
+# Key:fickle
+<h3>English Sentences</h3>
+E-1: My <u>fickle</u> friend never sticks to one decision for long.
+E-2: The weather can be <u>fickle</u> in spring, changing from sunny to rainy within minutes.
+
+<h3>Japanese Translation</h3>
+J-1: 私の<u>気まぐれな</u>友人は、長く一つの決断に固執しません。
+J-2: 春の天気は<u>変わりやすい</u>ので、数分で晴れから雨に変わることがあります。

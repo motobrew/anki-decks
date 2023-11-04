@@ -1,0 +1,8 @@
+# Key:obliterate
+<h3>English Sentences</h3>
+E-1: The detective managed to <u>obliterate</u> all evidence of the crime.
+E-2: The explosion was so powerful that it <u>obliterated</u> the entire building.
+
+<h3>Japanese Translation</h3>
+J-1: 探偵は犯罪の全ての証拠を<u>消し去る</u>ことに成功しました。
+J-2: 爆発は非常に強力で、建物を<u>完全に壊滅させました</u>。

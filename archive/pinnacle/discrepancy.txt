@@ -1,0 +1,8 @@
+# Key:discrepancy
+<h3>English Sentences</h3>
+E-1: There is a major <u>discrepancy</u> between the two financial reports.
+E-2: The witness's testimony <u>discrepancy</u> cast doubt on his credibility.
+
+<h3>Japanese Translation</h3>
+J-1: 2つの財務報告書間には大きな<u>相違点</u>があります。
+J-2: 証人の証言の<u>矛盾</u>が彼の信用性に疑問を投げかけた。

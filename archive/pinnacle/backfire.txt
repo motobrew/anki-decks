@@ -1,0 +1,8 @@
+# Key:backfire
+<h3>English Sentences</h3>
+E-1: The fireworks display <u>backfired</u> and scared the audience.
+E-2: His attempt to embarrass her at the party <u>backfired</u> when everyone praised her instead.
+
+<h3>Japanese Translation</h3>
+J-1: 花火の打ち上げがうまくいかず、観客をびっくりさせました。
+J-2: 彼女をパーティーで恥ずかしがらせようとした彼の試みは逆効果に終わり、皆が彼女を称賛しました。

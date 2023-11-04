@@ -1,0 +1,8 @@
+# Key:innocuous
+<h3>English Sentences</h3>
+E-1: The <u>innocuous</u> comment unintentionally offended some sensitive listeners.
+E-2: The plant may look <u>innocuous</u>, but it's actually poisonous.
+
+<h3>Japanese Translation</h3>
+J-1: その<u>無害な</u>コメントが、敏感な聞き手の一部に無意識に不快感を与えました。
+J-2: その植物は<u>無害</u>に見えるかもしれませんが、実際には毒です。

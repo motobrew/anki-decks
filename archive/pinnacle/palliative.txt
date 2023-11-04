@@ -1,0 +1,8 @@
+# Key:palliative
+<h3>English Sentences</h3>
+E-1: The doctor prescribed <u>palliative</u> care to manage her pain.
+E-2: The movie provided a <u>palliative</u> escape from reality for a few hours.
+
+<h3>Japanese Translation</h3>
+J-1: 医師は彼女の痛みを管理するために<u>対症療法</u>ケアを処方しました。
+J-2: その映画は数時間の間、現実からの<u>一時的な快楽</u>を提供しました。

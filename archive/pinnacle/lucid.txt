@@ -1,0 +1,8 @@
+# Key:lucid
+<h3>English Sentences</h3>
+E-1: She had a <u>lucid</u> moment and finally understood the math problem.
+E-2: The patient's mind became <u>lucid</u> after the medication started working.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は<u>輝いた</u>瞬間を迎え、ついにその数学の問題が理解できました。
+J-2: 患者の意識は、薬が効き始めてから<u>明晰</u>になりました。

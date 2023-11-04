@@ -1,0 +1,8 @@
+# Key:complacent
+<h3>English Sentences</h3>
+E-1: The students became <u>complacent</u> with their early success and stopped studying.
+E-2: Don't be too <u>complacent</u> in your current job, always strive for improvement.
+
+<h3>Japanese Translation</h3>
+J-1: 学生たちは初期の成功に満足し、勉強をやめました。
+J-2: 現在の仕事にあまり<u>安心しては</u>いけません、常に改善を目指してください。

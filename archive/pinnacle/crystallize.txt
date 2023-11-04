@@ -1,0 +1,8 @@
+# Key:crystallize
+<h3>English Sentences</h3>
+E-1: The recipe for success slowly <u>crystallized</u> in her mind.
+E-2: The water in the freezer started to <u>crystallize</u> into ice.
+
+<h3>Japanese Translation</h3>
+J-1: 成功のためのレシピが彼女の頭にゆっくりと<u>明確になっていきました</u>。
+J-2: 冷凍庫の中の水が<u>氷に結晶化しはじめました</u>。

@@ -1,0 +1,8 @@
+# Key:demarcation
+<h3>English Sentences</h3>
+E-1: The <u>demarcation</u> between the two properties is marked by a fence.
+E-2: The <u>demarcation</u> of responsibilities between the two departments is clear.
+
+<h3>Japanese Translation</h3>
+J-1: 2つの敷地間の<u>境界線</u>はフェンスで示されています。
+J-2: 2つの部署の<u>職務区分</u>は明確です。

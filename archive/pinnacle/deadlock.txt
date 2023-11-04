@@ -1,0 +1,8 @@
+# Key:deadlock
+<h3>English Sentences</h3>
+E-1: The two sides in the negotiation have reached a <u>deadlock</u>.
+E-2: The traffic was at a complete <u>deadlock</u> during rush hour.
+
+<h3>Japanese Translation</h3>
+J-1: 交渉の双方は<u>行き詰まり</u>に達しています。
+J-2: ラッシュアワーには交通が完全に<u>停滞</u>していました。

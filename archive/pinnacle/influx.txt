@@ -1,0 +1,8 @@
+# Key:influx
+<h3>English Sentences</h3>
+E-1: An <u>influx</u> of tourists flooded the small town during the summer.
+E-2: The <u>influx</u> of new employees brought fresh ideas to the company.
+
+<h3>Japanese Translation</h3>
+J-1: 夏には観光客の<u>大量流入</u>が小さな町に押し寄せました。
+J-2: 新入社員の<u>押し寄せ</u>により、会社に新たなアイデアがもたらされました。

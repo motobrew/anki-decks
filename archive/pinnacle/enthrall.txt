@@ -1,0 +1,8 @@
+# Key:enthrall
+<h3>English Sentences</h3>
+E-1: The magician's tricks <u>enthrall</u> the audience during the show.
+E-2: The captivating novel <u>enthralls</u> readers from beginning to end.
+
+<h3>Japanese Translation</h3>
+J-1: 魔術師のトリックはショー中に観客を<u>魅了</u>します。
+J-2: 魅惑的な小説は最初から最後まで読者を<u>魅了</u>します。

@@ -1,0 +1,8 @@
+# Key:treacherous
+<h3>English Sentences</h3>
+E-1: The hiker cautiously crossed the <u>treacherous</u> mountain path.
+E-2: The spy was exposed when his <u>treacherous</u> actions were discovered.
+
+<h3>Japanese Translation</h3>
+J-1: ハイカーは注意深く<u>危険な</u>山道を渡りました。
+J-2: スパイは<u>裏切り行為</u>が発覚した時に暴かれました。

@@ -1,0 +1,8 @@
+# Key:substantiate
+<h3>English Sentences</h3>
+E-1: The detective found evidence to <u>substantiate</u> the suspect's alibi.
+E-2: The scientist conducted experiments to <u>substantiate</u> her theory.
+
+<h3>Japanese Translation</h3>
+J-1: 刑事は容疑者のアリバイを<u>裏付けるための</u>証拠を見つけました。
+J-2: その科学者は自身の理論を<u>証明するために</u>実験を行いました。

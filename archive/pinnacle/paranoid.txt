@@ -1,0 +1,8 @@
+# Key:paranoid
+<h3>English Sentences</h3>
+E-1: She was <u>paranoid</u> about being followed and checked her surroundings constantly.
+E-2: His <u>paranoid</u> behavior made it difficult for him to trust anyone.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女はつねに周囲を確認し、追われているんじゃないかと<u>被害妄想が強い</u>状態だった。
+J-2: 彼の<u>偏執症的な</u>行動は、誰とも信頼関係を築くのを難しくしていた。

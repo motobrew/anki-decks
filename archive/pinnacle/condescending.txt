@@ -1,0 +1,8 @@
+# Key:condescending
+<h3>English Sentences</h3>
+E-1: She has a <u>golden touch</u> when it comes to investing.
+E-2: The artist added a <u>golden touch</u> to the painting, making it exquisite.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は投資において<u>正しい手腕</u>を持っています。
+J-2: そのアーティストは素晴らしい絵画に<u>特別な腕前</u>を加えました。

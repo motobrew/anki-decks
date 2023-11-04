@@ -1,0 +1,8 @@
+# Key:acquiescence
+<h3>English Sentences</h3>
+E-1: The <u>acquiescence</u> of the employees resulted in the decision being implemented.
+E-2: He nodded in <u>acquiescence</u> when his friend suggested ordering pizza.
+
+<h3>Japanese Translation</h3>
+J-1: 従業員の<u>黙認</u>により、その決定は実施されました。
+J-2: 彼は友人がピザを注文することを提案したとき、<u>同意</u>しました。

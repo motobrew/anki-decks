@@ -1,0 +1,8 @@
+# Key:whim
+<h3>English Sentences</h3>
+E-1: The children decided to go to the amusement park on a <u>whim</u>.
+E-2: Sarah bought a new dress on a <u>whim</u> without thinking about it.
+
+<h3>Japanese Translation</h3>
+J-1: 子供たちは<u>思いつき</u>で遊園地に行くことを決めました。
+J-2: サラは<u>思いつき</u>で考えずに新しいドレスを買いました。

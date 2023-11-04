@@ -1,0 +1,8 @@
+# Key:intoxicated
+<h3>English Sentences</h3>
+E-1: She was heavily <u>intoxicated</u> and couldn't walk straight.
+E-2: The strong smell of alcohol made him feel <u>intoxicated</u>.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は酩酊していて、まっすぐ歩けませんでした。
+J-2: 強いアルコールの匂いで彼は酩酊した気分になりました。

@@ -1,0 +1,8 @@
+# Key:dismantle
+<h3>English Sentences</h3>
+E-1: The construction crew will <u>dismantle</u> the old building tomorrow.
+E-2: After the event, we need to <u>dismantle</u> the stage and clean up.
+
+<h3>Japanese Translation</h3>
+J-1: 明日、建設業者が<u>解体する</u>予定です。
+J-2: イベントの後、ステージを<u>撤去し</u>、片付ける必要があります。

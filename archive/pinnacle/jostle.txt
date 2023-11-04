@@ -1,0 +1,8 @@
+# Key:jostle
+<h3>English Sentences</h3>
+E-1: The crowded train station made it difficult not to <u>jostle</u> against others.
+E-2: The rugby players aggressively <u>jostled</u> for possession of the ball.
+
+<h3>Japanese Translation</h3>
+J-1: 混雑した駅では他の人たちと<u>押し合う</u>のが難しかったです。
+J-2: ラグビー選手たちはボールのポゼッションを巡って激しく<u>押し合い合いました</u>。

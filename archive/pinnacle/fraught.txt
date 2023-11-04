@@ -1,0 +1,8 @@
+# Key:fraught
+<h3>English Sentences</h3>
+E-1: The conversation with my boss was filled with <u>fraught</u> tension.
+E-2: The flight was <u>fraught with delays</u> and cancellations.
+
+<h3>Japanese Translation</h3>
+J-1: 上司との会話は<u>緊張に満ちた</u>雰囲気でした。
+J-2: そのフライトは<u>遅延やキャンセルで波乱に満ちていました</u>。

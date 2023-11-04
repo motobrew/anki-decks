@@ -1,0 +1,8 @@
+# Key:ephemeral
+<h3>English Sentences</h3>
+E-1: The <u>ephemeral</u> beauty of a blooming flower always amazes me.
+E-2: We need to capture the moment, as it is <u>ephemeral</u> and won't last long.
+
+<h3>Japanese Translation</h3>
+J-1: 咲いている花の<u>一瞬の</u>美しさにいつも驚かされます。
+J-2: その瞬間を捉える必要があります、それは<u>つかの間の</u>もので長くは続きません。

@@ -1,0 +1,8 @@
+# Key:frenzy
+<h3>English Sentences</h3>
+E-1: The city was in a <u>frenzy</u> during the championship game.
+E-2: After winning the lottery, she went into a shopping <u>frenzy</u>.
+
+<h3>Japanese Translation</h3>
+J-1: 市内はチャンピオンシップの試合中に<u興奮状態</u>になっていました。
+J-2: 彼女は宝くじに当選した後、買い物<u狂い</u>になりました。

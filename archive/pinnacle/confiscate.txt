@@ -1,0 +1,8 @@
+# Key:confiscate
+<h3>English Sentences</h3>
+E-1: The police <u>confiscated</u> the illegal drugs during the raid.
+E-2: The teacher threatened to <u>confiscate</u> our phones if we used them in class.
+
+<h3>Japanese Translation</h3>
+J-1: 警察は強制捜査中に違法薬物を<u>押収しました</u>。
+J-2: 先生は授業中に携帯を使うと<u>没収する</u>と脅しました。

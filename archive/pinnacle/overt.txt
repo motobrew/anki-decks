@@ -1,0 +1,8 @@
+# Key:overt
+<h3>English Sentences</h3>
+E-1: The new student had an <u>overt</u> excitement about joining the club.
+E-2: The company used <u>overt</u> advertising to promote their product.
+
+<h3>Japanese Translation</h3>
+J-1: 新しい生徒はクラブに参加することに<u>明白な</u>興奮を持っていました。
+J-2: その会社は<u>公然の</u>広告を利用して自社製品を宣伝しました。

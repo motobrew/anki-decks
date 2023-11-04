@@ -1,0 +1,8 @@
+# Key:underscore
+<h3>English Sentences</h3>
+E-1: She wore a beautiful <u>scarf</u> around her neck.
+E-2: He used a <u>scarf</u> to cover his face from the cold wind.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は首に美しい<u>スカーフ</u>を巻いていました。
+J-2: 彼は寒い風から顔を<u>スカーフで</u>覆いました。

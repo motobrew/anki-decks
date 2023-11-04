@@ -1,0 +1,8 @@
+# Key:remorse
+<h3>English Sentence</h3>
+E-1: The <u>remorse</u> in his voice indicated his deep regret.
+E-2: She felt a wave of <u>remorse</u> after realizing her mistake.
+
+<h3>Japanese Translation</h3>
+J-1: 彼の声には<u>後悔</u>が込められ、深い反省の気持ちが伝わった。
+J-2: 彼女は自分のミスに気付いてから、<u>後悔の念</u>が押し寄せてきた。

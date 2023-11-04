@@ -1,0 +1,8 @@
+# Key:burgeoning
+<h3>English Sentences</h3>
+E-1: As a new company, we are experiencing <u>burgeoning</u> growth.
+E-2: The <u>burgeoning</u> flowers in the garden added a pop of color.
+
+<h3>Japanese Translation</h3>
+J-1: 新しい会社として、私たちは<u>急速に発展している</u>成長を経験しています。
+J-2: 庭の<u>急速に成長している</u>花が色を添えました。

@@ -1,0 +1,8 @@
+# Key:grandeur
+<h3>English Sentences</h3>
+E-1: The <u>grandeur</u> of the royal palace took my breath away.
+E-2: The <u>grandeur</u> of her ball gown was unmatched at the party.
+
+<h3>Japanese Translation</h3>
+J-1: 王宮の<u>壮大さ</u>に息をのみました。
+J-2: パーティーで彼女のドレスの<u>華麗さ</u>は誰にも負けませんでした。

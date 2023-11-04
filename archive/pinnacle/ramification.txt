@@ -1,0 +1,8 @@
+# Key:ramification
+<h3>English Sentences</h3>
+E-1: The <u>ramification</u> of his decision led to unforeseen consequences.
+E-2: The <u>ramification</u> of the new policy affected the entire company.
+
+<h3>Japanese Translation</h3>
+J-1: 彼の決定の<u>結果</u>は予想外の結果をもたらしました。
+J-2: 新しい方針の<u>影響</u>は会社全体に及びました。

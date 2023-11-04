@@ -1,0 +1,8 @@
+# Key:ostentatious
+<h3>English Sentences</h3>
+E-1: She wore an <u>ostentatious</u> diamond necklace to the gala. 
+E-2: His <u>ostentatious</u> display of wealth made others uncomfortable.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女はガラに<u>目立つ</u>ダイヤモンドのネックレスを身に着けていました。
+J-2: 彼の<u>けばけばしい</u>富のアピールは他の人々を不快にさせました。

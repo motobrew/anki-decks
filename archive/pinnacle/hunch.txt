@@ -1,0 +1,8 @@
+# Key:hunch
+<h3>English Sentences</h3>
+E-1: I have a strange <u>hunch</u> that something bad is going to happen.
+E-2: The detective followed his <u>hunch</u> and solved the case.
+
+<h3>Japanese Translation</h3>
+J-1: なんだか悪いことが起こる予感があります。
+J-2: 刑事は自分の直感を信じて事件を解決しました。

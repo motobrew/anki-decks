@@ -1,0 +1,8 @@
+# Key:far-fetched
+<h3>English Sentences</h3>
+E-1: The plot twist in the movie was quite <u>far-fetched</u>.
+E-2: He had a <u>far-fetched</u> idea for how to solve the problem.
+
+<h3>Japanese Translation</h3>
+J-1: 映画のストーリーの展開はかなり<u>信じがたい</u>ものでした。
+J-2: 彼は問題を解決するための<u>考えが非現実的な</u>アイデアを持っていました。

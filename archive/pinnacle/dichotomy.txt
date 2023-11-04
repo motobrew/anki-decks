@@ -1,0 +1,8 @@
+# Key:dichotomy
+<h3>English Sentences</h3>
+E-1: The <u>dichotomy</u> between good and evil is a common theme in literature.
+E-2: There is a <u>dichotomy</u> between her professional and personal life.
+
+<h3>Japanese Translation</h3>
+J-1: 善と悪の<u>二分法</u>は文学の一般的なテーマです。
+J-2: 彼女の仕事とプライベートの生活の<u>二分法</u>があります。

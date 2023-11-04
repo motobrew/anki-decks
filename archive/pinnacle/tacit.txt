@@ -1,0 +1,8 @@
+# Key:tacit
+<h3>English Sentences</h3>
+E-1: The couple had a <u>tacit</u> agreement to never mention their past relationships.
+E-2: The child's <u>tacit</u> rejection of the vegetables was clear from his facial expression.
+
+<h3>Japanese Translation</h3>
+J-1: カップルは、過去の恋愛について<u>黙っている</u>という暗黙の了解がありました。
+J-2: 子供の顔つきから、野菜への<u>黙示的な</u>拒否が明確でした。

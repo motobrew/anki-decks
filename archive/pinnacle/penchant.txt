@@ -1,0 +1,8 @@
+# Key:penchant
+<h3>English Sentences</h3>
+E-1: He has a <u>penchant</u> for collecting rare stamps.
+E-2: Her <u>penchant</u> for drama often creates unnecessary conflicts.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は珍しい切手を収集する<u>ことに対する嗜好</u>があります。
+J-2: 彼女の<u>ドラマに対する嗜好</u>はしばしば不必要な争いを引き起こします。

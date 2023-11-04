@@ -1,0 +1,8 @@
+# Key:scorching
+<h3>English Sentences</h3>
+E-1: The <u>scorching</u> heat made it unbearable to be outside.
+E-2: She left the food on the stove for too long and it became <u>scorched</u>.
+
+<h3>Japanese Translation</h3>
+J-1: 焼けつくような暑さで外にいるのは辛くなりました。
+J-2: 彼女は料理をコンロに長く置きっぱなしにしてしまい、それが焦げました。

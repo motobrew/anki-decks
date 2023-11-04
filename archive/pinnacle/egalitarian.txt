@@ -1,0 +1,8 @@
+# Key:egalitarian
+<h3>English Sentences</h3>
+E-1: An <u>egalitarian</u> society values equal rights and opportunities for everyone.
+E-2: The boss's decision to distribute bonuses equally reflects an <u>egalitarian</u> approach.
+
+<h3>Japanese Translation</h3>
+J-1: <u>平等主義</u>の社会は、誰にも平等な権利と機会を重視します。
+J-2: 上司がボーナスを均等に分配する決定は、<u>平等主義</u>のアプローチを反映しています。

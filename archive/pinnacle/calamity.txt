@@ -1,0 +1,8 @@
+# Key:calamity
+<h3>English Sentences</h3>
+E-1: He's always waving the white flag when faced with defeat.
+E-2: The losing team decided to wave the white flag and forfeit the game.
+
+<h3>Japanese Translation</h3>
+J-1: 彼はいつも敗北に直面すると白旗を振り続けている。
+J-2: 負けたチームは白旗を振って試合を棄権することにしました。

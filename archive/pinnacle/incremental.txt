@@ -1,0 +1,8 @@
+# Key:incremental
+<h3>English Sentences</h3>
+E-1: The company plans to implement an <u>incremental</u> approach to the project.
+E-2: She receives an <u>incremental</u> raise in salary each year.
+
+<h3>Japanese Translation</h3>
+J-1: その会社はプロジェクトに<u>漸進的</u>な手法を導入する予定です。
+J-2: 彼女は毎年<u>段階的</u>な給与の増加を受けます。

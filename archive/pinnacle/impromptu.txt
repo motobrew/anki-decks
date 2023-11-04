@@ -1,0 +1,8 @@
+# Key:impromptu
+<h3>English Sentences</h3>
+E-1: The concert was canceled, so we had to find an <u>impromptu</u> activity.
+E-2: She gave an <u>impromptu</u> speech when the guest speaker didn't show up.
+
+<h3>Japanese Translation</h3>
+J-1: コンサートがキャンセルされたので、<u>即興の</u>アクティビティを見つけなければなりませんでした。
+J-2: ゲストスピーカーが来なかったので、彼女は<u>即興の</u>スピーチを行いました。

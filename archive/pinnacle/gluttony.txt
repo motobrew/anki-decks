@@ -1,0 +1,8 @@
+# Key:gluttony
+<h3>English Sentences</h3>
+E-1: He is known for his <u>gluttony</u> and always finishes his plate.
+E-2: The feast on Thanksgiving is a celebration of <u>gluttony</u> and indulgence.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は彼の<u>食いしん坊</u>ぶりで知られ、いつもお皿を全部食べます。
+J-2: 感謝祭の祝宴は<u>大食い</u>と贅沢の祝いです。

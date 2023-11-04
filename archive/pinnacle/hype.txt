@@ -1,0 +1,8 @@
+# Key:hype
+<h3>English Sentences</h3>
+E-1: The <u>hype</u> surrounding the new movie is unbelievable.
+E-2: Don't believe all the <u>hype</u> around that product, it's not that great.
+
+<h3>Japanese Translation</h3>
+J-1: 新しい映画にまつわる<u>ブーム</u>は信じられないほどです。
+J-2: その商品についての<u>宣伝効果</u>を信じないでください、そんなに素晴らしくないです。

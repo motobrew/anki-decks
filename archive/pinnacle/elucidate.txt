@@ -1,0 +1,8 @@
+# Key:elucidate
+<h3>English Sentences</h3>
+E-1: The detective used UV light to <u>elucidate</u> the hidden fingerprints.
+E-2: The teacher used visual aids to <u>elucidate</u> the complex concept.
+
+<h3>Japanese Translation</h3>
+J-1: 刑事はUVライトを使用して隠された指紋を<u>明らかにしました</u>。
+J-2: 先生は視覚的な手助けを使って複雑な概念を<u>解説しました</u>。

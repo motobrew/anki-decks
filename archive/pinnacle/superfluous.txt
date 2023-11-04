@@ -1,0 +1,8 @@
+# Key:superfluous
+<h3>English Sentences</h3>
+E-1: There is no need to include <u>superfluous</u> details in the report.
+E-2: The extra decorations on the cake were <u>superfluous</u> and unnecessary.
+
+<h3>Japanese Translation</h3>
+J-1: 報告書には<u>余分な</u>詳細を含める必要はありません。
+J-2: ケーキの余分な飾りは<u>不必要な</u>ものでした。

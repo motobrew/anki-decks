@@ -1,0 +1,8 @@
+# Key:squander
+<h3>English Sentences</h3>
+E-1: He <u>squandered</u> his inheritance on expensive cars and vacations.
+E-2: The team <u>squandered</u> their lead by making careless mistakes in the last minutes.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は高級車やバカンスに遺産を<u>浪費しました</u>。
+J-2: チームは最後の数分で不注意なミスを犯し、リードを<u>無駄にしました</u>。

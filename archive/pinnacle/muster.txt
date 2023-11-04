@@ -1,0 +1,8 @@
+# Key:muster
+<h3>English Sentences</h3>
+E-1: It took me a while to <u>muster</u> up the courage to speak in front of the crowd.
+E-2: The army was able to <u>muster</u> a large force to defend the city.
+
+<h3>Japanese Translation</h3>
+J-1: 大勢の前で話す勇気を<u>奮い起こす</u>のに時間がかかりました。
+J-2: 軍隊は大軍を<u>集めること</u>ができ、市を守ることができました。

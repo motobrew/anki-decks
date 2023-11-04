@@ -1,0 +1,8 @@
+# Key:laudable
+<h3>English Sentences</h3>
+E-1: The student's <u>laudable</u> efforts were recognized with a prestigious award.
+E-2: Despite facing numerous challenges, she persevered with <u>laudable</u> determination.
+
+<h3>Japanese Translation</h3>
+J-1: 生徒の<u>称賛に値する</u>努力が名誉ある賞で認められました。
+J-2: 多くの困難に直面したにもかかわらず、彼女は<u>称賛に値する</u>決意で耐え続けました。

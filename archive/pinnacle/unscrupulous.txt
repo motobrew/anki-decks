@@ -1,0 +1,8 @@
+# Key:unscrupulous
+<h3>English Sentences</h3>
+E-1: He is known for his <u>unscrupulous</u> business practices.
+E-2: The detective uncovered the <u>unscrupulous</u> scheme to defraud investors.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は彼の<u>不正直な</u>商慣行で知られています。
+J-2: 探偵は投資家をだまそうとする<u>不正直な</u>計画を暴きました。

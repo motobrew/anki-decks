@@ -1,0 +1,8 @@
+# Key:audacious
+<h3>English Sentences</h3>
+E-1: We embarked on an <u>audacious</u> adventure to climb Mount Everest.
+E-2: His <u>audacious</u> behavior shocked everyone at the meeting.
+
+<h3>Japanese Translation</h3>
+J-1: 私たちはエベレスト登山という<u>大胆な</u>冒険に乗り出しました。
+J-2: 彼の<u>図々しい</u>態度に会議の参加者はみな驚愕しました。

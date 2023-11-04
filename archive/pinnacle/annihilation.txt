@@ -1,0 +1,8 @@
+# Key:annihilation
+<h3>English Sentences</h3>
+E-1: The <u>wildfire</u> raged through the forest, destroying everything in its path.
+E-2: The firefighter bravely fought against the <u>wildfire</u> to protect nearby homes.
+
+<h3>Japanese Translation</h3>
+J-1: <u>野火</u>が森を襲って、その前にある全てを破壊しました。
+J-2: 消防士は勇敢にも近くの家を守るために<u>野火</u>と闘いました。

@@ -1,0 +1,8 @@
+# Key:augment
+<h3>English Sentences</h3>
+E-1: The <u>augment</u> in her voice made the song more beautiful.
+E-2: They decided to <u>augment</u> their team with two new members.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女の声に<u>増幅</u>が加わり、曲がさらに美しくなりました。
+J-2: 彼らは2人の新メンバーを追加して、チームを<u>拡大すること</u>を決めました。

@@ -1,0 +1,8 @@
+# Key:clutter
+<h3>English Sentences</h3>
+E-1: The house is filled with <u>clutter</u> and needs to be organized.
+E-2: I need to <u>clutter</u> my mind and prioritize my tasks.
+
+<h3>Japanese Translation</h3>
+J-1: 家は<u>散らかり</u>で満たされていて、整理する必要があります。
+J-2: 頭を<u>整理して</u>、仕事を優先する必要があります。

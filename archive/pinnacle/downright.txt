@@ -1,0 +1,8 @@
+# Key:downright
+<h3>English Sentences</h3>
+E-1: The results of the experiment were <u>downright</u> shocking.
+E-2: He can be <u>downright</u> rude sometimes, it's really off-putting.
+
+<h3>Japanese Translation</h3>
+J-1: 実験の結果はまさに衝撃的でした。
+J-2: 彼はときどき本当に無礼です、それが本当に嫌です。

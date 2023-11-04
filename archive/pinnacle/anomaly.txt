@@ -1,0 +1,8 @@
+# Key:anomaly
+<h3>English Sentences</h3>
+E-1: The detective noticed an <u>anomaly</u> in the crime scene.
+E-2: The stock market experienced an <u>anomaly</u> with a sudden drop in prices.
+
+<h3>Japanese Translation</h3>
+J-1: 刑事は犯行現場に<u>異常事態</u>を見つけました。
+J-2: 株式市場では価格が急落する<u>異常事態</u>が起こりました。

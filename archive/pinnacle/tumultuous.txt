@@ -1,0 +1,8 @@
+# Key:tumultuous
+<h3>English Sentences</h3>
+E-1: The film depicted the <u>tumultuous</u> years of the civil war.
+E-2: Their relationship had a <u>tumultuous</u> start but eventually stabilized.
+
+<h3>Japanese Translation</h3>
+J-1: その映画は内戦の<u>騒々しい</u>時代を描いていました。
+J-2: 彼らの関係は<u>荒々しい</u>スタートを切りましたが、最終的には安定しました。

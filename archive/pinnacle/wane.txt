@@ -1,0 +1,8 @@
+# Key:wane
+<h3>English Sentences</h3>
+E-1: The brightness of the moon began to <u>wane</u> as the night went on.
+E-2: The popularity of that singer will eventually <u>wane</u> over time.
+
+<h3>Japanese Translation</h3>
+J-1: 夜が進むにつれて、月の輝きが<u>衰え始めました</u>。
+J-2: その歌手の人気はやがて<u>低下していく</u>でしょう。

@@ -1,0 +1,8 @@
+# Key:belated
+<h3>English Sentences</h3>
+E-1: I sent a <u>belated</u> birthday card to my friend.
+E-2: He apologized for his <u>belated</u> response to my email.
+
+<h3>Japanese Translation</h3>
+J-1: 私は友達に<u>遅れて</u>送った誕生日カードを送りました。
+J-2: 彼は私のメールへの<u>遅い</u>返信について謝罪しました。

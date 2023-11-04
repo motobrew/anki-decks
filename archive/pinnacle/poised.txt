@@ -1,0 +1,8 @@
+# Key:poised
+<h3>English Sentences</h3>
+E-1: The gymnast was <u>poised</u> on the balance beam before her routine.
+E-2: The company is <u>poised</u> to release their new product next month.
+
+<h3>Japanese Translation</h3>
+J-1: 体操選手はルーティンを行う前にバランスビームで<u>構えていました</u>。
+J-2: その会社は来月新しい商品を発売する<u>構えています</u>。

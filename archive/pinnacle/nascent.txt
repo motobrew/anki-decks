@@ -1,0 +1,8 @@
+# Key:nascent
+<h3>English Sentences</h3>
+E-1: The <u>nascent</u> company is still in the early stages of development.
+E-2: The team is excited to see the <u>nascent</u> talent show their potential.
+
+<h3>Japanese Translation</h3>
+J-1: その<u>新興</u>の会社はまだ開発の初期段階にあります。
+J-2: チームは<u>新興</u>の才能がポテンシャルを発揮するのを楽しみにしています。

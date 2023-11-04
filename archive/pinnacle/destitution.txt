@@ -1,0 +1,8 @@
+# Key:destitution
+<h3>English Sentences</h3>
+E-1: The devastating earthquake left many people in <u>destitution</u>.
+E-2: Despite their best efforts, they could not escape from <u>destitution</u>.
+
+<h3>Japanese Translation</h3>
+J-1: その壊滅的な地震の結果、多くの人々が<u>生活困窮</u>に陥りました。
+J-2: 最善の努力にも関わらず、彼らは<u>生活困窮</u>から逃れることができませんでした。

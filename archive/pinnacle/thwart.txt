@@ -1,0 +1,8 @@
+# Key:thwart
+<h3>English Sentences</h3>
+E-1: The heavy rain <u>thwarted</u> our plans for a picnic.
+E-2: The security guards worked together to <u>thwart</u> the attempted robbery.
+
+<h3>Japanese Translation</h3>
+J-1: 大雨が<u>私たちの</u>ピクニックの計画を台無しにしました。
+J-2: 警備員たちは力を合わせて、強盗の試みを<u>阻みました</u>。

@@ -1,0 +1,8 @@
+# Key:excruciating
+<h3>English Sentences</h3>
+E-1: The pain was <u>excruciating</u> after I stubbed my toe.
+E-2: The wait time at the doctor's office was <u>excruciating</u>.
+
+<h3>Japanese Translation</h3>
+J-1: 足の親指をぶつけた後、その痛みは<u>ひどかった</u>。
+J-2: 医者の待ち時間は<u>たまらなく長かった</u>。

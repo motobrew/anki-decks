@@ -1,0 +1,8 @@
+# Key:dissent
+<h3>English Sentences</h3>
+E-1: The students had the courage to <u>dissent</u> and speak out against injustice.
+E-2: The jury members <u>dissent</u>ed and were unable to reach a unanimous decision.
+
+<h3>Japanese Translation</h3>
+J-1: 学生たちは勇気を持って<u>異議を唱え</u>、不正に対して声を上げました。
+J-2: 陪審員たちは<u>異議を唱え</u>、全員一致の決定に至ることができませんでした。

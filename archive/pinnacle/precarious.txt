@@ -1,0 +1,8 @@
+# Key:precarious
+<h3>English Sentences</h3>
+E-1: I need to find a more stable job because my current job is <u>precarious</u>.
+E-2: The hiker was in a <u>precarious</u> situation, balancing on the edge of a cliff.
+
+<h3>Japanese Translation</h3>
+J-1: 現在の仕事は<u>不安定</u>なので、もっと安定した仕事を見つける必要があります。
+J-2: 登山者は岩の端に立ち、<u>危険な</u>状況にありました。

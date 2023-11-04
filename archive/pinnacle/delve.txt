@@ -1,0 +1,8 @@
+# Key:delve
+<h3>English Sentences</h3>
+E-1: She always <u>turns a blind eye</u> when her kids misbehave.
+E-2: The government <u>turns a blind eye</u> to illegal activities in the area.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女はいつも子供が悪さをしているときに<u>見て見ぬふりをする</u>。
+J-2: 政府はその地域の違法な活動を<u>見て見ぬふりをする</u>。

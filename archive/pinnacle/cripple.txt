@@ -1,0 +1,8 @@
+# Key:cripple
+<h3>English Sentences</h3>
+E-1: The car crash <u>crippled</u> his ability to walk.
+E-2: The economic crisis has <u>crippled</u> small businesses in the area.
+
+<h3>Japanese Translation</h3>
+J-1: 車の事故で彼の歩行能力が<u>制限されました</u>。
+J-2: 経済危機により、その地域の小規模企業は<u>壊滅的な打撃を受けました</u>。

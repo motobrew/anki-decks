@@ -1,0 +1,8 @@
+# Key:capricious
+<h3>English Sentences</h3>
+E-1: She has a <u>capricious</u> personality, you never know what she'll do next.
+E-2: The weather in this city is very <u>capricious</u>; it can change rapidly.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は<u>気まぐれ</u>な性格で、次に何をするかわからない。
+J-2: この都市の天気はとても<u>変わりやすい</u>です；急に変わることがあります。

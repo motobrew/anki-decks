@@ -1,0 +1,8 @@
+# Key:propensity
+<h3>English Sentences</h3>
+E-1: He has a <u>propensity</u> for being late to meetings.
+E-2: The company's profit margin is influenced by consumer <u>propensity</u>.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は会議に遅れる<u>癖</u>があります。
+J-2: その会社の利益率は消費者の<u>傾向</u>に影響されています。

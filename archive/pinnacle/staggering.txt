@@ -1,0 +1,8 @@
+# Key:staggering
+<h3>English Sentences</h3>
+E-1: The amount of damage caused by the earthquake was <u>staggering</u>.
+E-2: The boxer delivered a <u>staggering</u> blow, knocking out his opponent.
+
+<h3>Japanese Translation</h3>
+J-1: 地震による被害の規模は<u>驚くべき</u>ものでした。
+J-2: ボクサーは<u>びっくりするような</u>一撃を繰り出し、相手をノックアウトさせた。

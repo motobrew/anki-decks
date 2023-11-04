@@ -1,0 +1,8 @@
+# Key:excrete
+<h3>English Sentences</h3>
+E-1: The doctor told me to <u>excrete</u> any excess fluid from my body.
+E-2: The sewage system is designed to safely <u>excrete</u> human waste.
+
+<h3>Japanese Translation</h3>
+J-1: 医者は、体内の余分な体液を<u>排泄する</u>ように言いました。
+J-2: 下水システムは、人間の排泄物を安全に<u>処理する</u>ように設計されています。

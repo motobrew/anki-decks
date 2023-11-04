@@ -1,0 +1,8 @@
+# Key:discrete
+<h3>English Sentences</h3>
+E-1: The room was filled with a <u>discrete</u> arrangement of flowers.
+E-2: He was careful to keep his personal and professional lives <u>discrete</u>.
+
+<h3>Japanese Translation</h3>
+J-1: 部屋には<u>個別の</u>配置の花が飾られていました。
+J-2: 彼は自分の個人的な生活と仕事を<u>区別していました</u>。

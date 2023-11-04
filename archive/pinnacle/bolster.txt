@@ -1,0 +1,8 @@
+# Key:bolster
+<h3>English Sentences</h3>
+E-1: The company hired a marketing agency to <u>bolster</u> their online presence.
+E-2: Regular exercise can <u>bolster</u> your immune system and overall health.
+
+<h3>Japanese Translation</h3>
+J-1: その企業はオンラインでの存在感を<u>強める</u>ためにマーケティング会社を雇いました。
+J-2: 定期的な運動は免疫力と全体的な健康を<u>高める</u>ことができます。

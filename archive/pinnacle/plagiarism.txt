@@ -1,0 +1,8 @@
+# Key:plagiarism
+<h3>English Sentences</h3>
+E-1: "Burn the midnight oil" is a phrase often used to describe working late at night.
+E-2: The athlete had to put in extra hours of training to earn his spot on the team.
+
+<h3>Japanese Translation</h3>
+J-1: "夜中まで働く" という表現は、夜遅くまで働くことを表すよく使われるフレーズです。
+J-2: その選手は、チームのメンバーに選ばれるために、追加のトレーニング時間を費やさなければならなかった。

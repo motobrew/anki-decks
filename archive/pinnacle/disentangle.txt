@@ -1,0 +1,8 @@
+# Key:disentangle
+<h3>English Sentences</h3>
+E-1: The detective was able to <u>disentangle</u> the clues and solve the case.
+E-2: It took me a while to <u>disentangle</u> the headphones from the tangled mess.
+
+<h3>Japanese Translation</h3>
+J-1: 刑事は手がかりを<u>解きほぐし</u>、事件を解決することができました。
+J-2: イヤホンをからみ合ったもつれから<u>解きほぐす</u>のに時間がかかりました。

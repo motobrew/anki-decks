@@ -1,0 +1,8 @@
+# Key:allegiance
+<h3>English Sentences</h3>
+E-1: Citizens pledge their <u>allegiance</u> to the flag during the national anthem.
+E-2: The soldier swore an <u>allegiance</u> to serve and protect his country.
+
+<h3>Japanese Translation</h3>
+J-1: 国歌の演奏中、市民は国旗に<u>忠誠心</u>を誓います。
+J-2: 兵士は自国を<u>奉仕し守る誓い</u>を立てました。

@@ -1,0 +1,8 @@
+# Key:roaring
+<h3>English Sentences</h3>
+E-1: The <u>roaring</u> thunder frightened the small child.
+E-2: The crowd started <u>roaring</u> with excitement as the team scored.
+
+<h3>Japanese Translation</h3>
+J-1: 轟音がする雷が小さな子供を怖がらせました。
+J-2: チームが得点すると、観衆が興奮して大声を上げ始めました。

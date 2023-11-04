@@ -1,0 +1,8 @@
+# Key:gross
+<h3>English Sentences</h3>
+E-1: The smell of rotten eggs was <u>gross</u> and unpleasant.
+E-2: He earns a <u>gross</u> salary of $60,000 per year.
+
+<h3>Japanese Translation</h3>
+J-1: 腐った卵の匂いは<u>ひどく</u>不快でした。
+J-2: 彼は年収6万ドルの<u>総収入</u>を得ています。

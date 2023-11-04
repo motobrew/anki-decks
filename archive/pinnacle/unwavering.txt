@@ -1,0 +1,8 @@
+# Key:unwavering
+<h3>English Sentences</h3>
+E-1: Despite facing many challenges, his faith remained <u>unwavering</u>.
+E-2: The athlete's determination was <u>unwavering</u> as he approached the finish line.
+
+<h3>Japanese Translation</h3>
+J-1: 多くの困難に直面しながらも、彼の信念は<u>揺るぎない</u>ままでした。
+J-2: その選手の決意は、ゴール直前でも<u>動じない</u>ものでした。

@@ -1,0 +1,8 @@
+# Key:congenital
+<h3>English Sentences</h3>
+E-1: The doctor diagnosed the baby with a <u>congenital</u> heart condition.
+E-2: She has a <u>congenital</u> talent for playing the piano.
+
+<h3>Japanese Translation</h3>
+J-1: 医者は赤ちゃんの心臓に<u>先天性の</u>疾患があると診断しました。
+J-2: 彼女はピアノを演奏するのに<u>生まれつきの</u>才能を持っています。

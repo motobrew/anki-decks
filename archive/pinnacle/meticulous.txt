@@ -1,0 +1,8 @@
+# Key:meticulous
+<h3>English Sentences</h3>
+E-1: The doctor was very <u>meticulous</u> in performing the surgery.
+E-2: She pays <u>meticulous</u> attention to detail in her work.
+
+<h3>Japanese Translation</h3>
+J-1: 医師は手術を行う際に非常に<u>細心の注意を払いました</u>。
+J-2: 彼女は仕事に<u>細心の注意を払います</u>。

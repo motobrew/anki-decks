@@ -1,0 +1,8 @@
+# Key:usurp
+<h3>English Sentences</h3>
+E-1: The ambitious general attempted to <u>usurp</u> the throne from the king.
+E-2: The new CEO managed to <u>usurp</u> the authority of the previous management.
+
+<h3>Japanese Translation</h3>
+J-1: 野心的な将軍は王から王位を<u>奪おうとした</u>。
+J-2: 新しいCEOは前の経営陣の権限を<u>奪うことに成功しました</u>。

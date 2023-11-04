@@ -1,0 +1,8 @@
+# Key:ardent
+<h3>English Sentences</h3>
+E-1: She was an <u>ardent</u> fan of the band and attended every concert.
+E-2: The politician delivered an <u>ardent</u> speech to rally his supporters.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女はそのバンドの<u>熱狂的な</u>ファンで、毎回のコンサートに参加しました。
+J-2: 政治家は支持者を鼓舞するために<u>激情に溢れた</u>スピーチを行いました。

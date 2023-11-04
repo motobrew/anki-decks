@@ -1,0 +1,8 @@
+# Key:prowess
+<h3>English Sentences</h3>
+E-1: She showed great <u>prowess</u> in her performance on the piano.
+E-2: The basketball player's <u>prowess</u> on the court impressed the audience.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女はピアノの演奏で素晴らしい<u>技術</u>を見せました。
+J-2: バスケットボール選手のコート上での<u>優れた技量</u>が観客を感動させました。

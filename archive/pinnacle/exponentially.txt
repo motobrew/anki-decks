@@ -1,0 +1,8 @@
+# Key:exponentially
+<h3>English Sentences</h3>
+E-1: The number of COVID-19 cases has been growing <u>exponentially</u> in recent weeks.
+E-2: The company's profits have increased <u>exponentially</u> since they launched their new product.
+
+<h3>Japanese Translation</h3>
+J-1: COVID-19の感染者数が最近の数週間で<u>指数的に</u>増えています。
+J-2: その会社の利益は、新製品の発売以来、<u>急激に</u>増加しました。

@@ -1,0 +1,8 @@
+# Key:insurmountable
+<h3>English Sentences</h3>
+E-1: The mountain peak seemed <u>insurmountable</u> from where we stood.
+E-2: The team was determined to overcome the <u>insurmountable</u> challenges they faced.
+
+<h3>Japanese Translation</h3>
+J-1: 私たちが立っている場所から、山の頂上は<u>乗り越えられない</u>ように見えました。
+J-2: チームは直面している<u>乗り越えられない</u>困難を克服する決意をしていました。

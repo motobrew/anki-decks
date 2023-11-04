@@ -1,0 +1,8 @@
+# Key:maneuver
+<h3>English Sentences</h3>
+E-1: He used a clever <u>maneuver</u> to escape from the police.
+E-2: The pilot expertly executed a difficult <u>maneuver</u> during the air show.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は巧妙な<u>策略</u>を使って警察から逃げ出しました。
+J-2: パイロットはエアショー中に難しい<u>操縦技術</u>を巧みに実行しました。

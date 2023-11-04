@@ -1,0 +1,8 @@
+# Key:animosity
+<h3>English Sentences</h3>
+E-1: The constant barking of my neighbor's dog filled me with <u>animosity</u>.
+E-2: Despite their differences, they managed to put aside their <u>animosity</u> and work together.
+
+<h3>Japanese Translation</h3>
+J-1: 隣人の犬の絶え間ない吠え声が<u>敵意</u>を抱かせました。
+J-2: 彼らは互いに対する<u>敵意</u>を置いておいて、一緒に仕事をすることに成功しました。

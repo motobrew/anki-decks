@@ -1,0 +1,8 @@
+# Key:revere
+<h3>English Sentences</h3>
+E-1: The town <u>reveres</u> its local hero for his bravery.
+E-2: The students <u>revered</u> their teacher for her wisdom and guidance.
+
+<h3>Japanese Translation</h3>
+J-1: その町は勇敢さに敬意を<u示しています</u>地元の英雄に対して。
+J-2: 学生たちはその先生を<u>尊敬しました</u>彼女の知恵と指導のために。

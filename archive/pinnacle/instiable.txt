@@ -1,0 +1,8 @@
+# Key:instiable
+<h3>English Sentences</h3>
+E-1: His <u>insatiable</u> appetite for knowledge led him to read every book in the library.
+E-2: The <u>insatiable</u> demand for the latest smartphone caused it to sell out quickly.
+
+<h3>Japanese Translation</h3>
+J-1: 彼の<u>飽くなき</u>知識欲は彼を図書館のすべての本を読むほどに駆り立てました。
+J-2: 最新のスマートフォンへの<u>飽くなき</u>需要により、すぐに売り切れてしまいました。

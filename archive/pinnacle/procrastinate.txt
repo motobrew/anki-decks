@@ -1,0 +1,8 @@
+# Key:procrastinate
+<h3>English Sentences</h3>
+E-1: The <u>procrastinator</u> always waits until the last minute to start working.
+E-2: I need to stop <u>procrastinating</u> and finish my tasks on time.
+
+<h3>Japanese Translation</h3>
+J-1: その<u>後回し屋</u>はいつも最後の瞬間まで仕事を始めません。
+J-2: 期限に間に合わせるために<u>先延ばしをする</u>のをやめなくてはいけません。

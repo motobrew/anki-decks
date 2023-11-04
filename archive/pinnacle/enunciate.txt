@@ -1,0 +1,8 @@
+# Key:enunciate
+<h3>English Sentences</h3>
+E-1: The teacher asked the student to <u>enunciate</u> the words clearly.
+E-2: It is important to <u>enunciate</u> your ideas during a presentation.
+
+<h3>Japanese Translation</h3>
+J-1: 先生は学生に、単語をはっきりと<u>発音する</u>ように頼んだ。
+J-2: プレゼンテーション中に自分の考えを<u>明確に表現する</u>ことが重要です。

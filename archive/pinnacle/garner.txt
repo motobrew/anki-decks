@@ -1,0 +1,8 @@
+# Key:garner
+<h3>English Sentences</h3>
+E-1: She managed to <u>garner</u> a lot of support for her campaign.
+E-2: The film <u>garnered</u> critical acclaim and numerous awards.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は自分のキャンペーンに多くの支持を<u>集める</u>ことに成功しました。
+J-2: その映画は批評家からの絶賛と数々の賞を<u>受けました</u>。

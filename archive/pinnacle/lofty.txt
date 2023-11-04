@@ -1,0 +1,8 @@
+# Key:lofty
+<h3>English Sentences</h3>
+E-1: The mountain climbers reached the <u>lofty</u> summit and admired the breathtaking view.
+E-2: He has <u>lofty</u> goals of becoming the CEO of a multinational corporation.
+
+<h3>Japanese Translation</h3>
+J-1: 登山家たちは<b>高い</b>山頂に到達し、息をのむような景色を眺めた。
+J-2: 彼は国際企業のCEOになるという<u>高い</u>目標を持っています。

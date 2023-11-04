@@ -1,0 +1,8 @@
+# Key:rife
+<h3>English Sentences</h3>
+E-1: The city's streets were <u>rife</u> with crime and violence.
+E-2: The rumors of a scandal were <u>rife</u> throughout the office.
+
+<h3>Japanese Translation</h3>
+J-1: その街の通りは犯罪と暴力に<u>満ち溢れていました</u>。
+J-2: スキャンダルの噂が職場中に<u>広まっていました</u>。

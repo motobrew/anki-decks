@@ -1,0 +1,8 @@
+# Key:covet
+<h3>English Sentences</h3>
+E-1: I <u>covet</u> my neighbor's beautiful garden.
+E-2: As a collector, I <u>covet</u> rare and unique items.
+
+<h3>Japanese Translation</h3>
+J-1: 私は隣人の美しい庭を<u>羨ましく思います</u>。
+J-2: 私はコレクターとして、稀少で独特なアイテムを<u>狙います</u>。

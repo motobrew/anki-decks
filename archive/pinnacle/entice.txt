@@ -1,0 +1,8 @@
+# Key:entice
+<h3>English Sentences</h3>
+E-1: The delicious smell of freshly baked bread <u>enticed</u> customers into the bakery.
+E-2: The company used a flashy advertisement to <u>entice</u> people to buy their product.
+
+<h3>Japanese Translation</h3>
+J-1: ふんわりと焼きたてパンの香りが、客をパン屋に<u>引きつけました</u>。
+J-2: 会社は派手な広告で人々を商品の購入に<u>誘惑しました</u>。

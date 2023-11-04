@@ -1,0 +1,8 @@
+# Key:cascade
+<h3>English Sentences</h3>
+E-1: The water flowed down the rocks in a beautiful <u>cascade</u>.
+E-2: The company experienced a <u>cascade</u> of layoffs due to the economic downturn.
+
+<h3>Japanese Translation</h3>
+J-1: 水が美しい<u>滝のように</u>岩を流れ下りました。
+J-2: 企業は経済の低迷による<u>一連の連続解雇</u>を経験しました。

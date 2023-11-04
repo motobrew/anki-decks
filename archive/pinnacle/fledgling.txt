@@ -1,0 +1,8 @@
+# Key:fledgling
+<h3>English Sentences</h3>
+E-1: The <u>fledgling</u> bird is learning how to fly from its nest.
+E-2: The company has hired a <u>fledgling</u> designer to join their team.
+
+<h3>Japanese Translation</h3>
+J-1: その<u>雛鳥</u>は巣から飛び立つ方法を学んでいます。
+J-2: その会社は新たな<u>新人</u>デザイナーをチームに迎え入れました。

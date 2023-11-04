@@ -1,0 +1,8 @@
+# Key:surreptitiously
+<h3>English Sentences</h3>
+E-1: He <u>surreptitiously</u> took a bite of cake when no one was looking.
+E-2: The spy <u>surreptitiously</u> entered the building to gather intelligence.
+
+<h3>Japanese Translation</h3>
+J-1: 誰も見ていない時に彼は<u>こっそり</u>ケーキを一口食べました。
+J-2: スパイは情報を収集するために建物に<u>こっそり</u>入りました。

@@ -1,0 +1,8 @@
+# Key:hallucinate
+<h3>English Sentences</h3>
+E-1: The magician made me <u>hallucinate</u> that the rabbit disappeared.
+E-2: The medication can sometimes cause patients to <u>hallucinate</u> vividly.
+
+<h3>Japanese Translation</h3>
+J-1: 魔法使いが私にうさぎが消えたように<u>錯覚させました</u>。
+J-2: その薬は時々患者に強烈な<u>幻覚を引き起こすことがあります</u>。

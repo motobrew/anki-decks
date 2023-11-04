@@ -1,0 +1,8 @@
+# Key:plunder
+<h3>English Sentences</h3>
+E-1: Pirates would <u>plunder</u> ships and take their valuable cargo.
+E-2: The fans rushed the field after their team's <u>plunder</u> victory.
+
+<h3>Japanese Translation</h3>
+J-1: 海賊は船を襲撃し、貴重な貨物を<u>略奪</u>していました。
+J-2: ファンが試合後の<u>栄光の勝利</u>に興奮し、フィールドに押し寄せました。

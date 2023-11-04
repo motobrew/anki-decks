@@ -1,0 +1,8 @@
+# Key:vexing
+<h3>English Sentences</h3>
+E-1: The never-ending traffic is really <u>vexing</u> me.
+E-2: She has a talent for <u>vexing</u> her younger brother with her pranks.
+
+<h3>Japanese Translation</h3>
+J-1: 無限の渋滞が本当に<u>いらいらさせて</u>くれる。
+J-2: 彼女はいたずらで弟を<u>いら立たせる</u>のが得意だ。

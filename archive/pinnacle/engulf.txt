@@ -1,0 +1,8 @@
+# Key:engulf
+<h3>English Sentences</h3>
+E-1: The storm started to <u>engulf</u> the entire city with heavy rain.
+E-2: A feeling of sadness and despair <u>engulfed</u> her after the breakup.
+
+<h3>Japanese Translation</h3>
+J-1: 嵐が激しい雨で都市全体を<u>襲い始めました</u>。
+J-2: 別れの後、彼女は悲しみと絶望に<u>包まれました</u>。

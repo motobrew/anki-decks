@@ -1,0 +1,8 @@
+# Key:brink
+<h3>English Sentences</h3>
+E-1: It took all of my willpower to stay on the <u>brink</u> of tears.
+E-2: The company is on the <u>brink</u> of bankruptcy and needs a miracle.
+
+<h3>Japanese Translation</h3>
+J-1: 涙をこらえる<u>寸前</u>になるのに全ての意志力が必要でした。
+J-2: その会社は<u>破綻寸前</u>で奇跡が必要です。

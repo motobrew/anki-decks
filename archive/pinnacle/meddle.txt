@@ -1,0 +1,8 @@
+# Key:meddle
+<h3>English Sentences</h3>
+E-1: My little sister always tries to <u>meddle</u> in my personal affairs.
+E-2: The teacher told us not to <u>meddle</u> with the experiment equipment.
+
+<h3>Japanese Translation</h3>
+J-1: 私の妹はいつも私の私生活に<u>干渉しよう</u>とします。
+J-2: 先生は私たちに実験装置に<u>手を出さないように</u>言いました。

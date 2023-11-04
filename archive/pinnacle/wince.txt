@@ -1,0 +1,8 @@
+# Key:wince
+<h3>English Sentences</h3>
+E-1: She couldn't help but <u>wince</u> when the needle pricked her arm.
+E-2: The painful memories made him <u>wince</u> every time they were brought up.
+
+<h3>Japanese Translation</h3>
+J-1: 針が彼女の腕に刺さった時、彼女は思わず<u>顔をしかめました</u>。
+J-2: 苦い思い出が話題になるたびに彼は<u>しかめっ面をします</u>。

@@ -1,0 +1,8 @@
+# Key:mitigate
+<h3>English Sentences</h3>
+E-1: The doctor prescribed medication to <u>mitigate</u> the pain.
+E-2: Planting trees can help <u>mitigate</u> the effects of climate change.
+
+<h3>Japanese Translation</h3>
+J-1: 医師は痛みを<u>軽減する</u>ために薬を処方しました。
+J-2: 木を植えることは、気候変動の影響を<u>和らげる</u>のに役立ちます。

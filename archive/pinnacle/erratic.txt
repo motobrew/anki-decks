@@ -1,0 +1,8 @@
+# Key:erratic
+<h3>English Sentences</h3>
+E-1: The <u>erratic</u> behavior of the dog made it difficult to train.
+E-2: His mood swings were so <u>erratic</u> that you never knew how he would react.
+
+<h3>Japanese Translation</h3>
+J-1: 犬の<u>気まぐれな</u>行動のせいで、しつけが難しかった。
+J-2: 彼の気分の浮き沈みはとても<u>変わりやすかった</u>ので、彼の反応がどうなるか分からなかった。

@@ -1,0 +1,8 @@
+# Key:holistic
+<h3>English Sentences</h3>
+E-1: She has a <u>holistic</u> approach to health and wellness.
+E-2: The school provides a <u>holistic</u> education, focusing on both academics and personal development.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は健康とウェルネスに<u>総合的な</u>アプローチを持っています。
+J-2: その学校は学問と個人の成長の両方に焦点を当てた<u>総合的な</u>教育を提供しています。

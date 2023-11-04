@@ -1,0 +1,8 @@
+# Key:haphazard
+<h3>English Sentences</h3>
+E-1: The construction workers were working in a <u>haphazard</u> manner.
+E-2: She prepared for the exam in a <u>haphazard</u> way, studying random topics.
+
+<h3>Japanese Translation</h3>
+J-1: 建設作業員たちは<u>無作為な</u>方法で作業していました。
+J-2: 彼女は<u>無計画な</u>やり方で試験の準備をしました。

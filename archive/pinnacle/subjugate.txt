@@ -1,0 +1,8 @@
+# Key:subjugate
+<h3>English Sentences</h3>
+E-1: The dictator aims to <u>subjugate</u> the entire population through fear.
+E-2: The conquerors sought to <u>subjugate</u> the native people under their rule.
+
+<h3>Japanese Translation</h3>
+J-1: 独裁者は恐怖を通じて<u>征服する</u>ことを目指しています。
+J-2: 征服者たちは、支配下に<u>服従させる</u>目的で先住民を追い詰めた。

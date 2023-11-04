@@ -1,0 +1,8 @@
+# Key:catapult
+<h3>English Sentences</h3>
+E-1: She had a <u>green thumb</u> and could make any plant thrive.
+E-2: His <u>green thumb</u> helped him create a beautiful garden.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は<u>植物が育つ手</u>を持っており、どんな植物でも繁茂させることができました。
+J-2: 彼の<u>植物が育つ手</u>のおかげで、美しい庭を作り上げることができました。

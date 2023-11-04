@@ -1,0 +1,8 @@
+# Key:hallmark
+<h3>English Sentences</h3>
+E-1: The <u>hallmark</u> of their relationship was their constant laughter.
+E-2: Quality craftsmanship is the <u>hallmark</u> of this brand.
+
+<h3>Japanese Translation</h3>
+J-1: 彼らの関係における<u>特徴</u>は、絶え間ない笑いでした。
+J-2: このブランドの<u>特徴</u>は品質の高い技術です。

@@ -1,0 +1,8 @@
+# Key:procure
+<h3>English Sentences</h3>
+E-1: The company had to <u>procure</u> additional supplies to meet demand.
+E-2: The detective was able to <u>procure</u> evidence to solve the case.
+
+<h3>Japanese Translation</h3>
+J-1: 会社は需要に対応するために追加の資材を<u>調達する</u>必要がありました。
+J-2: 刑事は事件を解決するための証拠を<u>入手する</u>ことができました。

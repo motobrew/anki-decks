@@ -1,0 +1,8 @@
+# Key:blunder
+<h3>English Sentences</h3>
+E-1: The company's financial blunder cost them millions of dollars.
+E-2: He blundered through the speech, forgetting important points.
+
+<h3>Japanese Translation</h3>
+J-1: その会社の財務のミスは数百万ドルを彼らにかけさせた。
+J-2: 彼はスピーチ中に大事なポイントを忘れて、誤りが多かった。

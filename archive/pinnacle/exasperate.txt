@@ -1,0 +1,8 @@
+# Key:exasperate
+<h3>English Sentences</h3>
+E-1: The constant noise from the construction site began to <u>exasperate</u> me.
+E-2: She tried everything she could to <u>exasperate</u> her little brother.
+
+<h3>Japanese Translation</h3>
+J-1: 建設現場からの常に鳴り響く音が私を<u>いらいらさせる</u>ようになりました。
+J-2: 彼女はできる限りのことを尽くして、弟を<u>いらだたせる</u>ようにしました。

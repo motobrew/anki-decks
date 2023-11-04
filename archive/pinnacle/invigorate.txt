@@ -1,0 +1,8 @@
+# Key:invigorate
+<h3>English Sentences</h3>
+E-1: The fresh air and exercise <u>invigorate</u> me in the morning.
+E-2: The company needs a new marketing strategy to <u>invigorate</u> sales.
+
+<h3>Japanese Translation</h3>
+J-1: 朝の新鮮な空気と運動は私を活気づけます。
+J-2: その会社は売り上げを活性化するために新しいマーケティング戦略が必要です。

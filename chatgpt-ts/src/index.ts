@@ -35,7 +35,10 @@ J-2: 思いもよらない障害が最悪の時に<u>現れること</u>がよ�
 
   const response = await openai.createChatCompletion({
     model: model,
-    messages: [{ role: "user", content: content }],
+    messages: [{
+      role: "user",
+      content: content
+    }],
   });
 
   const answer = response.data.choices[0].message?.content;

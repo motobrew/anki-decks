@@ -1,0 +1,8 @@
+# Key:wield
+<h3>English Sentences</h3>
+E-1: He was able to <u>wield</u> influence over the decision-making process.
+E-2: The knight confidently <u>wielded</u> his sword in battle.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は意思決定プロセスにおいて影響力を<u>行使する</u>ことができました。
+J-2: 騎士は自信を持って戦闘で剣を<u>振るった</u>。

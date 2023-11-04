@@ -1,0 +1,8 @@
+# Key:transgression
+<h3>English Sentences</h3>
+E-1: He committed a <u>transgression</u> by stealing his friend's wallet.
+E-2: The player was given a yellow card for his <u>transgression</u> on the field.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は友達の財布を盗んだことで<u>違反行為</u>を犯しました。
+J-2: 選手はフィールド上での<u>違反行為</u>でイエローカードを受けました。

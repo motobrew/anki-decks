@@ -1,0 +1,8 @@
+# Key:repeal
+<h3>English Sentences</h3>
+E-1: The government plans to <u>repeal</u> the controversial law.
+E-2: The committee voted to <u>repeal</u> the old policy and implement a new one.
+
+<h3>Japanese Translation</h3>
+J-1: 政府は物議を醸している法律を<u>廃止する予定</u>です。
+J-2: 委員会は古い方針を<u>撤廃し</u>、新しい方針を導入することを可決しました。

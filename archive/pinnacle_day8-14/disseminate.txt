@@ -1,0 +1,8 @@
+# Key:disseminate
+<h3>English Sentences</h3>
+E-1: The organization aims to <u>disseminate</u> information about climate change.
+E-2: The new book is expected to <u>disseminate</u> knowledge about ancient civilizations.
+
+<h3>Japanese Translation</h3>
+J-1: その組織は、気候変動に関する情報を<u>広めること</u>を目指しています。
+J-2: その新しい本は、古代文明についての知識を<u>普及させる</u>ことが期待されています。

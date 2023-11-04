@@ -1,0 +1,8 @@
+# Key:virulent
+<h3>English Sentences</h3>
+E-1: The <u>virulent</u> strain of the flu spreads rapidly from person to person.
+E-2: The politician used <u>virulent</u> language during their speech, inciting anger.
+
+<h3>Japanese Translation</h3>
+J-1: このインフルエンザの<u>強毒な</u>ウイルスは、人から人へと急速に広がります。
+J-2: 政治家はスピーチ中に<u>激しい</u>言葉を使い、怒りを煽りました。

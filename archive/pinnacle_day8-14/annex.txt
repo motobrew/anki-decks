@@ -1,0 +1,8 @@
+# Key:annex
+<h3>English Sentences</h3>
+E-1: The two countries decided to <u>annex</u> the disputed territory.
+E-2: The company plans to <u>annex</u> the smaller rival business.
+
+<h3>Japanese Translation</h3>
+J-1: 2つの国は紛争地を<u>併合すること</u>を決定しました。
+J-2: 会社は小さな競合他社を<u>吸収する予定</u>です。

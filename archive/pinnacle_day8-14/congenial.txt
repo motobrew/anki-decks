@@ -1,0 +1,8 @@
+# Key:congenial
+<h3>English Sentences</h3>
+E-1: The <u>congenial</u> atmosphere made everyone feel comfortable and relaxed.
+E-2: Despite their differences, they managed to have a <u>congenial</u> conversation.
+
+<h3>Japanese Translation</h3>
+J-1: 快適でリラックスした雰囲気の中、皆が<u>気さくな</u>気分になりました。
+J-2: 彼らは違いがあるにもかかわらず、<u>気さくな</u>会話をすることができました。

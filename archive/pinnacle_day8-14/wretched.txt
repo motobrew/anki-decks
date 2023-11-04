@@ -1,0 +1,8 @@
+# Key:wretched
+<h3>English Sentences</h3>
+E-1: I could hear the <u>wretched</u> cries of the lost puppy in the alley.
+E-2: Despite her best efforts, she couldn't escape the <u>wretched</u> cycle of poverty.
+
+<h3>Japanese Translation</h3>
+J-1: 私は路地裏で迷子の子犬の<u>哀れな</u>鳴き声を聞くことができました。
+J-2: 彼女は最善を尽くしても、貧困の<u>惨めな</u>連鎖から逃れることができなかった。

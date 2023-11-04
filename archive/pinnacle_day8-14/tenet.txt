@@ -1,0 +1,8 @@
+# Key:tenet
+<h3>English Sentences</h3>
+E-1: It is important to have a strong <u>tenet</u> when making decisions.
+E-2: The film explores the <u>tenets</u> of love, family, and sacrifice.
+
+<h3>Japanese Translation</h3>
+J-1: 決断をする際には、しっかりした<u>信条</u>を持つことが重要です。
+J-2: その映画は愛、家族、犠牲の<u>原則</u>を探求しています。

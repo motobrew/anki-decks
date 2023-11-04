@@ -1,0 +1,8 @@
+# Key:perminious
+<h3>English Sentences</h3>
+E-1: Despite his best efforts, the project faced <u>pernicious</u> delays.
+E-2: The company suffered from the <u>pernicious</u> effects of a bad reputation.
+
+<h3>Japanese Translation</h3>
+J-1: 彼の最善の努力にもかかわらず、そのプロジェクトは<u>重大な</u>遅れに直面しました。
+J-2: 会社は悪い評判の<u>有害な</u>影響を受けました。

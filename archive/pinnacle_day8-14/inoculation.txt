@@ -1,0 +1,8 @@
+# Key:inoculation
+<h3>English Sentences</h3>
+E-1: The doctor gave me an <u>inoculation</u> to protect against the flu.
+E-2: The company implemented new security measures as an <u>inoculation</u> against cyber attacks.
+
+<h3>Japanese Translation</h3>
+J-1: 医者が私にインフルエンザ予防のための<u>予防接種</u>をしてくれました。
+J-2: 企業はサイバー攻撃に対する<u>予防策</u>として新しいセキュリティ対策を実施しました。

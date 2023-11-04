@@ -1,0 +1,8 @@
+# Key:somber
+<h3>English Sentences</h3>
+E-1: The room was filled with a <u>somber</u> silence after the tragic news.
+E-2: The funeral had a <u>somber</u> atmosphere as everyone mourned the loss.
+
+<h3>Japanese Translation</h3>
+J-1: 悲劇的なニュースの後、部屋には<u>重い雰囲気</u>の沈黙が広がった。
+J-2: みんなが喪失を悼んだので、葬式は<u>重々しい雰囲気</u>だった。

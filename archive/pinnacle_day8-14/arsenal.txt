@@ -1,0 +1,8 @@
+# Key:arsenal
+<h3>English Sentences</h3>
+E-1: He had a vast <u>arsenal</u> of tools in his garage.
+E-2: The team brought out their full <u>arsenal</u> of offensive tactics.
+
+<h3>Japanese Translation</h3>
+J-1: 彼はガレージに多くの<u>工具の武器庫</u>を持っていました。
+J-2: チームは攻撃の戦術のすべての<u>手段を駆使しました</u>。

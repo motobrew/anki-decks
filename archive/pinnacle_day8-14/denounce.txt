@@ -1,0 +1,8 @@
+# Key:denounce
+<h3>English Sentences</h3>
+E-1: The news anchor was quick to <u>denounce</u> the politician's actions.
+E-2: The witness decided to <u>denounce</u> the criminal in court.
+
+<h3>Japanese Translation</h3>
+J-1: ニュースキャスターは、政治家の行為を<u>非難する</u>ことを早く決めた。
+J-2: 証人は法廷で犯罪者を<u>告発する</u>ことを決めました。

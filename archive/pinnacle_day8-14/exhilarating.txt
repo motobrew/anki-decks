@@ -1,0 +1,8 @@
+# Key:exhilarating
+<h3>English Sentences</h3>
+E-1: The roller coaster ride was <u>exhilarating</u> and full of adrenaline.
+E-2: The team's victory in the final game was an <u>exhilarating</u> moment of celebration.
+
+<h3>Japanese Translation</h3>
+J-1: ローラーコースターの乗り物は<u>刺激的な</u>もので、アドレナリンが全身に広がります。
+J-2: チームの最終試合での勝利は、喜びに満ちた<u>興奮</u>の瞬間でした。

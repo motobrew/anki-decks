@@ -1,0 +1,8 @@
+# Key:proliferate
+<h3>English Sentences</h3>
+E-1: The number of cars on the road continues to <u>proliferate</u>.
+E-2: Fake news tends to <u>proliferate</u> on social media platforms.
+
+<h3>Japanese Translation</h3>
+J-1: 道路上の車の数はますます<u>増え続けて</u>います。
+J-2: フェイクニュースはソーシャルメディア上で<u>広まる傾向があります</u>。

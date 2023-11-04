@@ -1,0 +1,8 @@
+# Key:caveat
+<h3>English Sentences</h3>
+E-1: He gave us a <u>caveat</u> before signing the contract.
+E-2: The lawyer added a <u>caveat</u> to protect their interests.
+
+<h3>Japanese Translation</h3>
+J-1: 契約に署名する前に彼は<u>警告</u>をした。
+J-2: 弁護士は利益を守るために<u>制約事項</u>を追加しました。

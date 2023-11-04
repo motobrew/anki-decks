@@ -1,0 +1,8 @@
+# Key:ostensibly
+<h3>English Sentences</h3>
+E-1: The politician's speech was <u>ostensibly</u> about education reform, but it was really a subtle attack on his opponent.
+E-2: She <u>ostensibly</u> agreed to help, but she never actually showed up.
+
+<h3>Japanese Translation</h3>
+J-1: 政治家のスピーチは<u>見かけ上</u>教育改革についてだったが、実際は相手をこっそり攻撃していた。
+J-2: 彼女は<u>一見すると</u>手伝うことに同意したが、実際には現れなかった。

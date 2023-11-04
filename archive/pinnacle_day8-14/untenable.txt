@@ -1,0 +1,8 @@
+# Key:untenable
+<h3>English Sentences</h3>
+E-1: The evidence against the suspect was <u>untenable</u>, so the charges were dropped.
+E-2: The company's financial situation became <u>untenable</u> after the stock market crash.
+
+<h3>Japanese Translation</h3>
+J-1: 容疑者に対する証拠は<u>支持できない</u>ため、告訴は取り下げられました。
+J-2: 株式市場の大暴落後、会社の財務状況は<u>持ちこたえられない</u>状態となりました。

@@ -1,0 +1,8 @@
+# Key:balk
+<h3>English Sentences</h3>
+E-1: The horse refused to jump over the fence, a common <u>balk</u> in equestrian competitions.
+E-2: Don't <u>balk</u> at the opportunity to try something new and challenging.
+
+<h3>Japanese Translation</h3>
+J-1: 馬がフェンスを飛び越えることを<um>拒み、競技中のよくある問題</u>です。
+J-2: 新しい挑戦に<u>ためらわないでください。</u>

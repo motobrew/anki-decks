@@ -1,0 +1,8 @@
+# Key:obnoxious
+<h3>English Sentences</h3>
+E-1: She let out an <u>obnoxious</u> laugh that echoed through the room.
+E-2: The <u>obnoxious</u> odor coming from the garbage can was unbearable.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は部屋中に響く<u>不快な</u>笑い声を出した。
+J-2: ゴミ箱から発する<u>嫌な</u>臭いは我慢できなかった。

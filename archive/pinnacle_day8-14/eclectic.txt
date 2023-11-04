@@ -1,0 +1,8 @@
+# Key:eclectic
+<h3>English Sentences</h3>
+E-1: The museum's art collection is an <u>eclectic</u> mix of styles.
+E-2: Her fashion sense is <u>eclectic</u>, combining various trends and vintage pieces.
+
+<h3>Japanese Translation</h3>
+J-1: その美術館のコレクションは様々なスタイルの<u>折衷</u>です。
+J-2: 彼女のファッションセンスは、様々なトレンドとヴィンテージのアイテムを<u>ミックス</u>させたものです。

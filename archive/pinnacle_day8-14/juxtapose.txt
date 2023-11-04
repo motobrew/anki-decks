@@ -1,0 +1,8 @@
+# Key:juxtapose
+<h3>English Sentences</h3>
+E-1: I was able to <u>juxtapose</u> two contrasting ideas in my essay.
+E-2: The artist loves to <u>juxtapose</u> bold colors in her paintings.
+
+<h3>Japanese Translation</h3>
+J-1: 私はエッセイで対照的な二つのアイデアを<u>並べてみました</u>。
+J-2: そのアーティストは、彼女の絵画で大胆な色を<u>並べる</u>のが好きです。

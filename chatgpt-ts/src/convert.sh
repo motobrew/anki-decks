@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-target_dir=../archive/eiken-ex-idiom
+target_dir=../archive/pinnacle_day1-7
 
 ls -tr $target_dir | while read file
 do

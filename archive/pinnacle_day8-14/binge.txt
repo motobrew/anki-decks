@@ -1,0 +1,8 @@
+# Key:binge
+<h3>English Sentences</h3>
+E-1: I love to <u>binge</u> watch my favorite TV shows on weekends.
+E-2: She went on a <u>binge</u> shopping spree and spent all her money.
+
+<h3>Japanese Translation</h3>
+J-1: 週末には、好きなテレビ番組を<u>一気に見る</u>のが大好きです。
+J-2: 彼女は<u>買い物漬け</u>になり、お金を全部使ってしまった。

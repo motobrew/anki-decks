@@ -1,0 +1,8 @@
+# Key:chastise
+<h3>English Sentences</h3>
+E-1: The teacher was quick to <u>chastise</u> the student for talking during class.
+E-2: He tends to <u>chastise</u> himself whenever he makes a mistake.
+
+<h3>Japanese Translation</h3>
+J-1: 先生は授業中に話す生徒を<u>叱責しました</u>。
+J-2: 彼はミスをするたびに<u>自分を叱責する</u>傾向があります。

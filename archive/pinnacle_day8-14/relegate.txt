@@ -1,0 +1,8 @@
+# Key:relegate
+<h3>English Sentences</h3>
+E-1: The team's poor performance will <u>relegate</u> them to a lower division.
+E-2: If you don't take your studies seriously, you might be <u>relegated</u> to a lower class.
+
+<h3>Japanese Translation</h3>
+J-1: チームの不振により、彼らは下部リーグに<u>降格する</u>ことになるでしょう。
+J-2: 真剣に勉強しないと、低いクラスに<u>格下げされる</u>かもしれません。

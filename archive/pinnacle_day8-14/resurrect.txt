@@ -1,0 +1,8 @@
+# Key:resurrect
+<h3>English Sentences</h3>
+E-1: The magician used his powers to <u>resurrect</u> the dead.
+E-2: The company is planning to <u>resurrect</u> an old product.
+
+<h3>Japanese Translation</h3>
+J-1: 魔法使いは死者を<u>蘇生</u>させるために自分の力を使った。
+J-2: その会社は古い商品を<u>復活させる</u>計画を立てています。

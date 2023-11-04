@@ -1,0 +1,8 @@
+# Key:surmise
+<h3>English Sentences</h3>
+E-1: She made a <u>surmise</u> about the suspect's motive based on the evidence.
+E-2: Without any evidence, it is futile to <u>surmise</u> what happened.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は証拠に基づいて、容疑者の動機について<u推測</u>しました。
+J-2: 証拠がなければ、何が起こったか<u推測する</u>ことは無駄です。

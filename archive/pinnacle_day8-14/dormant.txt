@@ -1,0 +1,8 @@
+# Key:dormant
+<h3>English Sentences</h3>
+E-1: The volcano has been <u>dormant</u> for hundreds of years.
+E-2: The business is currently <u>dormant</u> and not making any sales.
+
+<h3>Japanese Translation</h3>
+J-1: 数百年間、その火山は<u>活発でない</u>状態でした。
+J-2: そのビジネスは現在、<u>休眠状態</u>であり、売上が全くない。

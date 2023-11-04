@@ -1,0 +1,8 @@
+# Key:sporadic
+<h3>English Sentences</h3>
+E-1: The rain was <u>sporadic</u> throughout the day, coming and going in short bursts.
+E-2: The company's success was not <u>sporadic</u>; they consistently achieved high sales figures.
+
+<h3>Japanese Translation</h3>
+J-1: 一日中、雨は<u>断続的</u>に降り、短いバーストでやって来ました。
+J-2: その会社の成功は<u>断続的な</u>ものではありませんでした。彼らは一貫して高い売上高を達成していました。

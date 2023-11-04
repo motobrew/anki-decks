@@ -1,0 +1,8 @@
+# Key:vigilant
+<h3>English Sentences</h3>
+E-1: We must remain <u>vigilant</u> against any potential security threats.
+E-2: The police officers were <u>vigilant</u> as they patrolled the neighborhood.
+
+<h3>Japanese Translation</h3>
+J-1: 潜在的なセキュリティの脅威に対して<u>注意深く</u>なる必要があります。
+J-2: 警察官たちは地域を巡回する<u>間、用心深かったです</u>。

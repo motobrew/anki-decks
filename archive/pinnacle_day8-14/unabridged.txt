@@ -1,0 +1,8 @@
+# Key:unabridged
+<h3>English Sentences</h3>
+E-1: An <u>unabridged</u> dictionary contains all the words in a language.
+E-2: I prefer <u>unabridged</u> books because they are more detailed and complete.
+
+<h3>Japanese Translation</h3>
+J-1: <u>無声</u>辞書には言語の全ての単語が含まれています。
+J-2: 私は<u>完全版</u>の本が好きで、詳細かつ完全です。

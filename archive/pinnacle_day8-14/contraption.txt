@@ -1,0 +1,8 @@
+# Key:contraption
+<h3>English Sentences</h3>
+E-1: When I turned on the light, a fascinating <u>contraption</u> started moving.
+E-2: The inventor was proud to showcase his latest ingenious <u>contraption</u>.
+
+<h3>Japanese Translation</h3>
+J-1: ライトを点けると、魅力的な<u>仕掛け</u>が動き始めました。
+J-2: 発明家は彼の最新かつ巧妙な<u>装置</u>を自慢することに誇りを持っていました。

@@ -1,0 +1,8 @@
+# Key:anthem
+<h3>English Sentences</h3>
+E-1: The national <u>anthem</u> is played before the start of every sports game.
+E-2: The new song by the band has become an <u>anthem</u> for the youth.
+
+<h3>Japanese Translation</h3>
+J-1: 全国のスポーツ大会の始まり前には、国家の<u>国歌</u>が演奏されます。
+J-2: そのバンドの新曲は若者たちの<u>アンセム</u>となりました。

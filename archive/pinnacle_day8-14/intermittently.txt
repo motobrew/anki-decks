@@ -1,0 +1,8 @@
+# Key:intermittently
+<h3>English Sentences</h3>
+E-1: The storm caused the power to flicker <u>intermittently</u> throughout the night.
+E-2: The car's engine was running <u>intermittently</u> and eventually broke down.
+
+<h3>Japanese Translation</h3>
+J-1: 嵐のため、電気が夜通し<u>断続的に</u>点滅しました。
+J-2: 車のエンジンが<u>断続的に</u>動いていて、最終的に壊れました。

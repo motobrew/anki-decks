@@ -1,0 +1,8 @@
+# Key:infallible
+<h3>English Sentences</h3>
+E-1: The detective's <u>infallible</u> memory never fails to impress his colleagues.
+E-2: My grandmother's recipe for chocolate cake is <u>infallible</u> - it always turns out perfectly.
+
+<h3>Japanese Translation</h3>
+J-1: 刑事の<u>絶対的な</u>記憶力は同僚たちをいつも感心させます。
+J-2: 私の祖母のチョコレートケーキの秘伝のレシピは<u>確実で間違いのない</u>結果を生み出します。

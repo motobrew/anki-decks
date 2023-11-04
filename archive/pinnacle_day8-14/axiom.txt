@@ -1,0 +1,8 @@
+# Key:axiom
+<h3>English Sentences</h3>
+E-1: The detective followed a <u>trail of evidence</u> to solve the crime.
+E-2: The hiker lost the <u>trail</u> and had to ask for directions.
+
+<h3>Japanese Translation</h3>
+J-1: 刑事は事件を解決するために<u>証拠の手がかりを辿りました</u>。
+J-2: ハイカーは<u>登山道</u>を迷い、道を聞かなければなりませんでした。

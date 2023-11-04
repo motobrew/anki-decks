@@ -1,0 +1,8 @@
+# Key:proxy
+<h3>English Sentences</h3>
+E-1: My friend served as a <u>proxy</u> to collect my package while I was away.
+E-2: The company's shareholders appointed a <u>proxy</u> to vote on their behalf.
+
+<h3>Japanese Translation</h3>
+J-1: 私が不在の間、友人が<u>代理人</u>となって荷物を受け取ってくれました。
+J-2: 会社の株主は<u>代理人</u>を任命して投票することにしました。

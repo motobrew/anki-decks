@@ -1,0 +1,8 @@
+# Key:precocious
+<h3>English Sentences</h3>
+E-1: The <u>precocious</u> child was reading books meant for adults.
+E-2: The <u>precocious</u> plant started flowering earlier than expected.
+
+<h3>Japanese Translation</h3>
+J-1: <u>早熟な</u>子供は大人向けの本を読んでいました。
+J-2: <u>早熟な</u>植物は予想よりも早く花を咲かせました。

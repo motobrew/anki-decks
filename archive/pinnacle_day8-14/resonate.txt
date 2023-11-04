@@ -1,0 +1,8 @@
+# Key:resonate
+<h3>English Sentences</h3>
+E-1: The song's lyrics <u>resonate</u> with audiences on a deep level.
+E-2: The sound of the grand piano <u>resonates</u> throughout the concert hall.
+
+<h3>Japanese Translation</h3>
+J-1: その曲の歌詞は観客に深い共感を<u>呼び起こします</u>。
+J-2: ピアノの音がコンサートホールに<u>響き渡ります</u>。

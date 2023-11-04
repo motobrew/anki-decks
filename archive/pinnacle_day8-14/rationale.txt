@@ -1,0 +1,8 @@
+# Key:rationale
+<h3>English Sentences</h3>
+E-1: The <u>rationale</u> behind his decision was hard to understand.
+E-2: The professor explained the <u>rationale</u> for the research methodology.
+
+<h3>Japanese Translation</h3>
+J-1: 彼の決断の<u>理論的根拠</u>は理解しにくかった。
+J-2: 教授は研究方法の<u>合理的根拠</u>を説明しました。

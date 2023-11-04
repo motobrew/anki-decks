@@ -1,0 +1,8 @@
+# Key:solace
+<h3>English Sentences</h3>
+E-1: The beautiful sunset provided me with solace after a long day.
+E-2: She found solace in music during difficult times in her life.
+
+<h3>Japanese Translation</h3>
+J-1: 長い一日の後、美しい夕日が彼女に癒しを与えました。
+J-2: 彼女は人生の困難な時に音楽で慰めを見つけました。

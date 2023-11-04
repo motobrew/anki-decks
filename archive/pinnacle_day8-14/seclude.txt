@@ -1,0 +1,8 @@
+# Key:seclude
+<h3>English Sentences</h3>
+E-1: He always finds a way to <u>seclude</u> himself from the chaos.
+E-2: The private villa offers a peaceful <u>seclusion</u> from city life.
+
+<h3>Japanese Translation</h3>
+J-1: 彼はいつも混沌から<u>自分を隔てる</u>方法を見つけます。
+J-2: その私有のヴィラは都会の生活からの平和な<u>隔離</u>を提供します。

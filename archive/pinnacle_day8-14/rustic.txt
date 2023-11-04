@@ -1,0 +1,8 @@
+# Key:rustic
+<h3>English Sentences</h3>
+E-1: The cabin in the woods had a charming <u>rustic</u> feel.
+E-2: The store sells a variety of handmade <u>rustic</u> furniture.
+
+<h3>Japanese Translation</h3>
+J-1: 森の中の小屋は魅力的な<u>田舎風</u>がありました。
+J-2: その店では様々な手作りの<u>素朴な</u>家具を販売しています。

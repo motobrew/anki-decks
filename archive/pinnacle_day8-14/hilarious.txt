@@ -1,0 +1,8 @@
+# Key:hilarious
+<h3>English Sentences</h3>
+E-1: The magician performed a <u>hilarious</u> comedy routine that had everyone laughing.
+E-2: We decided to watch a <u>hilarious</u> movie to lighten the mood.
+
+<h3>Japanese Translation</h3>
+J-1: 魔術師が面白いコメディの演技をして、みんなを笑わせました。
+J-2: 雰囲気を明るくするために、私たちはおもしろい映画を観ることにしました。

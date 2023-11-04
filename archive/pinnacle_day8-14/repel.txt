@@ -1,0 +1,8 @@
+# Key:repel
+<h3>English Sentences</h3>
+E-1: Mosquito repellent is necessary when spending time outdoors in the summer.
+E-2: The strong smell of the cleaning solution repelled me from entering the room.
+
+<h3>Japanese Translation</h3>
+J-1: 夏に屋外で時間を過ごす際は、蚊よけが必要です。
+J-2: 掃除液の強い匂いで、部屋に入るのを避けました。

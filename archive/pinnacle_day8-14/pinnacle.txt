@@ -1,0 +1,8 @@
+# Key:pinnacle
+<h3>English Sentences</h3>
+E-1: The hiker reached the <u>pinnacle</u> of the mountain and admired the view.
+E-2: Winning the award was the <u>pinnacle</u> of her acting career.
+
+<h3>Japanese Translation</h3>
+J-1: ハイカーは山の<u>頂点</u>に達し、眺めを楽しんだ。
+J-2: 賞を獲得することは、彼女の演技のキャリアの<u>頂点</u>だった。

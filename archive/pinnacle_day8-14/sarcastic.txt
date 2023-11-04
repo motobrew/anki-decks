@@ -1,0 +1,8 @@
+# Key:sarcastic
+<h3>English Sentences</h3>
+E-1: She gave me a <u>sarcastic</u> smile after my bad joke.
+E-2: His <u>sarcastic</u> comment added insult to injury.
+
+<h3>Japanese Translation</h3>
+J-1: 私が冗談を言った後、彼女は<u>皮肉っぽい</u>笑顔を見せました。
+J-2: 彼の<u>皮肉っぽい</u>発言は傷口に塩を塗るようでした。

@@ -1,0 +1,8 @@
+# Key:unfold
+<h3>English Sentences</h3>
+E-1: The suspenseful movie had many twists and turns that <u>unfolded</u> throughout.
+E-2: The detective slowly <u>unfolded</u> the details of the crime to the suspect.
+
+<h3>Japanese Translation</h3>
+J-1: そのサスペンス映画は、途中で次第に<u>明らかにされる</u>多くの展開がありました。
+J-2: 刑事はゆっくりと犯罪の詳細を容疑者に<u>明かしていきました</u>。

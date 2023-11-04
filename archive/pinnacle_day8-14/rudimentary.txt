@@ -1,0 +1,8 @@
+# Key:rudimentary
+<h3>English Sentences</h3>
+E-1: The artist used <u>rudimentary</u> tools to create her masterpiece.
+E-2: The team's performance was <u>rudimentary</u> and lacked strategy.
+
+<h3>Japanese Translation</h3>
+J-1: そのアーティストは彼女の傑作を作るために<u>初歩的な</u>道具を使用しました。
+J-2: チームのパフォーマンスは<u>基礎的</u>で戦略に欠けていました。

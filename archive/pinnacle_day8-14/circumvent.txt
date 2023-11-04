@@ -1,0 +1,8 @@
+# Key:circumvent
+<h3>English Sentences</h3>
+E-1: The hikers took a detour to <u>circumvent</u> the flooded trail.
+E-2: The company used creative accounting to <u>circumvent</u> paying taxes.
+
+<h3>Japanese Translation</h3>
+J-1: ハイカーたちは洪水になった道を<u>迂回する</u>ために遠回りをしました。
+J-2: その企業は税金を<u>回避する</u>ために創造的な会計手法を使いました。

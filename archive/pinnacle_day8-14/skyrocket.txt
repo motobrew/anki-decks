@@ -1,0 +1,8 @@
+# Key:skyrocket
+<h3>English Sentences</h3>
+E-1: The price of Bitcoin <u>skyrocketed</u> after the market crash.
+E-2: Her popularity <u>skyrocketed</u> after appearing on a popular TV show.
+
+<h3>Japanese Translation</h3>
+J-1: 市場の暴落後、ビットコインの価格が<u>急騰しました</u>。
+J-2: 彼女は人気のテレビ番組に出演した後、人気が<u>急上昇しました</u>。

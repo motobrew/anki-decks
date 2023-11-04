@@ -1,0 +1,8 @@
+# Key:disdain
+<h3>English Sentences</h3>
+E-1: She looked at him with <u>disdain</u> after he made a rude comment.
+E-2: The politician expressed his <u>disdain</u> for the opposing party's policies.
+
+<h3>Japanese Translation</h3>
+J-1: 彼が失礼な発言をした後、彼女は彼を軽蔑の眼差しで見た。
+J-2: 政治家は反対党の政策に<u>軽蔑の念</u>を表明した。

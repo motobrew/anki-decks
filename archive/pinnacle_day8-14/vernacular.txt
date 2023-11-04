@@ -1,0 +1,8 @@
+# Key:vernacular
+<h3>English Sentences</h3>
+E-1: The artist used the local <u>vernacular</u> to express her art.
+E-2: The history museum displayed artifacts showcasing the region's <u>vernacular</u>.
+
+<h3>Japanese Translation</h3>
+J-1: そのアーティストは地元の<u>地方語</u>を使って彼女の芸術を表現しました。
+J-2: その歴史博物館はその地域の<u>独特な表現方法</u>を示す遺物を展示しました。

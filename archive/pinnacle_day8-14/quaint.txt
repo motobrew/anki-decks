@@ -1,0 +1,8 @@
+# Key:quaint
+<h3>English Sentences</h3>
+E-1: The bakery had a <u>quaint</u> little garden where customers could sit.
+E-2: The small town had a <u>quaint</u> main street lined with charming shops.
+
+<h3>Japanese Translation</h3>
+J-1: パン屋さんには、お客さんが座れる<u>古風な</u>小さな庭がありました。
+J-2: その小さな町には、魅力的な店が立ち並ぶ<u>趣のある</u>メインストリートがありました。

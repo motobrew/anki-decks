@@ -1,0 +1,8 @@
+# Key:precipitate
+<h3>English Sentences</h3>
+E-1: The dark clouds <u>precipitated</u> a heavy rainstorm in the afternoon.
+E-2: Their hasty decision to quit their jobs <u>precipitated</u> a financial crisis.
+
+<h3>Japanese Translation</h3>
+J-1: 夕方に暗い雲が<u>降りかかり</u>、激しい雨が降りました。
+J-2: 彼らの軽率な思いつきで仕事を辞めることは、経済的危機を<u>招いた</u>。

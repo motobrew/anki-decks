@@ -1,0 +1,8 @@
+# Key:altruistic
+<h3>English Sentences</h3>
+E-1: It was refreshing to see an <u>altruistic</u> act of kindness in the midst of chaos.
+E-2: She dedicated her life to helping others, always putting their needs before her own, truly <u>altruistic</u>.
+
+<h3>Japanese Translation</h3>
+J-1: 混沌の中で<u>利他的な</u>親切な行為を目にすることは心地よかったです。
+J-2: 彼女は自分自身よりも他人のニーズを優先し、他人を助けることに人生を捧げ、本当に<u>利他的</u>でした。

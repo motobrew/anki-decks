@@ -1,0 +1,8 @@
+# Key:inscrutable
+<h3>English Sentences</h3>
+E-1: The detective's expression remained <u>inscrutable</u> throughout the interrogation. 
+E-2: The hieroglyphics on the ancient tablet were <u>inscrutable</u> to the archaeologist.
+
+<h3>Japanese Translation</h3>
+J-1: 警察官の表情は尋問中ずっと<u>読み取れない</u>状態だった。
+J-2: 古代のタブレットには考古学者にとって<u>理解不能な</u>象形文字が書かれていた。

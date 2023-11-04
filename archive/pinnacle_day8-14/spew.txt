@@ -1,0 +1,8 @@
+# Key:spew
+<h3>English Sentences</h3>
+E-1: The volcano began to <u>spew</u> ash and smoke into the air.
+E-2: The angry customer started to <u>spew</u> insults at the cashier.
+
+<h3>Japanese Translation</h3>
+J-1: 火山が空中に灰と煙を<u>噴出し始めました</u>。
+J-2: 怒った客がレジ係に対して<u>悪口を吐き始めました</u>。

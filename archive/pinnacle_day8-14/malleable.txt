@@ -1,0 +1,8 @@
+# Key:malleable
+<h3>English Sentences</h3>
+E-1: The sculpture was made from a <u>malleable</u> material that could be molded easily.
+E-2: He has a <u>malleable</u> personality and is easily influenced by others.
+
+<h3>Japanese Translation</h3>
+J-1: その彫刻は<u>加工しやすい</u>素材で作られていました。
+J-2: 彼は<u>順応性があり</u>他人の影響を受けやすい性格です。

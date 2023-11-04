@@ -1,0 +1,8 @@
+# Key:copious
+<h3>English Sentences</h3>
+E-1: She had a <u>copious</u> amount of notes to study for the exam.
+E-2: The garden was filled with <u>copious</u> amounts of colorful flowers.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は試験のために<u>豊富な</u>量のノートを勉強しなければならなかった。
+J-2: 庭は<u>多量の</u>カラフルな花で埋め尽くされていました。

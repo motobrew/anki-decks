@@ -1,0 +1,8 @@
+# Key:taint
+<h3>English Sentences</h3>
+E-1: He 'taint' gonna show up to the party, he's sick.
+E-2: 'Taint' no use crying over spilled milk, it's already done.
+
+<h3>Japanese Translation</h3>
+J-1: 彼はパーティーに来ないだろう、彼は病気だ。
+J-2: こぼれた牛乳に泣くのは無駄だ、もう終わったことだから。

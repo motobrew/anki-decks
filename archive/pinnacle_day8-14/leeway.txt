@@ -1,0 +1,8 @@
+# Key:leeway
+<h3>English Sentences</h3>
+E-1: I need some <u>leeway</u> on my project deadline.
+E-2: The teacher gave the students <u>leeway</u> to choose their own topics.
+
+<h3>Japanese Translation</h3>
+J-1: 私のプロジェクトの締切には少し<u>猶予が必要</u>です。
+J-2: 先生は生徒たちに自分のトピックを選ぶ<u>余裕</u>を与えました。

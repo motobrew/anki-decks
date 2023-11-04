@@ -1,0 +1,8 @@
+# Key:apprenticeship
+<h3>English Sentences</h3>
+E-1: She is undergoing an <u>apprenticeship</u> to become a chef.
+E-2: The company offers a paid <u>apprenticeship</u> program for young professionals.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女はシェフになるための<u>研修</u>を受けています。
+J-2: その会社は若手プロフェッショナル向けに有給の<u>見習い制度</u>を提供しています。

@@ -1,0 +1,8 @@
+# Key:amalgam
+<h3>English Sentences</h3>
+E-1: The <u>amalgam</u> of flavors in the dish created a unique taste.
+E-2: The dentist used an <u>amalgam</u> to fill in the cavity.
+
+<h3>Japanese Translation</h3>
+J-1: その料理の味は異なる味の<u>合成物</u>で特別でした。
+J-2: 歯医者は虫歯を埋めるために<u>アマルガム</u>を使用しました。

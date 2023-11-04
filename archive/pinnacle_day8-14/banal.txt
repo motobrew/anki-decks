@@ -1,0 +1,8 @@
+# Key:banal
+<h3>English Sentences</h3>
+E-1: The professor's lecture was so <u>banal</u>, it put me to sleep.
+E-2: The movie had a <u>banal</u> ending that everyone saw coming.
+
+<h3>Japanese Translation</h3>
+J-1: 教授の講義はとても<u>平凡でありふれていて</u>、私を眠らせました。
+J-2: 映画は<u>ありきたりな結末</u>で、誰も予想がつきました。

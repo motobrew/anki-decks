@@ -1,0 +1,8 @@
+# Key:knack
+<h3>English Sentences</h3>
+E-1: She had a <u>knack</u> for solving difficult puzzles quickly.
+E-2: He has a <u>knack</u> for making people feel comfortable in social situations.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は難しいパズルを早く解く<u>才能</u>がありました。
+J-2: 彼は社交的な場面で人々を快適に感じさせる<u>才能</u>を持っています。

@@ -1,0 +1,8 @@
+# Key:tenacious
+<h3>English Sentences</h3>
+E-1: His <u>obsession</u> with cleanliness led him to constantly clean his surroundings.
+E-2: She had a strong <u>obsession</u> with finding the perfect gift for her friend.
+
+<h3>Japanese Translation</h3>
+J-1: 彼の<u>強迫観念</u>から、彼は常に周囲をきれいにする必要がありました。
+J-2: 彼女は友人に完璧な贈り物を見つけるという強い<u>執着心</u>を持っていました。

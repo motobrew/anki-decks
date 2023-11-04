@@ -1,0 +1,8 @@
+# Key:extant
+<h3>English Sentences</h3>
+E-1: The rare species of bird is the only <u>extant</u> member of its genus.
+E-2: The ancient ruins are the <u>extant</u> remnants of a once great civilization.
+
+<h3>Japanese Translation</h3>
+J-1: その珍しい鳥の種は、その属の唯一の<u>現存している</u>メンバーです。
+J-2: その古代の遺跡は、かつて偉大な文明の<u>現存している</u>遺物です。

@@ -1,0 +1,8 @@
+# Key:envisage
+<h3>English Sentences</h3>
+E-1: The weather forecast <u>predicts</u> rain for tomorrow afternoon.
+E-2: It's difficult to <u>predict</u> how the stock market will perform.
+
+<h3>Japanese Translation</h3>
+J-1: 天気予報は明日の午後に雨を<u>予測しています</u>。
+J-2: 株式市場がどのように動くかを<u>予測する</u>のは難しいです。

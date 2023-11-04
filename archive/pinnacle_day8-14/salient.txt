@@ -1,0 +1,8 @@
+# Key:salient
+<h3>English Sentences</h3>
+E-1: The detective noticed a <u>salient</u> clue at the crime scene.
+E-2: The speaker highlighted the <u>salient</u> points in her presentation.
+
+<h3>Japanese Translation</h3>
+J-1: 刑事は現場で<u>顕著な</u>手がかりに気付きました。
+J-2: 講演者はプレゼンテーションで<u>重要な</u>ポイントを強調しました。

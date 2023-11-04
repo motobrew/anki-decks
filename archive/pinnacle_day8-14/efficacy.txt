@@ -1,0 +1,8 @@
+# Key:efficacy
+<h3>English Sentences</h3>
+E-1: The <u>efficacy</u> of the new drug is still under investigation.
+E-2: The success of the campaign will depend on the <u>efficacy</u> of the messaging.
+
+<h3>Japanese Translation</h3>
+J-1: 新しい薬の<u>有効性</u>はまだ調査中です。
+J-2: キャンペーンの成功はメッセージの<u>効果</u>にかかっています。

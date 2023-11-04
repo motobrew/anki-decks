@@ -1,0 +1,8 @@
+# Key:conjure
+<h3>English Sentences</h3>
+E-1: The magician waved his wand and successfully <u>conjured</u> a rabbit.
+E-2: The smell of coffee <u>conjured</u> memories of lazy Sunday mornings.
+
+<h3>Japanese Translation</h3>
+J-1: 魔術師が杖を振り、うさぎを<u>出現させました</u>。
+J-2: コーヒーの香りがのんびりした日曜の朝の記憶を<u>呼び起こしました</u>。

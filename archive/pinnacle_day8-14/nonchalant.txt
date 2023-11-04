@@ -1,0 +1,8 @@
+# Key:nonchalant
+<h3>English Sentences</h3>
+E-1: He was so <u>nonchalant</u> about the exam, as if he didn't care.
+E-2: She walked into the party with a <u>nonchalant</u> air, greeting everyone casually.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は試験に全く<u>無関心</u>な様子で、まるで気にしていないかのようでした。
+J-2: 彼女は<u>のんびりとした</u>態度でパーティーに入り、誰にでも軽く挨拶しました。

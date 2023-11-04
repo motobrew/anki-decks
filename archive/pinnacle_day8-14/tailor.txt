@@ -1,0 +1,8 @@
+# Key:tailor
+<h3>English Sentences</h3>
+E-1: The <u>tailor</u> took my measurements for a custom suit.
+E-2: She decided to <u>tailor</u> her presentation to the needs of the audience.
+
+<h3>Japanese Translation</h3>
+J-1: <u>仕立屋</u>が私の採寸を取りました、カスタムスーツのために。
+J-2: 彼女はプレゼンテーションを観客のニーズに<u>合わせる</u>ことに決めました。

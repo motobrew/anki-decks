@@ -1,0 +1,8 @@
+# Key:enshrine
+<h3>English Sentences</h3>
+E-1: The Constitution <u>enshrines</u> the rights and freedoms of citizens.
+E-2: The museum <u>enshrines</u> the ancient artifacts of the lost civilization.
+
+<h3>Japanese Translation</h3>
+J-1: 憲法は市民の権利と自由を<u>確約しています</u>。
+J-2: その博物館は失われた文明の古代の遺物を<u>祀っています</u>。

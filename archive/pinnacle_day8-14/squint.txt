@@ -1,0 +1,8 @@
+# Key:squint
+<h3>English Sentences</h3>
+E-1: She always has a <u>squint</u> when reading small print.
+E-2: The bright sunlight made me <u>squint</u> my eyes.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は小さい文字を読む時、いつも<u>目を細めます</u>。
+J-2: 明るい日差しで<u>目を細める</u>ことがありました。

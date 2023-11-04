@@ -1,0 +1,8 @@
+# Key:predicament
+<h3>English Sentences</h3>
+E-1: He found himself in a <u>predicament</u> when he realized he forgot his wallet.
+E-2: She faced a difficult <u>predicament</u> when she had to choose between two job offers.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は財布を忘れたことに気づいて<u>窮地</u>に立たされました。
+J-2: 彼女は2つの仕事のオファーの間で選ぶ<u>難しい状況</u>に直面しました。

@@ -1,0 +1,8 @@
+# Key:pseudonym
+<h3>English Sentences</h3>
+E-1: She used a <u>pseudonym</u> when writing her controversial novel.
+E-2: The author's <u>pseudonym</u> is widely known in literary circles.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は物議を醸す小説を書く際に<u>偽名</u>を使用しました。
+J-2: その作家の<u>ペンネーム</u>は文学界で広く知られています。

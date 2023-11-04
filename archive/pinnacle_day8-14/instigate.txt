@@ -1,0 +1,8 @@
+# Key:instigate
+<h3>English Sentences</h3>
+E-1: The detective tried to <u>instigate</u> a confession from the suspect.
+E-2: The politician's speech was designed to <u>instigate</u> a riot.
+
+<h3>Japanese Translation</h3>
+J-1: 刑事は容疑者からの自白を<u>引き出すために</u>努力しました。
+J-2: 政治家のスピーチは騒動<u>を引き起こすために</u>計画されていました。

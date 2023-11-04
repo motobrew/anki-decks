@@ -1,0 +1,8 @@
+# Key:submerge
+<h3>English Sentences</h3>
+E-1: The diver decided to <u>submerge</u> himself underwater to explore.
+E-2: The heavy rain caused the street to <u>submerge</u> in water.
+
+<h3>Japanese Translation</h3>
+J-1: ダイバーは水中を探検するために、自分自身を<u>潜水</u>させることにしました。
+J-2: 激しい雨で道路が水に<u>浸かってしまいました</u>。

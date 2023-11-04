@@ -1,0 +1,8 @@
+# Key:optimal
+<h3>English Sentences</h3>
+E-1: The <u>optimal</u> solution is to prioritize your tasks effectively.
+E-2: The weather conditions are not <u>optimal</u> for outdoor activities today.
+
+<h3>Japanese Translation</h3>
+J-1: 最適な解決策は、効果的にタスクを優先することです。
+J-2: 今日は外での活動には<u>最適な</u>天候条件ではありません。

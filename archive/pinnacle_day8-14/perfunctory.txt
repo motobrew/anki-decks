@@ -1,0 +1,8 @@
+# Key:perfunctory
+<h3>English Sentences</h3>
+E-1: The waiter's <u>perfunctory</u> smile did not hide his disinterest in serving us.
+E-2: She gave a <u>perfunctory</u> apology without really meaning it.
+
+<h3>Japanese Translation</h3>
+J-1: ウェイターの<u>形式的な</u>笑顔は、私たちに対する関心のなさを隠さなかった。
+J-2: 彼女は本当に意味もなく<u>形式的な</u>謝罪をしました。

@@ -1,0 +1,8 @@
+# Key:tantalize
+<h3>English Sentences</h3>
+E-1: The aroma of freshly baked cookies <u>tantalized</u> our senses.
+E-2: The restaurant's menu was designed to <u>tantalize</u> customers with delicious options.
+
+<h3>Japanese Translation</h3>
+J-1: ほんの焼きたてのクッキーの香りが私たちの感覚を<u>くすぐりました</u>。
+J-2: そのレストランのメニューは、美味しいオプションでお客様の興味を<u>そそるように設計されていました</u>。

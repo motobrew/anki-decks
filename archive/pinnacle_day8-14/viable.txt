@@ -1,0 +1,8 @@
+# Key:viable
+<h3>English Sentences</h3>
+E-1: It is important to have a <u>viable</u> business plan before starting a company.
+E-2: The doctor said the injured patient's chances of survival are <u>not viable</u>.
+
+<h3>Japanese Translation</h3>
+J-1: 会社を始める前に、実現可能なビジネスプランを持つことが重要です。
+J-2: 医師は負傷した患者の生存率は実現可能ではないと言いました。

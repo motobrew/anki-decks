@@ -1,0 +1,8 @@
+# Key:extrapolate
+<h3>English Sentences</h3>
+E-1: She always <u>wears her heart on her sleeve</u> and isn't afraid to show her emotions.
+E-2: He is the type of person who <u>wears his heart on his sleeve</u> and is very open about his feelings.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は常に<u>感情を露にする</u>タイプで、自分の感情を隠すことを恐れません。
+J-2: 彼は<u>率直</u>なタイプで、自分の気持ちを率直に表現します。

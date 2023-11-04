@@ -1,0 +1,8 @@
+# Key:languish
+<h3>English Sentences</h3>
+E-1: The flowers in the garden <u>languish</u> without proper care and water.
+E-2: Many small businesses are currently <u>languishing</u> due to the pandemic.
+
+<h3>Japanese Translation</h3>
+J-1: 正しい世話や水がないと、庭の花は<u>弱ってしまいます</u>。
+J-2: 現在、多くの小規模企業がパンデミックのために<u>衰退しています</u>。

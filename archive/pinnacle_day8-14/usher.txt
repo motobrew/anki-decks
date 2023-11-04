@@ -1,0 +1,8 @@
+# Key:usher
+<h3>English Sentences</h3>
+E-1: The <u>usher</u> showed me to my seat at the theater.
+E-2: The bride's father will <u>usher</u> her down the aisle.
+
+<h3>Japanese Translation</h3>
+J-1: <u>案内係</u>が劇場の席に案内してくれました。
+J-2: 花嫁の父親が彼女を通路を<u>案内する</u>予定です。

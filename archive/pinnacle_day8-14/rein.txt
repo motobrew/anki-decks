@@ -1,0 +1,8 @@
+# Key:rein
+<h3>English Sentences</h3>
+E-1: The cowboy used his reins to guide the horse.
+E-2: She had to rein in her emotions before responding.
+
+<h3>Japanese Translation</h3>
+J-1: カウボーイは馬を誘導するために手綱を使いました。
+J-2: 彼女は感情を抑えてから反応しなければならなかった。

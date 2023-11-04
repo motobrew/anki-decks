@@ -1,0 +1,8 @@
+# Key:ineffable
+<h3>English Sentences</h3>
+E-1: The beauty of nature is <u>ineffable</u> and cannot be described in words.
+E-2: The comedian's jokes left the audience in an <u>ineffable</u> state of laughter.
+
+<h3>Japanese Translation</h3>
+J-1: 自然の美は<u>口では言い表せない</u>、言葉では説明できないものです。
+J-2: そのお笑い芸人の冗談は、観客を<u>言葉にできない</u>笑いの夢中にさせました。

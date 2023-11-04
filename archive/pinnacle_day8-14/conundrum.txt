@@ -1,0 +1,8 @@
+# Key:conundrum
+<h3>English Sentences</h3>
+E-1: The <u>conundrum</u> of whether to quit or stay kept him up all night.
+E-2: Solving this math <u>conundrum</u> will require critical thinking skills.
+
+<h3>Japanese Translation</h3>
+J-1: 辞めるか続けるかという<uジレンマ</u>に彼は一晩中悩み続けた。
+J-2: この数学の<u>難問</u>を解くには、批判的思考力が必要です。

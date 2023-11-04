@@ -1,0 +1,8 @@
+# Key:jolt
+<h3>English Sentences</h3>
+E-1: After the earthquake, a sudden <u>jolt</u> shook the entire building.
+E-2: The loud noise from the car crash <u>jolted</u> me awake.
+
+<h3>Japanese Translation</h3>
+J-1: 地震後、突然の<u>揺れ</u>が建物全体を揺さぶりました。
+J-2: 自動車の衝突の大きな音が私を起こす<u>とび上がらせました</u>。

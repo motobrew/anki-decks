@@ -1,0 +1,8 @@
+# Key:crackdown
+<h3>English Sentences</h3>
+E-1: The government launched a <u>crackdown</u> on illegal gambling activities.
+E-2: The police have increased their <u>crackdown</u> on drunk driving during the holidays.
+
+<h3>Japanese Translation</h3>
+J-1: 政府は不法な賭博行為に対して<u>取り締まり</u>を開始しました。
+J-2: 警察は祝日中の飲酒運転に対する<u>厳重取り締まり</u>を強化しています。

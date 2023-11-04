@@ -1,0 +1,8 @@
+# Key:accomplice
+<h3>English Sentences</h3>
+E-1: The police arrested his <u>accomplice</u> for the crime.
+E-2: He was found guilty of being an <u>accomplice</u> in the robbery.
+
+<h3>Japanese Translation</h3>
+J-1: 警察は犯罪の<u>共犯者</u>として彼を逮捕しました。
+J-2: 彼は強盗事件での<u>共犯</u>として有罪判決を受けました。

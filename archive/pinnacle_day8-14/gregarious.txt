@@ -1,0 +1,8 @@
+# Key:gregarious
+<h3>English Sentences</h3>
+E-1: My little sister is very <u>gregarious</u> and loves to make new friends.
+E-2: The <u>gregarious</u> crowd at the party made it a lively and enjoyable event.
+
+<h3>Japanese Translation</h3>
+J-1: 私の妹はとても<u>社交的</u>で、新しい友達を作ることが大好きです。
+J-2: パーティーの<u>社交的</u>な人々のおかげで、そのイベントは活気に満ちた楽しいものになりました。

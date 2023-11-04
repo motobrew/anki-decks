@@ -1,0 +1,8 @@
+# Key:jurisdiction
+<h3>English Sentences</h3>
+E-1: The judge has <u>jurisdiction</u> over this case.
+E-2: The police officer explained the <u>jurisdiction</u> boundaries of their patrol.
+
+<h3>Japanese Translation</h3>
+J-1: この事件の判事は<u>管轄権</u>を持っています。
+J-2: 警察官は、巡回の<u>管轄範囲</u>を説明しました。

@@ -1,0 +1,8 @@
+# Key:quarantine
+<h3>English Sentences</h3>
+E-1: The doctor advised me to <u>quarantine</u> for 14 days after traveling.
+E-2: Due to a positive COVID-19 test result, I have to <u>quarantine</u> at home.
+
+<h3>Japanese Translation</h3>
+J-1: 旅行後、医師は私に14日間の<u>自宅待機</u>を勧めました。
+J-2: COVID-19の陽性結果が出たため、私は<u>自宅隔離</u>しなければなりません。

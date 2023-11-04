@@ -1,0 +1,8 @@
+# Key:disproportionate
+<h3>English Sentences</h3>
+E-1: The punishment was <u>disproportionate</u> to the crime committed.
+E-2: The company's response was <u>disproportionate</u> to the minor complaint.
+
+<h3>Japanese Translation</h3>
+J-1: その罰は犯罪に比べて<u>不釣り合い</u>なものでした。
+J-2: その会社の対応は、わずかなクレームに対して<u>過剰</u>でした。

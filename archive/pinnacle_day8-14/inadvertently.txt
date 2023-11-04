@@ -1,0 +1,8 @@
+# Key:inadvertently
+<h3>English Sentences</h3>
+E-1: He <u>inadvertently</u> spilled coffee on his brand new shirt.
+E-2: She <u>inadvertently</u> revealed the surprise party plans to her friend.
+
+<h3>Japanese Translation</h3>
+J-1: 彼はうっかりと新しいシャツにコーヒーをこぼしました。
+J-2: 彼女はうっかりと友達にサプライズパーティの計画を明かしてしまいました。

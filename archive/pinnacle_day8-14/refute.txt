@@ -1,0 +1,8 @@
+# Key:refute
+<h3>English Sentences</h3>
+E-1: He tried to <u>refute</u> the claims made against him during the trial.
+E-2: The professor used evidence to <u>refute</u> the student's argument.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は法廷でされた主張を<u>反論しようとした</u>。
+J-2: 教授は証拠を使って学生の主張を<u>論破した</u>。

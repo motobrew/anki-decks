@@ -1,0 +1,8 @@
+# Key:murky
+<h3>English Sentences</h3>
+E-1: The lake water was so <u>murky</u> that I couldn't see my feet.
+E-2: The police are trying to uncover the <u>murky</u> details of the crime.
+
+<h3>Japanese Translation</h3>
+J-1: 湖の水は<u>濁っていて</u>、自分の足が見えませんでした。
+J-2: 警察は犯罪の<u>不透明な</u>詳細を解明しようとしています。

@@ -1,0 +1,8 @@
+# Key:backlash
+<h3>English Sentences</h3>
+E-1: There was a huge <u>backlash</u> after the company announced layoffs.
+E-2: The politician faced a <u>backlash</u> after making insensitive comments.
+
+<h3>Japanese Translation</h3>
+J-1: 企業がレイオフを発表した後、大きな<u>反発</u>が起こった。
+J-2: 政治家が不適切な発言をした後、<u>反発</u>に直面した。

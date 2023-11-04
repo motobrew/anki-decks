@@ -1,0 +1,8 @@
+# Key:conjecture
+<h3>English Sentences</h3>
+E-1: The detective made a <u>conjecture</u> about the suspect's motive.
+E-2: Without any evidence, it's just a wild <u>conjecture</u>.
+
+<h3>Japanese Translation</h3>
+J-1: 刑事は、容疑者の動機について<u>推測</u>を立てました。
+J-2: 証拠がないと、それは単なる適当な<u>憶測</u>です。

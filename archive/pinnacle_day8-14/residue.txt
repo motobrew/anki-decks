@@ -1,0 +1,8 @@
+# Key:residue
+<h3>English Sentences</h3>
+E-1: The <u>residue</u> of the cake stuck to the pan.
+E-2: After cleaning, there was still a <u>residue</u> of dirt on the floor.
+
+<h3>Japanese Translation</h3>
+J-1: ケーキの<u>残り</u>がフライパンにくっついていました。
+J-2: 掃除後、床にはまだ汚れの<u>残り</u>がありました。

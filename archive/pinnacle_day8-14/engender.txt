@@ -1,0 +1,8 @@
+# Key:engender
+<h3>English Sentences</h3>
+E-1: The heavy rain <u>downpour</u> made it impossible to go outside.
+E-2: She couldn't attend the meeting because of a sudden <u>downpour</u>.
+
+<h3>Japanese Translation</h3>
+J-1: 激しい雨<u>どしゃぶり</u>のため、外出が不可能になりました。
+J-2: 急な<u>どしゃぶり</u>のため、彼女はミーティングに出席することができませんでした。

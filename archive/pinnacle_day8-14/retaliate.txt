@@ -1,0 +1,8 @@
+# Key:retaliate
+<h3>English Sentences</h3>
+E-1: It is not necessary to <u>retaliate</u> every time someone criticizes you.
+E-2: The country vowed to <u>retaliate</u> against the enemy's attack.
+
+<h3>Japanese Translation</h3>
+J-1: 誰かがあなたを批判するたびに<u>報復する</u>必要はありません。
+J-2: その国は敵の攻撃に<u>報復することを</u>誓いました。

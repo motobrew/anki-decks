@@ -1,0 +1,8 @@
+# Key:mishap
+<h3>English Sentences</h3>
+E-1: A <u>mishap</u> occurred when the cake fell on the floor.
+E-2: The magician's trick went wrong, causing a <u>mishap</u> on stage.
+
+<h3>Japanese Translation</h3>
+J-1: ケーキが床に落ちて<u>不運</u>が起こりました。
+J-2: 魔術師のトリックが失敗し、ステージで<u>アクシデント</u>が発生しました。

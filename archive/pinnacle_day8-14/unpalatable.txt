@@ -1,0 +1,8 @@
+# Key:unpalatable
+<h3>English Sentences</h3>
+E-1: The taste of the medicine was so <u>unpalatable</u> that she couldn't swallow it.
+E-2: The politician's <u>unpalatable</u> comments caused a lot of controversy.
+
+<h3>Japanese Translation</h3>
+J-1: その薬は味が非常に<u>まずく</u>、彼女は飲むことができませんでした。
+J-2: その政治家の<u>受け入れがたい</u>発言は多くの論争を引き起こしました。

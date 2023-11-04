@@ -1,0 +1,8 @@
+# Key:faction
+<h3>English Sentences</h3>
+E-1: There was a <u>faction</u> between the two political parties.
+E-2: The <u>faction</u> within the company is causing conflicts among employees.
+
+<h3>Japanese Translation</h3>
+J-1: 2つの政党間には<u>派閥</u>が存在していました。
+J-2: 会社内の<u>派閥</u>が従業員間での対立を引き起こしています。

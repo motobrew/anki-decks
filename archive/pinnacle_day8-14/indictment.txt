@@ -1,0 +1,8 @@
+# Key:indictment
+<h3>English Sentences</h3>
+E-1: The suspect was handed an <u>indictment</u> for his alleged crimes.
+E-2: The grand jury returned an <u>indictment</u> against the corrupt politician.
+
+<h3>Japanese Translation</h3>
+J-1:容疑者には、彼の疑われる犯罪に対する<u>起訴状</u>が手渡されました。
+J-2:陪審団は腐敗した政治家に対して<u>起訴状</u>を返還しました。

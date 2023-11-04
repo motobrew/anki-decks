@@ -1,0 +1,8 @@
+# Key:inundate
+<h3>English Sentences</h3>
+E-1: The heavy rainfall caused the river to <u>inundate</u> nearby houses.
+E-2: After winning the lottery, she was <u>inundated</u> with phone calls from long-lost friends.
+
+<h3>Japanese Translation</h3>
+J-1: 豪雨によって、川が近くの家を<u>氾濫させました</u>。
+J-2: 宝くじに当選した後、彼女は昔の友達からの電話で<u>殺到しました</u>。

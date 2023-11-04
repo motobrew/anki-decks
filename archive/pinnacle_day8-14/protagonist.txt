@@ -1,0 +1,8 @@
+# Key:protagonist
+<h3>English Sentences</h3>
+E-1: The <u>protagonist</u> of the story overcame numerous challenges to achieve success.
+E-2: The movie's <u>protagonist</u> is a charismatic and charming detective.
+
+<h3>Japanese Translation</h3>
+J-1: 物語の<u>主人公</u>は、数々の困難を乗り越えて成功を収めました。
+J-2: その映画の<u>主人公</u>は、カリスマ性と魅力溢れる探偵です。

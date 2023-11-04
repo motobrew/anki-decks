@@ -1,0 +1,8 @@
+# Key:underpin
+<h3>English Sentences</h3>
+E-1: The evidence <u>underpins</u> the defendant's innocence in the case.
+E-2: Quality research is essential to <u>underpin</u> scientific theories.
+
+<h3>Japanese Translation</h3>
+J-1: その証拠は、被告の無実を<u>裏付けています</u>。
+J-2: 品質の高い研究は、科学的理論を<u>基礎づける</u>ために不可欠です。

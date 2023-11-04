@@ -1,0 +1,8 @@
+# Key:facade
+<h3>English Sentences</h3>
+E-1: She put on a friendly <u>facade</u> to hide her true feelings.
+E-2: The beautiful building had a crumbling <u>facade</u> that needed repair.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は本心を隠すために友好的な<u>フリをしていました</u>。
+J-2: 美しい建物は修理が必要な<u>ひび割れた外観</u>を持っていました。

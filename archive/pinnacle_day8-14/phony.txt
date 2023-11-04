@@ -1,0 +1,8 @@
+# Key:phony
+<h3>English Sentences</h3>
+E-1: She was caught using a <u>phony</u> driver's license at the bar.
+E-2: He put on a <u>phony</u> smile to hide his disappointment.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女はバーで<u>偽造の</u>運転免許証を使って捕まりました。
+J-2: 彼はがっかりを隠すために<u>偽りの</u>笑顔を浮かべました。

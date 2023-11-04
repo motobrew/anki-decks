@@ -1,0 +1,8 @@
+# Key:configuration
+<h3>English Sentences</h3>
+E-1: The <u>configuration</u> of the computer system needs to be updated.
+E-2: I couldn't access the internet due to a <u>configuration</u> error.
+
+<h3>Japanese Translation</h3>
+J-1: コンピュータシステムの<u>設定</u>を更新する必要があります。
+J-2: 設定のエラーのため、インターネットにアクセスできませんでした。

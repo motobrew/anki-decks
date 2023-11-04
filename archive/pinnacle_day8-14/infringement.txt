@@ -1,0 +1,8 @@
+# Key:infringement
+<h3>English Sentences</h3>
+E-1: The student received a detention for <u>infringement</u> of the school rules.
+E-2: The company is facing a lawsuit for copyright <u>infringement</u>.
+
+<h3>Japanese Translation</h3>
+J-1: 生徒は学校の規則の<u>違反</u>で退室命令を受けました。
+J-2: その会社は著作権の<u>侵害</u>に対して訴訟を受けています。

@@ -1,0 +1,8 @@
+# Key:plummet
+<h3>English Sentences</h3>
+E-1: The stock market value <u>plummeted</u> after the economic crisis.
+E-2: The plane started to <u>plummet</u> towards the ground during the storm.
+
+<h3>Japanese Translation</h3>
+J-1: 経済危機後、株式市場の価値が<u>急落しました</u>。
+J-2: 嵐中、飛行機が地面へ<u>急降下する</u>が始まりました。

@@ -1,0 +1,8 @@
+# Key:lurk
+<h3>English Sentences</h3>
+E-1: I always <u>lurk</u> on the internet to get the latest news.
+E-2: He liked to <u>lurk</u> in the shadows and observe his surroundings.
+
+<h3>Japanese Translation</h3>
+J-1: 最新のニュースを知るためにいつもインターネットで<u>潜んでいます</u>。
+J-2: 彼は影に<u>潜んで</u>周囲を観察するのが好きでした。

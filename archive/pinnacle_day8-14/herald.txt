@@ -1,0 +1,8 @@
+# Key:herald
+<h3>English Sentences</h3>
+E-1: The arrival of the morning <u>heralded</u> a new beginning.
+E-2: The rooster's crow <u>heralds</u> the break of dawn.
+
+<h3>Japanese Translation</h3>
+J-1: 朝の訪れは新しい始まりを<u>告げました</u>。
+J-2: 雄鶏の鳴き声が夜明けを<u>告知します</u>。

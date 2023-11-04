@@ -1,0 +1,8 @@
+# Key:purport
+<h3>English Sentences</h3>
+E-1: The <u>purport</u> of his speech was to inspire, not criticize.
+E-2: I'm not sure what you <u>purport</u> to be, but I'm not buying it.
+
+<h3>Japanese Translation</h3>
+J-1: 彼のスピーチの<u>趣旨</u>は批判ではなく、感銘を与えることでした。
+J-2: 君が<u>言おうとしていること</u>が分からないけれど、それは納得できない。

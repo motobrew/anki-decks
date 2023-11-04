@@ -1,0 +1,8 @@
+# Key:culminate
+<h3>English Sentences</h3>
+E-1: The marathon will <u>culminate</u> with a grand celebration at the finish line.
+E-2: After years of hard work, Mary's career <u>culminated</u> in her promotion to manager.
+
+<h3>Japanese Translation</h3>
+J-1: マラソンはゴールでの盛大な祝賀会で<u>クライマックスを迎える</u>予定です。
+J-2: 長年の努力の結果、メアリーのキャリアは<u>マネージャーに昇進</u>して成し遂げられました。

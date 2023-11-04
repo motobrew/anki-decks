@@ -1,0 +1,8 @@
+# Key:amenable
+<h3>English Sentences</h3>
+E-1: The team leader was <u>amenable</u> to changing the meeting time.
+E-2: The difficult customer was surprisingly <u>amenable</u> to a resolution.
+
+<h3>Japanese Translation</h3>
+J-1: チームリーダーはミーティングの時間変更に<u>応じてくれました</u>。
+J-2: 難しい顧客は驚くほど<u>解決策に応じてくれた</u>。

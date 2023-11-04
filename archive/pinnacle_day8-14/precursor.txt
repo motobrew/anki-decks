@@ -1,0 +1,8 @@
+# Key:precursor
+<h3>English Sentences</h3>
+E-1: The discovery of the atomic nucleus was a <u>precursor</u> to modern atomic theory.
+E-2: The dark clouds were a <u>precursor</u> to the approaching storm.
+
+<h3>Japanese Translation</h3>
+J-1: 原子核の発見は現代の原子理論の<u>先駆け</u>でした。
+J-2: 暗雲は迫り来る嵐の<u>前兆</u>だった。

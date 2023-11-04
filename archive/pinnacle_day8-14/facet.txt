@@ -1,0 +1,8 @@
+# Key:facet
+<h3>English Sentences</h3>
+E-1: The <u>facets</u> of her personality make her very interesting.
+E-2: The diamond has multiple <u>facets</u> that reflect the light beautifully.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女の個性の<u>多様な側面</u>が彼女をとても興味深くしています。
+J-2: そのダイヤモンドは美しく光を反射する<u>複数の面</u>を持っています。

@@ -1,0 +1,8 @@
+# Key:propriety
+<h3>English Sentences</h3>
+E-1: Her choice of words was not in <u>propriety</u> for the formal occasion.
+E-2: The teacher reminded the students about the <u>propriety</u> of classroom behavior.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女の言葉遣いは、その正式な場にはふさわしくなかった。
+J-2: 先生は生徒たちに授業中の行動の<u>適切さ</u>について再度注意を促した。

@@ -1,0 +1,8 @@
+# Key:remnant
+<h3>English Sentences</h3>
+E-1: The <u>remnant</u> of the cake was just a few crumbs on the plate.
+E-2: After the storm, only a <u>remnant</u> of the building was still standing.
+
+<h3>Japanese Translation</h3>
+J-1: ケーキの<u>残り</u>は、皿の上に数粒のクラムだけでした。
+J-2: 嵐の後、建物の<u>残骸</u>だけが残っていました。

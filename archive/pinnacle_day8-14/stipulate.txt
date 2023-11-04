@@ -1,0 +1,8 @@
+# Key:stipulate
+<h3>English Sentences</h3>
+E-1: The contract <u>stipulates</u> a 30-day notice for termination.
+E-2: The rules <u>stipulate</u> that all participants must be over 18.
+
+<h3>Japanese Translation</h3>
+J-1: 契約には、解約のための30日前の通知が<u>明記されています</u>。
+J-2: ルールには、参加者はすべて18歳以上<u>であることが記されています</u>。

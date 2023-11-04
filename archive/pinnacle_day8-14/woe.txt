@@ -1,0 +1,8 @@
+# Key:woe
+<h3>English Sentences</h3>
+E-1: The <u>woe</u> in his eyes told me he was struggling.
+E-2: She shared her <u>woes</u> with me, seeking advice and comfort.
+
+<h3>Japanese Translation</h3>
+J-1: 彼の目には<u>悲しみ</u>があり、彼が苦しんでいることがわかりました。
+J-2: 彼女は私に自分の<u>悩み</u>を打ち明け、アドバイスと慰めを求めました。

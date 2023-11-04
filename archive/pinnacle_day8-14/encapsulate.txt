@@ -1,0 +1,8 @@
+# Key:encapsulate
+<h3>English Sentences</h3>
+E-1: I need to <u>replenish</u> the supplies before they run out.
+E-2: Exercise is important to <u>replenish</u> energy levels and boost metabolism.
+
+<h3>Japanese Translation</h3>
+J-1: 在庫がなくなる前に、備品を<u>補充</u>する必要があります。
+J-2: 運動はエネルギーレベルを<u>補充</u>し、代謝を促進することが重要です。

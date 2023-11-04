@@ -1,0 +1,8 @@
+# Key:cryptic
+<h3>English Sentences</h3>
+E-1: The detective struggled to decipher the <u>cryptic</u> message left at the crime scene.
+E-2: She wrote a <u>cryptic</u> note to her friend, leaving clues about a surprise.
+
+<h3>Japanese Translation</h3>
+J-1: 刑事は犯罪現場に残された<u>謎めいた</u>メッセージを解読するのに苦労しました。
+J-2: 彼女は友達に対して<u>謎めいた</u>メモを書き、サプライズの手がかりを残しました。

@@ -1,0 +1,8 @@
+# Key:guru
+<h3>English Sentences</h3>
+E-1: She is a spiritual <u>guru</u> who guides people on their spiritual journey.
+E-2: The company's CEO is considered a <u>guru</u> in the tech industry.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は人々のスピリチュアルな旅を導く<u>指導者</u>です。
+J-2: その会社のCEOはテック業界の<u>権威</u>とされています。

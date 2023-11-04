@@ -1,0 +1,8 @@
+# Key:spike
+<h3>English Sentences</h3>
+E-1: The stock market experienced a sudden <u>spike</u> in prices.
+E-2: The runner felt a sharp <u>spike</u> of pain in her leg during the race.
+
+<h3>Japanese Translation</h3>
+J-1: 株式市場で株価が急に<u>急上昇</u>しました。
+J-2: レース中、ランナーは脚に激しい<u>痛み</u>を感じました。

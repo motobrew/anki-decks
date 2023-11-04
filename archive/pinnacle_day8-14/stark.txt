@@ -1,0 +1,8 @@
+# Key:stark
+<h3>English Sentences</h3>
+E-1: The contrast between the black and white was stark.
+E-2: The stark reality of the situation hit me hard.
+
+<h3>Japanese Translation</h3>
+J-1: 黒と白の対比は<u>鮮明</u>でした。
+J-2: 状況の<strong>厳然たる</strong>現実が私を襲った。

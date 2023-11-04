@@ -1,0 +1,8 @@
+# Key:uncanny
+<h3>English Sentences</h3>
+E-1: The magician's performance was <u>uncanny</u> and left the audience in awe.
+E-2: It's <u>uncanny</u> how much she looks like her sister.
+
+<h3>Japanese Translation</h3>
+J-1: 魔術師のパフォーマンスは<u>奇妙な</u>もので、観客を感動させました。
+J-2: 彼女がどれだけ姉妹にそっくりなのか、<u>まるで不思議</u>です。

@@ -1,0 +1,8 @@
+# Key:enigma
+<h3>English Sentences</h3>
+E-1: The meaning behind her cryptic note is an <u>enigma</u>.
+E-2: The disappearance of the plane remains an unsolved <u>enigma</u>.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女の意味深なメモの真意は<u>謎</u>です。
+J-2: その飛行機の行方不明は未解決の<u>謎</u>となっています。

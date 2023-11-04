@@ -1,0 +1,8 @@
+# Key:unobtrusive
+<h3>English Sentences</h3>
+E-1: The waiter's <u>unobtrusive</u> service allowed us to enjoy our meal in peace.
+E-2: The surveillance cameras were strategically placed in <u>unobtrusive</u> locations.
+
+<h3>Japanese Translation</h3>
+J-1: ウェイターの<u>目立たない</u>サービスのおかげで、私たちは食事を静かに楽しむことができました。
+J-2: 監視カメラは<u>目立たない</u>場所に戦略的に配置されていました。

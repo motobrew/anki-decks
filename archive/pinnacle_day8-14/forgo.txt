@@ -1,0 +1,8 @@
+# Key:forgo
+<h3>English Sentences</h3>
+E-1: He decided to <u>forgo</u> dessert and have a salad instead.
+E-2: In order to save money, she had to <u>forgo</u> her vacation plans.
+
+<h3>Japanese Translation</h3>
+J-1: 彼はデザートを<u>断り</u>、代わりにサラダを食べることにしました。
+J-2: 貯金するために、彼女はバカンスの計画を<u>あきらめる</u>必要がありました。

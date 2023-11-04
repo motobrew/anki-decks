@@ -1,0 +1,8 @@
+# Key:infinitesimal
+<h3>English Sentences</h3>
+E-1: The <u>infinitesimal</u> amount of rain did not quench the thirst of the plants.
+E-2: The difference in salary was so <u>infinitesimal</u> that it wasn't worth mentioning.
+
+<h3>Japanese Translation</h3>
+J-1: 植物の喉の渇きを癒すくらいに<u>微小な</u>雨量ではありませんでした。
+J-2: 給与の差は<u>微小</u>すぎて言及する価値がなかった。

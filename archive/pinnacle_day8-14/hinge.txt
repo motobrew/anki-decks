@@ -1,0 +1,8 @@
+# Key:hinge
+<h3>English Sentences</h3>
+E-1: The <u>hinge</u> on my door is squeaky and needs oiling.
+E-2: The entire plan will <u>hinge</u> on their decision to invest.
+
+<h3>Japanese Translation</h3>
+J-1: ドアの<u>ヒンジ</u>がキーキー鳴って、注油が必要です。
+J-2: 全体の計画は、彼らの投資に<u>依存する</u>ことになります。

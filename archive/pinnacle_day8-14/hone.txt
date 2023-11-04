@@ -1,0 +1,8 @@
+# Key:hone
+<h3>English Sentences</h3>
+E-1: I need to <u>hone</u> my cooking skills before the competition.
+E-2: He spent hours <u>honing</u> his presentation to perfection.
+
+<h3>Japanese Translation</h3>
+J-1: 大会前に料理の技術を<u>磨かないと</u>いけない。
+J-2: 彼は数時間プレゼンテーションを<u>磨く</u>ために費やした。

@@ -1,0 +1,8 @@
+# Key:allude
+<h3>English Sentences</h3>
+E-1: The detective made a subtle <u>allusion</u> to the suspect's alibi.
+E-2: The author often <u>alludes</u> to Greek mythology in his books.
+
+<h3>Japanese Translation</h3>
+J-1: 探偵は、容疑者のアリバイに微妙な<uほのめかし</u>をした。
+J-2: その作家は、自分の本でよく<u>ギリシャ神話をほのめか</u>している。

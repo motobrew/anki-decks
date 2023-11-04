@@ -1,0 +1,8 @@
+# Key:distill
+<h3>English Sentences</h3>
+E-1: He tried to <u>distill</u> the complex scientific information into a simple explanation.
+E-2: The perfume company uses a special process to <u>distill</u> the fragrance from flowers.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は複雑な科学情報を簡単な説明に<u>まとめようとしました</u>。
+J-2: その香水会社は、花から香りを<u>抽出する</u>ための特別なプロセスを使用しています。

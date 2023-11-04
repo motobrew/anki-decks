@@ -1,0 +1,8 @@
+# Key:suffocate
+<h3>English Sentences</h3>
+E-1: The crowded room made me feel like I could <u>suffocate</u>.
+E-2: She put a pillow over his face, trying to <u>suffocate</u> him.
+
+<h3>Japanese Translation</h3>
+J-1: 混んでいる部屋では<u>窒息しそう</u>に感じました。
+J-2: 彼女は彼を<u>窒息させよう</u>と枕を顔にかぶせました。

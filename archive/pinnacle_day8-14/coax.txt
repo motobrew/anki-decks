@@ -1,0 +1,8 @@
+# Key:coax
+<h3>English Sentences</h3>
+E-1: She used her charms to <u>coax</u> the cat down from the tree.
+E-2: The teacher had to <u>coax</u> the shy student to participate in class.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は魅力を使って猫を木から<b>おびき寄せました</b>。
+J-2: 先生は内気な生徒をクラス参加させるために<b>説得する</b>必要がありました。

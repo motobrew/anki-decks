@@ -1,0 +1,8 @@
+# Key:unequivocal
+<h3>English Sentences</h3>
+E-1: The detective presented <u>unequivocal</u> evidence that proved the suspect's guilt.
+E-2: She gave an <u>unequivocal</u> 'no' when he asked her to dinner.
+
+<h3>Japanese Translation</h3>
+J-1: 探偵は<u>明白な</u>証拠を提示して、容疑者の有罪を証明しました。
+J-2: 彼が彼女をディナーに誘ったときに、彼女は明確な「いいえ」と答えました。

@@ -1,0 +1,8 @@
+# Key:cohort
+<h3>English Sentences</h3>
+E-1: The new students were part of the same <u>cohort</u> at the university.
+E-2: The criminal was arrested along with his <u>cohort</u> in the crime.
+
+<h3>Japanese Translation</h3>
+J-1: 新入生は大学で同じ<u>コホート</u>に所属していました。
+J-2: 犯罪者は共犯者と共に犯行時に逮捕されました。

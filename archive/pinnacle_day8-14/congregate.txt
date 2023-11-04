@@ -1,0 +1,8 @@
+# Key:congregate
+<h3>English Sentences</h3>
+E-1: The students <u>congregate</u> in the cafeteria during lunchtime.
+E-2: Birds <u>congregate</u> together on the power lines in the evening.
+
+<h3>Japanese Translation</h3>
+J-1: 昼食時に生徒たちは食堂で<u>集まります</u>。
+J-2: 夕方には鳥たちが電線に<u>群れて集まります</u>。

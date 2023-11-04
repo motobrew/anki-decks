@@ -1,0 +1,8 @@
+# Key:hoax
+<h3>English Sentences</h3>
+E-1: The news article about aliens was just a <u>hoax</u>.
+E-2: She pretended to faint as a <u>hoax</u> to get attention.
+
+<h3>Japanese Translation</h3>
+J-1: エイリアンに関するニュース記事はただの<u>デマ</u>でした。
+J-2: 彼女は注目を浴びるために<u>冗談</u>として気を失ったふりをしました。

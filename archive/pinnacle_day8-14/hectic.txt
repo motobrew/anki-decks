@@ -1,0 +1,8 @@
+# Key:hectic
+<h3>English Sentences</h3>
+E-1: The deadline is approaching, and my schedule is getting <u>hectic</u>.
+E-2: Her life is always <u>hectic</u> with work, kids, and errands.
+
+<h3>Japanese Translation</h3>
+J-1: 締切が近づいてきて、私のスケジュールは忙しくなってきています。
+J-2: 彼女の生活はいつも仕事や子供、買い物で忙しくなっています。

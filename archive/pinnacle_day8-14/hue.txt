@@ -1,0 +1,8 @@
+# Key:hue
+<h3>English Sentences</h3>
+E-1: The <u>hue</u> of the sunset painted the sky with vibrant colors.
+E-2: The artist carefully selected the perfect <u>hue</u> for his painting.
+
+<h3>Japanese Translation</h3>
+J-1: 夕日の<u>色合い</u>が空を鮮やかな色で彩りました。
+J-2: その芸術家は絵のために完璧な<u>色調</u>を注意深く選びました。

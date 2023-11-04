@@ -1,0 +1,8 @@
+# Key:detain
+<h3>English Sentences</h3>
+E-1: The police decided to <u>detain</u> the suspect for questioning.
+E-2: The teacher threatened to <u>detain</u> the students after school.
+
+<h3>Japanese Translation</h3>
+J-1: 警察は疑いのある人物を尋問するために<u>拘束すること</u>を決めました。
+J-2: 先生は放課後に生徒を<u>留めると脅しました</u>。

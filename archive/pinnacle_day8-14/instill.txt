@@ -1,0 +1,8 @@
+# Key:instill
+<h3>English Sentences</h3>
+E-1: The teacher tried to <u>instill</u> a love of reading in her students.
+E-2: The coach worked hard to <u>instill</u> discipline and teamwork in the players.
+
+<h3>Japanese Translation</h3>
+J-1: 先生は生徒たちに読書の愛を<u>植え付ける</u>よう努力しました。
+J-2: コーチは選手たちに規律とチームワークを<u>教えこむ</u>ために頑張りました。

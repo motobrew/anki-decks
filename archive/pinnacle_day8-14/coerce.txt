@@ -1,0 +1,8 @@
+# Key:coerce
+<h3>English Sentences</h3>
+E-1: The detective used his skills to <u>coerce</u> the suspect into confessing.
+E-2: The company tried to <u>coerce</u> their employees into working overtime.
+
+<h3>Japanese Translation</h3>
+J-1: 刑事は、容疑者を<u>強制</u>して自白させるために彼のスキルを使った。
+J-2: その会社は従業員たちに残業を<u>強要</u>しようとしました。

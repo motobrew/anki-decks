@@ -1,0 +1,8 @@
+# Key:trajectory
+<h3>English Sentences</h3>
+E-1: The <u>trajectory</u> of the bullet was influenced by the strong wind.
+E-2: The company's stock price has been on an upward <u>trajectory</u>.
+
+<h3>Japanese Translation</h3>
+J-1: 弾丸の<u>軌道</u>は強い風に影響を受けました。
+J-2: その企業の株価は上昇<u>トラジェクトリー</u>をたどっています。

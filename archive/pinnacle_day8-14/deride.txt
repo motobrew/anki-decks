@@ -1,0 +1,8 @@
+# Key:deride
+<h3>English Sentences</h3>
+E-1: He loves to <u>deride</u> his coworkers with sarcastic remarks.
+E-2: The comedian's act was filled with <u>derisive</u> laughter from the audience.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は同僚たちを皮肉な発言で<u>けなす</u>のが好きです。
+J-2: そのコメディアンのパフォーマンスには、観客から<u>嘲笑いの</u>声が溢れていた。

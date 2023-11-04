@@ -1,0 +1,8 @@
+# Key:deviate
+<h3>English Sentences</h3>
+E-1: The hiker decided to <u>deviate</u> from the trail and explore a new path.
+E-2: The project manager asked the team not to <u>deviate</u> from the original plan.
+
+<h3>Japanese Translation</h3>
+J-1: ハイカーはトレイルから<u>逸れて</u>新しい道を探索することにしました。
+J-2: プロジェクトマネージャーはチームに元の計画から<u>逸脱しないよう</u>頼みました。

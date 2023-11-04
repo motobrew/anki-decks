@@ -1,0 +1,8 @@
+# Key:mantra
+<h3>English Sentences</h3>
+E-1: She has a calming <u>mantra</u> that she repeats when stressed.
+E-2: The team chanted their victory <u>mantra</u> before the game.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女はストレスがたまった時に、心を落ち着ける<u>繰り返し言葉</u>を唱えます。
+J-2: 試合前、チームは勝利の<u>スローガン</u>を唱えました。

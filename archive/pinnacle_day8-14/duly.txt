@@ -1,0 +1,8 @@
+# Key:duly
+<h3>English Sentences</h3>
+E-1: The document was <u>duly</u> signed by all parties involved.
+E-2: You will receive a <u>duly</u> issued certificate upon completion.
+
+<h3>Japanese Translation</h3>
+J-1: 関係者全員の署名が<u>適切に</u>された書類です。
+J-2: 完了後、<u>適切に</u>発行された証明書が受け取れます。

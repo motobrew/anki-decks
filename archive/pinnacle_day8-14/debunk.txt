@@ -1,0 +1,8 @@
+# Key:debunk
+<h3>English Sentences</h3>
+E-1: She tried to <u>debunk</u> the myth that eating carrots improves eyesight.
+E-2: The scientist conducted a series of experiments to <u>debunk</u> the pseudoscientific claims.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は、ニンジンを食べると視力が向上するという神話を<u>否定しようとしました</u>。
+J-2: その科学者は、疑似科学的な主張を<u>暴く</u>ために一連の実験を行いました。

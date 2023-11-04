@@ -1,0 +1,8 @@
+# Key:sluggish
+<h3>English Sentences</h3>
+E-1: The car's engine was <u>sluggish</u> and struggled to start.
+E-2: The team's <u>sluggish</u> performance resulted in a loss.
+
+<h3>Japanese Translation</h3>
+J-1: 車のエンジンは<u>もたついて</u>いて、始動が困難でした。
+J-2: チームの<u>不活発な</u>パフォーマンスが敗北を招いた。

@@ -1,0 +1,8 @@
+# Key:oblivion
+<h3>English Sentences</h3>
+E-1: He was lost in <u>oblivion</u> as he wandered aimlessly through the park.
+E-2: The book was quickly forgotten and faded into <u>oblivion</u>.
+
+<h3>Japanese Translation</h3>
+J-1: 彼は公園をさ迷っている間、<u>忘却</u>の中に迷い込んでいました。
+J-2: その本はすぐに忘れられ、<u>忘却の彼方</u>に消えていった。

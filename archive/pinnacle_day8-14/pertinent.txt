@@ -1,0 +1,8 @@
+# Key:pertinent
+<h3>English Sentences</h3>
+E-1: His <u>acumen</u> as a businessman is evident in his successful ventures.
+E-2: She demonstrated her <u>acumen</u> for problem-solving during the challenging project.
+
+<h3>Japanese Translation</h3>
+J-1: 彼の成功した事業からは、彼のビジネスの<u>洞察力</u>がわかる。
+J-2: 彼女は難しいプロジェクトでの問題解決の<u>能力</u>を示した。

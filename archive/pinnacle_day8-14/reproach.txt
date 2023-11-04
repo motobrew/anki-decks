@@ -1,0 +1,8 @@
+# Key:reproach
+<h3>English Sentences</h3>
+E-1: She stared at him with a look of <u>reproach</u> on her face.
+E-2: He felt a deep sense of <u>reproach</u> for his careless mistake.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は彼に<u>非難の意を込めた</u>表情で彼を見つめた。
+J-2: 彼は自分の不注意なミスに<u>深い後悔の念</u>を抱いた。

@@ -1,0 +1,8 @@
+# Key:delude
+<h3>English Sentences</h3>
+E-1: She tried to <u>delude</u> herself into thinking everything was fine.
+E-2: The magician used a trick to <u>delude</u> the audience into believing his illusions.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女はすべてがうまくいっていると<u>思いこませようと</u>しました。
+J-2: 魔術師はトリックを使って観客を惑わせ、彼の幻想を信じさせました。

@@ -1,0 +1,8 @@
+# Key:concoct
+<h3>English Sentences</h3>
+E-1: She decided to <u>concoct</u> a delicious meal using the leftover ingredients.
+E-2: The detective was able to <u>concoct</u> a clever plan to catch the thief.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女は余った材料を使って美味しい料理を<u>考案する</u>ことにしました。
+J-2: 探偵は、泥棒を捕まえるために賢い計画を<u>思いつく</u>ことができました。

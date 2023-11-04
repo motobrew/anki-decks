@@ -1,0 +1,8 @@
+# Key:eschew
+<h3>English Sentences</h3>
+E-1: People should <u>eschew</u> smoking to improve their health.
+E-2: She decided to <u>eschew</u> social media for a month to focus on her studies.
+
+<h3>Japanese Translation</h3>
+J-1: 人々は健康を改善するために<u>タバコを避けるべきです</u>。
+J-2: 彼女は勉強に集中するため、1ヶ月間、ソーシャルメディアを<u>避けることに決めました</u>。

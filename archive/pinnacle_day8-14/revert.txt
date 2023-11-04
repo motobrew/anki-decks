@@ -1,0 +1,8 @@
+# Key:revert
+<h3>English Sentences</h3>
+E-1: I always <u>turn on</u> the lights when it gets dark outside.
+E-2: Please remember to <u>turn off</u> the stove before leaving the kitchen.
+
+<h3>Japanese Translation</h3>
+J-1: 外が暗くなったら、私はいつもライトを<u>点けます</u>。
+J-2: キッチンを出る前に、コンロを<u>消して</u>ください。

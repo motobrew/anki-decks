@@ -1,0 +1,8 @@
+# Key:inculcate
+<h3>English Sentences</h3>
+E-1: The teacher tried to <u>inculcate</u> the importance of good manners.
+E-2: He was raised in a household where honesty was <u>inculcated</u>.
+
+<h3>Japanese Translation</h3>
+J-1: 先生は、良いマナーの重要性を<u>教え込む</u>ように努めました。
+J-2: 彼は正直さが<u>植え付けられる</u>ような環境で育ちました。

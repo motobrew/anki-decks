@@ -1,0 +1,8 @@
+# Key:resilient
+<h3>English Sentences</h3>
+E-1: The children's <u>laughter</u> filled the room with joy.
+E-2: It's important to find moments of <u>laughter</u> to reduce stress.
+
+<h3>Japanese Translation</h3>
+J-1: 子供たちの<u>笑い声</u>が部屋に喜びを満たしました。
+J-2: ストレスを軽減するために<u>笑い</u>の瞬間を見つけることが重要です。

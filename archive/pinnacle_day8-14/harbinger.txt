@@ -1,0 +1,8 @@
+# Key:harbinger
+<h3>English Sentences</h3>
+E-1: The first snowfall of the year is a <u>harbinger</u> of winter.
+E-2: The dark clouds are a <u>harbinger</u> of an impending storm.
+
+<h3>Japanese Translation</h3>
+J-1: 一年の最初の降雪は冬の<u兆候</u>です。
+J-2: 暗い雲は迫り来る嵐の<u兆候</u>です。

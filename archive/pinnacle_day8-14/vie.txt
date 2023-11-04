@@ -1,0 +1,8 @@
+# Key:vie
+<h3>English Sentences</h3>
+E-1: I always <u>vie</u> with my sister for the last slice of pizza.
+E-2: The two teams are set to <u>vie</u> for the championship title.
+
+<h3>Japanese Translation</h3>
+J-1: 私はいつも最後のピザの切れ端を姉と<u>争います</u>。
+J-2: 2つのチームが優勝タイトルを<u>競い合う予定</u>です。

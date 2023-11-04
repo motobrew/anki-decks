@@ -1,0 +1,8 @@
+# Key:detrimental
+<h3>English Sentences</h3>
+E-1: The heavy rain had a <u>detrimental</u> effect on the crops.
+E-2: Smoking is <u>detrimental</u> to your health.
+
+<h3>Japanese Translation</h3>
+J-1: 大雨が作物に<u>悪影響を及ぼしました</u>。
+J-2: 喫煙は<u>健康に悪影響を及ぼします</u>。

@@ -1,0 +1,8 @@
+# Key:anachronistic
+<h3>English Sentences</h3>
+E-1: The use of typewriters in this digital age seems quite <u>anachronistic</u>.
+E-2: The knight's armor looked <u>anachronistic</u> in the modern art museum.
+
+<h3>Japanese Translation</h3>
+J-1: このデジタル時代にタイプライターの使用はかなり<u>時代遅れ</u>に思える。
+J-2: 騎士の鎧が現代美術館で<u>時代錯誤</u>に見えた。

@@ -1,0 +1,8 @@
+# Key:defy
+<h3>English Sentences</h3>
+E-1: The magician seemed to <u>defy</u> the laws of gravity.
+E-2: She decided to <u>defy</u> her parents' expectations and pursue her own dreams.
+
+<h3>Japanese Translation</h3>
+J-1: そのマジシャンは重力の法則に<u>逆らう</u>ように見えました。
+J-2: 彼女は両親の期待に<u>背いて</u>、自分自身の夢を追求することに決めました。

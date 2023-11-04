@@ -1,0 +1,8 @@
+# Key:fret
+<h3>English Sentences</h3>
+E-1: The doctor told me not to <u>fret</u> over the small details.
+E-2: She didn't <u>fret</u> about the delay and remained calm.
+
+<h3>Japanese Translation</h3>
+J-1: 医者は細かいことを<u>気にする</u>なと言った。
+J-2: 彼女は遅れを<u>気にせずに</u>落ち着いていた。

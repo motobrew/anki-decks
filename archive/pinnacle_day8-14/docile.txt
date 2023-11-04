@@ -1,0 +1,8 @@
+# Key:docile
+<h3>English Sentences</h3>
+E-1: The <u>docile</u> dog eagerly followed its owner's commands.
+E-2: The <u>docile</u> child peacefully played with their toys.
+
+<h3>Japanese Translation</h3>
+J-1: 従順な<u>犬</u>が飼い主の命令に忠実に従いました。
+J-2: 従順な<u>子供</u>がおもちゃで平和に遊んでいました。

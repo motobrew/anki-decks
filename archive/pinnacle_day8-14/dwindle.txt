@@ -1,0 +1,8 @@
+# Key:dwindle
+<h3>English Sentences</h3>
+E-1: The number of participants in the marathon began to <u>dwindle</u> as the race went on.
+E-2: The company's profits <u>dwindled</u> due to the economic recession.
+
+<h3>Japanese Translation</h3>
+J-1: マラソンの参加者数はレースが進むにつれて<u>減少し始めました</u>。
+J-2: その会社の利益は経済不況のため<u>減少しました</u>。

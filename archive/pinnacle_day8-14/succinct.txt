@@ -1,0 +1,8 @@
+# Key:succinct
+<h3>English Sentences</h3>
+E-1: The professor's <u>{@literal 'succinct'}</u> explanation helped me understand the concept.
+E-2: The politician's <u>{@literal 'succinct'}</u> speech outlined his main goals for the country.
+
+<h3>Japanese Translation</h3>
+J-1: 教授の<u>簡潔な</u>説明のおかげで、私はその概念を理解することができました。
+J-2: 政治家の<u>簡潔な</u>演説は、彼の国の主要な目標を明示しました。

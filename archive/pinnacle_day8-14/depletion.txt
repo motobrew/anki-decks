@@ -1,0 +1,8 @@
+# Key:depletion
+<h3>English Sentences</h3>
+E-1: The <u>depletion</u> of natural resources is a global concern.
+E-2: The doctor diagnosed her with iron <u>depletion</u> due to anemia.
+
+<h3>Japanese Translation</h3>
+J-1: 天然資源の<u>枯渇</u>は世界的な懸念事項です。
+J-2: 医者は貧血による鉄<u>欠乏</u>を診断しました。

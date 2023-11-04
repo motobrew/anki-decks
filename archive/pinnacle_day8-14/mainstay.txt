@@ -1,0 +1,8 @@
+# Key:mainstay
+<h3>English Sentences</h3>
+E-1: The beach is the <u>mainstay</u> of our summer vacations.
+E-2: The company's <u>mainstay</u> product is their bestseller.
+
+<h3>Japanese Translation</h3>
+J-1: ビーチは私たちの夏の休暇の<u>主要な支柱</u>です。
+J-2: その会社の<u>主力製品</u>はベストセラーです。

@@ -1,0 +1,8 @@
+# Key:countenance
+<h3>English Sentences</h3>
+E-1: His solemn <u>countenance</u> showed the gravity of the situation.
+E-2: She couldn't help but smile at the delightful <u>countenance</u> of the baby.
+
+<h3>Japanese Translation</h3>
+J-1: 彼の厳粛な<u>顔つき</u>は、事態の重大さを示していました。
+J-2: 彼女は赤ちゃんの愛らしい<u>表情</u>に笑わずにはいられなかった。

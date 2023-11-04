@@ -1,0 +1,8 @@
+# Key:accrue
+<h3>English Sentences</h3>
+E-1: The interest on my savings <u>accrues</u> each month.
+E-2: I've been working for three years and have <u>accrued</u> a lot of vacation time.
+
+<h3>Japanese Translation</h3>
+J-1: 毎月私の貯金に利息が<u>加算</u>されます。
+J-2: 私は3年間働いて、たくさんの休暇時間を<u>蓄積</u>しました。

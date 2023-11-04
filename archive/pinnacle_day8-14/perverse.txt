@@ -1,0 +1,8 @@
+# Key:perverse
+<h3>English Sentences</h3>
+E-1: Her <u>perverse</u> sense of humor always leaves people puzzled.
+E-2: The judge was shocked by the defendant's <u>perverse</u> actions.
+
+<h3>Japanese Translation</h3>
+J-1: 彼女の<u>風変わりな</u>ユーモアはいつも人々を困惑させます。
+J-2: 裁判官は被告の<u>歪んだ</u>行動に驚きました。

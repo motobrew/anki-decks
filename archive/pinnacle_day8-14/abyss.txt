@@ -1,0 +1,8 @@
+# Key:abyss
+<h3>English Sentences</h3>
+E-1: The explorers peered into the dark <u>abyss</u> with trepidation.
+E-2: The financial crisis caused the company to face an <u>abyss</u> of debt.
+
+<h3>Japanese Translation</h3>
+J-1: 探検家たちは恐れを抱きながら暗い<u>深淵</u>をのぞき込んだ。
+J-2: その金融危機によって、会社は借金の<u>深淵</u>に立たされた。

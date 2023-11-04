@@ -1,0 +1,8 @@
+# Key:latent
+<h3>English Sentences</h3>
+E-1: The police discovered a <u>latent</u> fingerprint at the crime scene.
+E-2: His talent for music remained <u>latent</u> until he started taking lessons.
+
+<h3>Japanese Translation</h3>
+J-1: 警察は犯罪現場で<u>潜在的な</u>指紋を発見しました。
+J-2: 彼の音楽の才能はレッスンを受けるまで<u>潜んでいた</u>。

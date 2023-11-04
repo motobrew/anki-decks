@@ -1,0 +1,8 @@
+# Key:cramped
+<h3>English Sentences</h3>
+E-1: The airplane seats were so <u>cramped</u> that I could barely move.
+E-2: My schedule is so <u>cramped</u> that I have no time for breaks.
+
+<h3>Japanese Translation</h3>
+J-1: 飛行機の座席はとても<u>狭かったので</u>、ほとんど動けませんでした。
+J-2: 私のスケジュールはとても<u>立て込んでいるので</u>、休憩の時間もない。

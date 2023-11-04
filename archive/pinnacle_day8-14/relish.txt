@@ -1,0 +1,8 @@
+# Key:relish
+<h3>English Sentences</h3>
+E-1: I <u>relish</u> the opportunity to try new and exotic foods.
+E-2: She <u>relished</u> in the taste of victory after winning the competition.
+
+<h3>Japanese Translation</h3>
+J-1: 私は新しい珍しい食べ物を試す機会を<u>喜びます</u>。
+J-2: 彼女は競技に勝った後の勝利の味を<u>楽しんだ</u>。

@@ -1,0 +1,8 @@
+# Key:traitor
+<h3>English Sentences</h3>
+E-1: The detective suspected the man of being a <u>traitor</u>.
+E-2: He was branded as a <u>traitor</u> after leaking classified information.
+
+<h3>Japanese Translation</h3>
+J-1: 刑事はその男が<u>裏切り者</u>であると疑っていました。
+J-2: 機密情報を漏らしたことで、彼は<u>裏切り者</u>とされました。

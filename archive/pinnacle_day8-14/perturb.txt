@@ -1,0 +1,8 @@
+# Key:perturb
+<h3>English Sentences</h3>
+E-1: The loud noise outside <u>perturbed</u> my concentration while studying.
+E-2: The unexpected news of a job offer <u>perturbed</u> her plans for the weekend.
+
+<h3>Japanese Translation</h3>
+J-1: 外での大きな音が私の集中力を<u>損なった</u>。
+J-2: 思いもよらない仕事のオファーのニュースが、週末の計画を<u>狂わせた</u>。

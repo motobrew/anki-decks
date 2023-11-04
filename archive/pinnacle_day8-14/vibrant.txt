@@ -1,0 +1,8 @@
+# Key:vibrant
+<h3>English Sentences</h3>
+E-1: The sunset painted the sky with vibrant shades of orange and pink.
+E-2: The vibrant music at the party got everyone dancing.
+
+<h3>Japanese Translation</h3>
+J-1: 夕日が空に生き生きとしたオレンジとピンクの色合いを描き出しました。
+J-2: パーティーで鳴り響く活気ある音楽にみんなが踊りだしました。

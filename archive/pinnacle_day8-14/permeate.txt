@@ -1,0 +1,8 @@
+# Key:permeate
+<h3>English Sentences</h3>
+E-1: The strong aroma of freshly baked bread <u>permeated</u> the bakery.
+E-2: His influence and ideas <u>permeated</u> every aspect of the company.
+
+<h3>Japanese Translation</h3>
+J-1: 焼きたてのパンの香りがパン屋に<u>染み込んでいました</u>。
+J-2: 彼の影響力とアイデアが会社のあらゆる面に<u>広がっていました</u>。

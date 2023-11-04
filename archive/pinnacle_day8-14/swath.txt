@@ -1,0 +1,8 @@
+# Key:swath
+<h3>English Sentences</h3>
+E-1: The farmer cut a <u>swath</u> through the field with his tractor.
+E-2: The tornado left a <u>swath</u> of destruction in its path.
+
+<h3>Japanese Translation</h3>
+J-1: 農夫はトラクターで畑に<u>刈り込み跡</u>を作りました。
+J-2: 竜巻はその通った<u>範囲におおい被害</u>を残しました。

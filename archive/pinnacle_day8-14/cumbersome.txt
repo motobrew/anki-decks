@@ -1,0 +1,8 @@
+# Key:cumbersome
+<h3>English Sentences</h3>
+E-1: The luggage was so <u>cumbersome</u> to carry up the stairs.
+E-2: The new software update <u>proved to be cumbersome</u> and confusing.
+
+<h3>Japanese Translation</h3>
+J-1: 階段を上げるのがとても<u>厄介でした</u>。
+J-2: 新しいソフトウェアのアップデートは<u>厄介であり、混乱を招きました</u>。

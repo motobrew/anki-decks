@@ -1,0 +1,8 @@
+# Key:drudgery
+<h3>English Sentences</h3>
+E-1: The tedious <u>drudgery</u> of washing dishes is never-ending.
+E-2: She escaped the monotony of office <u>drudgery</u> by taking up a hobby.
+
+<h3>Japanese Translation</h3>
+J-1: 食器を洗うという退屈な<u>骨折り仕事</u>は終わりがない。
+J-2: 彼女は趣味を始めることで、オフィスの単調な<u>苦労</u>から逃れた。

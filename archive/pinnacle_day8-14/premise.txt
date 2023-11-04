@@ -1,0 +1,8 @@
+# Key:premise
+<h3>English Sentences</h3>
+E-1: The <u>premise</u> of the argument was based on false information.
+E-2: We need to find a new <u>premise</u> for our business plan.
+
+<h3>Japanese Translation</h3>
+J-1: その議論の<u>前提</u>は誤った情報に基づいていました。
+J-2: 私たちはビジネスプランの<u>土台</u>を見つける必要があります。
